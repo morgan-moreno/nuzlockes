@@ -1,0 +1,22 @@
+{
+  "locations": [
+    {
+      "name": "Route 201",
+      "encounters": [
+        {
+          "encounter_type": "",
+          "encounter_odds": [{ "pokemon": "", "percent_chance": "" }]
+        }
+      ],
+      "encounter_history": [
+        {
+          "attempt": 1,
+          "encounter": ""
+        }
+      ],
+      "trainers": [],
+      "boss": {},
+      "boss_history": []
+    }
+  ]
+}

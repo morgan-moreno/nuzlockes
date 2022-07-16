@@ -1,0 +1,184 @@
+---
+Roark Split
+Attempt: 10
+---
+
+Encounters:
+
+- Starter: Chimchar
+- Twinleaf Town: Eevee
+- Lake Verity: Wynaut
+- Route 201: Bidoof
+- Route 202: Zigzagoon
+- Jubilife City: Charmander
+- Route 204: Starly
+= Ravaged Path: Magikarp
+- Route 203: Corphish
+- Oreburgh Gate: Geodude
+- Oreburgh City: Trapinch
+- Route 207: Machop
+
+Trainers:
+
+$ Route 202:
+
+    PKMN Trainer Lucas
+
+        - Turtwig Lv. 9 / Pound
+
+    Lass Natalie
+
+        - Sentret Lv. 7 / Defense Curl, Quick Attack
+        - Bidoof Lv. 7 / Tackle, Defense Curl
+    
+    Youngster Tristan
+
+        - Hoothoot Lv. 7 / Growl
+        - Starly Lv. 7 / 
+
+    Youngster Logan
+
+        - Growlithe Lv. 7 / Ember, Howl, Leer, Roar
+        - Burmy Lv. 7 / Bug Bite, Protect, Hidden Power
+        - Zigzagoon Lv. 7 / Tail Whip, Sand-Attack, Growl
+
+$ Jubilife City Trainer School
+
+    Schoolkid Harrison
+
+        * 1 Potion
+
+        - Abra Lv. 8 / Hidden Power (Fight)
+        - Psyduck Lv. 8 / Hidden Power (Fight), Water Gun
+
+    Schoolkid Christine
+
+        * 1 Potion
+
+        - Ralts Lv. 8 / Hidden Power (Fight), Confusion
+        - Staryu Lv. 8 / Hidden Power (Fight), Water Gun
+
+$ Jubilife City
+
+    Reporter Kayla
+
+        - Bulbasaur Lv. 5 / Growl
+        - Charmander Lv. 5 / 
+        - Squirtle Lv. 5 / Tail Whip, Tackle
+
+$ Route 204 (South)
+
+    Lass Sarah
+
+        - Shinx Lv. 8 / Intimidate / Tackle, Leer, Quick Attack, Howl
+        - Nidoran♀ Lv. 8 / Scratch
+        - Pidgey Lv. 8 / Gust, Quick Attack
+
+    Lass Samantha
+
+        - Oddish Lv. 8 / Growth, Acid
+        - Budew Lv. 8 / Growth, Water Sport
+        - Bellsprout Lv. 8 / 
+    
+    Youngster Tyler
+
+        - Magikarp Lv. 11 / Splash, Tackle, Flail
+
+$ Route 203
+
+    PKMN Trainer ABC
+
+        - Starly Lv. 10 / Wing Attack, Quick Attack, Growl
+        - Munchlax Lv. 10 / Amnesia, Rock Tomb, Metronome
+        - Piplup Lv. 11 @ Oran Berry / Water Pulse
+
+    Youngster Michael
+
+        - Kricketot Lv. 9 / Bug Bite, String Shot
+        - Zubat Lv. 9 / Absorb
+        - Rattata Lv. 9 / Bite
+
+    Youngster Dallas
+
+        - Shinx Lv. 10 / Intimidate / Howl, Spark
+        - Sandshrew Lv. 10 / Bulldoze, Sand-Attack
+
+    Youngster Sebastian
+
+        - Makuhita Lv. 10 / Fake Out, Sand-Attack, Focus Energy, Arm Thrust
+        - Machop Lv. 10 / Leer, Focus Energy
+
+    Lass Kaitlin
+
+        - Spearow Lv. 9 / Peck
+        - Cubone Lv. 9 / Tail Whip
+        - Azurill Lv. 9
+
+    Lass Madeline
+
+        - Psyduck Lv. 10 / Water Gun, Tail Whip
+        - Sunkern Lv. 10 / Growth
+
+$ Oreburgh Gate
+
+    Camper Curtis
+
+        - Seedot Lv. 10
+        - Diglett Lv. 10 / Bulldoze
+
+    Picknicker Diana
+
+        - Whismur Lv. 10 / Howl, Uproar
+        - Wooper Lv. 10 / Mud Shot
+
+$ Oreburgh City
+
+    Reporter Helen
+
+        - Treecko Lv. 10 / 
+        - Torchic Lv. 10 / Ember
+        - Mudkip Lv. 10 / Water Gun
+
+$ Oreburgh Mine
+
+    Worker Mason
+
+        - Aron Lv. 12
+        - Phanpy Lv. 12
+        - Riolu Lv. 12
+
+    Worker Colin
+
+        - Geodude Lv. 12
+        - Whismur Lv. 12
+        - Machop Lv. 12
+
+$ Oreburgh Gym
+
+    Youngster Jonathon
+
+        - Rhyhorn Lv. 13
+        - Omanyte Lv. 13 / Bite, Withdraw
+        - Kabuto Lv. 13 / Aqua Jet
+
+    Youngster Darius
+
+        - Aron Lv. 13
+        - Anorith Lv. 13
+        - Lileep Lv. 13
+
+$ Roark
+
+    ---
+    Nosepass (Lv. 15) @ Smooth Rock     /   Modest      /   Sturdy          /   Stealth Rock, Sandstorm, Thunder Wave, Shock Wave
+    Bonsly (Lv. 15) @ Rindo Berry       /   Impish      /   Rock Head       /   Stealth Rock, Brick Break, Rollout, Defense Curl
+    Geodude (Lv. 15) @ Expert Belt      /   Adamant     /   Rock Head       /   Bulldoze, Rock Tomb, Fire Punch, Thunder Punch
+    Onix (Lv. 15) @ Muscle Band         /   Jolly       /   Rock Head       /   Stealth Rock, Rock Tomb, Bulldoze, Sandstorm
+    Larvitar (Lv. 15) @ Flame Orb       /   Jolly       /   Guts            /   Rock Tomb, Bulldoze, Bite, Protect
+    Cranidos (Lv. 16) @ Sitrus Berry    /   Hasty       /   Rock Head (!)   /   Zen Headbutt, Rock Tomb, Thunder Punch Scary Face
+    ---
+
+    
+        
+
+    

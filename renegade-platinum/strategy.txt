@@ -1,0 +1,32 @@
+- Drifblim @ Starf Berry: Armaldo @ Expert Belt
+
+    1. Shadow ball (36.6 - 44.4), rock slide (104 - 123.8) KO
+
+- Mismagius @ Sitrus Berry: Steelix @ Sitrus Berry
+
+    1. Switch in power gem (7 - 8)
+    2. Shadow ball (48.4 - 57.5), iron tail (123.9 - 145.6) KO
+
+- Gengar @ Wise Glasses: Drapion @ Lum Berry / Crobat @ Lum Berry
+
+    1. Switch in shadow ball (29.6 - 36.2)
+    2. Dazzling gleam (39.5 - 48.3), knock off (73.3 - 86.6)
+    3. Switch in crobat (15.1 - 18.1)
+    4. Crunch (62.2 - 73.3) KO 
+
+- Banette @ Muscle Band: Crobat @ Lum Berry / Porygon2 @ Lum Berry
+
+    1. Toxic, shadow claw (46.4 - 55.5)
+    2. Switch in porygon shadow claw (0)
+    3. Sucker punch (28.5 - 34.2), shadow ball (63 - 76) KO
+
+- Spiritomb @ Zoom Lens: Milotic @ Lum Berry
+
+    1. Switch in dark pulse (11.9 - 14.6)
+    2. Dazzling gleam (60.2 - 72.2), shadow ball (24.7 - 30.2)
+    3. Dazzling gleam (60.2 - 72.2) KO
+
+- Dusclops @ Leftovers:
+
+    * Can't touch Porygon2 oustide of will-o-wisp
+

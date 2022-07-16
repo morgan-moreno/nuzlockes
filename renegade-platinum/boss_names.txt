@@ -1,0 +1,49 @@
+PKMN Trainer Barry
+PKMN Trainer Steven
+PKMN Trainer Cheryl
+PKMN Trainer Dawn
+PKMN Trainer Lucas
+PKMN Trainer Mira
+PKMN Trainer Riley
+PKMN Trainer Marley
+PKMN Trainer Buck
+
+Leader Roark
+Leader Gardenia
+Leader Fantina
+Leader Maylene
+Leader Wake
+Leader Byron
+Leader Candice
+Leader Volkner
+
+Commander Mars
+Commander Jupiter
+Commander Saturn
+
+Galactic Boss Cyrus
+
+Gentleman Backlot
+Castle Valet Darach
+Arcade Star Dahlia
+Ace Trainer Heather
+Ace Trainer Wyver
+Ace Trainer Slythe
+Ace Trainer Shade
+Ace Trainer Gene
+Ace Trainer Luna
+
+
+Elite Four Aaron
+
+(R1) Elite Four Aaron
+(R1) Elite Four Berth
+(R1) Elite Four Flint
+(R1) Elite Four Lucian
+(R1) Champion Cynthia
+
+(R2) Elite Four Aaron
+(R2) Elite Four Berth
+(R2) Elite Four Flint
+(R2) Elite Four Lucian
+(R2) Champion Cynthia

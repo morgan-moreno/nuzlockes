@@ -1,0 +1,473 @@
+===========================================
+Fantina Split
+===========================================
+
+Encounters
+
+    - Galactic Building: Porygon
+    - Fossil: Aerodactyl / Kabuto
+    - Route 206: Gligar
+    - Wayward Cave: Mawile
+    - Route 208: Exeggcute
+
+
+------------
+Galactic Eterna Building
+------------
+
+===
+Galactic Grunt (Door)
+===
+Ledian
+Level: 24
+- U-turn
+
+Ariados
+Level: 24
+- Leech Life
+- Shadow Sneak
+
+===
+Galactic Grunt (1F - Left)
+===
+Ekans
+Level: 23
+- Glare
+- Mud Bomb
+
+Glameow
+Level: 23
+- Slash
+
+Nidoran-F
+Level: 23
+- Poison Fang
+- Toxic Spikes
+
+===
+Galactic Grunt (1F - Right)
+===
+Koffing
+Level: 23
+
+Stunky
+Level: 23
+Ability: Aftermath
+- Smokescreen
+- Night Slash
+
+Nidoran-M
+Level: 23
+
+===
+Galactic Grunt (2F - Stairs)
+===
+Cleffa
+Level: 23
+
+===
+Scientist Travon
+===
+Drowzee
+Level: 24
+
+Metang
+Level: 24
+
+Kadabra
+Level: 24
+
+
+===
+Commander Jupiter
+===
+Golbat @ 
+Level: 26
+Ability: Inner Focus
+Jolly Nature
+- Wing Attack
+- Giga Drain
+- Leech Life
+- Confuse Ray
+
+Sableye @ Sitrus Berry
+Level: 26
+Ability: Magic Guard
+Adamant Nature
+- Fake Out
+- Shadow Claw
+- Knock Off
+- Shadow Sneak
+
+Tangela @ 
+Level: 26
+Ability: Chlorophyll
+Modest Nature
+- Giga Drain
+- Shock Wave
+- Leech Seed
+- Sleep Powder
+
+Skuntank @ Sitrus Berry
+Level: 27
+Ability: Aftermath
+Adamant Nature
+- Poison Jab
+- Night Slash
+- Focus Energy
+- Torment
+
+- Golbat: Jolteon @ Magnet
+
+    1. Thunderbolt (101.2 - 118) KO
+
+- Skuntank @ Sitrus Berry: Pelipper @ Mystic Water
+
+    1. Thunder wave, poison jab (60.8 - 72.9)
+    2. Switch in poison jab (35.2 - 42.2)
+    3. Scald (51.4 - 61.6), poison jab (35.2 - 42.2)
+    4. Scald (51.4 - 61.6) KO
+
+- Tangela: Gengar @ Lum Berry
+
+    1. Switch in shock wave (25.3 - 30.9)
+    2. Sludge bomb (171.4 - 202.5) KO
+
+- Sableye @ Sitrus Berry: Milotic @ Expert Belt
+
+    1. Switch in shadow sneak (18.3 - 24.1)
+    2. Dazzling Gleam (91.4 - 112.8), shadow claw (37.9 - 44)
+    3. Dazzling gleam (91.4 - 112.8) KO
+
+------------
+Wayward Cave
+------------
+
+===
+PKMN Trainer Mira
+===
+Togetic @ Sitrus Berry
+Level: 27
+Ability: Serene Grace
+Modest Nature
+- Dazzling Gleam
+- Air Cutter
+- Soft-Boiled
+- Sweet Kiss
+
+Haunter @ Spell Tag
+Level: 27
+Ability: Levitate
+Hasty Nature
+- Shadow Ball
+- Double Team
+- Hypnosis
+- Curse
+
+Porygon2 @ Expert Belt
+Level: 27
+Ability: Trace
+Calm Nature
+- Tri Attack
+- Charge Beam
+- Signal Beam
+- Recover
+
+Kadabra @ Life Orb
+Level: 28
+Ability: Magic Guard
+Modest Nature
+- Psybeam
+- Grass Knot
+- Dazzling Gleam
+- Recover
+
+- Togetic @ Sitrus Berry: Gengar @ Expert Belt
+
+    1. Sludge bomb (114.6 - 137.3) KO
+
+- Kadabra @ Life Orb: Gengar @ Expert Belt
+
+    1. Shadow ball (149.2 - 179.7) KO
+
+- Haunter @ Spell Tag: Gengar @ Expert Belt
+
+    1. Shadow ball (179.7 - 218.8) KO
+
+- Porgyon2 @ Expert Belt: Lopunny @ Muscle Band
+
+    1. Switch in charge beam (14.4 - 18)
+    2. Jump kick (98.9 - 118.6) KO
+
+------------
+Route 207
+------------
+
+===
+Camper Anthony
+===
+Magby
+Level: 24
+
+Trapinch
+Level: 24
+
+Charmander
+Level: 24
+
+===
+Picknicker Lauren
+===
+Smoochum
+Level: 24
+- Mean Look
+
+Snubbull
+Level: 24
+Ability: Intimidate
+
+Treecko
+Level: 24
+- Pursuit
+
+===
+Hiker Justin
+===
+Graveler
+Level: 25
+
+Sandslash
+Level: 25
+
+
+===
+PKMN Trainer Lucas
+===
+Piloswine @ Focus Sash
+Level: 29
+Ability: Thick Fat
+- Avalanche
+- Take Down
+- Rock Slide
+- Ice Shard
+
+Granbull @ Muscle Band
+Level: 29
+Ability: Intimidate
+- Play Rough
+- Fire Fang
+- Thunder Fang
+- Ice Fang
+
+Lickilicky @ Leftovers
+Level: 29
+Ability: Own Tempo
+- Slam
+- Magnitude
+- Knock Off
+- Protect
+
+Monferno @ Sitrus Berry
+Level: 30
+Ability: Iron Fist
+- Flamethrower
+- Fake Out
+- Mach Punch
+- Grass Knot
+
+- Piloswine @ Focus Sash: Mawile @ Sitrus Berry
+
+    1. Avalanche (11.6 - 14.2), iron head (53.3 - 64.7)
+    2. Avalanche (11.6 - 14.2), iron head (53.3 - 64.7) KO
+
+- Monferno @ Sitrus Berry: Gyarados @ Sitrus Berry
+
+    1. Switch in flamethrower (15.3 - 18.3)
+    2. Grass knot (28.5 - 33.6), waterfall (137.9 - 165.5) KO
+
+- Granbull @ Muscle Band: Gengar @ Lum Berry
+
+    1. Switch in thunder fang (37 - 44.4)
+    2. Sludge bomb (120 - 144) KO
+    
+- Lickilicky @ Leftovers: Breloom
+
+    1. Switch in knock off (10.1 - 12.6)
+    2. Spore
+    3. Drain punch (59.4 - 72)
+    4. Drain punch (59.4 - 72) KO
+
+------------
+Route 208
+------------
+
+\\\
+Grass: Bibarel (20), Roselia (20), Skitty (20), Jigglypuff (10), Kirlia (10), Zangoose (10), Seviper (10), Smeargle (10)
+Radar: Dunsparce (22)
+Old Rod: Magikarp (60), Goldeen (30), Remoraid (10)
+Honey Tree: Cherubi (30), Shroomish (20), Exeggcute (20), Seedot (20), Tangela (10)
+\\\
+
+
+===
+Hiker Jonathan
+===
+Hippopotas
+Level: 26
+Ability: Sand Stream
+
+Shuckle
+Level: 26
+
+Bronzor
+Level: 26
+- Iron Defense
+
+===
+Hiker Robert
+===
+Marowak
+Level: 28
+
+===
+Elite Four Aaron
+===
+
+Dustox @ Leftovers
+Level: 31
+Ability: Shield Dust
+Calm Nature
+- Bug Buzz
+- Toxic
+- Protect
+- Moonlight
+
+Beautifly @ Focus Sash
+Level: 31
+Ability: Swarm
+Mild Nature
+- Bug Buzz
+- Air Slash
+- Energy Ball
+- Psychic
+
+Venomoth @ Wise Glasses
+Level: 31
+Ability: Tinted Lens
+Naive Nature
+- Bug Buzz
+- Psychic
+- Sludge Bomb
+- Sleep Powder
+
+Scizor @ Muscle Band
+Level: 31
+Ability: Technician
+Adamant Nature
+- X-Scissor
+- Bullet Punch
+- Iron Head
+- Swords Dance
+
+Drapion @ Scope Lens
+Level: 32
+Ability: Sniper
+Jolly Nature
+- Cross Poison
+- X-Scissor
+- Night Slash
+- Swords Dance
+
+- Dustox @ Leftovers: Aerodactyl @ Lum Berry
+
+    1. Stealth rocks, bug buzz (16.1 - 20.2)
+    2. Rock slide (82.7 - 98.8), bug buzz (16.1 - 20.2)
+    3. Rock slide (82.7 - 98.8) KO
+
+- Scizor @ Muscle Band: Quilava @ Sitrus Berry
+
+    1. Switch in iron head (42.3 - 50.5)
+    2. Flamethrower (187.2 - 229.7) KO
+
+- Venomoth @ Wise Glasses: Electrode @ Lum Berry
+
+    1. Switch in bug buzz (0)
+    2. Light screen, sludge bomb (23.3 - 27.7)
+    3. Thunderbolt (38.2 - 45.7), sludge bomb (23.3 - 27.7)
+    4. Thunderbolt (38.2 - 45.7) KO
+
+- Drapion @ Scope Lens: Mawile @ Sitrus Berry
+
+    1. Switch in cross poison (0)
+    2. Play rough (25 - 31.2), night slash (8.5 - 10.9)
+    3. Play rough (25 - 31.2), night slash (8.5 - 10.9)
+    4. Play rough (25 - 31.2), night slash (8.5 - 10.9)
+    5. Play rough (25 - 31.2) KO
+
+- Beautifly @ Focus Sash: Mawile @ Sitrus Berry
+
+    1. Air slash (13.4 - 15.8), play rough (51.7 - 62)
+    2. Air slash (13.4 - 15.8), play rough (51.7 - 62)
+
+------------
+Hearthome Gym
+------------
+
+===
+Leader Fantina
+===
+Drifblim @ Starf Berry
+Level: 32
+Ability: Unburden
+Naive Nature
+- Shadow Ball
+- Air Slash
+- Baton Pass
+- Calm Mind
+
+Dusclops @ Leftovers
+Level: 32
+Ability: Pressure
+Impish Nature
+- Shadow Punch
+- Will-O-Wisp
+- Protect
+- Pain Split
+
+Banette @ Muscle Band
+Level: 32
+Ability: Insomnia
+Adamant Nature
+- Shadow Claw
+- Will-O-Wisp
+- Sucker Punch
+- Disable
+
+Spiritomb @ Zoom Lens
+Level: 32
+Ability: Pressure
+Relaxed Nature
+- Shadow Ball
+- Will-O-Wisp
+- Dark Pulse
+- Disable
+
+Gengar @ Wise Glasses
+Level: 32
+Ability: Levitate
+Naive Nature
+- Shadow Ball
+- Will-O-Wisp
+- Sludge Bomb
+- Dazzling Gleam
+
+Mismagius @ Sitrus Berry
+Level: 33
+Ability: Levitate
+Naive Nature
+- Shadow Ball
+- Power Gem
+- Calm Mind
+- Dazzling Gleam
+
+- Gengar lead and drop as many as I can until Mismagius/Gengar/Banette

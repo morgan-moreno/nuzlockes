@@ -1,0 +1,438 @@
+================================
+Maylene Split
+================================
+
+Encounters:
+
+    - Trophy Garden: Cleffa
+    - Route 209: Staravia
+    - Lost Tower: Misdreavus
+    - Route 210: Scyther
+    - Route 215:
+
+---
+PKMN Trainer Barry
+---
+
+Staravia @ Muscle Band
+Level: 32
+Ability: Reckless
+- Facade
+- Aerial Ace
+- Double Team
+- Endeavor
+
+Heracross @ Coba Berry
+Level: 32
+Ability: Guts
+- Bug Bite
+- Brick Break
+- Aerial Ace
+- Knock Off
+
+Snorlax @ Leftovers
+Level: 32
+Ability: Thick Fat
+- Body Slam
+- Yawn
+- Amnesia
+- Rock Slide
+
+Grotle @ Sitrus Berry
+Level: 33
+Ability: Overgrow
+- Seed Bomb
+- Crunch
+- Leech Seed
+- Protect
+
+- Staravia @ Muscle Band:
+- Heracross @ Coba Berry:
+- Snorlax @ Leftovers:
+- Grotle @ Sitrus Berry:
+
+============
+Route 212 (North)
+============
+
+===
+Galactic Grunt (Gate)
+---
+Lunatone
+Level: 29
+
+Solrock
+Level: 29
+
+===
+Galactic Grunt (Gate)
+---
+Solrock
+Level: 29
+
+Lunatone
+Level: 29
+
+===
+Galactic Grunt
+---
+Nincada
+Level: 30
+- Mind Reader
+
+Ninjask @ Focus Sash
+Level: 30
+- Night Slash
+
+Shedinja @ Focus Sash
+Level: 30
+- Mind Reader
+- Shadow Sneak
+
+===
+Galactic Grunt
+---
+Beedrill
+Level: 29
+
+Golbat
+Level: 29
+
+===
+Galactic Grunt
+---
+Croagunk
+Level: 28
+
+Seviper
+Level: 28
+- Glare
+
+Butterfree
+Level: 28
+- Bug Buzz
+
+===
+Galactic Grunt
+---
+Murkrow
+Level: 30
+- Sucker Punch
+
+===
+Galactic Grunt
+---
+Stunky 
+Level: 28
+
+Venonat
+Level: 28
+
+Arbok
+Level: 28
+
+===
+Commander Saturn & Gentleman Backlot
+---
+Bronzong @ Leftovers
+Level: 33
+Ability: Levitate
+- Hypnosis
+- Gyro Ball
+- Zen Headbutt
+- Confuse Ray
+
+Octillery @ Wise Glasses
+Level: 33
+Ability: Suction Cups
+- Octazooka
+- Signal Beam
+- Ice Beam
+- Flamethrower
+
+Toxicroak @ Muscle Band
+Level: 34
+Ability: Dry Skin
+- Drain Punch
+- Poison Jab
+- Fake Out
+- Vacuum Wave
+
+Wigglytuff @ Zoom Lens
+Level: 33
+Ability: Cute Charm
+- Moonblast
+- Hyper Voice
+- Sing
+- Thunderbolt
+
+Raichu @ Wise Glasses
+Level: 33
+Ability: Static
+- Fake Out
+- Thunderbolt
+- Grass Knot
+- Teeter Dance
+
+Espeon @ Sitrus Berry
+Level: 33
+Ability: Synchronize
+- Psychic
+- Power Gem
+- Dazzling Gleam
+- Protect
+
+============
+Route 209
+============
+
+===
+Twins Emma & Lil
+---
+Vaporeon
+Level: 30
+- Aqua Ring
+
+Flareon
+Level: 30
+
+===
+PKMN Breeder Jennifer
+---
+Azurill
+Level: 26
+
+Togepi
+Level: 26
+
+Cleffa
+Level: 26
+
+Igglybuff
+Level: 26
+
+Smoochum
+Level: 26
+
+Budew
+Level: 26
+
+============
+Route 210
+============
+
+---
+Belle & Pa Ava & Matt
+---
+Tauros
+Level: 33
+- Zen Headbutt
+
+Miltank
+Level: 33
+- Zen Headbutt
+- Wake-Up Slap
+
+
+---
+PKMN Breeder Amber
+---
+Mantyke
+Level: 31
+- Air Slash
+
+Happiny
+Level: 31
+
+Wynaut
+Level: 31
+- Counter
+
+
+============
+Route 215
+============
+
+---
+Black Belt Gregory
+---
+Primeape
+Level: 34
+- Punishment
+
+Hitmonchan
+Level: 34
+- Feint
+
+---
+Black Belt Derek
+---
+Combusken
+Level: 34
+Ability: Speed Boost
+- Focus Energy
+
+Hitmonlee
+Level: 34
+- Feint
+
+---
+Ruin Maniac Calvin
+---
+Marowak
+Level: 33
+
+Rampardos
+Level: 33
+
+---
+Ace Trainer Dennis
+---
+Gligar
+Level: 35
+- Protect
+
+Gyarados
+Level: 35
+- Bounce
+
+Drifblim
+Level: 35
+- Shadow Ball
+
+---
+Ace Trainer Maya
+---
+Lickitung
+Level: 35
+
+Gardevoir
+Level: 35
+- Psychic
+- Shadow Ball
+
+Roserade
+Level: 35
+- Giga Drain
+
+============
+Veilstone Gym
+============
+
+---
+Black Belt Rafael
+---
+Hitmonchan
+Level: 35
+- Thunder Punch
+
+Hitmonlee
+Level: 35
+- Fake Out
+
+Hitmontop
+Level: 35
+- Focus Energy
+
+---
+Black Belt Jeffery
+---
+Heracross
+Level: 36
+- Knock Off
+
+Poliwrath
+Level: 36
+- Hypnosis
+
+---
+Leader Maylene
+---
+Medicham @ Sitrus Berry
+Level: 38
+Ability: Pure Power
+Naive Nature
+- High Jump Kick
+- Zen Headbutt
+- Ice Punch
+- Fake Out
+
+Machamp @ Toxic Orb
+Level: 38
+Ability: Guts
+Relaxed Nature
+- Close Combat
+- Payback
+- Thunder Punch
+- Protect
+
+Infernape @ Life Orb
+Level: 38
+Ability: Iron Fist
+Hasty Nature
+- Close Combat
+- Rock Slide
+- Fire Punch
+- Mach Punch
+
+Toxicroak @ Big Root
+Level: 38
+Ability: Dry Skin
+Lonely Nature
+- Drain Punch
+- Poison Jab
+- Ice Punch
+- Sucker Punch
+
+Gallade @ Light Clay
+Level: 38
+Ability: Steadfast
+Brave Nature
+- Drain Punch
+- Zen Headbutt
+- Light Screen
+- Reflect
+
+Lucario @ Focus Sash
+Level: 39
+Ability: Adaptability
+Timid Nature
+- Aura Sphere
+- Flash Cannon
+- Dark Pulse
+- Agility
+
+- Medicham @ Sitrus Berry: Gyarados @ Sitrus Berry
+
+   2. zen headbutt (29.6 - 36), bounce (1)
+   3. zen headbutt (0), bounce (110.4 - 133.3) KO
+
+- Machamp @ Toxic Orb: Clefable @ Life Orb
+
+    1. Switch in thunder punch (29.2 - 34.9)
+    2. Stealth rocks (0), close combat (51.2 - 60.9)
+    3. Draining kiss (98.4 - 117.1)[51.2 - 52] KO
+    
+- Lucario @ Focus Sash: Typhlosion @ Leftovers
+
+    1. Switch in flash cannon (29.6 - 35.5)
+    2. Protect (0)
+    3. Aura sphere (59.3 - 71.1), flamethrower (146 - 173.9) KO
+
+- Infernape @ Life Orb: Milotic @ Sitrus Berry
+
+    1. Switch in close combat (36.5 - 43.6)
+    2. Close combat (36.5 - 43.6), surf (129.9 - 155.5) KO
+
+- Toxicroak @ Big Root: Mawile @ Muscle Band
+
+    1. Switch in poison jab (0)
+    2. Drain punch (24.7 - 28.8), iron head (40.1 - 47.5)
+    3. Drain punch (24.7 - 28.8), iron head (40.1 - 47.5)
+    4. Drain punch (24.7 - 28.8), iron head (40.1 - 47.5) KO
+
+- Gallade @ Light Clay: Mismagius @ Wise Glasses
+
+    1. Switch in drain punch (0)
+    2. Moonblast (70.2 - 82.8), zen headbutt (68.3 - 82.6)
+    3. Moonblast (70.2 - 82.8) KO

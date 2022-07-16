@@ -1,0 +1,713 @@
+====================================================================================
+Route 201
+====================================================================================
+
+# Encounters
+
+Starter / Chimchar (33), Piplup (33), Turtwig (33)
+
+# Encounter History
+
+2 / Piplup
+3 / Turtwig
+
+
+====================================================================================
+Sandgem Town
+====================================================================================
+
+# Encounters
+
+Starter / Chimchar (33), Piplup (33), Turtwig (33)
+
+# Encounter History
+
+2 / Turtwig
+
+3 / Chimchar
+
+====================================================================================
+Twinleaf Town
+====================================================================================
+
+# Encounters
+
+Eevee
+
+====================================================================================
+Lake Valor
+====================================================================================
+
+# Encounters
+
+Grass / Starly (30%), Bidoof (20%), Surskit (20%), Azurill (10%), Psyduck (10%), Wingull (10%)
+Poké Radar / Wynaut (22%)
+
+# Encounter History
+
+3 / Wingull
+
+====================================================================================
+Route 202
+====================================================================================
+
+# Encounters
+
+Grass / Shinx (20%), Zigzagoon (20%), Hoothoot (20%), Rattata (10%), Poochyena (10%), Growlithe (10%), Burmy (10%)
+Poké Radar / Houndour (22%)
+
+# Encounter History
+
+3 / Burmy
+
+# Trainers
+
+PKMN Trainer Lucas          Piplup Lv. 9 / Growl, Bubble
+Lass Natalie                Sentret Lv. 7 / Defense Curl, Bidoof Lv. 7
+Youngster Tristan (!)       Hoothoot Lv. 7, Starly Lv. 7 / Tackle
+Youngster Logan             Growlithe Lv. 7 / Intimidate / Howl, Burmy Lv. 7, Zigzagoon Lv. 7
+
+====================================================================================
+Jubilife City
+====================================================================================
+
+# Encounters
+
+Starter / Charmander (33), Squirtle (33), Bulbasaur (33)
+
+# Encounter History
+
+2 / Squirtle
+3 / Squirtle
+
+# Trainers
+
+Reporter Kayla              Bulbasaur Lv. 5, Charmander Lv. 5, Squirtle Lv. 5 / Tail Whip
+
+====================================================================================
+Route 218
+====================================================================================
+
+# Encounters
+
+Grass / Floatzel (20%), Gastrodon (20%), Purugly (10%), Mr. Mime (10%), Electrode (10%), Ditto (10%), Electabuzz (10%), Chatot (10%)
+Surf / Tentacool (60%), Shellos (30%), Tentacruel (5%), Gastrodon (5%)
+Old Rod / Magikarp (60%), Finneon (30%), Staryu (10%)
+Honey Tree / Combee (30%), Forretress (10%), Wormadam (10%), Mothim (10%), Beautifly (10%), Dustox (10%), Heracross (10%), Vespiquen (10%)
+
+# Encounter History
+
+3 / Magikarp
+
+====================================================================================
+Route 204 (South)
+====================================================================================
+
+# Encounters
+
+Grass / Starly (20%), Budew (20%), Bellsprout (10%), Ralts (10%), Caterpie (10%), Weedle (10%), Wurmple-Wurmple-Oddish (10%), Ledyba-Sunkern-Spinarak (10%)
+Poké Radar / Roselia (22%)
+Old Rod     Magikarp (60%), Goldeen (30%), Corphish (10%)
+
+# Encounter History
+
+3 / Weedle
+
+# Trainers
+
+Lass Sarah                  Shinx Lv. 8 / Intimidate / Howl-Tackle-Leer, Nidoran-F Lv. 8 / Tail Whip-Scratch, Pidgey Lv. 8 / Sand Attack-Gust-Quick Attack
+
+====================================================================================
+Ravaged Path
+====================================================================================
+
+# Encounters
+
+Grass / Zubat (30%), Geodude (20%), Wooper (20%), Psyduck (10%), Sandshrew (10%), Makuhita (10%)
+Old Rod     Magikarp (65%), Barboach (35%)
+
+# Encounter History
+
+2 / Barboach
+3 / Geodude
+
+====================================================================================
+Route 203
+====================================================================================
+
+# Encounters
+
+Grass / Starly (25%), Bidoof (20%), Spearow (15%), Seedot (10%), Lotad (10%), Cubone (10%), Abra (10%)
+Poké Radar / Pineco (22%)
+Old Rod / Magikarp (65%), Corphish (35%)
+
+# Encounter History
+
+2 / Corphish
+3 / Bidoof
+
+# Trainers
+
+PKMN Trainer Barry          Starly Lv. 10 / Wing Attack, Munchlax Lv. 10 / Amnesia-Rock Tomb-Metronome, Chimchar Lv. 11 @ Oran Berry / Ember-Taunt
+Youngster Sebastian         Nakuhita Lv. 10 / Fake Out, Machop Lv. 10 / Focus Energy
+Lass Kaitlin                Spearow Lv. 9 / Pursuit, Cubone Lv. 9 / Bone Club, Azurill Lv. 9 / Charm-Bubble
+Lass Madeline (!)           Psyduck Lv. 10 / Tail Whip, Sunkern Lv. 10
+
+====================================================================================
+Oreburgh Gate
+====================================================================================
+
+# Encounters
+
+Grass / Zubat (35%), Geodude (35%), Diglett (20%), Riolu (10%)
+
+# Encounter History
+
+3 / Riolu
+
+# Trainers
+
+Camper Curtis               Seedot Lv. 10, Diglett Lv. 10 / Bulldoze-Growl
+Picnicker Diana             Whismur Lv. 10, Wooper Lv. 10 / Mud Shot
+
+====================================================================================
+Oreburgh City
+====================================================================================
+
+# Encounters
+
+Starter / Mudkip (33), Torchic (33), Treecko (33)
+
+# Encounter History
+
+2 / Torchic
+3 / Mudkip
+
+# Trainers
+
+Reporter Helen              Treecko Lv. 10 / Quick Attack, Torchic Lv. 10 / Ember-Scratch-Sand Attack, Mudkip Lv. 10 / Tackle
+
+====================================================================================
+Oreburgh Mine
+====================================================================================
+
+# Encounters
+
+Walking       Geodude (25%), Zubat (25%), Whismur (20%), Aron (10%), Onix (10%), Trapinch (10%)
+
+# Encounter History
+
+3 / Onix
+
+====================================================================================
+Route 207
+====================================================================================
+
+# Encounters
+
+Night       Machop (30%), Rhyhorn (20%), Ponyta (20%), Phanpy (20%), Larvitar (10%)
+Poké Radar  Stantler (22%)
+
+# Encounter History
+
+2 / Ponyta
+3 / Machop
+
+====================================================================================
+Oreburgh Gym
+====================================================================================
+
+# Boss
+
+Nosepass (Lv. 15) @ Smooth Rock     /   Modest      /   Sturdy          /   Stealth Rock, Sandstorm, Thunder Wave, Shock Wave
+Bonsly (Lv. 15) @ Rindo Berry       /   Impish      /   Rock Head       /   Stealth Rock, Brick Break, Rollout, Defense Curl
+Geodude (Lv. 15) @ Expert Belt      /   Adamant     /   Rock Head       /   Bulldoze, Rock Tomb, Fire Punch, Thunder Punch
+Onix (Lv. 15) @ Muscle Band         /   Jolly       /   Rock Head       /   Stealth Rock, Rock Tomb, Bulldoze, Sandstorm
+Larvitar (Lv. 15) @ Flame Orb       /   Jolly       /   Guts            /   Rock Tomb, Bulldoze, Bite, Protect
+Cranidos (Lv. 16) @ Sitrus Berry    /   Hasty       /   Rock Head (!)   /   Zen Headbutt, Rock Tomb, Thunder Punch Scary Face
+
+# Boss History
+
+2 / W
+
+====================================================================================
+Jubilife City
+====================================================================================
+
+# Trainers
+
+Galactic Grunt              Stunky Lv. 13, Silcoon Lv. 13
+Galactic Grunt              Glameow Lv. 13, Cascoon Lv. 13
+
+====================================================================================
+Route 204 (North)
+====================================================================================
+
+# Trainers
+
+Aroma Lady Taylor           Cherubi Lv. 13, Hoppip Lv. 13, Shroomish Lv. 13
+
+====================================================================================
+Floaroma Town
+====================================================================================
+
+# Encounters
+
+Starter / Chikorita (33), Cyndaquil (33), Totodile (33)
+
+# Encounter History
+
+2 / Cyndaquil
+3 / Chikorita
+
+# Trainers
+Reporter Jenny              Chikorita Lv. 15, Cyndaquil Lv. 15, Totodile Lv. 15
+
+====================================================================================
+Floaroma Meadow
+====================================================================================
+
+# Encounters
+
+Honey Tree  Cherubi (30%), Shroomish (20%), Exeggcute (20%), Seedot (20%), Tangela (10%)
+
+# Encounter History
+
+2 / Shroomish
+3 / Cherubi -> Skorupi
+
+# Trainers
+Galactic Grunt              Zubat Lv. 15, Spinarak Lv. 15
+Galactic Grunt              Croagunk Lv. 15, Ledyba Lv. 15
+
+====================================================================================
+Valley Windworks
+====================================================================================
+
+# Encounters
+Walking     Magnemite (20%), Elekid (20%), Electrike (20%), Voltorb (20%), Drifloon (10%), Pachirisu (10%)
+Poké Radar  Plusle (11%), Minun (11%)
+Old Rod     Magikarp (60%), Shellder (30%), Chinchou (10%)
+Honey Tree  Aipom (30%), Slakoth (20%), Caterpie (20%), Weedle (20%), Munchlax (10%)
+
+# Encounter History
+
+2 / Voltorb
+3 / Magnemite
+
+# Trainers
+
+Galactic Grunt              Poochyena Lv. 14, Gulpin Lv. 14, Houndour Lv. 14
+Galactic Grunt              Grimer Lv. 15, Koffing Lv. 15
+
+# Boss
+
+Zubat (Lv. 18) @ None               /   Naive       /   Inner Focus     /   Poison Fang, Wing Attack, Toxic, Confuse Ray
+Bronzor (Lv. 18) @ Sitrus Berry     /   Brave       /   Levitate        /   Hypnosis, Extrasensory, Gyro Ball, Confuse Ray
+Yanma (Lv. 18) @ None               /   Timid       /   Speed Boost     /   Silver Wind, Air Cutter, Detect, Sonic Boom
+Purugly (Lv. 19) @ Sitrus Berry     /   Jolly       /   Thick Fat       /   Fake Out, Hypnosis, Facade, Feint Attack
+
+# Boss History
+
+2 / W - 0
+3 / W - 0
+
+====================================================================================
+Route 205 (South)
+====================================================================================
+
+# Encounters
+Day         Shellos (30%), Mareep (20%), Buizel (20%), Hoppip (20%), Pachirisu (10%)
+Poké Radar  Plusle (11%), Minun (11%)
+Old Rod     Magikarp (60%), Shellder (30%), Chinchou (10%)
+Honey Tree  Combee (30%), Burmy (20%), Pineco (20%), Wurmple (20%), Heracross (10%)
+
+# Encounter History
+
+2 / Heracross
+3 / Heracross
+
+# Trainers
+
+Hiker Daniel                Diglett Lv. 15 / Bulldoze, Shieldon Lv. 15, Numel Lv. 15
+
+
+====================================================================================
+Eterna Forest
+====================================================================================
+
+# Encounters
+
+Morning     Buneary (30%), Shroomish (20%), Paras (20%), Slakoth (10%), Nincada (10%), Taillow (10%)
+Day         Buneary (30%), Shroomish (20%), Paras (20%), Slakoth (10%), Nincada (10%), Taillow (10%)
+Night       Buneary (30%), Shroomish (20%), Murkrow (10%), Misdreavus (10%), Slakoth (10%), Nincada (10%), Taillow (10%)
+Poké Radar  Beautifly (11%), Dustox (11%)
+
+# Encounter History
+
+2 / Buneary
+3 / Nincada
+
+# Trainers
+
+Psychic Lindsey             Slowpoke Lv. 17, Exeggcute Lv. 17, Natu Lv. 17
+Psychic Elijah              Spoink Lv. 17, Drowzee Lv. 17, Baltoy Lv. 17
+
+# Boss
+
+Drifloon (Lv. 19) @ Sitrus Berry    /   Modest      /   Unburden        /   Ominous Wind, Air Cutter, Shock Wave, Swift
+Makuhita (Lv. 19) @ None            /   Relaxed     /   Thick Fat       /   Knock Off, Fake Out, Brick Break, Bullet Punch
+Wailmer (Lv. 19) @ None             /   Relaxed     /   Water Veil      /   Water Pulse, Rock Tomb, Mist, Rollout
+Chansey (Lv. 20) @ Sitrus Berry     /   Quiet       /   Serene Grace    /   Hyper Voice, Soft-Boiled, Ice Beam, Thunderbolt
+
+# Boss History
+
+2 / W
+3 / W
+
+====================================================================================
+Old Chateau
+====================================================================================
+
+# Encounters
+
+Morning     Gastly (40%), Rattata (30%), Duskull (10%), Shuppet (10%), Raticate (5%), Haunter (5%)
+Day         Gastly (40%), Rattata (30%), Duskull (10%), Shuppet (10%), Raticate (5%), Haunter (5%)
+Night       Gastly (40%), Rattata (30%), Duskull (10%), Shuppet (10%), Raticate (5%), Haunter (5%)
+Event       Gengar (50%), Rotom (50%)
+
+# Encounter History
+
+2 / Gengar
+3 / Rotom
+
+====================================================================================
+Eterna City
+====================================================================================
+
+# Encounters
+
+Old Rod     Magikarp (60%), Poliwag (30%), Dratini (10%)
+
+# Encounter History
+
+2 / Poliwag
+3 / Poliwag
+
+====================================================================================
+Route 211 (West)
+====================================================================================
+
+# Encounters
+
+Walking     Meditite (30%), Machop (20%), Swablu (20%), Teddiursa (10%), Natu (10%), Chingling (10%)
+Poké Radar  Tyrogue (22%)
+
+# Encounter History
+
+2 / Meditite
+3 / Meditite
+
+# Trainers
+
+Hiker Louis                 Geodude Lv. 19, Slugma Lv. 19, Beldum Lv. 19
+
+====================================================================================
+Mt. Coronet
+====================================================================================
+
+# Encounters
+
+Walking     Geodude (20%), Bronzor (20%), Clefairy (10%), Nosepass (10%), Chimecho (10%), Zubat (10%), Metang (10%), Solrock (5%), Lunatone (5%)
+Old Rod     Feebas (100%)
+
+# Encounter History
+
+2 / Feebas
+3 / Feebas
+
+====================================================================================
+Route 216
+====================================================================================
+
+# Encounters
+
+Walking     Snover (30%), Swinub (25%), Smoochum (20%), Snorunt (15%), Sneasel (10%)
+Poké Radar  Delibird (22%)
+
+# Encounter History
+
+2 / Snorunt
+3 / Swinub
+
+# Trainers
+
+Ace Trainer Laura           Togetic Lv. 23 / Air Cutter-Ancient Power, Swellow Lv. 23 / Double Team-Reversal
+
+====================================================================================
+Eterna City Gym
+====================================================================================
+
+# Trainers
+Lass Caroline               Lotad Lv. 22, Cacnea Lv. 22, Exeggcute Lv. 22, Shroomish Lv. 22
+Aroma Lady Jenna            Weepinbell Lv. 23, Ivysaur Lv. 23, Gloom Lv. 23
+Aroma Lady Angela           Roselia Lv. 23, Bayleef Lv. 23, Skiploom Lv. 23
+
+# Boss
+
+Bellossom (Lv. 25) @ Wide Lens      /   Relaxed     /   Chlorophyll     /   Grass Knot, Teeter Dance, Dazzling Gleam, Stun Spore
+Tangela (Lv. 25) @ Coba Berry       /   Rash        /   Chlorophyll     /   Grass Knot, Shock Wave, Ancient Power, Stun Spore
+Cherrim (Lv. 25) @ Focus Sash       /   Hasty       /   Flower Gift     /   Grass Knot, Sunny Day, Weather Ball, Morning Sun
+Grotle (Lv. 25) @ Leftovers         /   Adamant     /   Overgrow        /   Seed Bomb, Protect, Leech Seed, Bulldoze
+Breloom (Lv. 25) @ Muscle Band      /   Naughty     /   Technician      /   Bullet Seed, Mach Punch, Thunder Punch, Spore
+Roserade (Lv. 26) @ Sitrus Berry    /   Timid       /   Technician      /   Magical Leaf, Sludge, Dazzling Gleam, Extrasensory
+
+# Boss History
+
+2 / W
+3 / W
+
+====================================================================================
+Eterna Galactic Building
+====================================================================================
+
+# Encounters
+
+Static      Porygon (100%)
+
+# Encounter History
+
+2 / Porygon
+3 / Porygon
+
+# Trainers
+
+Galactic Grunt              Ledian Lv. 24, Ariados Lv. 24 / Leech Life
+Galactic Grunt              Ekans Lv. 23, Glameow Lv. 23 / Feint Attack, Nidoran-F Lv. 23 / Poison Fang-Toxic Spikes
+Galactic Grunt              Koffing Lv. 23, Stunky Lv. 23 / Night Slash, Nidoran-M Lv. 23 / Toxic Spikes
+Galactic Grunt              Cleffa Lv. 23
+Scientist Travon            Drowzee Lv. 24, Metang Lv. 24 / Pursuit, Kadabra Lv. 24 / Psybeam
+
+# Boss
+
+Golbat (Lv. 26) @ None              /   Jolly       /   Inner Focus     /   Wing Attack, Giga Drain, Leech Life, Confuse Ray
+Sableye (Lv. 26) @ Sitrus Berry     /   Adamant     /   Magic Guard (!) /   Fake Out, Shadow Claw, Knock Off, Shadow Sneak
+Tangela (Lv. 26) @ None             /   Modest      /   Chlorophyll     /   Giga Drain, Shock Wave, Leech Seed, Sleep Powder
+Skuntank (Lv. 27) @ Sitrus Berry    /   Adamant     /   Aftermath       /   Poison Jab, Night Slash, Focus Energy, Torment
+
+# Boss History
+
+2 / W
+3 / W
+
+====================================================================================
+Route 206
+====================================================================================
+
+# Encounters
+
+Walking     Stunky (20%), Slugma (20%), Mankey (20%), Magby (10%), Spoink (10%), Numel (10%), Gligar (10%)
+Poké Radar  Torkoal (22%)
+Honey Tree  Combee (30%), Burmy (20%), Pineco (20%), Silcoon (10%), Cascoon (10%), Heracross (10%)
+
+# Encounter History
+
+2 / Gligar
+3 / Gligar
+
+====================================================================================
+Wayward Cave
+====================================================================================
+
+# Encounters
+
+Walking       Zubat (20%), Geodude (20%), Gible (20%), Baltoy (10%), Sandshrew (10%), Onix (10%), Sableye (5%), Mawile (5%)
+
+# Encounter History
+
+2 / Mawile
+3 / Zubat
+
+# Boss
+
+Togetic (Lv. 27) @ Sitrus Berry     /   Modest      /   Serene Grace    /   Dazzling Gleam, Air Cutter, Soft-Boiled, Sweet Kiss
+Haunter (Lv. 27) @ Spell Tag        /   Hasty       /   Levitate        /   Shadow Ball, Double Team, Hypnosis, Curse
+Porygon2 (Lv. 27) @ Expert Belt     /   Calm        /   Trace           /   Tri Attack, Charge Beam, Signal Beam, Recover
+Kadabra (Lv. 28) @ Life Orb         /   Modest      /   Magic Guard     /   Psybeam, Grass Knot, Dazzling Gleam, Recover
+
+# Boss History
+
+2 / W
+3 / W
+
+====================================================================================
+Mining Museum
+====================================================================================
+
+# Encounters
+
+Fossil      Aerodactyl, Lileep, Anorith, Cranidos, Shieldon, Kabuto, Omanyte
+
+# Encounter History
+
+2 / Aerodactyl, Kabuto
+3 / Anorith, Omanyte
+
+====================================================================================
+Route 207
+====================================================================================
+
+# Trainers
+Camper Anthony                                  Magby Lv. 24, Trapinch Lv. 24, Charmander Lv. 24
+Picnicker Lauren                                Smoochum Lv. 24, Snubbull Lv. 24, Treecko Lv. 24 / Slam, Agility
+Hiker Justin                                    Graveler Lv. 25, Sandslash Lv. 25
+[! - Metal Coat] Hiker Kevin                    Dunsparce Lv. 25, Dunsparce Lv. 25
+[? - Metal Coat] Battle Girl Helen              Tyrogue Lv. 26 / Fake Out, Meditite Lv. 26, Hariyama Lv. 26 / Belly Drum
+
+
+# Boss
+
+Piloswine (Lv. 29) @ Focus Sash     /   ?           /   Thick Fat       /   Avalanche, Take Down, Rock Slide, Ice Shard
+Granbull (Lv. 29) @ Muscle Band     /   ?           /   Intimidate      /   Play Rough, Fire Fang, Thunder Fang, Ice Fang
+Lickilicky (Lv. 29) @ Leftovers     /   ?           /   Own Tempo       /   Slam, Magnitude, Knock Off, Protect
+Grotle (Lv. 30) @ Sitrus Berry      /   ?           /   Overgrow        /   Seed Bomb, Body Slam, Leech Seed, Sand Tomb     (!)
+Monferno (Lv. 30) @ Sitrus Berry    /   ?           /   Iron Fist       /   Flamethrower, Fake Out, Mach Punch, Grass Knot  (!)
+Prinplup (Lv. 30) @ Sitrus Berry    /   ?           /   Torrent         /   Bubble Beam, Icy Wind, Brick Break, Shadow Claw (!)
+
+# Boss History
+
+2 / W
+3 / W
+
+====================================================================================
+Route 208
+====================================================================================
+
+# Encounters
+
+Walking         Bibarel (20%), Roselia (20%), Skitty (10%), Jigglypuff (10%), Kirlia (10%), Zangoose (10%), Seviper (10%), Smeargle (10%)
+Poké Radar      Dunsparce (22%)
+Old Rod         Magikarp (60%), Goldeen (30%), Remoraid (10%)
+Honey Tree      Cherubi (30%), Shroomish (20%), Exeggcute (20%), Seedot (20%), Tangela (10%)
+
+# Encounter History
+
+2 / Exeggcute
+3 / Exeggcute
+
+# Trainers
+
+Hiker Robert                Marowak Lv. 28
+Hiker Jonathan              Hippopotas Lv. 26, Shuckle Lv. 26, Bronzor Lv. 26
+
+# Boss
+
+Dustox (Lv. 31) @ Leftovers         /   Calm        /   Shield Dust     /   Bug Buzz, Toxic, Protect, Moonlight
+Beautifly (Lv. 31) @ Focus Sash     /   Mild        /   Swarm           /   Bug Buzz, Air Slash, Energy Ball, Psychic
+Venomoth (Lv. 31) @ Wise Glasses    /   Naive       /   Tinted Lens     /   Bug Buzz, Psychic, Sludge Bomb, Sleep Powder
+Scizor (Lv. 31) @ Muscle Band       /   Adamant     /   Technician      /   X-Scissor, Bullet Punch, Iron Head, Swords Dance
+Drapion (Lv. 32) @ Scope Lens       /   Jolly       /   Sniper          /   Cross Poison, X-Scissor, Night Slash, Swords Dance
+
+# Boss History
+
+2 / W
+3 / W
+
+====================================================================================
+Hearthome Gym
+====================================================================================
+
+# Trainers
+[? - Room 1] Youngster Donny             Gastly Lv. 27, Gastly Lv. 27, Gastly Lv. 27
+[? - Room 1] Lass Molly                  Misdreavus Lv. 29
+[? - Room 2] School Kid Chance           Duskull Lv. 26, Shuppet Lv. 26, Duskull Lv. 26
+[? - Room 2] School Kid Mackenzie        Shuppet Lv. 26, Duskull Lv. 26, Shuppet Lv. 26
+[? - Room 2] Ace Trainer Allen           Haunter Lv. 29, Shedinja Lv. 29, Sableye Lv. 29
+[? - Room 2] Ace Trainer Catherine       Haunter Lv. 29, Rotom Lv. 29, Froslass Lv. 29
+
+# Boss
+
+Drifblim (Lv. 32) @ Starf Berry     /   Naive       /   Unburden        /   Shadow Ball, Air Slash, Baton Pass, Calm Mind
+Dusclops (Lv. 32) @ Leftovers       /   Impish      /   Pressure        /   Shadow Punch, Will-O-Wisp, Protect, Pain Split
+Banette (Lv. 32) @ Muscle Band      /   Adamant     /   Insomnia        /   Shadow Claw, Will-O-Wisp, Sucker Punch, Disable
+Spiritomb (Lv. 32) @ Zoom Lens      /   Relaxed     /   Pressure        /   Shadow Ball, Will-O-Wisp, Dark Pulse, Disable
+Gengar (Lv. 32) @ Wise Glasses      /   Naive       /   Levitate        /   Shadow Ball, Will-O-Wisp, Sludge Bomb, Dazzling Gleam
+Mismagius (Lv. 33) @ Sitrus Berry   /   Naive       /   Levitate        /   Shadow Ball, Power Gem, Calm Mind, Dazzling Gleam
+
+# Boss History
+
+2 / W
+3 / W
+
+====================================================================================
+Hearthome City
+====================================================================================
+
+# Encounter
+
+Random      Egg (100%)
+
+# Encounter History
+
+3 / Azurill
+
+# Boss
+
+Staravia (Lv. 32) @ Muscle Band     /   ?           /   Reckless        /   Facade, Aerial Ace, Double Team, Endeavor
+Heracross (Lv. 32) @ Coba Berry     /   ?           /   Guts            /   Bug Bite, Brick Break, Aerial Ace, Knock Off
+Snorlax (Lv. 32) @ Leftovers        /   ?           /   Thick Fat       /   Body Slam, Yawn, Amnesia, Rock Slide
+Grotle (Lv. 33) @ Sitrus Berry      /   ?           /   Overgrow        /   Seed Bomb, Crunch, Leech Seed, Protect          
+Monferno (Lv. 33) @ Sitrus Berry    /   ?           /   Iron Fist       /   Flamethrower, Low Kick, Grass Knot, Fake Out    
+Prinplup (Lv. 33) @ Sitrus Berry    /   ?           /   Torrent         /   Scald, Icy Wind, Grass Knot, Aerial Ace         
+
+# Boss History
+
+2 / W
+3 / W
+
+====================================================================================
+Route 212 (North)
+====================================================================================
+
+* Encounter is at Trophy Garden
+* Boss is double battle with Gentleman Backlot and Commander Saturn
+* Nincada, Ninjask, Shedinja have to be beaten in 6 turns total. Ninjask / Shedinja have Focus Band.
+
+# Encounters
+
+Walking         Pichu (20%), Pikachu (20%), Cleffa (10%), Igglybuff (10%), Togepi (10%), Porygon (10%), Happiny (10%), Eevee (10%)
+Poké Radar      Castform (22%)
+
+# Encounter History
+
+2 / Cleffa
+3 / 
+
+# Trainers
+
+Galactic Grunt              Lunatone Lv. 29, Solrock Lv. 29 / Cosmic Power
+Galactic Grunt              Solrock Lv. 29 / Cosmic Power, Lunatone Lv. 29
+Galactic Grunt              Nincada Lv. 30
+Galactic Grunt              Ninjask Lv. 30
+Galactic Grunt              Shedinja Lv. 30
+Galactic Grunt              Beedrill Lv. 29 / X-Scissor, Golbat Lv. 29 / Leech Life
+Galactic Grunt              Croagunk Lv. 28, Seviper Lv. 28, Butterfree Lv. 28
+Galactic Grunt              Murkrow Lv. 30
+Galactic Grunt              Stunky Lv. 28, Venonat Lv. 28, Arbok Lv. 28
+
+# Boss
+
+## Commander Saturn
+Bronzong (Lv. 33) @ Leftovers       /   ?           /   Levitate        /   Hypnosis, Gyro Ball, Zen Headbutt, Confuse Ray
+Octillery (Lv. 33) @ Wise Glasses   /   ?           /   Suction Cups    /   Octazooka, Signal Beam, Ice Beam, Flamethrower
+Toxicroak (Lv. 34) @ Muscle Band    /   ?           /   Dry Skin        /   Drain Punch, Poison Jab, Fake Out, Vacuum Wave
+
+## Gentleman Backlot
+Wigglytuff (Lv. 33) @ Zoom Lens     /   ?           /   Cute Charm      /   Moonblast, Hyper Voice, Sing, Thunderbolt
+Raichu (Lv. 33) @ Wise Glasses      /   ?           /   Static          /   Fake Out, Thunderbolt, Grass Knot, Teeter Dance
+Espeon (Lv. 33) @ Sitrus Berry      /   ?           /   Synchronize     /   Psychic, Power Gem, Dazzling Gleam, Protect
+
+# Boss History
+
+2 / W
+3 / L

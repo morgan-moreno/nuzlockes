@@ -1,0 +1,23 @@
+{
+  "name": "renegade-platinum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.0.3",
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  },
+  "scripts": {
+    "docToSet": "ts-node src/scripts/docToSet.ts",
+    "natures": "ts-node src/scripts/natures.ts",
+    "random": "ts-node src/scripts/random",
+    "random:between": "ts-node src/scripts/random between",
+    "random:egg": "ts-node src/scripts/random egg",
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "pokenode-ts": "^1.15.0"
+  }
+}

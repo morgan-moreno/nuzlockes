@@ -1,0 +1,190 @@
+---
+Roark Split
+Attempt: 10
+---
+
+Items: 
+
+    - Insect Plate (Route 202)
+    - Exp. Share (Route 203)
+    - Silk Scarf (Route 203)
+    - Sooth Bell (Route 203)
+    - TM 58 Endure (Route 203)
+
+
+Encounters:
+
+- Starter: Turtwig
+- Twinleaf Town: Eevee
+- Lake Verity: Starlyldkl
+- Route 201: Hoothoot
+- Route 202: Zigzagoon
+- Jubilife City: Squirtle
+- Route 204: Oddish
+- Route 203: Bidoof
+- Oreburgh Gate
+- Oreburgh City:
+
+Trainers:
+
+$ Route 202:
+
+    PKMN Trainer Lucas
+
+        - Piplup Lv. 9 / Pound
+
+    Lass Natalie
+
+        - Sentret Lv. 7 / Defense Curl, Quick Attack
+        - Bidoof Lv. 7 / Tackle
+    
+    Youngster Tristan
+
+        - Hoothoot Lv. 7
+        - Starly Lv. 7
+
+    Youngster Logan
+
+        - Growlithe Lv. 7 / Ember
+        - Burmy Lv. 7 / Bug Bite, Protect, Hidden Power
+        - Zigzagoon Lv. 7 / Tail Whip
+
+$ Jubilife City Trainer School
+
+    Schoolkid Harrison
+
+        * 1 Potion
+
+        - Abra Lv. 8 / Hidden Power (Fight)
+        - Psyduck Lv. 8 / Hidden Power (Fight), Water Gun
+
+    Schoolkid Christine
+
+        * 1 Potion
+
+        - Ralts Lv. 8 / Hidden Power (Fight)
+        - Staryu Lv. 8 / Hidden Power (Fight)
+
+$ Jubilife City
+
+    Reporter Kayla
+
+        - Bulbasaur Lv. 5 / Growl
+        - Charmander Lv. 5 / 
+        - Squirtle Lv. 5 / 
+
+$ Route 204 (South)
+
+    Lass Sarah
+
+        - Shinx Lv. 8 / Intimidate / Tackle, Leer, Quick Attack
+        - Nidoran♀ Lv. 8 / 
+        - Pidgey Lv. 8 / Gust, Quick Attack
+
+    Lass Samantha
+
+        - Oddish Lv. 8 / Growth, Acid
+        - Budew Lv. 8 / Growth, Water Sport
+        - Bellsprout Lv. 8 / 
+    
+    Youngster Tyler
+
+        - Magikarp Lv. 11 / Splash, Tackle, Flail
+
+$ Route 203
+
+    PKMN Trainer ABC
+
+        - Starly Lv. 10 / Wing Attack, Quick Attack, Growl
+        - Munchlax Lv. 10 / Amnesia, Rock Tomb, Metronome
+        - Chimchar Lv. 11 @ Oran Berry / Ember
+
+    Youngster Michael
+
+        - Kricketot Lv. 9 / Bug Bite, String Shot
+        - Zubat Lv. 9 / Absorb
+        - Rattata Lv. 9 / Bite
+
+    Youngster Dallas
+
+        - Shinx Lv. 10 / Intimidate / Howl, Spark
+        - Sandshrew Lv. 10 / Bulldoze, Sand-Attack
+
+    Youngster Sebastian
+
+        - Makuhita Lv. 10 / Fake Out, Sand-Attack, Focus Energy, Arm Thrust
+        - Machop Lv. 10 / 
+
+    Lass Kaitlin
+
+        - Spearow Lv. 9
+        - Cubone Lv. 9
+        - Azurill Lv. 9
+
+    Lass Madeline
+
+        - Psyduck Lv. 10
+        - Sunkern Lv. 10
+
+$ Oreburgh Gate
+
+    Camper Curtis
+
+        - Seedot Lv. 10
+        - Diglett Lv. 10
+
+    Picknicker Diana
+
+        - Whismur Lv. 10
+        - Wooper Lv. 10
+
+$ Oreburgh City
+
+    Reporter Helen
+
+        - Treecko Lv. 10
+        - Torchic Lv. 10
+        - Mudkip Lv. 10
+
+$ Oreburgh Mine
+
+    Worker Mason
+
+        - Aron Lv. 12
+        - Phanpy Lv. 12
+        - Riolu Lv. 12
+
+    Worker Colin
+
+        - Geodude Lv. 12
+        - Whismur Lv. 12
+        - Machop Lv. 12
+
+$ Oreburgh Gym
+
+    Youngster Jonathon
+
+        - Rhyhorn Lv. 13
+        - Omanyte Lv. 13
+        - Kabuto Lv. 13
+
+    Youngster Darius
+
+        - Aron Lv. 13
+        - Anorith Lv. 13
+        - Lileep Lv. 13
+
+$ Roark
+
+    ---
+    Nosepass (Lv. 15) @ Smooth Rock     /   Modest      /   Sturdy          /   Stealth Rock, Sandstorm, Thunder Wave, Shock Wave
+    Bonsly (Lv. 15) @ Rindo Berry       /   Impish      /   Rock Head       /   Stealth Rock, Brick Break, Rollout, Defense Curl
+    Geodude (Lv. 15) @ Expert Belt      /   Adamant     /   Rock Head       /   Bulldoze, Rock Tomb, Fire Punch, Thunder Punch
+    Onix (Lv. 15) @ Muscle Band         /   Jolly       /   Rock Head       /   Stealth Rock, Rock Tomb, Bulldoze, Sandstorm
+    Larvitar (Lv. 15) @ Flame Orb       /   Jolly       /   Guts            /   Rock Tomb, Bulldoze, Bite, Protect
+    Cranidos (Lv. 16) @ Sitrus Berry    /   Hasty       /   Rock Head (!)   /   Zen Headbutt, Rock Tomb, Thunder Punch Scary Face
+    ---
+
+        
+
+    

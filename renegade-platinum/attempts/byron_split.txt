@@ -1,0 +1,606 @@
+============================
+Byron Split
+============================
+
+TODO:
+
+- Update boss names to match original docs (easier to parse)
+
+
+
+Encounters:
+
+    - Great Marsh:
+    - Celestic Town: Psyduck
+    - Route 219:
+    - Route 220:
+    - Route 221:
+    - Fuego Ironworks:
+    - Route 218:
+    - Canalave City:
+    - Iron Island:
+
+====================================================================================
+Great Marsh
+====================================================================================
+
+# Encounters
+
+## Great Marsh ~ Area 1/2
+
+Grass / Bibarel (30%), Quagsire (20%), Tropius (20%), Tangela (20%), Carnivine (10%)
+Surf / Wooper (90%), Quagsire (10%)
+Good Rod    Magikarp (60%), Barboach (30%), Carvanha (10%)
+
+
+## Great Marsh ~ Area 3/4
+
+Grass / Parasect (30%), Exeggcute (20%), Croagunk (20%), Toxicroak (10%), Kangaskhan (10%), Yanma (10%)
+Surf / Wooper (90%), Quagsire (10%)
+Old Rod / Magikarp (60%), Barboach (30%), Carvanha (10%)
+Good Rod / Magikarp (60%), Barboach (30%), Carvanha (10%)
+Super Rod / Gyarados (60%), Whiscash (30%), Sharpedo (10%)
+
+
+## Great Marsh ~ Area 5/6
+
+Grass / Skorupi (30%), Gulpin (20%), Shroomish (20%), Swalot (10%), Breloom (10%), Drapion (10%)
+Surf / Wooper (90%), Quagsire (10%)
+Good Rod    Magikarp (60%), Barboach (30%), Carvanha (10%)
+Super Rod   Gyarados (60%), Whiscash (30%), Sharpedo (10%)
+
+# Encounter History
+
+## Run 2
+
+### Grass
+
+Skorupi (M)
+Ability: Sniper
+Level: 34
+IVs: 18 HP / 19 Atk / 31 Def / 16 SpA / 21 SpD / 6 Spe
+Bashful Nature
+- Toxic Spikes
+- X-Scissor
+- Swords Dance
+- Poison Jab
+
+====================================================================================
+Route 213
+====================================================================================
+
+# Trainers
+
+
+[!] Galactic Grunt              Toxicroak Lv. 41 / Drain Punch
+
+====================================================================================
+Route 210 (North)
+====================================================================================
+
+
+# Trainers
+
+[!] Ace Trainer Alyssa              Ambipom Lv. 42 / Aerial Ace, Starmie Lv. 42 / Grass Knot, Torterra Lv. 42 / Iron Head
+[!] Ace Trainer Ernest              Politoed Lv. 41 / Psychic, Pinsir Lv. 41 / Close Combat, Probobass Lv. 41 / Power Gem, Xatu Lv. 41 / Psychic
+[!] Black Belt Adam                 Machamp Lv. 42, Blaziken Lv. 42 / Slash-Night Slash-Flamethrower, Heracross Lv. 42 / Megahorn-Take Down
+[!] Bird Keeper Brianna             Dodrio Lv. 42 / Acupressure-Swords Dance, Pidgeot Lv. 42, Skarmory Lv. 42 / Iron Head
+[!] Veteran Brian                   Tangrowth Lv. 43 / Ancient Power, Rapidash Lv. 43 / Flare Blitz-Double Edge-Megahorn, Feraligatr Lv. 43
+
+
+[? - TM88] Ninja Boy Davido         Ninetales Lv. 41 / Drought / Flamethrower-Safeguard-Confuse Ray
+[? - TM88] Dragon Tamer Patrick     Gabite Lv. 41, Shelgon Lv. 41 / Scary Face-Protect-Flamethrower, Vibrava Lv. 41 / Sandstorm, Dragonair Lv. 41
+[? - Smoke Ball] Ninja Boy Nathan   Swalot Lv. 39 / Gastro Acid, Dustox Lv. 39 / Toxic-Protect, Mothim Lv. 39
+
+# Boss
+
+PKMN Trainer Lucas
+
+$ Alakazam @ Life Orb
+Level: 44
+Ability: Magic Guard
+- Psychic
+- Shadow Ball
+- Energy Ball
+- Dazzling Gleam
+
+
+$ Mamoswine @ Passho Berry
+Level: 44
+Ability: Thick Fat
+- Earthquake
+- Avalanche
+- Stone Edge
+- Ice Shard
+
+$ Granbull @ Choice Band
+Level: 44
+Ability: Intimidate
+- Play Rough
+- Close Combat
+- Crunch
+- Earthquake
+
+$ Lickilicky @ Leftovers
+Level: 44
+Ability: Own Tempo
+- Body Slam
+- Zen Headbutt
+- Earthquake
+- Amnesia
+
+$ Jolteon @ Wise Glasses
+Level: 44
+Ability: Volt Absorb
+ Nature
+- Thunder
+- Shadow Ball
+- Extrasensory
+- Thunder Wave
+
+Infernape @ Sitrus Berry
+Level: 45
+Ability: Iron Fist
+ Nature
+- Fire Blast
+- Close Combat
+- Thunder Punch
+- Rock Slide
+
+# Boss History
+
+## Run 2
+
+### My Sets
+
+Scizor (M) @ Sitrus Berry
+Ability: Swarm
+Level: 44
+EVs: 0 HP / 0 Atk / 2 Def / 0 SpA / 3 SpD / 4 Spe
+IVs: 22 HP / 6 Atk / 18 Def / 4 SpA / 18 SpD / 17 Spe
+Sassy Nature
+- Iron Head
+- Night Slash
+- X-Scissor
+- Swords Dance
+
+Blastoise (M) @ Choice Scarf
+Ability: Torrent
+Level: 45
+EVs: 0 HP / 12 Atk / 9 Def / 10 SpA / 0 SpD / 14 Spe
+IVs: 30 HP / 18 Atk / 23 Def / 22 SpA / 21 SpD / 27 Spe
+Relaxed Nature
+- Toxic
+- Surf
+- Iron Defense
+- Protect
+
+Dugtrio (F) @ Soft Sand
+Ability: Arena Trap
+Level: 44
+EVs: 2 HP / 3 Atk / 7 Def / 1 SpA / 3 SpD / 0 Spe
+IVs: 21 HP / 7 Atk / 8 Def / 18 SpA / 17 SpD / 26 Spe
+Timid Nature
+- Earthquake
+- Sucker Punch
+- Night Slash
+- Rock Slide
+
+Poliwrath (F) @ Expert Belt
+Ability: Water Absorb
+Level: 44
+EVs: 7 HP / 4 Atk / 4 Def / 0 SpA / 3 SpD / 1 Spe
+IVs: 24 HP / 30 Atk / 14 Def / 10 SpA / 6 SpD / 11 Spe
+Naive Nature
+- Bubble Beam
+- Low Kick
+- Hypnosis
+- Rock Slide
+
+Weezing (F) @ Poison Barb
+Ability: Levitate
+Level: 44
+EVs: 0 HP / 2 Atk / 1 Def / 0 SpA / 0 SpD / 2 Spe
+IVs: 19 HP / 17 Atk / 29 Def / 17 SpA / 26 SpD / 19 Spe
+Hasty Nature
+- Gunk Shot
+- Sludge Bomb
+- Lava Plume
+- Dark Pulse
+
+Torterra (M) @ Leftovers
+Ability: Overgrow
+Level: 44
+EVs: 0 HP / 4 Atk / 1 Def / 0 SpA / 0 SpD / 1 Spe
+IVs: 9 HP / 11 Atk / 27 Def / 14 SpA / 18 SpD / 26 Spe
+Docile Nature
+- Toxic
+- Protect
+- Synthesis
+- Withdraw
+
+### Strategy
+
+$ Alakazam @ Life Orb: Scizor @ Sitrus Berry
+
+1. Shadow ball (40.8 - 48.8), x-scissor (141.3 - 167.2) KO
+
+$ Infernape @ Sitrus Berry: Blastoise @ Choice Scarf
+
+1. Switch in fire blast (20.8 - 25.1) [HP 75]
+2. Surf (80.2 - 96.3), thunder punch (43.1 - 51.7) [HP 23]
+3. Surf (80.2 - 96.3) KO
+
+$ Jolteon @ Wise Glasses: Dugtrio @ Lum Berry
+
+* If Blastoise HP less than 23, shadow ball () or extrasensory ()
+
+1. Switch in thunder (0)
+2. Earthquake (96.7 - 116.1), shadow ball/extrasensory (47.8 - 56.3)
+3. Earthquake (96.7 - 116.1) KO
+
+$ Mamoswine @ Passho Berry: Poliwrath @ Expert Belt
+
+1. Switch in ice shard (9.7 - 11.8) [HP 89]
+2. Earthquake (47.9 - 56.9), low kick (97.5 - 118.2) KO [HP 32]
+
+$ Granbull @ Choice Band: Weezing @ Poison Barb
+
+1. Switch in play rough (31 - 36.9)
+2. Gunk shot (104.1 - 124.6) KO
+
+$ Lickilicky @ Leftovers: Torterra @ Leftovers
+
+* Toxic, Protect, Synthesis, Withdraw
+
+1. Switch in zen headbutt (15.6 - 19.1) [HP 81]
+2. Toxic, body slam (24.1 - 29.7)
+3. Stall out toxic
+    
+====================================================================================
+Celestic Town
+====================================================================================
+
+# Encounter
+
+# Encounter History
+
+# Trainers
+
+# Boss
+
+# Boss History
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+TODO
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+---
+Galactic Grunt
+---
+Houndoom
+Level: 43
+Ability: Intimidate
+- Embargo
+
+Golbat
+Level: 43
+- Zen Headbutt
+- Hypnosis
+- Air Slash
+
+Beedrill
+Level: 43
+- Drill Run
+
+---
+Galactic Boss Cyrus
+---
+Crobat @ Wise Glasses
+Level: 45
+Ability: Inner Focus
+ Nature
+- Sludge Bomb
+- Air Slash
+- Giga Drain
+- Hypnosis
+
+Honchkrow @ Scope Lens
+Level: 45
+Ability: Super Luck
+ Nature
+- Brave Bird
+- Night Slash
+- Swagger
+- Torment
+
+Magnezone @ Life Orb
+Level: 45
+Ability: Magnet Pull
+ Nature
+- Thunderbolt
+- Flash Cannon
+- Thunder Wave
+- Mirror Coat
+
+Weavile @ Expert Belt
+Level: 46
+Ability: Technician
+ Nature
+- Feint Attack
+- Icicle Crash
+- Ice Shard
+- Swords Dance
+
+- Crobat @ Wise Glasses:  Noctowl @ Twisted Snowpoint
+
+    1. Sludge bomb (21.9 - 27), psychic (92.4 - 108.9)
+    2. Sludge bomb (21.9 - 27), psychic (92.4 - 108.9) KO
+
+- Weavile @ Expert Belt: Blaziken @ Sitrus Berry
+
+    1. Switch in feint attack (25 - 29.1)
+    2. Feint attack (25 - 29.1), blaze kick (116.4 - 138.8) KO
+
+- Honchkrow @ Scope Lens: Kabutops @ Hard Stone
+
+    1. Switch in brave bird (30.2 - 35.2)
+    2. Rock slide (113.9 - 134.1) KO
+
+- Magnezone @ Life Orb: Whiscash @ Sitrus Berry
+
+    1. Switch in flash cannon (27.8 - 33.3)
+    2. Flash cannon (27.8 - 33.3), earth power (128.2 - 149.6) KO
+
+- Exploud @ Sitrus Berry
+- Lopunny @ Sitrus Berry
+
+====================================================================================
+Route 218
+====================================================================================
+
+# Trainers
+
+
+====================================================================================
+Fuego Ironworks
+====================================================================================
+
+====================================================================================
+Route 219
+====================================================================================
+
+# Encounters
+
+Surf / Wingull (60%), Tentacool (30%), Pelipper (5%), Tentacruel (5%)
+Good Rod / Krabby (60%), Horsea (30%), Clamperl (10%)
+Super Rod / Kingler (60%), Horsea (30%), Huntail (5%), Gorebyss (5%)
+
+# Encounter History
+
+## Run 2
+
+Tentacool (F)
+Ability: Liquid Ooze
+Level: 38
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 10 HP / 19 Atk / 6 Def / 15 SpA / 13 SpD / 30 Spe
+Timid Nature
+- Poison Jab
+- Muddy Water
+- Sludge Bomb
+- Screech
+
+# Trainers
+
+[?] Tuber Mariel                Azumarill Lv. 43, Vaporeon Lv. 43
+[?] Tuber Trenton               Poliwhirl Lv. 42, Gastrodon Lv. 42, Bibarel Lv. 42
+
+====================================================================================
+Route 220
+====================================================================================
+
+# Encounters
+
+Surf / Wingull (60%), Mantyke (30%), Pelipper (5%), Mantine (5%)
+Good Rod    Luvdisc (60%), Horsea (30%), Corsola (10%)
+Super Rod   Luvdisc (60%), Seadra (30%), Corsola (10%)
+
+# Encounter History
+
+## Run 2
+
+### Surf
+
+Mantyke (M)
+Ability: Swift Swim
+Level: 36
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 0 HP / 4 Atk / 20 Def / 22 SpA / 0 SpD / 22 Spe
+Naughty Nature
+- Take Down
+- Agility
+- Air Slash
+- Aqua Ring
+
+# Trainers
+
+[?] Swimmer Jessica             Seadra Lv. 43, Luvdisc Lv. 43, Seaking Lv. 43
+[?] Swimmer Erica               Lumineon Lv. 44, Corsola Lv. 44
+[?] Swimmer Adrian              Octillery Lv. 43, Tentacruel Lv. 43, Slowking Lv. 43
+[?] Swimmer Vincent             Wailord Lv. 45
+[?] Swimmer Claire              Starmie Lv. 44, Blastoise Lv. 44
+[?] Swimmer Erik                Politoed Lv. 44, Lanturn Lv. 44
+[?] Swimmer Katelyn             Floatzel Lv. 43, Medicham Lv. 43, Seaking Lv. 43
+
+====================================================================================
+Route 221
+====================================================================================
+
+# Encounters
+
+Grass / Sudowoodo (20%), Skuntank (20%), Nidorina (15%), Nidorino (15%), Farfetch'd (10%), Girafarig (10%), Dodrio (10%)
+Surf / Wingull (60%), Tentacool (30%), Pelipper (5%), Tentacruel (5%)
+Good Rod / Krabby (60%), Horsea (30%), Clamperl (10%)
+Super Rod / Kingler (60%), Horsea (30%), Huntail (5%), Gorebyss (5%)
+Honey Tree / Cherrim (30%), Shroomish (20%), Exeggcute (20%), Nuzleaf (20%), Tangela (10%)
+
+# Encounter History
+
+## Run 2
+
+### Good Rod
+
+Horsea (F)
+Ability: Sniper
+Level: 25
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 11 HP / 18 Atk / 17 Def / 5 SpA / 31 SpD / 30 Spe
+Relaxed Nature
+- Aurora Beam
+- Bubble Beam
+- Dragon Rage
+- Octazooka
+
+# Trainers
+
+[!] Swimmer Dillon              Swampert Lv. 46
+[?] Swimmer Vanessa             Milotic Lv. 46
+[?] Fisherman Cory              Whiscash Lv. 44, Kingler Lv. 44, Gyarados Lv. 44
+[?] Ace Trainer Shannon         Vileplume Lv. 45, Gardevoir Lv. 45, Lopunny Lv. 45, Nidoqueen Lv. 45
+[?] Ace Trainer Jake            Claydol Lv. 45, Charizard Lv. 45, Exeggutor Lv. 45, Absol Lv. 45
+[!] Collector Ivan              Togekiss Lv. 45, Blissey Lv. 45 / Light Screen
+
+====================================================================================
+Pal Park
+====================================================================================
+
+# Boss
+
+## Castle Valet Darach
+
+Gallade (Lv. 48) @ Scope Lens / Steadfast / Psycho Cut, Night Slash, Close Combat, Leaf Blade
+Empoleon (Lv. 48) @ Sitrus Berry / Torrent / Hydro Pump, Flash Cannon, Ice Beam, Aqua Jet
+Alakazam (Lv. 48) @ Expert Belt / Magic Guard / Psychic, Dazzling Gleam, Focus Blast, Energy Ball
+Metagross (Lv. 48) @ Life Orb / Iron Fist / Meteor Mash, Zen Headbutt, Earthquake, Hammer Arm
+Staraptor (Lv. 48) @ King's Rock / Reckless / Return, Brave Bird, Close Combat, Roost
+Entei (Lv. 48) @ Shuca Berry / Pressure / Sacred Fire, Stone Edge, Extreme Speed, Iron Head
+
+# Boss History
+
+## Run 2
+
+### My Sets
+
+Mismagius (F) @ Focus Sash
+Ability: Levitate
+Level: 49
+EVs: 0 HP / 5 Atk / 5 Def / 1 SpA / 0 SpD / 0 Spe
+IVs: 8 HP / 11 Atk / 29 Def / 28 SpA / 6 SpD / 2 Spe
+Careful Nature
+- Barrage
+- Lunar Dance
+- Shadow Ball
+- Power Gem
+
+Jolteon (M) @ Sitrus Berry
+Ability: Volt Absorb
+Level: 49
+EVs: 8 HP / 10 Atk / 3 Def / 7 SpA / 1 SpD / 11 Spe
+IVs: 18 HP / 11 Atk / 12 Def / 6 SpA / 31 SpD / 15 Spe
+Naughty Nature
+- Extrasensory
+- Thunder Wave
+- Bite
+- Thunderbolt
+
+Lopunny (F) @ Zoom Lens
+Ability: Cute Charm
+Level: 49
+EVs: 0 HP / 1 Atk / 2 Def / 0 SpA / 0 SpD / 1 Spe
+IVs: 31 HP / 31 Atk / 3 Def / 22 SpA / 8 SpD / 31 Spe
+Relaxed Nature
+- Fake Out
+- Dizzy Punch
+- Bounce
+- High Jump Kick
+
+Drapion (M) @ Choice Scarf
+Ability: Sniper
+Level: 49
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 18 HP / 19 Atk / 31 Def / 16 SpA / 21 SpD / 6 Spe
+Bashful Nature
+- Toxic Spikes
+- Crunch
+- Swords Dance
+- Poison Jab
+
+Whiscash (M) @ Lum Berry
+Ability: Anticipation
+Level: 49
+EVs: 5 HP / 3 Atk / 3 Def / 4 SpA / 0 SpD / 9 Spe
+IVs: 18 HP / 0 Atk / 7 Def / 25 SpA / 17 SpD / 13 Spe
+Bold Nature
+- Surf
+- Snore
+- Rest
+- Earth Power
+
+Whiscash (M) @ Lum Berry
+Ability: Anticipation
+Level: 49
+EVs: 5 HP / 3 Atk / 3 Def / 4 SpA / 0 SpD / 9 Spe
+IVs: 18 HP / 0 Atk / 7 Def / 25 SpA / 17 SpD / 13 Spe
+Bold Nature
+- Surf
+- Snore
+- Rest
+- Earth Power
+
+
+### Strategy
+
+$ Gallade @ Scope Lens: Mismagius @ Focus Sash
+
+1. Moonblast (62.3 - 75.3), psycho cut (55.3 - 66.9)
+2. Draining Kiss (49.2 - 60.8) KO
+
+$ Metagross @ Life Orb: Typhlosion @ Sitrus Berry
+
+1. Switch in meteor mash (46.2 - 55.1)
+2. Flamethrower (115.4 - 136.9) KO
+
+$ Empoleon @ Sitrus Berry: Lopunny @ Zoom Lens
+
+1. Switch in hydro pump (55.4 - 65.6)
+2. High jump kick (109.8 - 130.7) KO
+
+$ Alakazam @ Expert Belt: Drapion @ Choice Scarf
+
+1. Switch in psychic (0)
+2. Crunch (112 - 134.4) KO
+
+$ Staraptor @ King's Rock: Jolteon @ Sitrus Berry
+
+1. Switch in brave bird (61.7 - 72.2)
+2. Thunderbolt (94.8 - 112.9) KO
+
+$ Entei: Whiscash @ Lum Berry
+
+1. Switch in sacred fire (23.2 - 27.2)
+2. Extreme speed (25 - 29.5), surf (55.7 - 65.5)
+3. Extreme speed (25 - 29.5), surf (55.7 - 65.5) KO
+
+====================================================================================
+Canalave City
+====================================================================================
+
+====================================================================================
+Iron Island
+====================================================================================
+
+====================================================================================
+Canalave Gym
+====================================================================================
+
+

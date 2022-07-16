@@ -1,0 +1,198 @@
+---
+Gardenia Split
+Attempt: 11
+---
+
+Encounters:
+
+    - Floaroma City: Totodile
+    - Floaroma Meadow: Seedot
+    - Route 205: Shellos
+    - Valley Windworks: Elekid
+    - Eterna Forest: Buneary (Missed)
+    - Old Chateau: Gengar (Missed)
+    - Route 211:
+    - Mt. Coronet: Feebas
+    - Route 216:
+
+Trainers:
+
+    $ Jubilife City
+
+        Galactic Grunt 1 (Double w/ Lucas)
+
+            - Stunky Lv. 13
+            - Silcoon Lv. 13
+
+        Galactic Grunt 2 (Double w/ Lucas)
+
+            - Glameow Lv. 13 / Fake Out
+            - Cascoon Lv. 13
+
+    $ Route 204 (North)
+
+        Aroma Lady Taylor
+
+            - Cherubi Lv. 13
+            - Hoppip Lv. 13
+            - Shroomish Lv. 13 / Leech Seed
+
+        Bug Catcher Brandon
+
+            - Wurmple Lv. 14
+            - Kricketune Lv. 14
+
+        Twins Liv & Liz
+
+            - Plusle Lv. 15
+            - Minun Lv. 15
+
+    $ Floaroma Town
+
+        Reporter Jenny
+
+            - Chickorita Lv. 15 / Poison Powder
+            - Cyndaquil Lv. 15 / Flame Wheel
+            - Totodile Lv. 15 / Scary Face
+
+    $ Floaroma Meadow
+
+        Galactic Grunt
+
+            - Zubat Lv. 15 / Wing Attack
+            - Spinarak Lv. 15 / Bug Bite, Night Shade
+
+        Galactic Grunt
+
+            - Croagunk Lv. 15 / Torment, Mud Slap
+            - Ledyba Lv. 15 / Reflect
+
+    $ Valley Windworks
+
+        Galactic Grunt 1
+
+            - Poochyena Lv. 14 / Bite
+            - Gulpin Lv. 14 / Poison Gas, Smog
+            - Houndour Lv. 14 / Intimidate / Howl 
+
+        Galactic Grunt 2
+
+            - Grimer Lv. 15 / Harden
+            - Koffing Lv. 15 / Smokescreen, Pain Split, Assurance
+
+        Galactic Grunt 3
+
+            - Kakuna Lv. 14
+            - Pineco Lv. 14
+            - Metapod Lv. 14
+
+        Commander Mars
+
+            - Zubat Lv. 18 / Inner Focus / Poison Fang, Wing Attack, Toxic, Confuse Ray
+            - Bronzor (Lv. 18) @ Sitrus Berry / Brave / Levitate / Hypnosis, Extrasensory, Gyro Ball, Confuse Ray
+            - Yanma (Lv. 18) @ None / Speed Boost / Silver Wind, Air Cutter, Detect, Sonic Boom
+            - Purugly (Lv. 19) @ Sitrus Berry / Thick Fat / Fake Out, Hypnosis, Facade, Feint Attack
+            
+    $ Route 205 (South)
+
+        Hiker Daniel
+
+            - Diglett Lv. 15 / Magnitude
+            - Shieldon Lv. 15
+            - Numel Lv. 15
+
+    $ Eterna Forest
+
+        PKMN Trainer Cheryl
+
+            - Drifloon Lv. 19 @ Sitrus Berry / Ominous Wind, Air Cutter, Shock Wave, Swift
+
+                * Linoone @ Muscle Band 
+                * Make sure to teach shadow claw
+
+                1. Shadow claw (75.3 - 89.8), air cutter (24.2 - 31.8)
+                2. Shadow claw (75.3 - 89.8) KO
+
+            - Makuhita Lv. 19 / Knock Off, Fake Out, Brick Break, Bullet Punch
+
+                * Gyarados @ Sitrus Berry
+
+                1. Switch in brick break (7 - 8.4)
+                2. Bounce (174.1 - 206.4) KO
+
+            - Chansey Lv. 20 @ Sitrus Berry / Hyper Voice, Soft-Boiled, Ice Beam, Thunderbolt
+
+                * Gyarados @ Sitrus Berry
+                1. Switch trapinch into thunderbolt (0)
+                2. Switch dos into ice beam (11.2 - 14)
+                3. Bounce (77.9 - 92.6), thunderbolt (50.7 - 61.9)
+                4. Bite (37.5 - 44.1) KO
+
+            - Wailmer Lv. 19 / Water Pulse, Rock Tomb, Mist, Rollout
+            
+                * Grovyle @ Expert Belt
+
+                1. Switch in rock tomb (26.4 - 32)
+                2. Energy ball (119 - 145.2) KO
+
+        Psychic Lindsey
+
+            - Slowpoke Lv. 17 / 
+            - Exeggcute Lv. 17 / Reflect
+            - Natu Lv. 17 / Lucky Chant
+
+        Psychic Elijah
+
+            - Spoink Lv. 17 / 
+            - Drowzee Lv. 17 / 
+            - Baltoy Lv. 17 / 
+
+    $ Route 211 (West)
+
+        Hiker Louis
+
+            - Geodude Lv. 19
+            - Slugma Lv. 19
+            - Beldum Lv. 19
+
+    $ Route 216
+
+        Ace Trainer Laura
+
+            - Togetic Lv. 23
+            - Swellow Lv. 23
+
+    $ Eterna Gym
+
+        Lass Caroline
+
+            - Lotad Lv. 22
+            - Cacnea Lv. 22
+            - Exeggcute Lv. 22
+            - Shroomish Lv. 22
+
+        Aroma Lady Jenna
+
+            - Weepingbell Lv. 23
+            - Ivysaur Lv. 23
+            - Gloom Lv. 23
+
+        Aroma Lady Angela
+
+            - Roselia Lv. 23
+            - Bayleef Lv. 23
+            - Skiploom Lv. 23
+
+    $ Gardenia
+
+        - Bellossom (Lv. 25) @ Wide Lens / Relaxed / Chlorophyll / Grass Knot, Teeter Dance, Dazzling Gleam, Stun Superpower
+        - Tangela (Lv. 25) @ Coba Berry / Rash / Chlorophyll / Grass Knot, Shock Wave, Ancienty Power, Stun Spore
+        - Cherrim (Lv. 25) @ Focus Sash / Hasty / Flower Gift / Grass Knot, Sunny Day, Weather Ball, Morning Sun
+        - Grotle (Lv. 25) @ Leftovers / Adamant / Overgrow / Seed Bomb, Protect, Leech Seed, Bulldoze
+        - Breloom (Lv. 25) @ Muscle Band / Naughty / Technician / Bullet Seed, Mach Punch, Thunder Punch, Spore
+        - Roserade (Lv. 26) @ Sitrus Berry / Timid / Technician / Magical Leaf, Sludge, Dazzling Gleam, Extrasensory
+
+        
+
+
+

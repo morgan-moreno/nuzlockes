@@ -1,0 +1,16 @@
+{
+  "name": "inclement-emerald",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "random:region": "node scripts/randomRegion.js",
+    "random:starter": "node scripts/randomStarter.js",
+    "random:mauville": "node scripts/randomMauville.js",
+    "readPdf": "node scripts/readPdf.js",
+    "nature": "node scripts/nature.js"
+  },
+  "dependencies": {
+    "pdf-parse": "^1.1.1"
+  }
+}

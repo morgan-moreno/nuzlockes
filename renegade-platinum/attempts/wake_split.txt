@@ -1,0 +1,522 @@
+================================
+Wake Split
+================================
+
+
+Encounters
+
+    - Route 214: Graveler:
+    - Maniac Tunnel: Diglett
+    - Valor Lakefront: Girafarig
+    - Route 213: Noctowl
+    - Pastoria City: Carvanha
+    - Route 212: Koffing
+
+
+============
+Veilstone City
+============
+
+---
+Galactic Grunt
+---
+
+Weezing
+Level: 35
+
+Golbat
+Level: 35
+
+Venomoth
+Level: 35
+
+---
+Galactic Grunt
+---
+
+Skuntank
+Level: 35
+- Momento
+
+Dustox
+Level: 35
+- Bug Buzz
+
+Wormadam
+Level: 35
+
+============
+Route 214
+============
+
+---
+Psychic Abigail
+---
+Kirlia
+Level: 34
+- Hypnosis
+- Calm Mind
+
+Chimecho
+Level: 34
+
+Girafarig
+Level: 34
+- Crunch
+
+============
+Route 213
+============
+
+---
+Tuber Chelsea
+---
+
+Azumarill
+Level: 37
+- Play Rough
+- Aqua Ring
+
+
+--- 
+Beauty Cyndy
+---
+Delcatty
+Level: 37
+- Fake Out
+
+Persian
+Level: 37
+- Power Gem
+
+
+============
+Route 212 (South)
+============
+
+---
+Parasol Lady Alexa
+---
+Seadra
+Level: 38
+
+Golduck
+Level: 38
+- Aqua Tail
+- Psychic
+
+---
+Pokemon Ranger Allison
+---
+Milotic
+Level: 39
+- Dragon Pulse
+
+Leafeon
+Level: 39
+- Psycho Cut
+- Swords Dance
+
+Jynx
+Level: 39
+
+---
+PKMN Ranger Jeffrey
+---
+Magmar
+Level: 39
+- Sunny Day
+- Lava Plume
+- Cross Chop
+
+Manectric
+Level: 39
+- Ice Fang
+
+Nidoking
+Level: 39
+- Earth Power
+- Thrash
+
+============
+Pastoria City
+============
+
+Staraptor @ Muscle Band
+Level: 41
+Ability: Reckless
+- Double-Edge
+- Close Combat
+- Aerial Ace
+- Roost
+
+Heracross @ Coba Berry
+Level: 41
+Ability: Guts
+ Nature
+- Megahorn
+- Brick Break
+- Bullet Seed
+- Night Slash
+
+Snorlax @ Leftovers
+Level: 41
+Ability: Thick Fat
+ Nature
+- Body Slam
+- Crunch
+- Rest
+- Sleep Talk
+
+Azumarill @ Life Orb
+Level: 41
+Ability: Huge Power
+- Aqua Tail
+- Play Rough
+- Body Slam
+- Aqua Jet
+
+Arcanine @ Expert Belt
+Level: 41
+Ability: Intimidate
+- Heat Wave
+- Thunder Fang
+- Outrage
+- Crunch
+
+Torterra @ Sitrus Berry
+Level: 42
+Ability: Overgrow
+- Seed Bomb
+- Earthquake
+- Crunch
+- Iron Head
+
+========================================
+Jolteon (M) @ Magnet
+Ability: Volt Absorb
+Level: 42
+EVs: 8 HP / 5 Atk / 2 Def / 7 SpA / 1 SpD / 11 Spe
+IVs: 18 HP / 11 Atk / 12 Def / 6 SpA / 31 SpD / 15 Spe
+Naughty Nature
+- Extrasensory
+- Thunder Wave
+- Bite
+- Thunderbolt
+
+Mightyena (M) @ Expert Belt
+Ability: Intimidate
+Level: 42
+EVs: 0 HP / 0 Atk / 0 Def / 4 SpA / 0 SpD / 0 Spe
+IVs: 16 HP / 16 Atk / 8 Def / 14 SpA / 21 SpD / 14 Spe
+Impish Nature
+- Yawn
+- Thunder Fang
+- Crunch
+- Ice Fang
+
+Roserade (F) @ Poison Barb
+Ability: Technician
+Level: 42
+EVs: 5 HP / 0 Atk / 2 Def / 0 SpA / 3 SpD / 2 Spe
+IVs: 16 HP / 27 Atk / 14 Def / 31 SpA / 15 SpD / 5 Spe
+Rash Nature
+- Extrasensory
+- Sludge Bomb
+- Toxic Spikes
+- Giga Drain
+
+Whiscash (M) @ Soft Sand
+Ability: Anticipation
+Level: 42
+EVs: 2 HP / 1 Atk / 3 Def / 1 SpA / 0 SpD / 6 Spe
+IVs: 18 HP / 0 Atk / 7 Def / 25 SpA / 17 SpD / 13 Spe
+Bold Nature
+- Brine
+- Snore
+- Rest
+- Earth Power
+
+Poliwrath (F) @ Muscle Band
+Ability: Water Absorb
+Level: 42
+EVs: 5 HP / 2 Atk / 4 Def / 0 SpA / 0 SpD / 1 Spe
+IVs: 24 HP / 30 Atk / 14 Def / 10 SpA / 6 SpD / 11 Spe
+Naive Nature
+- Bubble Beam
+- Low Kick
+- Hypnosis
+- Rain Dance
+
+Gengar (F) @ Sitrus Berry
+Ability: Levitate
+Level: 42
+EVs: 5 HP / 12 Atk / 8 Def / 11 SpA / 12 SpD / 2 Spe
+IVs: 17 HP / 11 Atk / 10 Def / 20 SpA / 28 SpD / 6 Spe
+Timid Nature
+- Sludge Bomb
+- Shadow Ball
+- Psychic
+- Sucker Punch
+
+========================================
+
+
+- Staraptor @ Muscle Band: Jolteon @ Magnet
+
+    1. Thunderbolt (100.7 - 118.7) KO
+
+- Torterra @ Sitrus Berry: Gengar @ Focus Sash / Mightyena @ Expert Belt
+
+    1. Switch in gengar, earthquake (0)
+    2. Switch in mightyena, crunch (11.1 - 12.8) [-1 Atk, 87]
+    3. Switch in gengar, earthquake (0)
+    4. Switch in mightyena, crunch (8.5 - 10.2) [-2 Atk, 77]
+    5. Switches, crunch (6.8 - 7.6) [-3 Atk, 64]
+    6. Ice fang (55.5 - 66.6), earthquake (25.6 - 30.7) [-3 Atk, 33]
+    7. Ice fan (55.5 - 66.6) KO
+
+- Azumarill @ Life Orb: Roserade @ Poison Barb
+
+    1. Switch in aqua jet (22.5 - 26.4)
+    2. Sludge bomb (94.1 - 111.1) KO :prayge:
+
+- Arcanine @ Expert Belt: Whiscash @ Soft Sand / Gengar @ Focus Band
+
+    1. Switch in heat wave (23.4 - 27.6) [72]
+    2. Outrage (40.4 - 48.2), earth power (61.3 - 74.4)  [24]
+    3. Switch in outrage (69.6 - 82.3) [Gengar 18, Whiscash 24]
+    4. Sludge bomb (40.1 - 48.1) KO
+
+- Snorlax @ Leftovers: Poliwrath @ Muscle Band
+
+    1. Switch in crunch (12.5 - 14.8) [85]
+    2. Low kick (75.2 - 89.6), body slam (39.8 - 46.8) [38]
+    3. Low kick (75.2 - 89.6) KO
+
+============
+Pastoria Gym
+============
+
+---
+Tuber Jacky
+---
+
+Bibarel
+Level: 39
+- Super Fang
+- Take Down
+
+Wartortle
+Level: 39
+
+Sealeo
+Level: 39
+
+---
+Sailor Damian
+---
+
+Pelipper
+Level: 39
+
+Croconaw
+Level: 39
+
+Golduck
+Level: 39
+
+---
+Tuber Caitlyn
+---
+Azumarill
+Level: 39
+
+Marshtomp
+Level: 39
+- Protect
+
+Dewgong
+Level: 39
+- Take Down
+
+---
+Sailor Samson
+---
+Slowbro
+Level: 39
+- Withdraw
+
+Gastrodon
+Level: 39
+- Earth Power
+
+Mantine
+Level: 39
+- Air Slash
+
+
+---
+Leader Wake
+---
+
+Quagsire @ Rindo Berry
+Level: 43
+Ability: Water Absorb
+Adamant Nature
+- Aqua Tail
+- Earthquake
+- Recover
+- Ice Punch
+
+Gyarados @ Wacan Berry
+Level: 43
+Ability: Intimidate
+Jolly Nature
+- Aqua Tail
+- Ice Fang
+- Crunch
+- Dragon Dance
+
+Poliwrath @ Sitrus Berry
+Level: 43
+Ability: Water Absorb
+Careful Nature
+- Waterfall
+- Drain Punch
+- Ice Punch
+- Hypnosis
+
+Ludicolo @ Life Orb
+Level: 43
+Ability: Swift Swim
+Naive Nature
+- Hydro Pump
+- Ice Beam
+- Energy Ball
+- Fake Out
+
+Sharpedo @ Focus Sash
+Level: 43
+Ability: Speed Boost
+Naive Nature
+- Waterfall
+- Crunch
+- Ice Fang
+- Zen Headbutt
+
+Floatzel @ Life Orb
+Level: 44
+Ability: Swift Swim
+Naive Nature
+- Aqua Tail
+- Crunch
+- Ice Punch
+- Aqua Jet
+
+=====================================
+Exeggutor (F) @ Yache Berry
+Ability: Chlorophyll
+Level: 42
+EVs: 0 HP / 4 Atk / 0 Def / 0 SpA / 2 SpD / 0 Spe
+IVs: 31 HP / 22 Atk / 19 Def / 20 SpA / 16 SpD / 22 Spe
+Hardy Nature
+- Energy Ball
+- Sunny Day
+- Synthesis
+- Psychic
+
+Scizor (M) @ Expert Belt
+Ability: Swarm
+Level: 42
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 22 HP / 6 Atk / 18 Def / 4 SpA / 18 SpD / 17 Spe
+Sassy Nature
+- Iron Head
+- Night Slash
+- X-Scissor
+- Iron Defense
+
+Blastoise (M) @ Leftovers
+Ability: Torrent
+Level: 42
+EVs: 0 HP / 5 Atk / 5 Def / 10 SpA / 0 SpD / 5 Spe
+IVs: 30 HP / 18 Atk / 23 Def / 22 SpA / 21 SpD / 27 Spe
+Relaxed Nature
+- Toxic
+- Yawn
+- Iron Defense
+- Protect
+
+Poliwrath (F) @ Muscle Band
+Ability: Water Absorb
+Level: 42
+EVs: 7 HP / 2 Atk / 4 Def / 0 SpA / 0 SpD / 1 Spe
+IVs: 24 HP / 30 Atk / 14 Def / 10 SpA / 6 SpD / 11 Spe
+Naive Nature
+- Bubble Beam
+- Low Kick
+- Hypnosis
+- Rock Slide
+
+Mismagius (F) @ Lum Berry
+Ability: Levitate
+Level: 42
+EVs: 0 HP / 1 Atk / 0 Def / 1 SpA / 0 SpD / 0 Spe
+IVs: 8 HP / 11 Atk / 29 Def / 28 SpA / 6 SpD / 2 Spe
+Careful Nature
+- Barrage
+- Lunar Dance
+- Shadow Ball
+- Power Gem
+
+Empoleon (F) @ Sitrus Berry
+Ability: Torrent
+Level: 42
+EVs: 5 HP / 4 Atk / 3 Def / 5 SpA / 1 SpD / 2 Spe
+IVs: 29 HP / 19 Atk / 28 Def / 3 SpA / 26 SpD / 30 Spe
+Naive Nature
+- Flash Cannon
+- Ice Beam
+- Brine
+- Shadow Claw
+=====================================
+
+
+- Quagsire @ Rindo Berry: Exeggutor @ Yache Berry
+
+    1. Sunny day, ice punch (22.9 - 27) [HP 73]
+    2. Solar beam (118.9 - 141.8) KO [HP 73, Sun 4]
+    
+
+- Sharpedo @ Focus Sash: Exeggutor @ None
+
+    1. Solar beam (225.3 - 266.6) [HP 73, Sun 3]
+
+- Ludicolo @ Life Orb: Scizor @ Expert Belt
+
+    1. Switch in fake out (5.8 - 7.5) [HP 92, Sun 1]
+    2. Hydro pump (33.3 - 40), X-Scissor (97.7 - 117) KO [HP 52, Sun 1]
+
+- Floatzel @ Life Orb: Blastoise @ Leftovers
+
+    1. Switch in aqua tail (23 - 27.6) [HP 72 -> 78] [Sun 0]
+    2. Crunch (26.9 - 32.3), iron defense [HP 46 -> 52]
+    3. Protect [HP 52 -> 58]
+    4. Crunch (17.6 - 21.5) [HP 36 -> 42], toxic
+    5. Protect [42 - 48]
+    6. Crunch (17.6 - 21.5), iron defense [HP 20 -> 26]
+    7. Protect [HP 26 -> 32]
+    8. Crunch (13.8 - 16.9), try to stall until dead
+
+- Poliwrath @ Sitrus Berry: Mismagius @ Lum Berry
+
+    1. Switch in drain punch (0)
+    2. Moonblast (55.9 - 67.1), waterfall (55.2 - 66.6) [HP 33]
+    3. Moonblast (55.9 - 67.1) KO
+
+- Gyarados @ Wacan Berry: Poliwrath @ Muscle Band
+
+    1. Switch in aqua tail (0)
+    2. Crunch (11.8 - 13.9), rock slide (43.2 - 51.3)
+    3. Crunch (11.8 - 13.9), rock slide (43.2 - 51.3) KO
