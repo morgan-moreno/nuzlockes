@@ -10,6 +10,7 @@ Starter / Chimchar (33), Piplup (33), Turtwig (33)
 
 2 / Piplup
 3 / Turtwig
+4 / Chimchar
 
 
 ====================================================================================
@@ -23,8 +24,8 @@ Starter / Chimchar (33), Piplup (33), Turtwig (33)
 # Encounter History
 
 2 / Turtwig
-
 3 / Chimchar
+4 / Piplup
 
 ====================================================================================
 Twinleaf Town
@@ -45,7 +46,9 @@ Poké Radar / Wynaut (22%)
 
 # Encounter History
 
+2 / Wynaut
 3 / Wingull
+4 / Bidoof
 
 ====================================================================================
 Route 202
@@ -58,14 +61,16 @@ Poké Radar / Houndour (22%)
 
 # Encounter History
 
+2 / Shinx
 3 / Burmy
+4 / Rattata
 
 # Trainers
 
 PKMN Trainer Lucas          Piplup Lv. 9 / Growl, Bubble
 Lass Natalie                Sentret Lv. 7 / Defense Curl, Bidoof Lv. 7
-Youngster Tristan (!)       Hoothoot Lv. 7, Starly Lv. 7 / Tackle
-Youngster Logan             Growlithe Lv. 7 / Intimidate / Howl, Burmy Lv. 7, Zigzagoon Lv. 7
+Youngster Tristan (!)       Hoothoot Lv. 7 / Hypnosis-Peck-Growl, Starly Lv. 7 / Tackle
+Youngster Logan             Growlithe Lv. 7 / Intimidate-Howl, Burmy Lv. 7, Zigzagoon Lv. 7
 
 ====================================================================================
 Jubilife City
@@ -79,6 +84,7 @@ Starter / Charmander (33), Squirtle (33), Bulbasaur (33)
 
 2 / Squirtle
 3 / Squirtle
+4 / Bulbasaur
 
 # Trainers
 
@@ -98,6 +104,7 @@ Honey Tree / Combee (30%), Forretress (10%), Wormadam (10%), Mothim (10%), Beaut
 # Encounter History
 
 3 / Magikarp
+4 / Finneon
 
 ====================================================================================
 Route 204 (South)
@@ -112,6 +119,7 @@ Old Rod     Magikarp (60%), Goldeen (30%), Corphish (10%)
 # Encounter History
 
 3 / Weedle
+4 / Sunkern
 
 # Trainers
 
@@ -130,6 +138,7 @@ Old Rod     Magikarp (65%), Barboach (35%)
 
 2 / Barboach
 3 / Geodude
+4 / Magikarp
 
 ====================================================================================
 Route 203
@@ -145,6 +154,7 @@ Old Rod / Magikarp (65%), Corphish (35%)
 
 2 / Corphish
 3 / Bidoof
+4 / Starly
 
 # Trainers
 
@@ -212,6 +222,7 @@ Poké Radar  Stantler (22%)
 
 2 / Ponyta
 3 / Machop
+4 / Rhyhorn
 
 ====================================================================================
 Oreburgh Gym
@@ -229,6 +240,8 @@ Cranidos (Lv. 16) @ Sitrus Berry    /   Hasty       /   Rock Head (!)   /   Zen 
 # Boss History
 
 2 / W
+3 / W
+4 / W
 
 ====================================================================================
 Jubilife City
@@ -259,6 +272,7 @@ Starter / Chikorita (33), Cyndaquil (33), Totodile (33)
 
 2 / Cyndaquil
 3 / Chikorita
+4 / Totodile
 
 # Trainers
 Reporter Jenny              Chikorita Lv. 15, Cyndaquil Lv. 15, Totodile Lv. 15
@@ -275,6 +289,7 @@ Honey Tree  Cherubi (30%), Shroomish (20%), Exeggcute (20%), Seedot (20%), Tange
 
 2 / Shroomish
 3 / Cherubi -> Skorupi
+4 / Cherubi -> Skorupi
 
 # Trainers
 Galactic Grunt              Zubat Lv. 15, Spinarak Lv. 15
@@ -294,6 +309,7 @@ Honey Tree  Aipom (30%), Slakoth (20%), Caterpie (20%), Weedle (20%), Munchlax (
 
 2 / Voltorb
 3 / Magnemite
+4 / Magnemite
 
 # Trainers
 
@@ -309,8 +325,9 @@ Purugly (Lv. 19) @ Sitrus Berry     /   Jolly       /   Thick Fat       /   Fake
 
 # Boss History
 
-2 / W - 0
-3 / W - 0
+2 / W
+3 / W
+4 / W
 
 ====================================================================================
 Route 205 (South)
@@ -326,6 +343,7 @@ Honey Tree  Combee (30%), Burmy (20%), Pineco (20%), Wurmple (20%), Heracross (1
 
 2 / Heracross
 3 / Heracross
+4 / Burmy
 
 # Trainers
 
@@ -347,6 +365,7 @@ Poké Radar  Beautifly (11%), Dustox (11%)
 
 2 / Buneary
 3 / Nincada
+4 / Shroomish
 
 # Trainers
 
@@ -364,6 +383,7 @@ Chansey (Lv. 20) @ Sitrus Berry     /   Quiet       /   Serene Grace    /   Hype
 
 2 / W
 3 / W
+4 / W
 
 ====================================================================================
 Old Chateau
@@ -380,6 +400,7 @@ Event       Gengar (50%), Rotom (50%)
 
 2 / Gengar
 3 / Rotom
+4 / Gastly
 
 ====================================================================================
 Eterna City
@@ -393,6 +414,7 @@ Old Rod     Magikarp (60%), Poliwag (30%), Dratini (10%)
 
 2 / Poliwag
 3 / Poliwag
+4 / Poliwag
 
 ====================================================================================
 Route 211 (West)
@@ -407,6 +429,7 @@ Poké Radar  Tyrogue (22%)
 
 2 / Meditite
 3 / Meditite
+4 / Meditite
 
 # Trainers
 
@@ -425,6 +448,7 @@ Old Rod     Feebas (100%)
 
 2 / Feebas
 3 / Feebas
+4 / Feebas
 
 ====================================================================================
 Route 216
@@ -439,6 +463,7 @@ Poké Radar  Delibird (22%)
 
 2 / Snorunt
 3 / Swinub
+4 / Sneasel
 
 # Trainers
 
