@@ -1,5 +1,6 @@
 import { MainClient } from "pokenode-ts";
 import { subMilliseconds } from "date-fns";
+import { NATURES } from "../utils/constants";
 
 const API = new MainClient();
 
@@ -28,15 +29,26 @@ function main() {
     const data = await API.pokemon.getPokemonById(id);
 
     console.log("Pokemon: ", data.name);
+    getShiny();
+    getNature();
+    getAbility();
     cb?.();
   }
-  function getShiny(cb?: VoidFunction) {
+  function getShiny() {
     const PRAYCE = 4;
 
     const shiny = Math.floor(Math.random() * (1000 - 1) + 1) === PRAYCE;
 
     console.log("Shiny: ", shiny);
-    cb?.();
+  }
+  function getNature() {
+    const natures = Object.keys(NATURES);
+    const nature = natures[Math.floor(Math.random() * natures.length)];
+
+    console.log("Nature: ", NATURES[nature]);
+  }
+  function getAbility() {
+    console.log("Ability Slot: ", Math.ceil(Math.random() * 2));
   }
   function exitSuccess() {
     const end = new Date();
@@ -63,9 +75,7 @@ function main() {
     case "between":
       getRandom(exitSuccess);
     case "egg":
-      getRandomPokemon(function () {
-        return getShiny(exitSuccess);
-      });
+      getRandomPokemon(exitSuccess);
   }
 }
 

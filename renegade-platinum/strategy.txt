@@ -1,22 +1,460 @@
-- Bellossom @ Wide Lens: Haunter @ Poison Barb
+- Drifblim @ Starf Berry: Kabutops @ Hard Stone
 
-    1. Sludge bomb (97.5 - 115) KO
+    1. Shadow ball (42.3 - 50), rock slide (99.3 - 118.3) :prayge:
 
-- Roserade @ Sitrus Berry: Sneasel @ Sitrus Berry
+- Gengar @ Wise Glasses: Porygon2 @ Expert Belt
 
-    1. Switch in Extrasensory (0)
-    2. Ice shard (58.6 - 72), dazzling gleam (78.8 - 92.9)
-    3. Ice shard (58.6 - 72) KO
+    1. Switch in shadow ball (0)
+    2. Sludge bomb (44.2 - 52.8), psychic (95.5 - 114.4) :prayge:
 
-- Breloom @ Muscle Band: Mothim @ Sitrus Berry
+- Mismagius @ Sitrus Berry: Mawile @ Metal Coat
 
-    1. Switch in mach punch (13.7 - 16.2)
-    2. Gust (133.3 - 155.5) KO
+    1. Switch in dazzling gleam (24.7 - 30.5)
+    2. Protect
+    3. Shadow ball (50.5 - 61.1), iron head (104.3 - 123.9) KO
 
-- Tangela @ Coba Berry: Mothim @ Sitrus Berry
+- Spiritomb @ Zoom Lens: Togekiss @ Sitrus Berry
 
-    1. Bug buzz (178.6 - 210.6) KO
+    1. Shadow ball (24.2 - 30)
+    2. Moonblast (89.1 - 108.4), shadow ball (24.2 - 30)
+    3. Moonblast (KO)
 
-- Cherrim @ Focus Sash:
-- Grotle @ Leftovers:
+- Banette @ Muscle Band: Bibarel @ Lum Berry
+
+    1. Switch in shadow claw (0)
+    2. Toxic, will-o-Wisp
+    3. Protect (Stall until dead)
+    
+- Dusclops @ Leftovers: Feraligatr @ Lum Berry
+
+    1. Switch in shadow punch (5.7 - 7.6)
+    2. crunch (64.9 - 80.5)
+
+====================================================================================
+Barry (Hearthome)
+====================================================================================
+
+- Staravia @ Muscle Band: Rampardos @ Sitrus Berry
+
+    1. Facade (14.5 - 18.1), rock slide (KO)
+
+- Prinplup @ Sitrus Berry: Sunflora @ Miracle Seed
+
+    1. Switch in scald (14.7 - 17.6)
+    2. Aerial ace (31.3 - 37.2), energy ball (KO)
+
+- Heracross @ Coba Berry: Dragonite @ None
+
+    1. Switch in bug bite (11 - 13.7)
+    2. Knock off (17.4 - 21.1), fire punch (62.1 - 73.7) (x2 KO)
+
+- Snorlax @ Leftovers: Poliwrath @ Lum Berry
+
+    1. Switch in rock slide (10.3 - 13.2)
+    2. Low kick (59.7 - 71.4), body slam (36.7 - 43.3)
+    3. Low kick (59.7 - 71.4) KO
+
+====================================================================================
+Commander Saturn & Backlot Tag
+====================================================================================
+
+* Staravia / Snorlax / Prinplup
+
+- Mawile: Wigglytuff
+- Breloom: Raichu
+- Drapion: Espeon
+- Feraligatr: Bronzong
+- Porygon2: Octillery
+- Espeon: Toxicroak
+
+- Bronzong @ Leftovers:
+- Octillery @ Wise Glasses:
+- Toxicroak @ Muscle Band:
+- Wigglytuff @ Zoom Lens:
+- Raichu @ Wise Glasses:
+- Espeon @ Sitrus Berry:
+
+====================================================================================
+Maylene
+====================================================================================
+
+- Medicham @ Sitrus Berry: Gengar
+
+    1. Shadow ball (KO)
+
+- Gallade @ Light Clay: Mawile
+
+    1. Switch in zen headbutt (15.4 - 18.5)
+    2. Drain punch (24.7 - 28.8), play rough (KO)
+
+- Lucario @ Focus Sash:
+
+    1. Switch in gengar, aura sphere (0)
+    2. Switch in infernape, flash cannon (34.2 - 40.5) / dark pulse (17.1 - 19.8)
+    3. Fake Out (6 - 7.8)
+    4. Close combat (KO)
+
+- Machamp @ Toxic Orb: Togekiss @ Expert Belt
+
+    1. Switch in close combat (23.1 - 27.2)
+    2. Moonblast (KO)
+
+- Toxicroak @ Big Root: Medicham 
+
+    1. Switch in poison jab (47.1 - 55.7)
+    2. Psycho cut (KO)
+
+- Infernape @ Life Orb: Milotic @ Leftovers
+
+    1. Switch in fire punch (29.8 - 35.4)
+    2. Recover until def drop -2 from close combat
+    3. Scald KO
+
+====================================================================================
+Barry (Pastoria City)
+====================================================================================
+
+- Staraptor @ Muscle Band: Rhydon @ Focus Sash
+
+    1. Close combat (55.9 - 99.9), rock slide (KO)
+
+- Empoleon @ Sitrus Berry: Poliwrath @ Lum Berry
+
+    1. Switch in scald (0)
+    2. Low kick (48.8 - 57.7), flash cannon (18.3 - 22) (x2)
+
+- Azumarill @ Life Orb: Venusaur @ Sitrus Berry
+
+    1. Switch in play rough (32.2 - 38)
+    2. Sludge bomb (71.8 - 86.2), body slam (41.3 - 48.7)
+    3. Sludge bomb (KO)
+
+- Heracross @ Coba Berry: Togekiss @ Expert Belt
+
+    1. Switch in megahorn (14.2 - 16.5)
+    2. Bullet punch (25.5 - 31.5), Moonblast (KO)
+
+- Breloom @ Focus Sash: Toxicroak @ Lum Berry
+
+    1. Switch in rock tomb (15.3 - 18.4)
+    2. Sludge bomb (KO)
+
+- Snorlax @ Leftovers: Mawile @ Sitrus Berry
+
+    1. Switch in body slam (18.8 - 22.6)
+    2. Play rough (36 - 43.2), body slam (18.8 - 22.6) (x3)
+
+====================================================================================
+Leader Wake
+====================================================================================
+
+- Quagsire @ Rindo Berry: Exeggutor @ Yache Berry
+
+    1. Sunny day, ice punch (25 - 30.1) [Sun 1]
+    2. Solar beam (KO) [Sun 2]
+
+- Ludicolo @ Life Orb: Blissey @ Leftovers
+
+    1. Switch in ice beam (12.7 - 15) [Sun 3]
+    2. Hydro pump (23.6 - 28.1), light Screen [Sun 4]
+    3. Hydro pump (12.4 - 14.6), Toxic [Sun 5]
+    4. Soft-boiled stall until dead
+
+- Poliwrath @ Sitrus Berry: Togekiss @ Yache Berry
+
+    1. Switch in drain punch (5.2 - 6.7)
+    2. Ice punch (18.7 - 21.7), moonblast (76.9 - 92.3)
+    3. Ice punch (36.2 - 43.4), moonblast (KO)
+
+- Floatzel @ Life Orb: Venusaur @ Yache Berry
+
+    1. Switch in ice punch (18.1 - 22.3)
+    2. Crunch (39.6 - 47.1), energy ball (KO)
+
+- Sharpedo @ Focus Sash: Mawile @ Zoom Lens
+
+    1. Switch in zen headbutt (9.4 - 11.3)
+    2. Waterfall (28.3 - 33.9), play rough (KO)
+
+- Gyarados @ Wacan Berry: Mawile / Poliwrath @ Leftovers
+
+    * Wants aqua tail on mawile, poliwrath (0) [Water Absorb]
+    * Wants crunch on poliwrath, mawile to Intimidate
+
+    Cycle until low attack and chip with rock slide on poliwrath
+
+
+====================================================================================
+PKMN Trainer Lucas (Route 210)
+====================================================================================
+
+- Alakazam @ Life Orb: Gengar @ Choice Scarf
+
+    1. Shadow ball (KO)
+
+- Granbull @ Choice Band: Venusaur @ Focus Sash
+
+    1. Switch in crunch (43.4 - 51.9)
+    2. Sludge bomb (KO)
+
+- Mamoswine @ Passho Berry: Poliwrath @ Sitrus Berry / Gengar @ Choice Scarf
+
+    1. Switch in gengar, earthquake (0)
+    2. Switch in poliwrath, rock slide (14.4 - 17.2)
+    3. Earthquake (44.1 - 52.4), low kick (70.7 - 84.1)
+    4. Switch in gengar, earthquake (0)
+    5. Shadow ball (KO)
+
+- Vaporeon @ Wise Glasses: Blissey @ Leftovers
+
+    1. Switch in extrasensory (8.8 - 10.5)
+    2. Hydro pump (19.3 - 23.2), light Screen
+    3. Hydro pump (9.8 - 11.9), Toxic
+    4. Hydro pump (9.8 - 11.9), soft boiled stall until dead
+
+- Torterra @ Sitrus Berry: Flygon @ Expert Belt
+
+    1. Switch in wood hammer (13.4 - 16.1)
+    2. Bug buzz (KO)
+
+- Lickilicky @ Leftovers: Flygon @ Expert Belt / Primape @ Focus Sash
+
+    1. Bug buzz (38.4 - 45.7), body slam (28.1 - 34.2)
+    2. Switch in primeape, body slam (46 - 54.7)
+    3. Close combat (KO)
+
+====================================================================================
+Galactic Leader Cyrus
+====================================================================================
+
+- Crobat @ Wise Glasses: Blissey @ Lum Berry
+
+    1. Sludge bomb (10.9 - 13), thunderbolt (37.2 - 44.1)
+    2. Sludge bomb (10.9 - 13), thunderbolt (37.2 - 44.1)
+    3. Gonna sleep me by now, heal before thunderbolting
+
+- Weavile @ Expert Belt: Poliwrath @ Muscle Band
+
+    1. Switch in feint attack (17.9 - 21.3)
+    2. Feint attack (17.9 - 21.3), brick break (KO)
+
+- Magnezone @ Life Orb: Camerupt @ Sitrus Berry
+
+    1. Switch in thunderbolt (0)
+    2. Flash cannon (36 - 42.4), earth power (KO)
+
+- Honchkrow @ Scope Lens: Sudowoodo @ Lum Berry
+
+    1. Switch in brave bird (21.5 - 25.9)
+    2. Swagger, stone edge (KO)
+
+====================================================================================
+Castle Valet Darach
+====================================================================================
+ 
+- Gallade @ Scope Lens: Gyarados @ Expert Belt
+
+    1. Psycho cut (26.2 - 31.8), bounce (KO)
+
+- Staraptor @ King's Rock: Rhydon @ Chople Berry
+
+    1. Switch in brave bird (24 - 28.3)
+    2. Close combat (27.1 - 32), rock slide (KO)
+
+- Empoleon @ Sitrus Berry: Poliwrath @ Muscle Band
+
+    1. Switch in flash cannon (16.8 - 20.1)
+    2. Low kick (48.3 - 58.8), flash cannon (16.8 - 20.1) (x2 KO)
+
+- Alakazam @ Expert Belt: Sharpedo @ Choice Scarf
+
+    1. Switch in psychic (0)
+    2. Crunch (KO)
+
+- Metagross @ Life Orb: Gengar @ Focus Sash
+
+    1. Protect scout (eq: gyarados & pedo rotate to lower attack / mm: )
+
+
+- Entei @ Shuca Berry: Feraligatr @ Sitrus Berry
+
+    1. Aqua tail / aqua jet KO
+
+    
+====================================================================================
+PKMN Trainer Barry (Canalave City)
+====================================================================================
+
+- Staraptor @ Choice Band: Sudowoodo @ Wide Lens / Gengar @ Sitrus Berry
+
+    1. Lead sudo, switch into gengar, cc (0) [Now choiced @ cc]
+    2. Sludge bomb (62.3 - 74), cc (0)
+    3. Sludge bomb (KO)
+
+- Arcanine @ Expert Belt: Gyarados @ Sitrus Berry
+
+    1. Switch in crunch (18.1 - 21.8)
+    2. Flare blitz (20 - 23.7), aqua tail (KO)
+    
+- Breloom @ Focus Sash: Toxicroak @ Lum Berry
+
+    1. Switch in stone edge (23.8 - 27.8)
+    2. Force palm (31.9 - 38), sludge bomb (103 - 121.5)
+    3. Sucker punch (KO)
+
+- Heracross @ Muscle Band: Gengar @ Sitrus Berry / Crobat @ Sitrus Berry
+
+    1. Switch in gengar, cc (0)
+    2. Switch in , night slash (27.6 - 32.6)
+    3. Fly (KO)
+
+- Empoleon @ Sitrus Berry: Blissey @ Leftovers
+
+    1. Switch in surf (13.8 - 16.1)
+    2. Surf (13.8 - 16.1), light Screen
+    3. Thunderbolt/soft-boiled until dead
+
+- Snorlax @ Leftovers: Sudowoodo @ Wide Lens
+
+    1. Switch in body slam (9.5 - 11.9)
+    2. Head smash (68.5 - 80.9), body slam (9.5 - 11.9) (x2 KO)
+
+====================================================================================
+PKMN Trainer Ryley (Iron Island)
+====================================================================================
+
+- Absol @ Scope Lens: Primeape @ Power Herb
+
+    1. Close combat (KO)
+
+- Ursaring @ Flame Orb: Primeape @ None
+
+    1. Close combat (KO)
+
+- Slaking @ Sitrus Berry: Dusknoir @ Leftovers
+
+    1. Switch in play rough (39.6 - 47.1)
+    2. Will-o-wisp, Truant
+    3. Protect
+    4. Payback (rotate 3-4 until dead)
+
+- Lucario @ Life Orb: Dusknoir @ Leftovers / Empoleon @ Sitrus Berry
+    
+    1. Switch in empoleon, meteor mash (20.9 - 24.8)
+    2. Switch in dusknoir, high jump kick (0) [52.7 crash damage]
+    3. Switch in empoleon, meteor mash (20.9 - 24.8)
+    4. Switch in dusknoir, high jump kick (0) [52.7 crash damage] (KO)
+
+- Salamence @ Power Herb: Mawile @ Sitrus Berry
+
+    1. Switch in crunch (10 - 12.5)
+    2. Fly (19.1 - 22.5), play rough (68.2 - 80.2)
+    3. Fly (1), stockpile 
+    4. Fly (12.5 - 15), play rough (KO)
+
+- Metagross @ Liechi Berry: Feraligatr @ Muscle Band
+
+    1. Switch in earthquake (24.3 - 28.9)
+    2. Crunch (52.6 - 63.1), earthquake (24.3 - 28.9)
+    3. Crunch (KO)
+
+====================================================================================
+Leader Byron
+====================================================================================
+
+- Bronzong @ Light Clay: Drapion @ Scope Lens
+
+    1. Night slash (44.8 - 55.3) [Crit KO], gyro ball (19.3 - 23.4)
+    2. Night slash (KO)
+
+- Forretress @ Sitrus Berry: Dusknoir @ Leftovers
+
+    1. Switch in dusknoir, explosion (0)
+
+- Aggron @ Focus Sash: Poliwrath @ Sitrus Berry
+
+    1. Switch in head smash (30 - 35.8)
+    2. Scald (76 - 89.3), head smash (30 - 35.8)
+    3. Scald (KO)
+
+- Magnezone @ Wise Glasses: Blissey @ Leftovers
+
+    1. Switch in thunderbolt (18.8 - 22.4)
+    2. Light screen, thunderbolt (9.8 - 11.6)
+    3. Flamethrower (37.3 - 45.3), thunderbolt (9.8 - 11.6) (x3)
+
+- Steelix @ Muscle Band: Kingdra @ Focus Sash
+
+    1. Switch in earthquake (56 - 66.6)
+    2. Surf (KO)
+    
+- Bastiodon @ Leftovers: Sunflora @ Expert Belt
+
+    1. Switch in iron head (27.4 - 32.9)
+    2. Earth power (93.8% KO)
+
+====================================================================================
+Commander Saturn 2
+====================================================================================
+
+- Alakazam @ Wise Glasses: Drapion @ Choice Scarf
+
+    1. Crunch (KO)
+
+- Bronzong @ Bright Powder: Dusknoir @ Muscle Band
+
+    1. Switch in explosion (0) (KO)
+
+- Toxicroak @ Life Orb: Espeon @ Sitrus Berry
+
+    1. Switch in sucker punch (0)
+    2. Psychic (KO)
+
+- Rhydon @ Muscle Band: Golduck @ Focus Sash
+    
+    1. Switch in stone edge / earthquake (59.8 - 71.4)
+    2. Surf (KO)
+
+- Octillery @ Expert Belt: Exeggutor @ Sitrus Berry
+
+    1. Switch in seed bomb (11.8 - 14.2)
+    2. Leaf storm (KO)
+
+====================================================================================
+Commander Mars 2
+====================================================================================
+
+- Crobat @ Bright Powder: Empoleon @ Lum Berry
+
+    1. Brave bird (19 - 22.6), ice beam (60.2 - 71)
+    2. Brave bird (19 - 22.6), ice beam (KO)
+
+- Kangaskhan @ Muscle Band: Poliwrath @ Sitrus Berry / Mawile @ Sitrus Berry
+
+    1. Switch in poliwrath, hammer arm (24.1 - 28.8)
+    2. Double edge (44.1 - 51.7), close combat (60.9 - 71.6)
+    3. Switch in mawile, double edge (25.1 - 30.5)
+    4. Hammer arm (29 - 34.3), play rough (34.2 - 40.6)
+    5. Sucker punch (KO)
+
+- Bronzong @ Leftovers: Kabutops @ Sitrus Berry
+
+    1. Switch in explosion (62.2 - 73.4)
+
+- Yanmega @ Wise Glasses: Blissey @ Leftovers
+
+    1. Switch in bug buzz (16.4 - 19.7)
+    2. Bug buzz (16.4 - 19.7), light screen
+    3. bug buzz (8.3 - 10.1), thunderbolt (53.8 - 63.4) (2KO)
+
+- Purugly @ Sitrus Berry: Aggron @ Lum Berry
+
+    1. Switch in body slam (5.7 - 7.2)
+    2. Play rough (7.9 - 10.1), iron head (41.3 - 48.8) (x3KO)
+
+
+
+
+
+    
 

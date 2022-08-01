@@ -507,7 +507,7 @@ Static      Porygon (100%)
 
 # Trainers
 
-Galactic Grunt              Ledian Lv. 24, Ariados Lv. 24 / Leech Life
+Galactic Grunt              Ledian Lv. 24 / U-turn-Aerial Ace-Silver Wind, Ariados Lv. 24 / Leech Life
 Galactic Grunt              Ekans Lv. 23, Glameow Lv. 23 / Feint Attack, Nidoran-F Lv. 23 / Poison Fang-Toxic Spikes
 Galactic Grunt              Koffing Lv. 23, Stunky Lv. 23 / Night Slash, Nidoran-M Lv. 23 / Toxic Spikes
 Galactic Grunt              Cleffa Lv. 23
@@ -524,6 +524,7 @@ Skuntank (Lv. 27) @ Sitrus Berry    /   Adamant     /   Aftermath       /   Pois
 
 2 / W
 3 / W
+4 / W
 
 ====================================================================================
 Route 206
@@ -539,6 +540,7 @@ Honey Tree  Combee (30%), Burmy (20%), Pineco (20%), Silcoon (10%), Cascoon (10%
 
 2 / Gligar
 3 / Gligar
+4 / Mankey
 
 ====================================================================================
 Wayward Cave
@@ -552,6 +554,7 @@ Walking       Zubat (20%), Geodude (20%), Gible (20%), Baltoy (10%), Sandshrew (
 
 2 / Mawile
 3 / Zubat
+4 / Mawile
 
 # Boss
 
@@ -564,6 +567,7 @@ Kadabra (Lv. 28) @ Life Orb         /   Modest      /   Magic Guard     /   Psyb
 
 2 / W
 3 / W
+4 / W
 
 ====================================================================================
 Mining Museum
@@ -577,6 +581,7 @@ Fossil      Aerodactyl, Lileep, Anorith, Cranidos, Shieldon, Kabuto, Omanyte
 
 2 / Aerodactyl, Kabuto
 3 / Anorith, Omanyte
+4 / Kabuto, Cranidos
 
 ====================================================================================
 Route 207
@@ -586,9 +591,8 @@ Route 207
 Camper Anthony                                  Magby Lv. 24, Trapinch Lv. 24, Charmander Lv. 24
 Picnicker Lauren                                Smoochum Lv. 24, Snubbull Lv. 24, Treecko Lv. 24 / Slam, Agility
 Hiker Justin                                    Graveler Lv. 25, Sandslash Lv. 25
-[! - Metal Coat] Hiker Kevin                    Dunsparce Lv. 25, Dunsparce Lv. 25
+[! - Metal Coat] Hiker Kevin                    Dunsparce Lv. 25 / Body Slam-Roost, Dunsparce Lv. 25
 [? - Metal Coat] Battle Girl Helen              Tyrogue Lv. 26 / Fake Out, Meditite Lv. 26, Hariyama Lv. 26 / Belly Drum
-
 
 # Boss
 
@@ -603,6 +607,7 @@ Prinplup (Lv. 30) @ Sitrus Berry    /   ?           /   Torrent         /   Bubb
 
 2 / W
 3 / W
+4 / W
 
 ====================================================================================
 Route 208
@@ -663,6 +668,7 @@ Mismagius (Lv. 33) @ Sitrus Berry   /   Naive       /   Levitate        /   Shad
 
 2 / W
 3 / W
+4 / W
 
 ====================================================================================
 Hearthome City
@@ -675,6 +681,7 @@ Random      Egg (100%)
 # Encounter History
 
 3 / Azurill
+4 / Dragonite
 
 # Boss
 
@@ -706,7 +713,7 @@ Poké Radar      Castform (22%)
 # Encounter History
 
 2 / Cleffa
-3 / 
+4 / Happiny
 
 # Trainers
 
@@ -717,7 +724,7 @@ Galactic Grunt              Ninjask Lv. 30
 Galactic Grunt              Shedinja Lv. 30
 Galactic Grunt              Beedrill Lv. 29 / X-Scissor, Golbat Lv. 29 / Leech Life
 Galactic Grunt              Croagunk Lv. 28, Seviper Lv. 28, Butterfree Lv. 28
-Galactic Grunt              Murkrow Lv. 30
+Galactic Grunt              Murkrow Lv. 30 / Drill Peck
 Galactic Grunt              Stunky Lv. 28, Venonat Lv. 28, Arbok Lv. 28
 
 # Boss
@@ -736,3 +743,724 @@ Espeon (Lv. 33) @ Sitrus Berry      /   ?           /   Synchronize     /   Psyc
 
 2 / W
 3 / L
+4 / W
+
+====================================================================================
+Route 209
+====================================================================================
+
+# Encounters
+
+Night       Staravia (20%), Glameow (20%), Vulpix (10%), Bonsly (10%), Mime Jr. (10%), Snubbull (10%), Meowth (10%), Chansey (10%)
+Poké Radar  Purugly (22%)
+Old Rod     Magikarp (65%), Goldeen (35%)
+Good Rod    Magikarp (65%), Goldeen (35%)
+Honey Tree  Staravia (30%), Pidgeotto (20%), Noctowl (20%), Swellow (20%), Farfetch'd (10%)
+
+# Encounter History
+
+4 / Glameow
+
+# Trainers
+
+Twins Emma & Lil            Vaporeon Lv. 30, Flareon Lv. 30
+
+====================================================================================
+Lost Tower
+====================================================================================
+
+# Encounters
+
+Night       Shuppet (20%), Duskull (20%), Golbat (15%), Haunter (15%), Murkrow (10%), Misdreavus (10%), Dusclops (5%), Banette (5%)
+
+# Encounter History
+
+4 / Dusclops
+
+====================================================================================
+Solaceon Town
+====================================================================================
+
+# Encounters
+
+Random      Egg (100%)
+
+# Encounter History
+
+4 / Seviper
+
+====================================================================================
+Solaceon Ruins
+====================================================================================
+
+* Get choice scarf from hiker with a specific (?) HM/TM.
+
+# Trainers
+Ruin Maniac Karl            Bronzor Lv. 31, Graveler Lv. 31, Sandslash Lv. 31
+
+
+====================================================================================
+Route 210
+====================================================================================
+
+# Encounters
+
+Day         Kricketune (20%), Nuzleaf (20%), Scyther (15%), Pinsir (10%), Miltank (10%), Tauros (10%), Pidgeotto (10%), Rapidash (5%)
+Night       Kricketune (20%), Nuzleaf (20%), Scyther (15%), Pinsir (10%), Miltank (10%), Tauros (10%), Noctowl (10%), Rapidash (5%)
+Poké Radar  Kecleon (22%)
+Honey Tree  Combee (30%), Pineco (20%), Silcoon (10%), Cascoon (10%), Wormadam (10%), Mothim (10%), Heracross (10%)
+
+# Encounter History
+
+2 / Scyther
+4 / Kricketune
+
+# Trainers
+
+PKMN Breeder Amber          Mantyke Lv. 31, Happiny Lv. 31, Wynaut Lv. 31
+Belle & Pa Ava & Matt       Tauros Lv. 33, Miltank Lv. 33
+
+====================================================================================
+Route 215
+====================================================================================
+
+# Encounters
+
+Night       Marill (25%), Drowzee (20%), Lickitung (15%), Kadabra (15%), Mightyena (10%), Linoone (10%), Hypno (5%)
+Poké Radar  Absol (22%)
+Honey Tree  Aipom (30%), Vigoroth (20%), Metapod (20%), Kakuna (20%), Munchlax (10%)
+
+# Encounter History
+
+2 / Mightyena
+4 / 
+
+# Trainers
+
+Black Belt Gregory          Primeape Lv. 34, Hitmonchan Lv. 34
+Black Belt Derek            Combusken Lv. 34, Hitmonlee Lv. 34
+Ruin Maniac Calvin          Marowak Lv. 33, Rampardos Lv. 33
+Ace Trainer Dennis (!)      Gligar Lv. 35 / Brick Break-, Gyarados Lv. 35, Drifblim Lv. 35
+Ace Trainer Maya (!)        Lickitung Lv. 35, Gardevoir Lv. 35 / Dazzling Gleam, Roserade Lv. 35
+
+====================================================================================
+Veilstone Gym
+====================================================================================
+
+# Trainers
+
+Black Belt Rafael           Hitmonchan Lv. 35, Hitmonlee Lv. 35, Hitmontop Lv. 35
+Black Belt Jeffery          Heracross Lv. 36, Poliwrath Lv. 36
+
+# Boss
+
+Leader Maylene
+Medicham (Lv. 38) @ Sitrus Berry    /   Naive       /   Pure Power          /   High Jump Kick, Zen Headbutt, Ice Punch, Fake Out
+Machamp (Lv. 38) @ Toxic Orb        /   Relaxed     /   Guts                /   Close Combat, Payback, Thunder Punch, Protect
+Infernape (Lv. 38) @ Life Orb       /   Hasty       /   Iron Fist           /   Close Combat, Rock Slide, Fire Punch, Mach Punch
+Toxicroak (Lv. 38) @ Big Root       /   Lonely      /   Dry Skin            /   Drain Punch, Poison Jab, Ice Punch, Sucker Punch
+Gallade (Lv. 38) @ Light Clay       /   Brave       /   Steadfast           /   Drain Punch, Zen Headbutt, Light Screen, Reflect
+Lucario (Lv. 39) @ Focus Sash       /   Timid       /   Adaptability (!)    /   Aura Sphere, Flash Cannon, Dark Pulse, Agility
+
+# Boss History
+
+2 / W
+4 / W
+
+====================================================================================
+Veilstone City
+====================================================================================
+
+# Encounters
+
+Random      Egg (100%)
+
+# Encounter History
+
+4 / Sudowoodo
+
+# Trainers
+
+Team Galactic Grunt         Weezing Lv. 35, Golbat Lv. 35, Venomoth Lv. 35
+Team Galactic Grunt         Skuntank Lv. 35, Dustox Lv. 35, Wormadam Lv. 35
+
+====================================================================================
+Route 214
+====================================================================================
+
+# Encounters
+
+Night       Graveler (30%), Houndour (20%), Rhyhorn (15%), Numel (15%), Spoink (10%), Cacnea (10%)
+Poké Radar  Spinda (22%)
+Surf        Psyduck (90%), Golduck (10%)
+Good Rod    Magikarp (65%), Goldeen (35%)
+Honey Tree  Aipom (30%), Vigoroth (20%), Butterfree (20%), Beedrill (20%), Munchlax (10%)
+
+# Encounter History
+
+2 / Graveler
+4 / Numel
+
+# Trainers
+
+Psychic Abigail (!)         Kirlia Lv. 34, Chimecho Lv. 34, Girafarig Lv. 34
+Ruin Maniac Ronald          Relicanth Lv. 35
+
+
+====================================================================================
+Maniac Tunnel
+====================================================================================
+
+# Encounters
+
+Night       Diglett (25%), Whismur (20%), Hippopotas (15%), Trapinch (15%), Loudred (10%), Ditto (10%), Dugtrio (5%)
+
+# Encounter History
+
+2 / Diglett
+4 / Trapinch
+
+====================================================================================
+Valor Lakefront
+====================================================================================
+
+# Encounters
+
+Night       Girafarig (30%), Bibarel (20%), Nidorina (20%), Nidorino (20%), Kricketune (10%)
+Poké Radar  Venomoth (22%)
+
+# Encounter History
+
+2 / Girafarig
+4 / Girafarig
+
+
+====================================================================================
+Route 213
+====================================================================================
+
+# Encounters
+
+Day         Gastrodon (25%), Floatzel (20%), Pelipper (20%), Swellow (20%), Chatot (10%), Shuckle (5%)
+Poké Radar  Absol (22%)
+Surf        Tentacool (60%), Wingull (30%), Tentacruel (5%), Pelipper (5%)
+Good Rod    Magikarp (60%), Remoraid (30%), Wailmer (10%)
+Honey Tree  Staravia (30%), Pidgeotto (20%), Noctowl (20%), Swellow (20%), Farfetch'd (10%)
+
+# Encounter History
+
+2 / Noctowl
+4 / Noctowl
+
+# Trainers
+
+Tuber Chelsea (!)           Azumarill Lv. 37
+Beauty Cyndy (!)            Delcatty Lv. 37, Persian Lv. 37
+
+====================================================================================
+Grand Marsh
+====================================================================================
+
+# Encounters
+
+
+1 / 2
+Night       Bibarel (30%), Quagsire (20%), Tropius (20%), Tangela (20%), Carnivine (10%)
+Surf        Wooper (90%), Quagsire (10%)
+Good Rod    Magikarp (60%), Barboach (30%), Carvanha (10%)
+
+3 / 4
+Night       Parasect (30%), Exeggcute (20%), Croagunk (20%), Toxicroak (10%), Kangaskhan (10%), Yanma (10%)
+Surf        Wooper (90%), Quagsire (10%)
+Good Rod    Magikarp (60%), Barboach (30%), Carvanha (10%)
+
+5 / 6
+Night       Skorupi (30%), Gulpin (20%), Shroomish (20%), Swalot (10%), Breloom (10%), Drapion (10%)
+Surf        Wooper (90%), Quagsire (10%)
+Good Rod    Magikarp (60%), Barboach (30%), Carvanha (10%)
+
+# Encounter History
+
+2 / Skorupi
+4 / 
+
+====================================================================================
+Route 212 (South)
+====================================================================================
+
+# Encounters
+
+Night       Croagunk (20%), Grimer (20%), Koffing (15%), Ekans (15%), Weepinbell (10%), Lombre (10%), Arbok (5%), Toxicroak (5%)
+Poké Radar  Muk (11%), Weezing (11%)
+Surf        Shellos (60%), Wooper (30%), Gastrodon (5%), Quagsire (5%)
+Good Rod    Magikarp (60%), Barboach (30%), Remoraid (10%)
+Honey Tree  Cherrim (30%), Shroomish (20%), Exeggcute (20%), Nuzleaf (20%), Tangela (10%)
+
+# Encounter History
+
+2 / Ekans
+4 / Croagunk
+
+# Trainers
+
+Parasol Lady Alexa (!)      Seadra Lv. 38, Golduck Lv. 38
+Pokémon Ranger Allison (!)  Milotic Lv. 39 / Hypnosis, Leafeon Lv. 39 / Psycho Cut-Night Slash, Jynx Lv. 39
+Pokémon Ranger Jeffrey      Magmar Lv. 39 / Sunny Day, Manectric Lv. 39 / Discharge-Ice Fang, Nidoking Lv. 39 / Earth Power
+
+====================================================================================
+Pastoria City
+====================================================================================
+
+# Encounters
+
+Surf        Tentacool (60%), Shellos (30%), Tentacruel (5%), Gastrodon (5%)
+Good Rod    Magikarp (60%), Poliwag (30%), Carvanha (10%)
+
+# Encounter History
+
+2 / Carvanha
+4 / Carvanha
+
+# Boss
+
+PKMN Trainer Barry
+Staraptor (Lv. 41) @ Muscle Band    /   ?           /   Reckless        /   Double-Edge, Close Combat, Aerial Ace, Roost
+Heracross (Lv. 41) @ Coba Berry     /   ?           /   Guts            /   Megahorn, Brick Break, Bullet Seed, Night Slash
+Snorlax (Lv. 41) @ Leftovers        /   ?           /   Thick Fat       /   Body Slam, Crunch, Rest, Sleep Talk
+Azumarill (Lv. 41) @ Life Orb       /   ?           /   Huge Power      /   Aqua Tail, Play Rough, Body Slam, Aqua Jet          (!)
+Arcanine (Lv. 41) @ Expert Belt     /   ?           /   Intimidate      /   Heat Wave, Thunder Fang, Outrage, Crunch            (!)
+Breloom (Lv. 41) @ Focus Sash       /   ?           /   Technician      /   Bullet Seed, Force Palm, Spore, Rock Tomb           (!)
+Torterra (Lv. 42) @ Sitrus Berry    /   ?           /   Overgrow        /   Seed Bomb, Earthquake, Crunch, Iron Head            (!)
+Infernape (Lv. 42) @ Sitrus Berry   /   ?           /   Iron Fist       /   Flamethrower, Close Combat, Fake Out, Thunder Punch (!)
+Empoleon (Lv. 42) @ Sitrus Berry    /   ?           /   Torrent         /   Scald, Flash Cannon, Agility, Swagger               (!)
+
+# Boss History
+
+2 / W
+4 / 
+
+====================================================================================
+Pastoria Gym
+====================================================================================
+
+# Trainers
+
+Tuber Jacky                 Bibarel Lv. 39, Wartortle Lv. 39, Sealeo Lv. 39
+Sailor Damian               Pelipper Lv. 39, Croconaw Lv. 39, Golduck Lv. 39
+Tuber Caitlyn               Azumarill Lv. 39, Marshtomp Lv. 39, Dewgong Lv. 39 / Take Down - Drill Run
+Sailor Samson               Slowbro Lv. 39, Gastrodon Lv. 39 / Muddy Water - Sludge Bomb, Mantine Lv. 39
+
+# Boss
+
+Leader Wake
+Quagsire (Lv. 43) @ Rindo Berry     /   Adamant     /   Water Absorb        /   Aqua Tail, Earthquake, Recover, Ice Punch
+Gyarados (Lv. 43) @ Wacan Berry     /   Jolly       /   Intimidate          /   Aqua Tail, Ice Fang, Crunch, Dragon Dance
+Poliwrath (Lv. 43) @ Sitrus Berry   /   Careful     /   Water Absorb        /   Waterfall, Drain Punch, Ice Punch, Hypnosis
+Ludicolo (Lv. 43) @ Life Orb        /   Modest      /   Swift Swim          /   Hydro Pump, Ice Beam, Energy Ball, Fake Out
+Sharpedo (Lv. 43) @ Focus Sash      /   Naive       /   Speed Boost         /   Waterfall, Crunch, Ice Fang, Zen Headbutt
+Floatzel (Lv. 44) @ Life Orb        /   Naive       /   Swift Swim          /   Aqua Tail, Crunch, Ice Punch, Aqua Jet
+
+# Boss History
+
+2 / W
+4 / W
+
+====================================================================================
+Valor Lakefront
+====================================================================================
+
+# Trainers
+
+Galactic Grunt      Toxicroak Lv. 41
+
+====================================================================================
+Route 210 (North)
+====================================================================================
+
+# Trainers
+
+Ace Trainer Alyssa          Ambipom Lv. 42, Starmie Lv. 42, Torterra Lv. 42
+Ace Trainer Ernest          Politoed Lv. 41 / Icy Wind, Pinsir Lv. 41 / Megahorn-Knock Off-Close Combat, Probopass Lv. 41 / Thunderbolt - Flash Cannon, Xatu Lv. 41 / Giga Drain
+Black Belt Adam             Machamp Lv. 42, Blaziken Lv. 42, Heracross Lv. 42
+Bird Keeper Brianna (!)     Dodrio Lv. 42, Pidgeot Lv. 42, Skarmory Lv. 42
+Veteran Brian (!)           Tangrowth Lv. 43, Rapidash Lv. 43, Feraligatr Lv. 43
+
+# Boss
+
+PKMN Trainer Lucas
+Alakazam (Lv. 44) @ Life Orb        /   ?           /   Magic Guard     /   Psychic, Shadow Ball, Energy Ball, Dazzling Gleam
+Mamoswine (Lv. 44) @ Passho Berry   /   ?           /   Thick Fat       /   Earthquake, Avalanche, Stone Edge, Ice Shard
+Granbull (Lv. 44) @ Choice Band     /   ?           /   Intimidate      /   Play Rough, Close Combat, Crunch, Earthquake
+Lickilicky (Lv. 44) @ Leftovers     /   ?           /   Own Tempo       /   Body Slam, Zen Headbutt, Earthquake, Amnesia
+Vaporeon (Lv. 44) @ Wise Glasses    /   ?           /   Water Absorb    /   Hydro Pump, Ice Beam, Extrasensory, Aqua Ring           (!)
+Jolteon (Lv. 44) @ Wise Glasses     /   ?           /   Volt Absorb     /   Thunder, Shadow Ball, Extrasensory, Thunder Wave        (!)
+Flareon (Lv. 44) @ Muscle Band      /   ?           /   Flash Fire      /   Flare Blitz, Play Rough, Close Combat, Will-O-Wisp      (!)
+Torterra (Lv. 45) @ Sitrus Berry    /   ?           /   Overgrow        /   Wood Hammer, Earthquake, Iron Head, Rock Slide          (!)
+Infernape (Lv. 45) @ Sitrus Berry   /   ?           /   Iron Fist       /   Fire Blast, Close Combat, Thunder Punch, Rock Slide     (!)
+Empoleon (Lv. 45) @ Sitrus Berry    /   ?           /   Torrent         /   Surf, Flash Cannon, Grass Knot, Featherdance            (!)
+
+# Boss History
+
+2 / W
+4 / W
+
+====================================================================================
+Celestic Town
+====================================================================================
+
+# Encounters
+
+Surf        Psyduck (90%), Golduck (10%)
+Good Rod    Magikarp (90%), Relicanth (10%)
+
+# Encounter History
+
+2 / Psyduck 
+4 / Psyduck
+
+# Trainers
+
+Galactic Grunt              Houndoom Lv. 43, Golbat Lv. 43, Beedrill Lv. 43 / Drill Run
+
+# Boss
+
+Galactic Boss Cyrus
+Crobat (Lv. 45) @ Wise Glasses      /   ?           /   Inner Focus     /   Sludge Bomb, Air Slash, Giga Drain, Hypnosis
+Honchkrow (Lv. 45) @ Scope Lens     /   ?           /   Super Luck      /   Brave Bird, Night Slash, Swagger, Torment
+Magnezone (Lv. 45) @ Life Orb       /   ?           /   Magnet Pull     /   Thunderbolt, Flash Cannon, Thunder Wave, Mirror Coat
+Weavile (Lv. 46) @ Expert Belt      /   ?           /   Technician (!)  /   Feint Attack, Icicle Crash, Ice Shard, Swords Dance
+
+# Boss History
+
+2 / W
+4 / W
+
+====================================================================================
+Route 219
+====================================================================================
+
+# Encounters
+
+Surf        Wingull (60%), Tentacool (30%), Pelipper (5%), Tentacruel (5%)
+Good Rod    Krabby (60%), Horsea (30%), Clamperl (10%)
+
+# Encounter History
+
+2 / Wingull
+4 / Wingull
+
+# Trainers
+
+Tuber Mariel                Azumarill Lv. 43, Vaporeon Lv. 43
+Tuber Trenton               Poliwhirl Lv. 42, Gastrodon Lv. 42, Bibarel Lv. 42
+
+====================================================================================
+Route 220
+====================================================================================
+
+# Encounters
+
+Surf        Wingull (60%), Mantyke (30%), Pelipper (5%), Mantine (5%)
+Good Rod    Luvdisc (60%), Horsea (30%), Corsola (10%)
+
+# Encounter History
+
+2 / Mantyke
+4 / Luvdisc
+
+# Trainers
+
+Swimmer Jessica             Seadra Lv. 43, Luvdisc Lv. 43, Seaking Lv. 43
+Swimmer Erica               Lumineon Lv. 44, Corsola Lv. 44
+Swimmer Adrian              Octillery Lv. 43, Tentacruel Lv. 43, Slowking Lv. 43
+Swimmer Vincent             Wailord Lv. 45
+Swimmer Claire              Starmie Lv. 44, Blastoise Lv. 44
+Swimmer Erik                Politoed Lv. 44, Lanturn Lv. 44
+Swimmer Katelyn             Floatzel Lv. 43, Medicham Lv. 43, Seaking Lv. 43
+
+====================================================================================
+Route 221
+====================================================================================
+
+# Encounters
+
+Night       Sudowoodo (20%), Skuntank (20%), Nidorina (15%), Nidorino (15%), Farfetch'd (10%), Girafarig (10%), Dodrio (10%)
+Surf        Wingull (60%), Tentacool (30%), Pelipper (5%), Tentacruel (5%)
+Good Rod    Krabby (60%), Horsea (30%), Clamperl (10%)
+Honey Tree  Cherrim (30%), Shroomish (20%), Exeggcute (20%), Nuzleaf (20%), Tangela (10%)
+
+# Encounter History
+
+2 / Tentacruel
+4 / Horsea
+
+# Trainers
+
+Swimmer Dillon              Swampert Lv. 46
+Swimmer Vanessa             Milotic Lv. 46
+Fisherman Cory              Whiscash Lv. 44, Kingler Lv. 44, Gyarados Lv. 44
+Ace Trainer Shannon (!)     Vileplume Lv. 45, Gardevoir Lv. 45, Lopunny Lv. 45, Nidoqueen Lv. 45
+Ace Trainer Jake (!)        Claydol Lv. 45, Charizard Lv. 45, Exeggutor Lv. 45, Absol Lv. 45
+Collector Ivan (!)          Togekiss Lv. 45, Blissey Lv. 45
+
+====================================================================================
+Pal Park
+====================================================================================
+
+# Boss
+
+Castle Valet Darach
+Gallade (Lv. 48) @ Scope Lens       /   ?           /   Steadfast       /   Psycho Cut, Night Slash, Close Combat, Leaf Blade
+Empoleon (Lv. 48) @ Sitrus Berry    /   ?           /   Torrent         /   Hydro Pump, Flash Cannon, Ice Beam, Aqua Jet
+Alakazam (Lv. 48) @ Expert Belt     /   ?           /   Magic Guard     /   Psychic, Dazzling Gleam, Focus Blast, Energy Ball
+Metagross (Lv. 48) @ Life Orb       /   ?           /   Iron Fist (!)   /   Meteor Mash, Zen Headbutt, Earthquake, Hammer Arm
+Staraptor (Lv. 48) @ King's Rock    /   ?           /   Reckless        /   Return, Brave Bird, Close Combat, Roost
+Entei (Lv. 48) @ Shuca Berry        /   ?           /   Pressure        /   Sacred Fire, Stone Edge, Extreme Speed, Iron Head
+
+# Boss History
+
+2 / L
+4 / W
+
+====================================================================================
+Route 218
+====================================================================================
+
+# Trainers
+
+Fisherman Miguel (!)        Huntail Lv. 44, Gorebyss Lv. 44
+Fisherman Luc               Crawdaunt Lv. 45
+Sailor Skyler               Omastar Lv. 43, Kabutops Lv. 43, Relicanth Lv. 43
+Guitarist Tony (!)          Kricketune Lv. 44, Exploud Lv. 44
+
+====================================================================================
+Canalave City
+====================================================================================
+
+# Encounters
+
+Surf        Tentacool (60%), Shellos (30%), Tentacruel (5%), Gastrodon (5%)
+Good Rod    Magikarp (60%), Finneon (30%), Staryu (10%)
+
+# Encounter History
+
+4 / Tentacool
+
+# Boss
+
+Staraptor (Lv. 48) @ Choice Band    /   ?           /   Reckless        /   Double-Edge, Brave Bird, Close Combat, U-turn
+Heracross (Lv. 48) @ Muscle Band    /   ?           /   Guts            /   Megahorn, Close Combat, Rock Slide, Night Slash
+Snorlax (Lv. 48) @ Leftovers        /   ?           /   Thick Fat       /   Curse, Body Slam, Crunch, Slack Off
+Azumarill (Lv. 48) @ Life Orb       /   ?           /   Huge Power      /   Aqua Tail, Play Rough, Ice Punch, Aqua Jet          (!)
+Arcanine (Lv. 48) @ Expert Belt     /   ?           /   Intimidate      /   Flare Blitz, Extreme Speed, Crunch, Close Combat    (!)
+Breloom (Lv. 48) @ Focus Sash       /   ?           /   Technician      /   Bullet Seed, Force Palm, Spore, Stone Edge          (!)
+Torterra (Lv. 49) @ Sitrus Berry    /   ?           /   Overgrow        /   Wood Hammer, Earthquake, Crunch, Iron Head          (!)
+Infernape (Lv. 49) @ Sitrus Berry   /   ?           /   Iron Fist       /   Fire Blast, Close Combat, Fake Out, Thunder Punch   (!)
+Empoleon (Lv. 49) @ Sitrus Berry    /   ?           /   Torrent         /   Surf, Flash Cannon, Grass Knot, Agility             (!)
+
+# Boss History
+
+4 / W
+
+====================================================================================
+Iron Island
+====================================================================================
+
+# Encounters
+
+Surf        Wingull (60%), Tentacool (30%), Pelipper (5%), Tentacruel (5%)
+Good Rod    Magikarp (60%), Finneon (30%), Qwilfish (10%)
+Day         Graveler (25%), Golbat (20%), Lairon (15%), Mawile (10%), Sableye (10%), Nosepass (10%), Rhydon (5%), Steelix (5%)
+
+# Encounter History
+
+4 / Lairon
+
+# Trainers
+
+[? - Protector] Camper Lawrence             Charmeleon Lv. 46, Ambipom Lv. 46 / Fake Out-Bounce-Nasty Plot, Floatzel Lv. 46
+[!] Picnicker Summer            Grovyle Lv. 46, Fearow Lv. 46, Raichu Lv. 46
+Black Belt Kendal           Poliwrath Lv. 48, Hariyama Lv. 48
+Battle Girl Tyler           Hitmontop Lv. 48, Primeape Lv. 48
+Worker Brendon              Magneton Lv. 47, Machoke Lv. 47
+Worker Quentin              Lairon Lv. 47, Graveler Lv. 47
+Ace Trainer Jonah           Masquerain Lv. 48, Cradily Lv. 48, Hippowdon Lv. 48
+Ace Trainer Brenda          Gardevoir Lv. 48, Lopunny Lv. 48, Medicham Lv. 48
+Galactic Grunt              Golbat Lv. 46, Houndoom Lv. 46, Muk Lv. 46
+Galactic Grunt              Purugly Lv. 46, Toxicroak Lv. 46, Skuntank Lv. 46
+
+# Boss
+
+PKMN Trainer Ryley
+Absol (Lv. 49) @ Scope Lens         /   ?           /   Super Luck      /   Night Slash, Psycho Cut, Megahorn, Play Rough
+Ursaring (Lv. 49) @ Flame Orb       /   ?           /   Guts            /   Strength, Close Combat, Play Rough, Protect
+Metagross (Lv. 49) @ Liechi Berry   /   ?           /   Clear Body      /   Meteor Mash, Earthquake, Zen Headbutt, Agility
+Salamence (Lv. 49) @ Power Herb     /   ?           /   Intimidate      /   Dragon Rush, Fly, Crunch, Dragon Dance
+Slaking (Lv. 49) @ Sitrus Berry     /   ?           /   Truant          /   Body Slam, Hammer Arm, Play Rough, Slack Off
+Lucario (Lv. 50) @ Life Orb         /   ?           /   Adaptability    /   High Jump Kick, Meteor Mash, Blaze Kick, Bullet Punch
+
+# Boss History
+
+4 / W
+
+====================================================================================
+Canalave Gym
+====================================================================================
+
+# Trainers
+
+Black Belt Ricky            Steelix Lv. 51
+Ace Trainer Cesar           Empoleon Lv. 50 / Grass Knot, Scizor Lv. 50, Metagross Lv. 50
+Worker Gerardo              Probopass Lv. 49, Forretress Lv. 49 / Drill Run
+Black Belt David            Lucario Lv. 51 / Aura Sphere-Meteor Mash
+Ace Trainer Breanna         Skarmory Lv. 50, Mawile Lv. 50 / Iron Head-Fire Fang-Crunch, Wormadam Lv. 50 / Psychic
+
+# Boss
+
+Bronzong (Lv. 52) @ Light Clay      /   Impish      /   Levitate        /   Gyro Ball, Stealth Rock, Reflect, Light Screen
+Magnezone (Lv. 52) @ Wise Glasses   /   Quiet       /   Magnet Pull     /   Thunderbolt, Flash Cannon, Signal Beam, Thunder Wave
+Steelix (Lv. 52) @ Muscle Band      /   Adamant     /   Rock Head       /   Gyro Ball, Earthquake, Stone Edge, Explosion
+Forretress (Lv. 52) @ Sitrus Berry  /   Impish      /   Sturdy          /   Gyro Ball, Spikes, Toxic Spikes, Explosion
+Aggron (Lv. 52) @ Focus Sash        /   Naughty     /   Rock Head       /   Head Smash, Iron Head, Aqua Tail, Low Kick
+Bastiodon (Lv. 53) @ Leftovers      /   Sassy       /   Soundproof      /   Iron Head, Toxic, Protect, Metal Burst
+
+# Boss History
+
+4 / W
+
+====================================================================================
+Lake Valor
+====================================================================================
+
+# Trainers
+
+Galactic Grunt              Purugly Lv. 50
+Galactic Grunt              Skuntank Lv. 50
+
+# Boss
+
+Commander Saturn
+Alakazam (Lv. 52) @ Wise Glasses    /   ?           /   Magic Guard     /   Psychic, Calm Mind, Recover, Focus Blast
+Octillery (Lv. 52) @ Expert Belt    /   ?           /   Suction Cups    /   Hydro Pump, Seed Bomb, Flamethrower, Flash Cannon
+Bronzong (Lv. 52) @ Bright Powder   /   ?           /   Levitate        /   Iron Head, Zen Headbutt, Shadow Ball, Explosion
+Rhydon (Lv. 52) @ Muscle Band       /   ?           /   Rock Head       /   Stone Edge, Earthquake, Hammer Arm, Megahorn
+Toxicroak (Lv. 53) @ Life Orb       /   ?           /   Dry Skin        /   Gunk Shot, Cross Chop, Fake Out, Sucker Punch
+
+# Boss History
+
+4 / W
+
+====================================================================================
+Lake Verity
+====================================================================================
+
+# Trainers
+
+Galactic Grunt              Beautifly Lv. 50, Butterfree Lv. 50
+Galactic Grunt              Dustox Lv. 50, Beedrill Lv. 50
+Galactic Grunt              Nidorino Lv. 49, Golbat Lv. 49, Wormadam Lv. 49
+Galactic Grunt              Nidorina Lv. 49, Golbat Lv. 49, Mothim Lv. 49
+
+# Boss
+
+Commander Mars
+Crobat (Lv. 52) @ Bright Powder     /   ?           /   Inner Focus     /   Brave Bird, Hypnosis, Double Team, Giga Drain
+Yanmega (Lv. 52) @ Wise Glasses     /   ?           /   Speed Boost     /   Bug Buzz, Air Slash, Psychic, Detect
+Bronzong (Lv. 52) @ Leftovers       /   ?           /   Levitate        /   Stealth Rock, Gyro Ball, Payback, Explosion
+Kangaskhan (Lv. 52) @ Muscle Band   /   ?           /   Scrappy         /   Double-Edge, Hammer Arm, Crunch, Fake Out
+Purugly (Lv. 53) @ Sitrus Berry     /   ?           /   Thick Fat       /   Body Slam, Play Rough, Hypnosis, Fake Out
+
+# Boss History
+
+4 / W
+
+====================================================================================
+Route 217
+====================================================================================
+
+# Encounters
+
+Night       Piloswine (30%), Snorunt (20%), Sneasel (10%), Jynx (10%), Abomasnow (10%), Glalie (10%), Delibird (10%)
+Poké Radar  Froslass (22%)
+
+# Encounter History
+
+4 / Piloswine
+
+# Trainers
+
+Ace Trainer Dalton (!)      Magmortar Lv. 52 / Psychic, Venusaur Lv. 52 / Sleep Powder-Sludge Bomb-Earthquake, Kingdra Lv. 52 / Yawn-Muddy Water
+Ace Trainer Olivia (!)      Shiftry Lv. 52, Altaria Lv. 52, Blissey Lv. 52
+
+====================================================================================
+Acuity Lakefront
+====================================================================================
+
+# Encounters
+
+Night       Piloswine (30%), Snorunt (20%), Sneasel (10%), Jynx (10%), Abomasnow (10%), Glalie (10%), Delibird (10%)
+Poké Radar  Froslass (22%)
+
+# Encounter History
+
+4 / Glalie
+
+====================================================================================
+Snowpoint City
+====================================================================================
+
+# Encounters
+
+Random          Egg (100%)
+
+# Encounter History
+
+4 / Barboach
+
+# Trainers
+
+Ace Trainer Aran            Heracross Lv. 54, Typhlosion Lv. 54, Tyranitar Lv. 54
+Ace Trainer Nephenee        Blissey Lv. 54, Meganium Lv. 54, Feraligatr Lv. 54
+
+====================================================================================
+Snowpoint Temple
+====================================================================================
+
+# Encounters
+
+Night       Golbat (25%), Graveler (20%), Sneasel (20%), Steelix (10%), Jynx (10%), Glalie (5%), Froslass (5%), Weavile (5%)
+
+# Encounter History
+
+4 / Graveler
+
+====================================================================================
+Snowpoint Gym
+====================================================================================
+
+# Trainers
+
+Ace Trainer Anton           Snorunt Lv. 51, Glalie Lv. 54, Glalie Lv. 54
+Ace Trainer Savannah        Seel Lv. 51, Jynx Lv. 54, Dewgong Lv. 54
+Ace Trainer Alicia          Spheal Lv. 51, Sealeo Lv. 53, Walrein Lv. 55
+Ace Trainer Isaiah          Abomasnow Lv. 54, Delibird Lv. 54
+Ace Trainer Brenna          Dewgong Lv. 53, Cloyster Lv. 53, Lapras Lv. 53
+Ace Trainer Sergio          Swinub Lv. 51, Piloswine Lv. 53, Mamoswine Lv. 55
+
+# Boss
+
+Leader Candice
+Abomasnow (Lv. 55) @ Expert Belt    /   Brave       /   Snow Warning        /   Wood Hammer, Earthquake, Blizzard, Ice Shard
+Weavile (Lv. 55) @ Focus Sash       /   Naughty     /   Technician (!)      /   Crunch, Icicle Crash, Aerial Ace, Swords Dance
+Glaceon (Lv. 55) @ Bright Powder    /   Bold        /   Snow Cloak          /   Blizzard, Shadow Ball, Earth Power, Double Team
+Walrein (Lv. 55) @ Chople Berry     /   Quiet       /   Thick Fat           /   Blizzard, Surf, Yawn, Aqua Ring
+Mamoswine (Lv. 55) @ Passho Berry   /   Naive       /   Thick Fat           /   Earthquake, Avalanche, Stone Edge, Ice Shard
+Froslass (Lv. 56) @ Life Orb        /   Modest      /   Levitate (!)        /   Blizzard, Shadow Ball, Thunderbolt, Attract
+
+# Boss History
+
+4 / L
+
+
+
+

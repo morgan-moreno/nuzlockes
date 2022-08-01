@@ -1,2 +1,30 @@
 export const REGEX_MULTIPLE_SPACES = /\s{2,}/;
 export const REGEX_NEW_LINE = /\n/;
+
+export const NATURES: { [key: string]: string } = {
+  adamant: "Adamant (+Atk, -SpA)",
+  bashful: "Bashful (Neutral)",
+  bold: "Bold (+Def, -Atk)",
+  brave: "Brave (+Atk, -Spe)",
+  calm: "Calm (+SpD, -Atk)",
+  careful: "Careful (+SpD, -SpA)",
+  docile: "Docile (Neutral)",
+  gentle: "Gentle (+SpD, -Def)",
+  hardy: "Hardy (Neutral)",
+  hasty: "Hasty (+Spe, -Def)",
+  impish: "Impish (+Def, -SpA)",
+  jolly: "Jolly (+Spe, -SpA)",
+  lax: "Lax (+Def, -SpD)",
+  lonely: "Lonely (+Atk, -Def)",
+  mild: "Mild (+SpA, -Def)",
+  modest: "Modest (+SpA, -Atk)",
+  naive: "Naive (+Spe, - SpD)",
+  naughty: "Naughty (+Atk, -SpD)",
+  quiet: "Quiet (+SpA, -Spe)",
+  quirky: "Quirky (Neutral)",
+  rash: "Rash (+SpA, -SpD)",
+  relaxed: "Relaxed (+Def, -Spe)",
+  sassy: "Sassy (+SpD, -Spe)",
+  serious: "Serious (Neutral)",
+  timid: "Timid (+Spe, -Atk)",
+};

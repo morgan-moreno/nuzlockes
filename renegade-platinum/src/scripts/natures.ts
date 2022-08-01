@@ -1,4 +1,4 @@
-const NATURES: { [key: string]: string } = {
+export const NATURES: { [key: string]: string } = {
   adamant: "Adamant (+Atk, -SpA)",
   bashful: "Bashful (Neutral)",
   bold: "Bold (+Def, -Atk)",
