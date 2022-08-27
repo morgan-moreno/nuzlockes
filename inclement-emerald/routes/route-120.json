@@ -1,0 +1,114 @@
+{
+  "trainers": [
+    {
+      "name": "Parsasol Lady Clarissa",
+      "pokemon": [
+        {
+          "name": "Tangrowth",
+          "level": "67",
+          "item": "",
+          "ability": "",
+          "nature": "",
+          "moves": ["Power Whip", "Ancient Power", "Sleep Powder", "Leech Seed"]
+        },
+        {
+          "name": "Wailord",
+          "level": "68",
+          "item": "",
+          "ability": "",
+          "nature": "",
+          "moves": ["Water Spout", "Heavy Slam", "Bounce", "Aqua Ring"]
+        },
+        {
+          "name": "Pyroar",
+          "level": "67",
+          "item": "",
+          "ability": "",
+          "nature": "",
+          "moves": ["Fire Blast", "Hyper Voice", "Noble Roar", "Work Up"]
+        }
+      ]
+    },
+    {
+      "name": "Bird Keeper Robert",
+      "pokemon": [
+        {
+          "name": "Fearow",
+          "level": "68",
+          "item": "",
+          "ability": "Sniper",
+          "nature": "",
+          "moves": ["Drill Peck", "Drill Run", "Focus Energy", "Pursuit"]
+        },
+        {
+          "name": "Staraptor",
+          "level": "68",
+          "item": "",
+          "ability": "",
+          "nature": "",
+          "moves": ["Return", "Brave Bird", "Close Combat", "Work Up"]
+        }
+      ]
+    },
+    {
+      "name": "Bird Keeper Colin",
+      "pokemon": [
+        {
+          "name": "Dodrio",
+          "level": "67",
+          "item": "",
+          "ability": "",
+          "nature": "",
+          "moves": ["Brave Bird", "Return", "Jump Kick", "Swords Dance"]
+        },
+        {
+          "name": "Xatu",
+          "level": "67",
+          "item": "",
+          "ability": "Magic Bounce",
+          "nature": "",
+          "moves": ["Psychic", "Air Slash", "Roost", "Night Shade"]
+        },
+        {
+          "name": "Oricorio",
+          "level": "67",
+          "item": "",
+          "ability": "",
+          "nature": "",
+          "moves": ["Hurricane", "Revelation Dance", "Roost", "Agility"]
+        }
+      ]
+    },
+    {
+      "name": "Bug Maniac Jeffrey",
+      "pokemon": [
+        {
+          "name": "Durant",
+          "level": "67",
+          "item": "",
+          "ability": "",
+          "nature": "",
+          "moves": ["X-Scissor", "Iron head", "Crunch", "Hone Claws"]
+        },
+        {
+          "name": "Vespiquen",
+          "level": "67",
+          "item": "",
+          "ability": "",
+          "nature": "",
+          "moves": ["Attack Order", "Defend Order", "Heal Order", "Acrobatics"]
+        },
+        {
+          "name": "Masquerain",
+          "level": "67",
+          "item": "",
+          "ability": "",
+          "nature": "",
+          "moves": ["Bug Buzz", "Air Slash", "Quiver Dance", "Stun Spore"]
+        }
+      ]
+    }
+  ],
+  "bosses": [],
+  "boss_history": []
+}

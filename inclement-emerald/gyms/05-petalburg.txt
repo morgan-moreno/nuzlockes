@@ -1,0 +1,263 @@
+===============================
+Cooltrainer Randall (Speed)
+===============================
+Swellow @ Flame Orb
+Level: 54
+Jolly Nature
+- Quick Attack
+- Brave Bird
+- Double-Edge
+- Protect
+
+Lopunny @ Salac Berry
+Level: 54
+Jolly Nature
+- Quick Attack
+- Jump Attack
+- Return
+- Ice Punch
+
+Sawsbuck @ Heat Rock
+Level: 54
+Jolly Nature
+- Sunny Day
+- Jump Kick
+- Return
+- Horn Leech
+
+===============================
+Cooltrainer Mary (Accuracy)
+===============================
+
+Braviary @ White Herb
+Level: 54
+Jolly Nature
+- Hone Claws
+- Brave Bird
+- Double-Edge
+- Superpower
+
+Raticate-Alola @ Salac Berry
+Level: 54
+Ability: Hustle
+Jolly Nature
+- Quick Attack
+- Double-Edge
+- Crunch
+- Hone Claws
+
+Drampa @ Damp Rock
+Level: 54
+Modest Nature
+- Rain Dance
+- Thunder
+- Hurricane
+- Work Up
+
+===============================
+Cooltrainer Parker (Confusion)
+===============================
+
+Spinda @ Focus Sash
+Level: 54
+Ability: Contrary
+Jolly Nature
+- Teeter Dance
+- Superpower
+- Dizzy Punch
+- Attract
+
+Stantler @ Perism Berry
+Level: 54
+Ability: Sap Sipper
+Jolly Nature
+- Swagger
+- Disable
+- Protect
+- Thrash
+
+Girafarig @ Damp Rock
+Level: 54
+Ability: Contrary
+Timid Nature
+- Psychic
+- Swagger
+- Foul Play
+- Thunder Wave
+
+===============================
+Cooltrainer Alexia (Defense)
+===============================
+
+Snorlax @ Leftovers
+Level: 54
+Ability: Thick Fat
+Impish Nature
+- Body Slam
+- Curse
+- Rest
+- Sleep Talk
+
+Furfrou @ Leftovers
+Level: 54
+Ability: 
+Impish Nature
+- Thunder Wave
+- Headbutt
+- Cotton Guard
+- Bite
+
+Miltank @ Leftovers
+Level: 54
+Ability: Scrappy
+Impish Nature
+- Defense Curl
+- Rollout
+- Body Slam
+- Milk Drink
+
+===============================
+Cooltrainer George (Recovery)
+===============================
+
+Chansey @ Eviolite
+Level: 54
+- Minimize
+- Soft-Boiled
+- Seismic Toss
+- Aromatherapy
+
+Dunsparce @ Leftovers
+Level: 54
+Impish Nature
+- Coil
+- Headbutt
+- Thunder Wave
+- Roost
+
+Porygon2 @ Eviolite
+Level: 54
+Ability: Analytic
+ Nature
+- Tri Attack
+- Recover
+- Ice Beam
+- Thunderbolt
+
+===============================
+Cooltrainer Jody (Strength)
+===============================
+
+Zangoose @ Toxic Orb
+Level: 54
+Ability: Toxic Boost
+Adamant Nature
+- Swords Dance
+- Facade
+- Close Combat
+- Knock Off
+
+Bouffalant @ Leichi Berry
+Level: 54
+Ability: 
+Adamant Nature
+- Swords Dance
+- Head Charge
+- Megahorn
+- Eartquake
+
+Porygon-Z @ Life Orb
+Level: 54
+Ability: Download
+Modest Nature
+- Tri Attack
+- Nasty Plot
+- Ice Beam
+- Shadow Ball
+
+===============================
+Cooltrainer Berke (One-Hit KO)
+===============================
+
+Lickilicky @ Custap Berry
+Level: 54
+Adamant Nature
+- Belly Drum
+- Explosion
+
+Snorlax @ Normal Gem
+Level: 54
+Ability: Thick Fat
+Adamant Nature
+- Fissure
+- Self Destruct
+
+Ursaring @ Flame Orb
+Level: 54
+Adamant Nature
+- Protect
+- Giga Impact
+
+===============================
+Leader Norman
+===============================
+
+Swellow @ Flame Orb
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Level: 54
+Ability: Guts
+Jolly Nature
+- Brave Bird
+- Facade
+- Reversal
+- U-turn
+
+Tauros @ Life Orb
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Level: 54
+Ability: Intimidate
+Jolly Nature
+- Facade
+- Earthquake
+- Throat Chop
+- Close Combat
+
+Linoone @ Figy Berry
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Level: 54
+Ability: Gluttony
+Jolly Nature
+- Extreme Speed
+- Belly Drum
+- Shadow Claw
+- Seed Bomb
+
+Exploud @ Expert Belt
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Level: 54
+Ability: Scrappy
+Modest Nature
+- Boomburst
+- Fire Blast
+- Surf
+- Extrasensory
+
+Slaking @ Lum Berry
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Level: 56
+Ability: Truant
+Adamany Nature
+- Giga Impact
+- Yawn
+- Night Slash
+- Earthquake
+
+Kangaskhan-Mega @ Kangaskhanite
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Level: 54
+Ability: Parental Bond
+Jolly Nature
+- Facade
+- Crunch
+- Seismic Toss
+- Earthquake

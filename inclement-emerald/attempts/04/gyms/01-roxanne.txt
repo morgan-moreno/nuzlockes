@@ -1,0 +1,70 @@
+Aron (F) @ Chesto Berry
+Level: 13
+Relaxed Nature
+Ability: Sturdy
+- Rock Tomb
+- Stealth Rock
+- Metal Claw
+- Rest
+
+Tyrunt (M) @ Red Card
+Level: 13
+Relaxed Nature
+Ability: Sturdy
+- Rock Tomb
+- Bite
+- Dragon Tail
+- Poison Fang
+
+Amaura @ Chople Berry
+Level: 13
+Relaxed Nature
+Ability: Refrigerate
+- Rock Tomb
+- Thunder Wave
+- Bulldoze
+- Echoed Voice
+
+Anorith @ Water Gem
+Level: 13
+Relaxed Nature
+Ability: Battle Armor
+- Rock Tomb
+- Cut
+- Bug Bite
+- Aqua Jet
+
+Lileep @ Oran Berry
+Level: 13
+Relaxed Nature
+Ability: Storm Drain
+- Rock Tomb
+- Mega Drain
+- Infestation
+- Pain Split
+
+Nosepass @ Berry Juice
+Level: 16
+Careful Nature
+Ability: Sand Force
+- Sandstorm
+- Rock Tomb
+- Bulldoze
+- Fire Punch
+
+- Aron: Nidorino @ Oran Berry
+
+    1. Double Kick (KO)
+
+- Nosepass:
+
+    1. Switch in bulldoze ()
+
+- Lileep: 
+
+- Anorith: 
+
+- Tyrunt: 
+
+- Amaura: 
+    

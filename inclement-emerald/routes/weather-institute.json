@@ -1,0 +1,205 @@
+{
+  "trainers": [
+    {
+      "name": "Team Aqua Grunt 1",
+      "pokemon": [
+        {
+          "name": "Walrein",
+          "level": "68",
+          "nature": "",
+          "item": "",
+          "ability": "",
+          "moves": ["Ice Beam", "Aqua Tail", "Crunch", "Aqua Ring"]
+        },
+        {
+          "name": "Floatzel",
+          "level": "68",
+          "nature": "",
+          "item": "",
+          "ability": "",
+          "moves": ["Hydro Pump", "Crunch", "Ice Punch", "Focus Blast"]
+        },
+        {
+          "name": "Malamar",
+          "level": "68",
+          "nature": "",
+          "item": "",
+          "ability": "",
+          "moves": ["Throat Chop", "Psycho Cut", "Superpower", "Topsy Turvy"]
+        }
+      ]
+    },
+    {
+      "name": "Team Aqua Grunt 2",
+      "pokemon": [
+        {
+          "name": "Golbat",
+          "level": "68",
+          "nature": "",
+          "item": "",
+          "ability": "",
+          "moves": ["Leech Life", "Acrobatics", "Confuse Ray", "Hypnosis"]
+        },
+        {
+          "name": "Dragalge",
+          "level": "68",
+          "nature": "",
+          "item": "",
+          "ability": "Adaptability",
+          "moves": ["Sludge Bomb", "Dragon Pulse", "Hydro Pump", "Toxic"]
+        },
+        {
+          "name": "Liepard",
+          "level": "68",
+          "nature": "",
+          "item": "",
+          "ability": "",
+          "moves": ["Sucker Punch", "Play Rough", "Swagger", "Iron Tail"]
+        }
+      ]
+    },
+    {
+      "name": "Team Aqua Grunt 3 (Right)",
+      "pokemon": [
+        {
+          "name": "Toxicroak",
+          "level": "69",
+          "nature": "",
+          "item": "Black Sludge",
+          "ability": "Dry Skin",
+          "moves": ["Poison Jab", "Drain Punch", "Sucker Punch", "Protect"]
+        },
+        {
+          "name": "Eelektross",
+          "level": "69",
+          "nature": "",
+          "item": "",
+          "ability": "",
+          "moves": ["Thunder", "Aqua Tail", "Giga Drain", "Iron Tail"]
+        }
+      ]
+    },
+    {
+      "name": "Team Aqua Grunt 4",
+      "pokemon": [
+        {
+          "name": "Pelipper",
+          "nature": "",
+          "level": "69",
+          "item": "",
+          "ability": "Drizzle",
+          "moves": ["Hurricane", "Hydro Pump", "Ice Beam", "Roost"]
+        },
+        {
+          "name": "Ferrothorn",
+          "nature": "",
+          "level": "69",
+          "item": "",
+          "ability": "",
+          "moves": ["Power Whip", "Iron Head", "Payback", "Thunder Wave"]
+        }
+      ]
+    },
+    {
+      "name": "Team Aqua Grunt 5",
+      "pokemon": [
+        {
+          "name": "Mightyena",
+          "level": "68",
+          "nature": "",
+          "item": "",
+          "ability": "",
+          "moves": ["Crunch", "Play Rough", "Fire Fang", "Ice Fang"]
+        },
+        {
+          "name": "Golisopod",
+          "level": "68",
+          "nature": "",
+          "item": "",
+          "ability": "",
+          "moves": [
+            "First Impression",
+            "Liquidation",
+            "Sucker Punch",
+            "Close Combat"
+          ]
+        },
+        {
+          "name": "Muk-Alola",
+          "level": "68",
+          "nature": "",
+          "item": "",
+          "ability": "",
+          "moves": ["Crunch", "Poison Jab", "Fire Blast", "Screech"]
+        }
+      ]
+    }
+  ],
+  "bosses": [
+    {
+      "name": "Aqua Admin Shelly",
+      "pokemon": [
+        {
+          "name": "Ninetales-Alola",
+          "level": "70",
+          "evs": "0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe",
+          "nature": "Timid",
+          "item": "Light Clay",
+          "ability": "Snow Warning",
+          "moves": ["Blizzard", "Moonblast", "Water Pulse", "Aurora Veil"]
+        },
+        {
+          "name": "Empoleon",
+          "level": "70",
+          "evs": "0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe",
+          "nature": "Modest",
+          "item": "Petaya Berry",
+          "ability": "Slush Rush",
+          "moves": ["Hydro Pump", "Blizzard", "Flash Cannon", "Grass Knot"]
+        },
+        {
+          "name": "Crawdaunt",
+          "level": "71",
+          "evs": "0 HP / 252 Atk / 0 Def / 4 SpA / 0 SpD / 252 Spe",
+          "nature": "Naive",
+          "item": "Ice Gem",
+          "ability": "Adaptability",
+          "moves": ["Crabhammer", "Crunch", "Dragon Dance", "Blizzard"]
+        },
+        {
+          "name": "Clefable",
+          "level": "70",
+          "evs": "252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe",
+          "nature": "Bold",
+          "item": "Leftovers",
+          "ability": "Magic Guard",
+          "moves": ["Flamethrower", "Blizzard", "Calm Mind", "Soft-Boiled"]
+        },
+        {
+          "name": "Ludicolo",
+          "level": "70",
+          "evs": "0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe",
+          "nature": "Modest",
+          "item": "Safety Goggles",
+          "ability": "Rain Dish",
+          "moves": ["Scald", "Giga Drain", "Leech Seed", "Blizzard"]
+        },
+        {
+          "name": "Beedrill-Mega",
+          "level": "72",
+          "evs": "4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe",
+          "nature": "Jolly",
+          "item": "Beedrillite",
+          "ability": "Adaptability",
+          "moves": ["X-Scissor", "Poison Jab", "Drill Run", "Drill Peck"]
+        }
+      ]
+    }
+  ],
+  "boss_history": [
+    {
+      "run": "2",
+      "result": ""
+    }
+  ]
+}

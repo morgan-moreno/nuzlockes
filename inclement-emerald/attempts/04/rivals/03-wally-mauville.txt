@@ -1,0 +1,65 @@
+===================================================
+PKMN Trainer Wally
+===================================================
+
+Roselia @ Black Sludge
+Level: 38
+Ability: Natural Cure
+Hardy Nature
+- Giga Drain
+- Venoshock
+- Poison Powder
+- Leech Seed
+
+Fletchinder @ Flying Gem
+Level: 38
+Ability: Gale Wings
+Hardy Nature
+- Flame Charge
+- Acrobatics
+- Steel Wing
+- Roost
+
+Azumarill @ Rocky Helmet
+Level: 38
+Ability: Huge Power
+Hardy Nature
+- Aqua Tail
+- Play Rough
+- Brick Break
+- Bulldoze
+
+Kirlia @ Focus Sash
+Level: 39
+Ability: Trace
+Hardy Nature
+- Psychic
+- Draining Kiss
+- Hypnosis
+- Charm
+
+===================================================
+Strategy
+===================================================
+
+- Roselia @ Black Sludge: Decidueye @ Lum Berry
+
+    1. Spirit shackle (75.2 - 89.6), poison Powder
+    2. Shadow sneak (KO)
+
+- Flecthinder @ Flying Gem: Swampert @ Sea Incense
+
+    1. Switch in acrobatics (40 - 47.4)
+    2. Acrobatics (31.1 - 36.2), surf (KO)
+
+- Azumarill @ Rocky Helmet: Trevenant @ Sitrus Berry
+
+    1. Switch in brick break (0)
+    2. Horn leech (63.7 - 77), play rough (41.9 - 50.8)
+    3. Horn leech (KO)
+
+- Kirlia @ Focus Sash: Snorlax @ Lum Berry
+
+    1. Switch in psychic (17.4 - 20.7)
+    2. Psychic (17.4 - 20.7), heavy slam (KO)
+

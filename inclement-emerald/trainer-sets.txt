@@ -1,0 +1,54 @@
+/
+Cooltrainer Wilton
+/
+
+Doublade @ Eviolite
+Level: 49
+- Shadow Claw
+- Iron Head
+- Psycho Cut
+- Shadow Sneak
+
+Reuniclus @ Leftovers
+Level: 48
+Ability: Magic Guard
+- Psyshock
+- Recover
+- Shock Wave
+- Signal Beam
+
+Gabite @ Rocky Helmet
+Level: 49
+Ability: Rough Skin
+- Dig
+- Dual Chop
+- Poison Jab
+- Flamethrower
+
+
+
+/
+Cooltrainer Brooke
+/
+
+Gastrodon @ Rindo Berry
+Level: 49
+- Muddy Water
+- Mud Shot
+- Recover
+- Ancient Power
+
+Infernape @ 
+Level: 49
+- Close Combat
+- Fire Punch
+- Grass Knot
+- Rock Tomb
+
+Roserade @ Big Root
+Level: 49
+Ability: Technician
+- Mega Drain
+- Extrasensory
+- Toxic
+- Venoshock

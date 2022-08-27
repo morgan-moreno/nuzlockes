@@ -1,0 +1,191 @@
+CHOICE-ITEMS
+
+===
+Lucy (Lavaridge Town)
+Shuckle @ Red Card
+Level: 70
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Ability: Sturdy
+Careful Nature
+- Sticky Web
+- Stealth Rock
+- Infestation
+- Toxic
+
+Milotic @ Water Gem
+Level: 70
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Ability: Competitive
+Timid Nature
+- Hydro Pump
+- Ice Beam
+- Dragon Pulse
+- Recover
+
+Serperior @ Leftovers
+Level: 70
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Ability: Shed SKin
+Careful Nature
+- Power Whip
+- Dragon Rush
+- Coil
+- Rest
+
+Steelix @ Choice Band
+Level: 70
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
+Ability: Sheer Force
+Adamant Nature
+- Iron Tail
+- Earthquake
+- Ice Fang
+- Explosion
+
+Gyarados @ Leftovers
+Level: 70
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Ability: Intimidate
+Jolly Nature
+- Waterfall
+- Bounce
+- Dragon Dance
+- Substitute
+
+Seviper @ Life Orb
+Level: 71
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Ability: Merciless
+Timid Nature
+- Sludge Bomb
+- Giga Drain
+- Flamethrower
+- Dark Pulse
+
+
+===
+Spenser (Fortree City)
+Crobat @ Black Sludge
+Level: 70
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Ability: Infiltrator
+Jolly Nature
+- Fly
+- Roost
+- Protect
+- Toxic
+
+Slaking @ Choice Scarf
+Level: 70
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Ability: Truant
+Adamant Nature
+- Giga Impact
+- Earthquake
+- Hammer Arm
+- Play Rough
+
+Arcanine @ White Herb
+Level: 70
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Ability: Intimidate
+Naive Nature
+- Overheat
+- Extreme Speed
+- Wild Charge
+- Crunch
+
+Lapras @ Water Gem
+Level: 70
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 4 Spe
+Ability: Water Absorb
+Modest Nature
+- Freeze Dry
+- Hydro Pump
+- Thunder
+- Psychic
+
+Venusaur-Mega @ Venusairite
+Level: 70
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 4 Spe
+Ability: Thick Fat
+Modest Nature
+- Giga Drain
+- Sludge Bomb
+- Earth Power
+- Sleep Powder
+
+Suicune @ Leftovers
+Level: 71
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Ability: Pressure
+Bold Nature
+- Scald
+- Calm Mind
+- Rest
+- Sleep Talk
+
+
+===
+Greta (Slateport City)
+Landorus-Therian @ Yache Berry
+Level: 70
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
+Ability: Intimidate
+Adamant Nature
+- Earthquake
+- Strength
+- Stealth Rock
+- U-turn
+
+Breloom @ Toxic Orb
+Level: 70
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Ability: Poison Heal
+Jolly Nature
+- Spore
+- Substitute
+- Focus Punch
+- Seed Bomb
+
+Heracross @ Flame Orb
+Level: 70
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Ability: Guts
+Jolly Nature
+- Megahorn
+- Close Combat
+- Facade
+- Swords Dance
+
+Umbreon @ Leftovers
+Level: 71
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Ability: Magic Guard
+Bold Nature
+- Dark Pulse
+- Calm Mind
+- Strength Sap
+- Toxic
+
+Gengar-Mega @ Gengarite
+Level: 70
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Ability: Shadow Tag
+Timid Nature
+- Shadow Ball
+- Hypnosis
+- Dream Eater
+- Nasty Plot
+
+Tapu Koko @ Choice Specs
+Level: 70
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Ability: Electric Surge
+Timid Nature
+- Volt Switch
+- Dazzling Gleam
+- Aurora Beam
+- Grass Knot
+
+

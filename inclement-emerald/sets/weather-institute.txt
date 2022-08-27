@@ -1,0 +1,184 @@
+WEATHER-INSTITUTE
+
+===
+Team Aqua Grunt 1
+===
+
+Walrein @ 
+Level: 68
+- Ice Beam
+- Aqua Tail
+- Crunch
+- Aqua Ring
+
+Floatzel @ 
+Level: 68
+- Hydro Pump
+- Crunch
+- Ice Punch
+- Focus Blast
+
+Malamar @ 
+Level: 68
+- Throat Chop
+- Psycho Cut
+- Superpower
+- Topsy Turvy
+
+
+===
+Team Aqua Grunt 2
+===
+
+Golbat @ 
+Level: 68
+- Leech Life
+- Acrobatics
+- Confuse Ray
+- Hypnosis
+
+Dragalge @ 
+Level: 68
+Ability: Adaptability
+- Sludge Bomb
+- Dragon Pulse
+- Hydro Pump
+- Toxic
+
+Liepard @ 
+Level: 68
+- Sucker Punch
+- Play Rough
+- Swagger
+- Iron Tail
+
+
+===
+Team Aqua Grunt 3 (Right)
+===
+
+Toxicroak @ Black Sludge
+Level: 69
+Ability: Dry Skin
+- Poison Jab
+- Drain Punch
+- Sucker Punch
+- Protect
+
+Eelektross @ 
+Level: 69
+- Thunder
+- Aqua Tail
+- Giga Drain
+- Iron Tail
+
+
+===
+Team Aqua Grunt 4
+===
+
+Pelipper @ 
+Level: 69
+Ability: Drizzle
+- Hurricane
+- Hydro Pump
+- Ice Beam
+- Roost
+
+Ferrothorn @ 
+Level: 69
+- Power Whip
+- Iron Head
+- Payback
+- Thunder Wave
+
+
+===
+Team Aqua Grunt 5
+===
+
+Mightyena @ 
+Level: 68
+- Crunch
+- Play Rough
+- Fire Fang
+- Ice Fang
+
+Golisopod @ 
+Level: 68
+- First Impression
+- Liquidation
+- Sucker Punch
+- Close Combat
+
+Muk-Alola @ 
+Level: 68
+- Crunch
+- Poison Jab
+- Fire Blast
+- Screech
+
+
+===
+Aqua Admin Shelly
+Ninetales-Alola @ Light Clay
+Level: 70
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Ability: Snow Warning
+Timid Nature
+- Blizzard
+- Moonblast
+- Water Pulse
+- Aurora Veil
+
+Empoleon @ Petaya Berry
+Level: 70
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Ability: Slush Rush
+Modest Nature
+- Hydro Pump
+- Blizzard
+- Flash Cannon
+- Grass Knot
+
+Crawdaunt @ Ice Gem
+Level: 71
+EVs: 0 HP / 252 Atk / 0 Def / 4 SpA / 0 SpD / 252 Spe
+Ability: Adaptability
+Naive Nature
+- Crabhammer
+- Crunch
+- Dragon Dance
+- Blizzard
+
+Clefable @ Leftovers
+Level: 70
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Ability: Magic Guard
+Bold Nature
+- Flamethrower
+- Blizzard
+- Calm Mind
+- Soft-Boiled
+
+Ludicolo @ Safety Goggles
+Level: 70
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Ability: Rain Dish
+Modest Nature
+- Scald
+- Giga Drain
+- Leech Seed
+- Blizzard
+
+Beedrill-Mega @ Beedrillite
+Level: 72
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Ability: Adaptability
+Jolly Nature
+- X-Scissor
+- Poison Jab
+- Drill Run
+- Drill Peck
+
+

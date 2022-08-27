@@ -1,0 +1,1529 @@
+====================================================================================
+Starter
+====================================================================================
+
+# Encounters
+
+# Encounter History
+
+1 / Rowlet
+2 / Oshawott
+
+====================================================================================
+Route 101
+====================================================================================
+
+# Encounter History
+
+1 / 
+2 / 
+3 / Poochyena
+
+====================================================================================
+Route 103
+====================================================================================
+
+# Encounters
+
+# Encounter History
+
+1 / Blitzle
+2 / 
+3 / Grubbin
+
+====================================================================================
+Route 102
+====================================================================================
+
+# Encounters
+
+# Encounter History
+
+1 / Seedot
+2 / 
+3 / Tympole
+
+====================================================================================
+Dewford Manor
+====================================================================================
+
+# Encounters
+
+Floor / Gastly (20), Solosis (20), Litwick (20), Rattata (15), Hoothoot (15), Mime Jr. (10)
+
+# Encounter History
+
+1 / Rattata
+
+====================================================================================
+Granite Cave
+====================================================================================
+
+# Encounters
+
+1F                                                      Geodude (20), Zubat (20), Makuhita (20), Aron (10), Abra (10), Axew (10), Timburr (10)
+BF (Cave)                                           Mawile (20), Sableye (20), Aron (20), Onix (10), Carbink (10), Cubone (10), Bronzor (10)
+BF(Rock Smash)                                 Nosepass (70), Dwebble (30)
+Steven's Room                                   Aron (20), Zubat (20), Makuhita (20), Beldum (10), Abra (10), Axew (10), Timburr (10)
+
+
+# Encounter History
+
+1 / Carbink
+
+====================================================================================
+Route 110
+====================================================================================
+
+# Encounters
+
+Grass                                       Electrike (20), Gulpin (20), Plusle (10), Minun (10), Trubbish (10), Magnemite (10), Pachirisu (10), Stunky (10)
+Honey                                       Audino (50), Ekans (30), Doduo (20)
+Surf                                        Shellos (60), Gastrodon (30), Pelipper (10)
+Old Rod                                     Wailmer (60), Chinchou (40)
+Good Rod                                    Chinchou (60), Wailmer (20)
+Super Rod                                   Chinchou (40), Wailmer (40), Lanturn (15), Wailord (5)    
+
+# Encounter History
+
+# Trainers
+
+Pokefan Isabel
+- Plusle Lv. 35 @ Oran Berry / Electro Ball, Nuzzle, Helping Hand, Charm
+- Pachirisu Lv. 35 @ Oran Berry / Electro Ball, Nuzzle, Swift, Sweet Kiss
+
+Pokefan Kaleb
+- Minun Lv. 35 @ Oran Berry / Electro Ball, Nuzzle, Helping Hand, Fake Tears
+- Emolga Lv. 35 @ Oran Berry / Shock Wave, Nuzzle, Acrobatics, Nasty Plot
+
+Youngster Timmy
+- Ferroseed Lv. 36 / Ingrain, Iron Head, Pin Missile, Bullet Seed
+- Electricke Lv. 36 / Discharge, Bite, Quick Attack, Odor Sleuth
+
+Triathlete Alyssa
+- Magnemite Lv. 37 / Shock Wave, Thunder Wave, Metal Sound, Mirror Shot
+- Klink Lv. 36 / Discharge, Thunder Wave, Metal Sound, Autotomize
+
+Psychic Edward
+- Abra Lv. 39 / Hidden Power (Fighting), Shock Wave, Signal Beam
+
+# Boss
+
+PKMN Trainer May
+Swellow @ 
+Level: 37
+Ability: Guts
+Hardy Nature
+- Wing Attack
+- Quick Attack
+- Roost
+- U-turn
+
+Starmie @ 
+Level: 37
+Ability: Natural Cure
+Hardy Nature
+- Water Pulse
+- Recover
+- Psybeam
+- Icy Wind
+
+Tsareena @ 
+Level: 37
+Ability: Queenly Majesty
+Hardy Nature
+- Trop Kick
+- Low Sweep
+- U-turn
+- Synthesis
+
+Ponyta @ 
+Level: 37
+Ability: Reckless
+Hardy Nature
+- Blaze Kick
+- Wild Charge
+- Take Down
+- Double Kick
+
+Mimikyu @ 
+Level: 37
+Ability: Disguise
+Hardy Nature
+- Shadow Claw
+- Shadow Sneak
+- Bulk Up
+- Drain Punch
+
+Combusken @ Sitrus Berry
+Level: 39
+Ability: Blaze
+Hardy Nature
+- Brick Break
+- Rock Tomb
+- Fire Pledge
+- Bulk Up
+
+Grovyle @ Sitrus Berry
+Level: 39
+Ability: Overgrow
+Hardy Nature
+- Grass Pledge
+- Dragon Breath
+- Fury Cutter
+- Rock Tomb
+
+# Boss History
+
+1   /   W
+2   /   W
+
+====================================================================================
+Mauville City
+====================================================================================
+
+# Encounters
+
+Game Corner (Fire)                    Charmander, Cyndaquil, Torchic, Chimchar, Tepig, Fennekin, Litten
+Game Corner (Water)                 Squirtle, Totodile, Mudkip, Piplup, Oshawott, Froakie, Popplio
+Game Corner (Grass)                 Bulbasuar, Chikorita, Treecko, Turtwig, Snivy, Chespin, Rowlet
+Game Corner (Other)                 Porygon, Munchlax, Vulpix, Sandshrew, Rattata, Meowth, Grimer, Diglett, Geodude, Raichu, Marowak, Exeggutor
+
+# Encounter History
+
+1   /   Tepig, Mudkip, Chespin, Munchlax
+2   /   Charmander, Piplup, Rowlet, Porygon
+
+====================================================================================
+Route 117
+====================================================================================
+
+# Encounters
+
+Grass               Roselia (20), Deerling (20), Volbeat (10), Illumise (10), Meowth (10), Farfetch'd (10), Marill (10), Minccino (10)
+Honey               Audino (60), Shelmet (20), Karrablast (20)
+Surfing             Marill (60), Azumarill (30), Seaking (10)
+Old Rod             Goldeen (60), Corphish (40)
+Good Rod            Corphish (60), Goldeen (40)
+Super Rod           Corphish (40), Seaking (40), Crawdaunt (20)
+Cut                 Floette (60), Sunkern (40)
+
+# Encounter History
+
+1   /   Deerling
+2   /   Farfetch'd
+
+# Trainers
+
+Pokemon Breeder Lydia
+- Froakie Lv. 33 / Bubble Beam, Smack Down, Toxic Spikes, Camouflage
+- Elekid Lv. 33 / Thunder Punch, Fire Punch, Cross Chop, Ice Punch
+- Magby Lv. 33 / Thunder Punch, Fire Punch, Cross Chop, Mach Punch
+- Smoochum Lv. 33 / Fake Out, Nasty Plot, Miracle Eye, Psyshock
+- Happiny Lv. 33 / Seismic Toss, Aromatherapy, Counter, Soft-Boiled
+- Dratini Lv. 33 / Extreme Speed, Aqua Jet, Iron Tail, Dragon Rush
+
+====================================================================================
+Verdanturf Town
+====================================================================================
+
+# Encounters
+
+Random          Egg (100)
+
+# Encounter History
+
+1   /   
+2   /   Sneasel   
+
+
+====================================================================================
+Verdant Glade
+====================================================================================
+
+# Encounters
+
+Grass                           Munna (20), Espurr (20), Floette (30), Stufful (10), Ribombee (10), Vivillon (10)
+Honey                           Audino (50), Ribombee (45), Togetic (5)
+Gift                            Audino (100)
+
+# Encounter History
+
+1   /   Audino
+2   /   Audino, Vivillon
+
+====================================================================================
+Route 118
+====================================================================================
+
+# Encounters
+
+Grass                           Linoone (20), Manectric (20), Lickitung (10), Raticate (10), Kecleon (10), Liepard (10), Carnivine (10), Dedenne (10)
+Honey                           Audino (60), Lickilicky (20), Dedenne (20)
+Surf                            Tentacool (60), Wingull (30), Pelipper (10)
+Old Rod                         Magikarp (60), Carvanha (40)
+Good Rod                        Carvanha (60), Magikarp (20), Basculin (20)
+Super Rod                       Basculin (80), Sharpedo (15), Gyarados (5)
+Cut                             Fearow (60), Venomoth (40)
+
+# Encounter History
+
+1   /   Carvanha
+2   /   
+
+# Trainers
+
+Aroma Lady Rose
+- Floette Lv. 36 / Magical Leaf, Draining Kiss, Wish, Leech Seed
+- Ivysaur Lv. 36 / Seed Bomb, Sludge, Sleep Powder, Leech Seed
+- Combee Lv. 38 / Bug Buzz, Gust, Sweet Scent, Bug Bite
+
+Youngster Deandre
+- Diggersby Lv. 36 (A) Huge Power / Double Kick, Bulldoze, Swords Dance, Quick Attack
+- Lairon Lv. 37 / Iron Head, Rock Slide, Take Down, Protect
+- Simisear Lv. 36 (A) Blaze / Crunch, Acrobatics, Flame Burst, Yawn
+
+Guitarist Dalton
+- Noivern Lv. 38 / Dragon Pulse, Air Cutter, Moonlight, Supersonic
+
+====================================================================================
+Mauville City
+====================================================================================
+
+# Trainers
+
+Youngster Ben
+- Rotom Lv. 37 @ Colbur Berry / Electro Ball , Hex, Thunder Wave, Pain Split
+- Stunfisk Lv. 37 @ Shuca Berry / Muddy Water, Sucker Punch, Mud Shot, Shock Wave
+- Togedemaru Lv. 37 (A) Sturdy @ Salac Berry / Zing Zap, Magnet Rise, Pin Missile, Iron Head
+
+# Boss
+
+## PKMN Trainer Wally
+Roselia @ Black Sludge
+Level: 38
+Ability: Natural Cure
+Hardy Nature
+- Giga Drain
+- Venoshock
+- Poison Powder
+- Leech Seed
+
+Fletchinder @ Flying Gem
+Level: 38
+Ability: Gale Wings
+Hardy Nature
+- Flame Charge
+- Acrobatics
+- Steel Wing
+- Roost
+
+Azumarill @ Rocky Helmet
+Level: 38
+Ability: Huge Power
+Hardy Nature
+- Aqua Tail
+- Play Rough
+- Brick Break
+- Bulldoze
+
+Kirlia @ Focus Sash
+Level: 39
+Ability: Trace
+Hardy Nature
+- Psychic
+- Draining Kiss
+- Hypnosis
+- Charm
+
+
+## Leader Wattson
+
+Galvantula @ Grass Gem
+EVs: 252 Spe
+Level: 38
+Ability: Swarm
+Modest Nature
+- Sticky Web
+- Volt Switch
+- Bug Buzz
+- Giga Drain
+
+Lanturn @ Air Balloon
+EVs: 252 Spe
+Level: 38
+Ability: Water Absorb
+Modest Nature
+- Volt Switch
+- Surf
+- Icy Wind
+- Dazzling Gleam
+
+Magneton @ Eviolite
+EVs: 252 Spe
+Level: 38
+Ability: Sturdy
+Modest Nature
+- Volt Switch
+- Flash Cannon
+- Thunder Wave
+- Electric Terrain
+
+Rotom-Mow @ White Herb
+EVs: 252 Spe
+Level: 38
+Ability: Levitate
+Modest Nature
+- Volt Switch
+- Leaf Storm
+- Toxic
+- Hex
+
+Raichu-Alola @ Shuca Berry
+EVs: 252 Spe
+Level: 38
+Ability: Surge Surfer
+Modest Nature
+- Volt Switch
+- Psychic
+- Grass Knot
+- Surf
+
+Manectric @ Sitrus Berry
+EVs: 252 SpA / 252 Spe
+Level: 40
+Ability: Lightning Rod
+Modest Nature
+- Volt Switch
+- Flamethrower
+- Aurora Beam
+- Signal Beam
+
+# Boss History
+
+1 / W, W
+2 / W, W
+
+====================================================================================
+Trainer Hill
+====================================================================================
+
+# Encounters
+
+Random  /   Egg (100)
+
+# Encounter History
+
+1   /   
+2   /   Shuppet
+
+====================================================================================
+Route 111 (South)
+====================================================================================
+
+# Trainers
+
+Picknicker Irene
+-Trevenant lvl -2 (A) Harvest (I) Sitrus Berry // Horn Leech, Shadow Claw, Will-O-Wisp, Forest's Curse
+-Azumarill lvl -2 (A) Sap Sipper // Aqua Tail, Play Rough, Rollout, Defense Curl
+
+Camper Travis
+-Golett lvl -3 (A) No Guard // Magnitude, Shadow Punch, Dynamic Punch, Rock Slide
+-Pidgeotto lvl -3 // Air Cutter, Uproar, Tailwind, Roost
+
+====================================================================================
+Route 112 (South)
+====================================================================================
+
+# Encounters
+
+Grass   /   Numel (20), Machoke (20), Ponyta (10), Tyrogue (10), Sawk (10), Throh (10), Vullaby (10), Rufflet (10)
+Honey   /   Audino (60), Sawk (15), Throh (15), Hitmonchan (5), Hitmonlee (5)
+
+# Encounter History
+
+1   /   Hitmonlee
+2   /   Sawk
+
+# Trainers
+
+Picknicker Carol
+-Noctowl lvl -3 // Hypnosis, Dream Eater, Air Slash, Reflect
+-Vileplume lvl -3 // Giga Drain, Moonblast, Toxic, Moonlight
+
+Hiker Trent
+-Graveler lvl -3 (A) Sturdy // Explosion
+-Graveler lvl -3 (A) Sturdy // Explosion
+-Graveler lvl -3 (A) Sturdy // Explosion
+-Graveler (Alolan) lvl -3 (A) Galvanize // Explosion
+
+Hiker Brice
+-Excadrill lvl -2 // Drill Run, Rock Slide, Horn Drill, Rapid Spin
+-Crustle lvl -2 (A) Sturdy // X-Scissor, Rock Blast, Withdraw, Slash
+
+
+====================================================================================
+Fiery Path
+====================================================================================
+
+# Encounters
+
+Cave    /   Slugma (20), Diglett (20), Torkoal (10), Grimer (10), Koffing (10), Magby (10), Heatmor (10), Durant (10)
+
+# Encounter History
+
+1   /   Heatmor
+2   /   Koffing
+
+====================================================================================
+Route 112 (North)
+====================================================================================
+
+# Trainers
+
+Kindler Bryant (potential double with Aroma Lady Shayla)
+-Magcargo lvl -2 (A) Weak Armor // Shell Smash, Earth Power, Ancient Power, Flame Burst
+-Typhlosion lvl -2 (A) Flash Fire // Flamethrower, Swift, Quick Attack, Smokescreen
+
+Aroma Lady Shayla (potential double with Kindler Bryant)
+-Cherrim lvl -2 (I) Heat Rock // Sunny Day, Weather Ball, Solar Beam, Helping Hand
+-Meganium lvl -2 (A) Flower Veil // Petal Dance, Reflect, Synthesis, Poison Powder
+
+====================================================================================
+Route 111 (North)
+====================================================================================
+
+# Trainers
+
+Cooltrainer Wilton
+-Doublade lvl -1 (I) Eviolite // Shadow Claw, Iron Head, Psycho Cut, Shadow Sneak
+-Reuniclus lvl -2 (A) Magic Guard (I) Leftovers // Psyshock, Recover, Shock Wave, Signal Beam
+-Gabite lvl -1 (A) Rough Skin (I) Rocky Helmet // Dig, Dual Chop, Poison Jab, Flamethrower
+
+Cooltrainer Brooke
+-Gastrodon lvl -1 (I) Rindo Berry // Muddy Water, Mud Shot, Recover, Ancient Power
+-Infernape lvl -1 // Close Combat, Fire Punch, Grass Knot, Rock Tomb
+-Roserade lvl -1 (A) Technician (I) Big Root // Mega Drain, Extrasensory, Toxic, Venoshock
+
+====================================================================================
+Route 113
+====================================================================================
+
+# Encounters
+
+Grass   /   Spinda (20), Scraggy (20), Pawniard (10), Klefki (10), Bouffalant (10), Skarmory (10), Fletchinder (10), Meinfoo (10)
+Honey   /   Spinda (90), Talonflame (5), Meinshao (5)
+
+# Encounter History
+
+1   /   Bouffalant
+2   /   Scraggy
+
+# Trainers
+
+Parasol Lady Madeline
+-Numel lvl -3 // Earth Power, Lava Plume, Rock Slide, Sunny Day
+-Tropius lvl -3 // Leaf Tornado, Air Slash, Body Slam, Whirlwind
+-Sealeo lvl -3 // Brine, Aurora Beam, Hail, Swagger
+
+====================================================================================
+Fallarbor Town
+====================================================================================
+
+# Encounters
+
+Random  /   Egg (100)
+
+# Encounter History
+
+1   /   
+2   /   Pichu
+
+====================================================================================
+Route 114
+====================================================================================
+
+# Encounters
+
+Grass       /   Swablu (20), Ducklett (20), Lombre (10), Nuzleaf (10), Zangoose (10), Seviper (10), Phanpy (10), Skorupi (10)
+Honey       /   Audino (50), Quagsire (25), Donphan (25)
+Surf        /   Wooper (60), Quagsire (30), Masquerain (10)
+Old Rod     /   Wishiwashi (60), Barboach (40)
+Good Rod    /   Barboach (60), Wishiwashi (20), Seaking (20)
+Super Rod   /   Wishiwash (40), Seaking (40), Whiscash (20)
+
+# Encounter History
+
+1   /   Donphan
+2   /   Quagsire
+
+# Trainers
+
+Picnicker Charlotte (potential double with Fisherman Kai)
+-Tangrowth lvl -1 // Giga Drain, Ancient Power, Stun Spore, Knock Off
+
+Fisherman Kai (potential double with Picnicker Charlotte)
+-Whiscash lvl -1 // Aqua Tail, Earthquake, Tickle, Zen Headbutt
+
+Picnicker Nancy (AVOID THIS FIGHT! MISTY TERRAIN CAUSES THE GAME TO FREEZE!)
+-Aromatisse lvl -3 // Moonblast, Charm, Attract, Misty Terrain
+-Torterra lvl -3 // Earthquake, Seed Bomb, Curse, Leech Seed
+
+Kindler Bernie
+-Larvesta lvl -3 // Flare Blitz, Bug Bite, Double Edge, String Shot
+-Simipour lvl -3 // Scald, Crunch, Acrobatics, Work Up
+
+Hiker Lucas (potential double with Picnicker Angelina)
+-Minior lvl -3 // Power Gem, Cosmic Power, Autotomize, Confuse Ray
+-Ferrothorn lvl -3 // Power Whip, Iron Head, Curse, Ingrain
+
+Picnicker Angelina (potential double with Hiker Lucas)
+-Empoleon lvl -3 // Water Pulse, Flash Cannon, Swagger, Aqua Jet
+-Rimbombee lvl -3 // Pollen Puff, Dazzling Gleam, Stun Spore, Aromatherapy
+
+Hiker Lenny
+-Steelix lvl -3 (A) Sturdy // Iron Tail, Dig, Smack Down, Crunch
+-Piloswine lvl -3 // Ice Fang, Ice Shard, Amnesia, Mud Bomb
+
+====================================================================================
+Meteor Falls
+====================================================================================
+
+# Encounters
+
+# Encounter History
+
+# Boss
+
+Courtney (Double w/ Team Magma Grunt)
+
+Ninetales @ Passho Berry
+Level: 50
+Ability: Drought
+Timid Nature
+- Mystical Fire
+- Hypnosis
+- Solar Beam
+- Calm Mind
+
+Krookodile @ Assault Vest
+Level: 50
+Ability: Intimidate
+Adamant Nature
+- Crunch
+- Earthquake
+- Fire Fang
+- Thunder Fang
+
+Houndoom @ Grass Gem
+Level: 50
+Ability: Flash Fire
+Timid Nature
+- Dark Pulse
+- Heat Wave
+- Solar Beam
+- Sludge Bomb
+
+
+Team Magma Grunt (Double w/ Courtney)
+
+Excadrill @ Occa Berry
+Level: 50
+Ability: Mold Breaker
+Hardy Nature
+- Drill Run
+- Iron Head
+- Rock Slide
+- X-Scissor
+
+Weezing @ Sitrus Berry
+Level: 50
+Ability: Levitate
+Hardy Nature
+- Will-O-Wisp
+- Sludge Bomb
+- Heat Wave
+- Thunderbolt
+
+Shiftry @ Heat Rock
+Level: 50
+Ability: Chlorophyll
+Hardy Nature
+- Energy Ball
+- Dark Pulse
+- Air Slash
+- Sunny Day
+
+# Boss History
+
+1 / L
+2 / W
+
+====================================================================================
+Mt. Chimney
+====================================================================================
+
+# Encounters
+
+Random  /   Egg (100)
+
+# Encounter History
+
+1   /   
+2   /   Dratini
+
+# Trainers
+
+Team Magma Grunt 1 (potential double with Team Magma Grunt 2)
+-Numel lvl -2 // Earth Power, Lava Plume, Rock Slide, Yawn
+-Dugtrio lvl -3 (A) Arena Trap // Earthquake, Sucker Punch, Giga Impact
+
+Team Magma Grunt 2
+-Golbat lvl -2 // Poison Fang, Acrobatics, Crunch, Hypnosis
+-Rhydon lvl -2 // Drill Run, Rock Slide, Hammer Arm, Scary Face
+
+# Boss
+
+Magma Admin Tabitha
+Gigalith @ Passho Berry
+Level: 50
+Ability: Sand Stream
+Modest Nature
+- Power Gem
+- Earth Power
+- Stealth Rock
+- Discharge
+
+Darmanitan @ Life Orb
+Level: 50
+Ability: Sheer Force
+Jolly Nature
+- Flare Blitz
+- Zen Headbutt
+- Rock Slide
+- Bite
+
+Steelix @ Leftovers
+Level: 51
+Ability: Sheer Force
+Careful Nature
+- Iron Tail
+- Earthquake
+- Rock Slide
+- Coil
+
+Gliscor @ Toxic Orb
+Level: 50
+Ability: Poison Heal
+Impish Nature
+- Wing Attack
+- Dig
+- Toxic
+- Protect
+
+
+Magma Leader Maxie
+
+Crobat @ Assualt Vest
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Level: 51
+Ability: Infiltrator
+Adamant Nature
+- Brave Bird
+- Cross Poison
+- Crunch
+- U-turn
+
+Zweilous @ Choice Scarf
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Level: 51
+Ability: Hustle
+Jolly Nature
+- Outrage
+- Crunch
+- Head Smash
+- Superpower
+
+Weezing @ Black Sludge
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 4 Spe
+Level: 51
+Ability: Levitate
+Modest Nature
+- Venoshock
+- Thunderbolt
+- Toxic
+- Heat Wave
+
+Victreebel @ Scope Lens
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Level: 51
+Ability: Chlorophyll
+Jolly Nature
+- Leaf Blade
+- Poison Jab
+- Sucker Punch
+- Sleep Powder
+
+Camerupt @ Power Herb
+EVs: 252 HP / 4 Atk / 0 Def / 252 SpA / 0 SpD / 0 Spe
+Level: 53
+Ability: Sheer Force
+Quiet Nature
+- Earth Power
+- Fire Blast
+- Rock Slide
+- Solar Beam
+
+# Boss History
+
+1   /   
+2   /   W
+
+====================================================================================
+Jagged Pass
+====================================================================================
+
+# Encounters
+
+Grass   /   Grumpig (20), Salandit (20), Primeape (10), Gligar (10), Fearow (10), Mudbray (10), Jangmo-o(10), Turtonator (10)
+Honey   /   Audino (70), Hakamo-o(25), Salazzle (5)
+
+# Encounter History
+
+1   /   
+2   /   Hakamo-o
+
+# Trainers
+
+Hiker Eric
+-Pupitar lvl -2 // Payback, Rock Slide, Earthquake, Screech
+-Metang lvl -2 // Bullet Punch, Meteor Mash, Zen Headbutt, Miracle Eye
+-Hakamo-o lvl -2 // Close Combat, Outrage, Dragon Dance, Noble Roar
+
+Team Magma Grunt
+-Mightyena lvl -2 // Poison Fang, Sucker Punch, Swagger, Ice Fang
+-Turtonator lvl -2 // Flamethrower, Dragon Pulse, Shell Smash, Body Slam
+
+Picnicker Diana
+-Chesnaught lvl -3 // Spiky Shield, Hammer Arm, Seed Bomb, Pin Missile
+-Pidgeot lvl -3 // Slash, Feather Dance, Roost, U-Turn
+-Ampharos lvl -3 // Thunder Wave, Dragon Breath, Discharge, Cotton Guard
+
+Picnicker Autumn
+-Pyroar lvl -2 // Flamethrower, Hyper Voice, Crunch
+-Serperior lvl -2 // Leaf Blade, Dragon Rush, Coil, Leech Seed
+
+Triathlete Julio
+-Magneton lvl -2 // Flash Cannon, Discharge, Tri-Attack, Thunder Wave
+-Luxray lvl -2 // Thunder Fang, Night Slash, Fire Fang, Ice Fang
+
+Camper Ethan
+-Braviary lvl -3 // Wing Attack, Crush Claw, Superpower, Tailwind
+-Sandslash lvl -3 // Spiky Shield, Dig, Swords Dance, Gyro Ball
+-Golduck lvl -3 // Psyshock, Aqua Tail, Disable, Screech
+
+====================================================================================
+Ember Path
+====================================================================================
+
+# Encounters
+
+Cave    /   Magcargo (30), Magmar (20), Boldore (20), Golbat (10), Grumpig (10), Larvesta (10)
+
+# Encounter History
+
+1   /   
+2   /   Magmar   
+
+====================================================================================
+Ashen Woods
+====================================================================================
+
+# Encounters
+
+Grass   /   Salandit (20), Growlithe (20), Pinsir (10), Heracross (10), Scyther (10), Trumbeak (10), Camerupt (10), Noctowl (10)
+Honey   /   Audino (90), Salazzle (5), Toucannon (5)
+
+# Encounter History
+
+1   /   
+2   /   Salandit
+
+# Trainers
+
+Hiker Roman
+-Bronzong lvl -2  // (A) Levitate // Gyro Ball, Extrasensory, Hypnosis, Confuse Ray
+-Golem lvl -2  // (A) Rock Head // Earthquake, Rock Blast, Steamroller, Explosion
+
+Pokemon Ranger Martin (potential double with Pokemon Ranger Alannah)
+-Alolan-Muk lvl -1  // (A) Poison Touch // Poison Jab, Crunch, Acid Spray, Disable
+- Golisopod lvl -1  // Razor Shell, First Impression, Sucker Punch, Drill Run
+-Chansey lvl -1  // (I) Eviolite // Seismic Toss, Soft Boiled, Toxic, Heal Pulse
+
+Pokemon Ranger Alannah (potential double with Pokemon Ranger Martin)
+-Primarina lvl -1  // (A) Berserk // Sparkling Aria, Moonblast, Icy Wind, Sing
+-Durant lvl -1  // (A) Hustle // X-Scissor, Iron Head, Crunch, Thunder Fang
+-Dusclops lvl -1  // Night Shade, Curse, Protect, Infestation
+
+====================================================================================
+Lavaridge Town
+====================================================================================
+
+# Encounters
+
+Random  /   Egg (100)
+
+# Encounter History
+
+1   /   
+2   /   Wynaut
+
+====================================================================================
+Lavaridge Gym
+====================================================================================
+
+# Trainers
+
+Kindler Jace (potential double with Hiker Eli)
+-Emboar lvl -1 (A) Blaze (I) Sitrus Berry // Yawn, Heat Crash, Sucker Punch, Hammer Arm
+-Flareon lvl -1 (A) Guts (I) Toxic Orb //Blaze Kick, Facade, Quick Attack, Dig
+
+Hiker Eli (potential double with Kindler Jace)
+-Heatmor lvl -1 (A) Tough Claws (I) Sitrus Berry // Fire Lash, Iron Tail, Throat Chop, Stomping Tantrum
+-Lampent lvl 0 (A) Flame Body (I) White Herb // Overheat, Hex, Pain Split, Will-o-Wisp
+
+# Boss
+
+Leader Flannery
+Torkoal @ White Herb
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 4 Spe
+Level: 53
+Ability: Drought
+Modest Nature
+- Overheat
+- Stealth Rock
+- Clear Smog
+- Rapid Spin
+
+Houndoom @ Fire Gem
+EVs: 0 HP / 4 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Level: 50
+Ability: Flash Fire
+Hasty Nature
+- Overheat
+- Dark Pulse
+- Solar Beam
+- Sucker Punch
+
+Arcanine @ Assault Vest
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Level: 50
+Ability: Intimidate
+Adamant Nature
+- Flare Blitz
+- Play Rough
+- Close Combat
+- Extreme Speed
+
+Blaziken @ Weakness Policy
+EVs: 0 HP / 252 Atk / 0 Def / 4 SpA / 0 SpD / 252 Spe
+Level: 50
+Ability: Speed Boost
+Naive Nature
+- Overheat
+- Reversal
+- Thunder Punch
+- Endure
+
+Volcarona @ Charti Berry
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Level: 50
+Ability: Flame Body
+Timid Nature
+- Fiery Dance
+- Giga Drain
+- Quiver Dance
+- Roost
+
+Talonflame @ White Herb
+EVs: 0 HP / 252 Atk / 0 Def / 4 SpA / 0 SpD / 252 Spe
+Level: 50
+Ability: Gale Wings
+Naughty Nature
+- Overheat
+- Brave Bird
+- Defog
+- U-turn
+
+# Boss History
+
+1   /   
+2   /   W
+
+====================================================================================
+Route 111 (Desert)
+====================================================================================
+
+# Encounters
+
+Desert      /   Sandshrew (20), Cacnea (20), Trapinch (10), Gible (10), Sandile (10), Baltoy (10), Maractus (10), Hippopotas (10)
+Surf        /   Marill (60), Surskit (30), Masquerain (5), Azumarill (5)
+Old Rod     /   Barboach (60), Goldeen (40)
+Good Rod    /   Goldeen (60), Basculin (40)
+Super Rod   /   Basculin (80), Seaking (20)
+Rock Smash  /   Geodude (60), Graveler (30), Shuckle (10)
+
+# Encounter History
+
+1   /   
+2   /   Hippopotas   
+
+# Trainers
+
+====================================================================================
+Mirage Tower
+====================================================================================
+
+# Encounters
+
+Floor       /   Sandshrew (20), Trapinch (20), Bronzor (20), Golett (10), Sigilyph (10), Yanmask (10), Darumaka (10)
+Rock Smash  /   Geodude (50), Dwebble (50)
+
+# Encounter History
+
+1   /   
+2   /   Bronzor
+
+====================================================================================
+Sandstrewn Ruins
+====================================================================================
+
+# Encounters
+
+Cave        /   Yamask (20), Bronzong (20), Golett (10), Darumaka (10), Honedge (10), Sigilyph (10), Claydol (10), Gabite (10)
+Grass       /   Xatu (20), Helioptile (20), Rockruff (20), Girafarig (10), Hawlucha (10), Skiploom (10), Meditite (10)
+Honey       /   Jumpluff (100)
+Surf        /   Relicanth (100)
+Old Rod     /   Relicanth (100)
+Good Rod    /   Relicanth (100)   
+Super Rod   /   Relicanth (100)   
+Rock Smash  /   Baltoy (50), Onix (30), Steelix (20)
+
+
+# Encounter History
+
+1   /   
+2   /   Honedge
+
+====================================================================================
+Fossil Encounters
+====================================================================================
+
+# Encounters
+
+Fossil      /   Aerodactyl, Amaura, Cranidos, Omanyte, Kabuto, Tyrunt, Shieldon, Tirtuoga, Archen, Anorith, Lileep
+
+# Encounter History
+
+1   /   
+2   /   Aerodactyl, Amaura, Cranidos
+
+====================================================================================
+Petalburg Gym
+====================================================================================
+
+# Trainers
+
+Cooltrainer Randall (Speed)
+-Swellow (N) Jolly (I) Flame Orb // Quick Attack, Brave Bird, Double Edge, Protect
+-Lopunny (N) Jolly (I) Salac Berry // Quick Attack, Jump Attack, Return, Ice Punch
+-Sawsbuck (N) Jolly (I) Heat Rock // Sunny Day, Jump Kick, Return, Horn Leech
+
+Cooltrainer Mary (Accuracy)
+-Braviary (N) Jolly (I) White Herb // Hone Claws, Brave Bird, Double Edge, Superpower
+-Raticate (Alolan) (A) Hustle (N) Jolly (I) Salac Berry // Quick Attack, Double Edge, Crunch, Hone Claws
+-Drampa (N) Modest (I) Damp Rock // Rain Dance, Thunder, Hurricane, Work Up
+
+Cooltrainer Parker (Confusion)
+-Spinda (A) Contrary (N) Jolly (I) Focus Sash // Teeter Dance, Superpower, Dizzy Punch, Attract
+-Stantler (A) Sap Sipper (N) Jolly (I) Perism Berry // Swagger, Disable, Protect, Thrash
+-Girafarig (A) Contrary (N) Timid (I) Damp Rock // Psychic, Swagger, Foul Play, Thunder Wave
+
+Cooltrainer Alexia (Defense)
+-Snorlax (A) Thick Fat (N) Impish (I) Leftovers // Body Slam, Curse, Rest, Sleep Talk
+-Furfrou (N) Impish (I) Leftovers // Thunder Wave, Headbutt, Cotton Guard, Bite
+-Miltank (A) Scrappy (N) Impish (I) Leftovers // Defenses Curl, Rollout, Body Slam, Milk Drink
+
+Cooltrainer George (Recovery)
+-Chansey (I) Eviolite // Minimize, Soft Boiled, Seismic Toss, Aromatherapy
+-Dunsparce (N) Impish (I) Leftovers // Coil, Headbutt, Thunderwave, Roost
+-Porygon2 (A) Analytic (I) Eviolite // Tri-Attack, Recover, Ice Beam, Thunderbolt
+
+Cooltrainer Jody (Strength)
+-Zangoose (A) Toxic Boost (N) Adamant (I) Toxic Orb // Swords Dance, Facade, Close Combat, Knock Off
+-Bouffalant (N) Adamant (I) Leichi Berry // Swords Dance, Head Charge, Megahorn, Earthquake
+-Porygon Z (A) Download (N) Modest (I) Life Orb // Tri-Attack, Nasty Plot, Ice Beam, Shadow Ball
+
+Cooltrainer Berke (One-Hit KO)
+-Lickilicky (N) Adamant (I) Custap Berry // Belly Drum, Explosion.
+-Snorlax (A) Thick Fat (N) Adamant (I) Normal Gem // Fissure, Self Destruct.
+-Ursaring (N) Adamant (I) Flame Orb // Protect, Giga Impact.
+
+# Boss
+
+Leader Norman   
+
+Swellow @ Flame Orb
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Level: 54
+Ability: Guts
+Jolly Nature
+- Brave Bird
+- Facade
+- Reversal
+- U-turn
+
+Tauros @ Life Orb
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Level: 54
+Ability: Intimidate
+Jolly Nature
+- Facade
+- Earthquake
+- Throat Chop
+- Close Combat
+
+Linoone @ Figy Berry
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Level: 54
+Ability: Gluttony
+Jolly Nature
+- Extreme Speed
+- Belly Drum
+- Shadow Claw
+- Seed Bomb
+
+Exploud @ Expert Belt
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Level: 54
+Ability: Scrappy
+Modest Nature
+- Boomburst
+- Fire Blast
+- Surf
+- Extrasensory
+
+Slaking @ Lum Berry
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Level: 56
+Ability: Truant
+Adamany Nature
+- Giga Impact
+- Yawn
+- Night Slash
+- Earthquake
+
+Kangaskhan-Mega @ Kangaskhanite
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Level: 54
+Ability: Parental Bond
+Jolly Nature
+- Facade
+- Crunch
+- Seismic Toss
+- Earthquake
+
+# Boss History
+
+1   /   
+2   /   W
+
+====================================================================================
+New Mauville
+====================================================================================
+
+# Encounters
+
+Floor   /   Magneton (20), Klang (20), Elekid (10), Klink (10), Electrode (10), Magneton (10), Electabuzz (10), Tegdemaru (10)
+Static  /   Zapdos (100), Rotom (100)
+
+# Encounter History
+
+1   /   
+2   /   Electrode
+
+====================================================================================
+Route 105
+====================================================================================
+
+# Encounters
+
+Grass       /   Malamar (20), Chatot (20), Floatzel (20), Crabrawler (20), Exeggutor (20)
+Surf        /   Tentacool (60), Wingull (30), Pelipper (10)
+Old Rod     /   Clauncher (60), Skrelp (40)
+Good Rod    /   Skrelp (60), Clauncher (40)
+Super Rod   /   Clawitzer (55), Dragalge (45)
+Rock Smash  /   Binacle (60), Wimpod (30), Dwebble (10)
+
+# Encounter History
+
+1   /   
+2   /   Skrelp
+
+# Trainers
+
+====================================================================================
+Route 108
+====================================================================================
+
+# Encounters
+
+Surf        /   Frillish (60), Mantyke (30), Wingull (10)
+Old Rod     /   Remoraid (60), Finneon (40)
+Good Rod    /   Finneon (60), Remoraid (40)
+Super Rod   /   Lumineon (40), Octillery (40), Gyarados (20)
+
+# Encounter History
+
+1   /   
+2   /   
+
+# Trainers
+
+====================================================================================
+Abandoned Ship
+====================================================================================
+
+# Encounters
+
+Surf        /   Frillish (95), Jellicent (5)
+Old Rod     /   Frillish (60), Skrelp (40)
+Good Rod    /   Skrelp (60), Frillish (20), Dhelmise (20)
+Super Rod   /   Dragalge (40), Dhelmise (40), Jellicent (20)
+
+# Encounter History
+
+1   /   
+2   /   Dhelmise
+
+# Trainers
+
+====================================================================================
+Meteor Falls
+====================================================================================
+
+# Encounters
+
+## BF: Room 1
+
+Cave        /   Lunatone (20), Solrock (20), Drampa (20), Clefairy (10), Zweilous (10), Ferrothor (10), Druddigon (10)
+
+## BF: Room 2
+
+Cave        /   Bagon (39), Lunatone (20), Solrock (20), Golbat (20), Salamence (1)
+
+## Stevens Room
+
+Cave        /   Lunatone (20), Solrock (20), Metang (20), Clefable (10), Ferrothorn (10), Druddigon (10), Crobat (9), Metagross (1)
+
+## 1F: Room 1 / Room 2
+
+Cave        /   Lunatone (20), Solrock (20), Minior (20), Clefairy (10), Deino (10), Ferroseed (10), Druddigon (10)
+Surf        /   Golbat (60), Dratini (30), Solrock (5), Lunatone (5)
+Old Rod     /   Barboach (60), Dratini (40)
+Good Rod    /   Dratini (60), Barboach (20), Dragonair (20)
+Super Rod   /   Dratini (40), Dragonair (40), Whiscash (19), Dragonite (1)
+
+
+# Encounter History
+
+1   /   
+2   /   Ferroseed
+
+====================================================================================
+Route 115
+====================================================================================
+
+# Encounters
+
+Grass       /   Jigglypuff (20), Swellow (20), Tangela (15), Dodrio (10), Swirlix (10), Spirtzee (10), Lurantis (10), Munchlax (5)
+Honey       /   Audino (90), Slurpuff (5), Aromatisse (5)
+Surf        /   Wishiwashi (60), Wingull (30), Tentacruel (10)
+Old Rod     /   Wishiwashi (60), Wailmer (40)
+Good Rod    /   Wailmer (60), Wishiwashi (20), Qwilfish (20)
+Super Rod   /   Qwilfish (40), Wishiwashi (40), Wailmer (15), Wailord (5)
+
+# Encounter History
+
+1   /   
+2   /   Swirlix
+
+# Trainers
+
+Ninja Boy Jaiden (potential double with Expert Timothy)
+-Ninjask lvl -3 // Leech Life, Double Team, Protect, Baton Pass
+-Swalot lvl -2 // Sludge Bomb, Water Pulse, Toxic, Stockpile
+-Skuntank lvl -3 // Crunch, Poison Jab, Flamethrower, Smokescreen
+
+
+====================================================================================
+Route 118
+====================================================================================
+
+# Trainers
+
+Fisherman Barny
+-Tentacruel lvl -3 (A) Liquid Ooze // Hydro Pump, Sludge Wave, Wring Out, Barrier
+-Sharpedo lvl -3 // Hydro Pump, Crunch, Ice Fang, Aqua Jet
+-Barbaracle lvl -3 // Razor Shell, Stone Edge, Cross Chop, Night Slash
+
+Bird Keeper Chester
+-Talonflame lvl -2 // Brave Bird, Flare Blitz, Steel Wing, Roost
+-Mandibuzz lvl -2 // Foul Play, Roost, Iron Defense, Whirlwind
+
+====================================================================================
+Route 119
+====================================================================================
+
+# Encounters
+
+Grass       /   Gumshoos (20), Tropious (20), Goomy (15), Oranguru (10), Passimian (10), Comfey (10), Keckleon (10), Amoonguss (5)
+Honey       /   Audino (60), Sliggoo (20), Amoonguss (20)
+Surf        /   Gastrodon (60), Floatzel (30), Pelipper (10)
+Old Rod     /   Carvanha (60), Magikarp (40)
+Good Rod    /   Carvanha (60), Magikarp (20), Sharpedo (20)
+Super Rod   /   Carvanha (40), Gyarados (40), Sharpedo (19), Milotic (1)
+Static      /   Feebas (100)
+
+# Encounter History
+
+1   /   
+2   /   Amoonguss
+
+====================================================================================
+Fortree City
+====================================================================================
+
+# Encounters
+
+Random      /   Egg (100)
+
+# Encounter History
+
+1   /   
+2   /   Snover
+
+====================================================================================
+Route 120
+====================================================================================
+
+# Encounters
+
+Grass       /   Absol (20), Watchog (20), Venomoth (10), Tropious (10), Pumpkaboo-R (15), Pumpkaboo-S (10), Pumpkaboo-L (10), Pumpkaboo-XL (5)
+Honey       /   Audino (90), Tangrowth (5), Yanmega (5)
+Surf        /   Azumarill (60), Stunfisk (30), Masquerain (10)
+Old Rod     /   Barboach (60), Magikarp (40)
+Good Rod    /   Barboach (60), Stunfisk (20), Magikarp (20)
+Super Rod   /   Whiscash (40), Stunfisk (40), Gyarados (20)
+Cut         /   Pinsir (60), Masquerain (40)
+Random      /   Egg (100)
+
+# Encounter History
+
+1   /   
+2   /   Corphish
+
+====================================================================================
+Scorched Slab
+====================================================================================
+
+# Encounters
+
+## 1F
+
+Cave        /   Golbat (95), Crobat (5)
+Surf        /   Golbat (95), Crobat (5)
+Old Rod     /   Goldeen (60), Barboach (40)
+Good Rod    /   Barboach (60), Goldeen (20), Whiscash (20)
+Super Rod   /   Barboach (40), Seaking (30), Whiscash (30)
+
+## B1F
+
+Cave        /   Golbat (25), Gurdurr (25), Dugtrio (20), Boldore (20), Zweilous (10)
+Surf        /   Golbat (95), Crobat (5)
+Old Rod     /   Goldeen (60), Barboach (40)
+Good Rod    /   Barboach (60), Goldeen (20), Whiscash (20)
+Super Rod   /   Barboach (40), Seaking (30), Whiscash (30)
+
+## B2F
+
+Cave        /   Golbat (20), Gurdurr (20), Dugtrio (20), Boldore (20), Magmar (10), Turtonator (10)
+
+## Heatran's Room
+
+Cave        /   Golbat (20), Magcargo (20), Dugtrio (20), Boldore (10), Magmar (10), Turtonator (10)
+
+# Encounter History
+
+1   /   
+2   /   
+
+====================================================================================
+Route 121
+====================================================================================
+
+# Encounters
+
+Grass       /   Shuppet (20), Duskull (20), Hypno (10), Elgyem (10), Furfrou (10), Pangoro (10), Komala (10), Arbok (10)
+Honey       /   Audino (50), Dusclops (25), Banette (25)
+Surf        /   Pelipper (60), Frillish (30), Alomomola (10)
+Old Rod     /   Magikarp (60), Wailmer (40)
+Good Rod    /   Wailmer (100)
+Super Rod   /   Wailmer (40), Gyarados (40), Lumineon (20)
+Cut         /   Arbok (60), Heracross (40)
+
+# Encounter History
+
+1   /
+2   / Dusclops
+
+====================================================================================
+Safari Zone
+====================================================================================
+
+# Encounters
+
+## North East
+
+Grass       /   Gloom (20), Weepinbell (20), Donphan (20), Marowak-Alola (10), Heracross (10), Kangaskhan (10), Dugtrio-Alola (10)
+Rock Smash  /   Graveler-Alola (100)
+
+## North West
+
+Grass       /   Xatu (20), Dodrio (20), Rhyhorn (20), Pinsir (10), Rhydon (10), Chansey (10), Raticate-Alola (10)
+Surf        /   Grimer-Alola (90), Muk-Alola (10)
+Old Rod     /   Grimer-Alola (60), Grimer (40)
+Good Rod    /   Grimer-Alola (60), Muk-Alola (20), Muk (20)
+Super Rod   /   Muk-Alola (60), Muk (40)
+
+## South West
+
+Grass       /   Karrablast (20), Shelmet (20), Palpitoad (20), Seismitoad (10), Toxicroak (10), Sliggoo (10), Arbok (10)
+Surf        /   Stunfisk (60), Sliggoo (30), Seismitoad (10)
+Old Rod     /   Magikarp (60), Goldeen (40)
+Good Rod    /   Goldeen (60), Seaking (40)
+Super Rod   /   Seaking (100)
+
+## South East
+
+Grass       /   Wobbuffet (20), Pikachu (20), Meowth-Alola (20), Smeargle (10), Girafarig (10), Persian-Alola (10), Raichu-Alola (10)
+
+## Expansion North
+
+Grass       /   Houndoom (20), Pineco (20), Forretress (10), Miltank (10), Tauros (10), Ledian (10), Nidorino (10), Nidorina (10)
+Rock Smash  /   Shuckle (100)
+
+## Expansion South
+
+Grass       /   Gligar (20), Flaaffy (20), Ariados (20), Ambipom (20), Granbull (10), Stantler (10)
+Surf        /   Wooper (60), Quagsire (40)
+Old Rod     /   Remoraid (60), Dratinit (40)
+Good Rod    /   Dratini (60), Dragonair (40)
+Super Rod   /   Dratini (59), Dragonair (40), Dragonite (1)
+
+# Encounter History
+
+1   /   
+2   /   Graveler-Alola, Grimer-Alola, Magikarp, Girafarig
+
+====================================================================================
+Desert Underpass
+====================================================================================
+
+# Encounters
+
+Random      /   Egg (100)
+
+# Encounter History
+
+1   /
+2   /   Marill
+
+====================================================================================
+Route 122
+====================================================================================
+
+# Encounters
+
+Surf        /   Pelipper (60), Frillish (30), Alomomola (10)
+Old Rod     /   Magikarp (60), Wailmer (40)
+Good Rod    /   Wailmer (60), Finneon (40)
+Super Rod   /   Wailmer (40), Gyarados (40), Lumineon (20)
+
+# Encounter History
+
+1   /
+2   /   Pelipper
+
+
+====================================================================================
+Route 123
+====================================================================================
+
+# Encounters
+
+Grass       /   Mightyena (20), Linoon (20), Karrablast (20), Shelmet (20), Stantler (10), Gloom (10)
+Honey       /   Audino (90), Escavalier (5), Accelgor (5)
+Surf        /   Azumarill (60), Stunfisk (30), Masquerain (10)
+Old Rod     /   Goldeen (60), Corphish (40)
+Good Rod    /   Corphish (60), Goldeen (40)
+Super Rod   /   Corphish (40), Crawdaunt (40), Seaking (20)
+Cut         /   Noctowl (60), Exeggcute (40)
+
+# Encounter History
+
+1   /
+2   /   Accelgor (Killed)
+
+====================================================================================
+Mt. Pyre
+====================================================================================
+
+# Encounters
+
+## 1F - 3F
+
+Floor       /   Shuppet (20), Duskull (20), Litwick (20), Haunter (10), Golbat (10), Misdreavus (10), Murkrow (10)
+
+## 4F - 6F
+
+Floor       /   Banette (20), Dusclops (20), Lampent (10), Mimikyu (10), Haunter (10), Golbat (10), Misdreavus (10), Murkrow (10)
+
+## Exterior
+
+Grass       /   Vulpix (30), Medicham (20), Drifblim (20), Beheeyem (10), Growlithe (10), Bronzong (10)
+Honey       /   Audino (70), Arcanine (15), Ninetales (15)
+
+## Summit
+
+Grass       /   Vulpix (20), Medicham (20), Drifblim (20), Growlithe (15), Bronzong (10), Beheeyem (10), Chimecho (5)
+Honey       /   Audino (70), Chimecho (15), Bronzong (15)
+
+# Encounter History
+
+1   /
+2   /   Arcanine
+
+====================================================================================
+Magma Hideout
+====================================================================================
+
+# Encounters
+
+Cave        /   Graveler (20), Boldore (20), Excadrill (15), Torkoal (15), Turtonator (10), Weezing (10), Golem (5), Gigalith (5)
+
+# Encounter History
+
+1   /   
+2   /   Excadrill
+

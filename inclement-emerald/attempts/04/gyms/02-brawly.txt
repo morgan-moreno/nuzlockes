@@ -1,0 +1,149 @@
+Meditite @ Light Clay
+Level: 23
+Ability: Pure Power
+Adamant Nature
+- Drain Punch
+- Light Screen
+- Reflect
+- Zen Headbutt
+
+Breloom @ Toxic Orb
+Level: 23
+Ability: Poison Heal
+Adamant Nature
+- Drain Punch
+- Bulk Up
+- Bullet Seed
+- Spore
+
+Lucario @ Lum Berry
+Level: 23
+Ability: Steadfast
+Adamant Nature
+- Bullet Punch
+- Bulk Up
+- Payback
+- Reversal
+
+Hitmonchan @ Coba Berry
+Level: 23
+Ability: Keen Eye
+Adamant Nature
+- Drain Punch
+- Bulk Up
+- Thunder Punch
+- Ice Punch
+
+Dewott @ Eviolite
+Level: 23
+Ability: Torrent
+Adamant Nature
+- Razor Shell
+- Karate Chop
+- X-Scissor
+- Air Slash
+
+Hariyama @ Sitrus Berry
+Level: 25
+Ability: Guts
+Adamant Nature
+- Arm Thrust
+- Knock Off
+- Bulldoze
+- Bulk Up
+
+----------------------------
+Floette @ Focus Sash
+IVs: 7 HP / 31 Atk / 24 Def / 31 SpA / 31 SpD / 12 Spe
+Level: 25
+Ability: Flower Veil
+Timid Nature
+- Draining Kiss
+- Magical Leaf
+- Leech Seed
+- Wish
+
+Quagsire @ Oran Berry
+IVs: 31 HP / 23 Atk / 31 Def / 2 SpA / 31 SpD / 15 Spe
+Level: 25
+Ability: Water Absorb
+Sassy Nature
+- Water Gun
+- Yawn
+- Recover
+- Mud Bomb
+
+Ledian @ Chesto Berry
+IVs: 31 HP / 5 Atk / 31 Def / 29 SpA / 19 SpD / 31 Spe
+Level: 25
+Ability: Early Bird
+Quiet Nature
+- Leech Life
+- Air Cutter
+- Reflect
+- Mach Punch
+
+Dustox @ Oran Berry
+IVs: 16 HP / 31 Atk / 7 Def / 31 SpA / 31 SpD / 25 Spe
+Level: 25
+Ability: Shield Dust
+Lonely Nature
+- Moonlight
+- Psybeam
+- Venoshock
+- Silver Wind
+
+Blitzle @ Oran Berry
+IVs: 17 HP / 6 Atk / 31 Def / 31 SpA / 31 SpD / 30 Spe
+Level: 25
+Ability: Motor Drive
+Bold Nature
+- Flame Charge
+- Charge
+- Discharge
+- Thunder Wave
+
+Dartrix @ Oran Berry
+IVs: 31 HP / 16 Atk / 31 Def / 31 SpA / 4 SpD / 20 Spe
+Level: 25
+Ability: Overgrow
+Careful Nature
+- Ominous Wind
+- Razor Leaf
+- Growl
+- Pluck
+----------------------------
+- Meditite @ Light Clay: Floette @ Focus Sash
+
+    1. Zen headbutt (71.4 - 85.7), draining kiss (KO) [42.8 recovered]
+
+- Lucario @ Lum Berry: Quagsire @ Oran Berry
+
+    1. Switch in bullet punch (6.6 - 8.8)
+    2. Payback (12.2 - 15.5), mud bomb (50 - 61.1) (2HKO)
+
+- Breloom @ Toxic Orb: Ledian @ Chesto
+
+    1. Switch in bullet seed (17.1)
+    2. Air cutter (95.5 - 113.4), Spore
+    3. Air cutter (KO)
+
+- Hitmonchan @ Coba Berry: Quagsire @ Oran Berry / Dustox @ Oran Berry
+
+    1. Switch in quagsire, ice punch (8.8 - 11)
+    2. Drain punch (13.3 - 16.6), yawn
+    3. Switch in dustox, drain punch (5)
+    4. Psybeam (28.9 - 34.2) (3-4HKO)
+
+- Dewott @ Eviolite: Blitzle @ Oran Berry
+
+    1. Switch in air slash (18 - 22.9)
+    2. Discharge (43.2 - 56.7), razor sheel (34.4 - 42.6) (2HKO :Prayce:)
+
+- Hariyama @ Sitrus Berry: Dartrix @ Oran Berry
+
+    1. Switch in bulldoze (0)
+    2. Knock off (13.5 - 17.2), pluck (33.3 - 42.1) (3HKO)
+
+
+

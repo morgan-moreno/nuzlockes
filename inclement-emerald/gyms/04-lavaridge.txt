@@ -1,0 +1,132 @@
+====================================
+Kindler Jeff
+====================================
+
+Magcargo @ White Herb
+Level: 49
+Ability: Simple
+- Shell Smash
+- Lava Plume
+- Rock Slide
+- Earth Power
+
+Delphox @ Life Orb
+Level: 49
+Ability: Magic Guard
+- Mystical Fire
+- Psyshock
+- Dazzling Gleam
+- Will-o-Wisp
+
+Gourgeist @ Flame Orb
+Level: 49
+Ability: Flare Boost
+- Flamethrower
+- Giga Drain
+- Shadow Ball
+- Trick or Treat
+
+====================================
+Kindler Jace (Potential Double w/ Hiker Eli)
+====================================
+
+Emboar @ Sitrus Berry
+Level: 49
+Ability: Blaze
+- Yawn
+- Heat Crash
+- Sucker Punch
+- Hammer Arm
+
+Flareon @ Toxic Orb
+Level: 49
+Ability: Guts
+- Blaze Kick
+- Facade
+- Quick Attack
+- Dig
+
+====================================
+Hiker Eli (Potenital Double w/ Kindler Jace)
+====================================
+
+Heatmor @ Sitrus Berry
+Level: 49
+Ability: Tough Claws
+- Fire Lash
+- Iron Tail
+- Throat Chop
+- Stomping Tantrum
+
+Lampent @ White Herb
+Level: 50
+Ability: Flame Body
+- Overheat
+- Hex
+- Pain Split
+- Will-o-Wisp
+
+
+====================================
+Leader Flannery
+====================================
+
+Torkoal @ White Herb
+EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 4 Spe
+Level: 53
+Ability: Drought
+Modest Nature
+- Overheat
+- Stealth Rock
+- Clear Smog
+- Rapid Spin
+
+Houndoom @ Fire Gem
+EVs: 0 HP / 4 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Level: 50
+Ability: Flash Fire
+Hasty Nature
+- Overheat
+- Dark Pulse
+- Solar Beam
+- Sucker Punch
+
+Arcanine @ Assault Vest
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Level: 50
+Ability: Intimidate
+Adamant Nature
+- Flare Blitz
+- Play Rough
+- Close Combat
+- Extreme Speed
+
+Blaziken @ Weakness Policy
+EVs: 0 HP / 252 Atk / 0 Def / 4 SpA / 0 SpD / 252 Spe
+Level: 50
+Ability: Speed Boost
+Naive Nature
+- Overheat
+- Reversal
+- Thunder Punch
+- Endure
+
+Volcarona @ Charti Berry
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Level: 50
+Ability: Flame Body
+Timid Nature
+- Fiery Dance
+- Giga Drain
+- Quiver Dance
+- Roost
+
+Talonflame @ White Herb
+EVs: 0 HP / 252 Atk / 0 Def / 4 SpA / 0 SpD / 252 Spe
+Level: 50
+Ability: Gale Wings
+Naughty Nature
+- Overheat
+- Brave Bird
+- Defog
+- U-turn

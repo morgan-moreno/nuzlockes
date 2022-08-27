@@ -1,0 +1,134 @@
+ROUTE-119
+
+===
+Pokemon Trainer Catherine
+===
+
+Bellossom @ Miracle Seed
+Level: 68
+- Quiver Dance
+- Moonblast
+- Giga Drain
+- Sleep Powder
+
+Noivern @ Petaya Berry
+Level: 38
+- Hurricane
+- Water Pulse
+- Dragon Pulse
+- Boomburst
+
+Beartic @ Water Gem
+Level: 68
+Ability: Swift Swim
+- Icicle Crash
+- Liquidation
+- Throat Chop
+- Aqua Jet
+
+Seismitoad @ Sitrus Berry
+Level: 68
+- Earth Power
+- Hydro Pump
+- Sludge Wave
+- Power Whip
+
+
+===
+Pokemon Ranger Jackson
+===
+
+Mantine @ Mystic Water
+Level: 68
+- Hydro Pump
+- Hurricane
+- Signal Beam
+- Roost
+
+Rotom-Fan @ Salac Berry
+Level: 68
+- Hurricane
+- Thunder
+- Shadow Ball
+- Nasty Plot
+
+Parasect @ Leftovers
+Level: 68
+Ability: Dry Skin
+- Spore
+- Substitute
+- Leech Seed
+- Leech Life
+
+Lapras @ Sitrus Berry
+Level: 68
+Ability: Hydration
+- Liquidation
+- Drill Run
+- Curse
+- Rest
+
+
+===
+Pokemon Trainer May
+Swellow @ Life Orb
+Level: 70
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Ability: Scrappy
+Timid Nature
+- Hurricane
+- Boomburst
+- Heat Wave
+- U-turn
+
+Starmie @ Life Orb
+Level: 70
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Ability: Analytic
+Timid Nature
+- Hydro Pump
+- Psyshock
+- Thunder
+- Ice Beam
+
+Rapidash @ Life Orb
+Level: 70
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Ability: Reckless
+Jolly Nature
+- Flare Blitz
+- Jump Kick
+- Wild Charge
+- Poison Jab
+
+Mimikyu @ Lum Berry
+Level: 70
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Ability: Disguise
+Jolly Nature
+- Shadow Claw
+- Play Rough
+- Swords Dance
+- Shadow Sneak
+
+Vikavolt @ Assault Vest
+Level: 70
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Ability: Levitate
+Timid Nature
+- Thunder
+- Bug Buzz
+- Energy Ball
+- Mud Shot
+
+Sceptile-Mega @ Sceptilite
+Level: 72
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Ability: Chloroplast
+Timid Nature
+- Frenzy Plant
+- Dragon Pulse
+- Focus Blast
+- Grassy Terrain
+
+

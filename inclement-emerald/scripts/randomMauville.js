@@ -31,8 +31,6 @@ const options = {
     "Munchlax",
     "Vulpix",
     "Sandshrew",
-    "Rattata",
-    "Meowth",
     "Grimer",
     "Diglett",
     "Geodude",
@@ -42,31 +40,25 @@ const options = {
   ],
 };
 
-var args = process.argv.slice(2);
+const grass = options.grass;
+const fire = options.fire;
+const water = options.water;
+const other = options.other;
 
-if (args) {
-  const type = args[0];
+let randomIndex;
 
-  if (!Object.keys(options).includes(type)) {
-    console.log("Invalid Type: water, fire, grass, other");
-    process.exit(1);
-  }
+// Get Grass Option
+randomIndex = Math.floor(Math.random() * grass.length);
+console.log(`Grass: ${grass[randomIndex]}`);
 
-  const starterIndex = Math.floor(Math.random() * options[type].length);
+// Get Fire Option
+randomIndex = Math.floor(Math.random() * fire.length);
+console.log(`Fire: ${fire[randomIndex]}`);
 
-  const starter = options[type][starterIndex];
+// Get Water Option
+randomIndex = Math.floor(Math.random() * water.length);
+console.log(`Water: ${water[randomIndex]}`);
 
-  console.log("Starter: ", starter);
-  process.exit(0);
-} else {
-  const types = Object.keys(options);
-
-  const type = types[Math.floor(Math.random() * types.length)];
-
-  const starterIndex = Math.floor(Math.random() * options[type].length);
-
-  const starter = options[type][starterIndex];
-
-  console.log("Starter: ", starter);
-  process.exit(0);
-}
+// Get Other Option
+randomIndex = Math.floor(Math.random() * other.length);
+console.log(`Other: ${other[randomIndex]}`);

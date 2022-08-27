@@ -1,0 +1,173 @@
+MT-PYRE
+
+===
+Team Aqua Grunt 1
+===
+
+Bruxish @ 
+Level: 68
+Ability: Strong Jaw
+- Waterfall
+- Crunch
+- Psychic Fangs
+- Ice Fang
+
+Weavile @ 
+Level: 68
+- Night Slash
+- Icicle Crash
+- Psycho Cut
+- Ice Shard
+
+Wailord @ 
+Level: 68
+- Scald
+- Ice Beam
+- Body Slam
+- Noble Roar
+
+
+===
+Team Aqua Grunt 2
+===
+
+Muk @ 
+Level: 68
+- Fire Blast
+- Acid Spray
+- Giga Drain
+- Toxic
+
+Raticate-Alola @ 
+Level: 68
+Ability: Hustle
+- Crunch
+- Iron Tail
+- Quick Attack
+- Zen Headbutt
+
+Tentacruel @ 
+Level: 68
+- Scald
+- Sludge Bomb
+- Mirror Coat
+- Hex
+
+
+===
+Team Aqua Grunt 3 (forced double w/ grunt 4)
+===
+
+Jellicent @ 
+Level: 68
+- Rain Dance
+- Scald
+- Shadow Ball
+- Psychic
+
+Amoonguss @ 
+Level: 68
+- Spore
+- Giga Drain
+- Sludge Bomb
+- Synthesis
+
+Lanturn @ 
+Level: 68
+- Scald
+- Thunder
+- Confuse Ray
+- Spotlight
+
+
+===
+Team Aqua Grunt 4 (forced double w/ grunt 3)
+===
+
+Carracosta @ 
+Level: 68
+Ability: Swift Swim
+- Liquidation
+- Rock Slide
+- Shell Smash
+- Zen Headbutt
+
+Liepard @ 
+Level: 68
+- Knock Off
+- Play Rough
+- U-turn
+- Encore
+
+Qwilfish @ 
+Level: 68
+Ability: Intimidate
+- Waterfall
+- Poison Jab
+- Payback
+- Thunder Wave
+
+
+===
+Aqua Admin Matt
+Pelipper @ Rocky Helmet
+Level: 70
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Ability: Drizzle
+Bold Nature
+- Hurricane
+- Scald
+- Roost
+- U-turn
+
+Dhelmise @ Assault Vest
+Level: 70
+EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
+Ability: Steelworker
+Adamant Nature
+- Power Whip
+- Phantom Force
+- Liquidation
+- Anchor Shot
+
+Heliolisk @ Life Orb
+Level: 70
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Ability: Dry Skin
+Timid Nature
+- Thunder
+- Weather Ball
+- Focus Blast
+- Grass Knot
+
+Toxicroak @ Black Sludge
+Level: 70
+EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Ability: Dry Skin
+Careful Nature
+- Drain Punch
+- Poison Jab
+- Bulk Up
+- Sucker Punch
+
+Seismitoad @ Rindo Berry
+Level: 70
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Ability: Swift Swim
+Adamant Nature
+- Liquidation
+- Earthquake
+- Power Whip
+- Ice Punch
+
+Gyarados-Mega @ Gyardosite
+Level: 72
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Ability: Mold Breaker
+Jolly Nature
+- Waterfall
+- Crunch
+- Earthquake
+- Dragon Dance
+
+

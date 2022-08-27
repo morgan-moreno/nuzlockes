@@ -1,0 +1,261 @@
+{
+  "name": "Fortree Gym",
+  "trainers": [
+    {
+      "name": "Bird Keeper Humberto",
+      "optional": true,
+      "pokemon": [
+        {
+          "name": "Gliscor",
+          "level": "70",
+          "item": "Flying Gem",
+          "ability": "",
+          "nature": "Jolly",
+          "moves": ["Acrobatics", "Earthquake", "Poison Jab", "Swords Dance"]
+        },
+        {
+          "name": "Mandibuzz",
+          "level": "70",
+          "item": "Leftovers",
+          "ability": "Overcoat",
+          "nature": "Impish",
+          "moves": ["Foul Play", "Swagger", "Roost", "Substitute"]
+        },
+        {
+          "name": "Hawlucha",
+          "level": "70",
+          "item": "Sitrus Berry",
+          "ability": "Unburden",
+          "nature": "Jolly",
+          "moves": ["Brave Bird", "Close Combat", "Stone Edge", "Swords Dance"]
+        },
+        {
+          "name": "Minior",
+          "level": "70",
+          "item": "White Herb",
+          "ability": "",
+          "nature": "Jolly",
+          "moves": ["Acrobatics", "Rock Slide", "Zen Headbutt", "Shell Smash"]
+        }
+      ]
+    },
+    {
+      "name": "Bird Keeper Jared (double w/ Ashley)",
+      "optional": true,
+      "pokemon": [
+        {
+          "name": "Swoobat",
+          "level": "70",
+          "item": "Salac Berry",
+          "ability": "Simple",
+          "nature": "Timid",
+          "moves": ["Air Slash", "Psyshock", "Energy Ball", "Nasty Plot"]
+        },
+        {
+          "name": "Noctowl",
+          "level": "70",
+          "item": "Leftovers",
+          "ability": "Tinted Lens",
+          "nature": "Modest",
+          "moves": ["Hurricane", "Heat Wave", "Roost", "Nasty Plot"]
+        },
+        {
+          "name": "Noivern",
+          "level": "70",
+          "item": "White Herb",
+          "ability": "Infiltrator",
+          "nature": "Timid",
+          "moves": ["Draco Meteor", "Hurricane", "Flamethrower", "Water Pulse"]
+        }
+      ]
+    },
+    {
+      "name": "Picknicker Ashley (double w/ Jared)",
+      "optional": true,
+      "pokemon": [
+        {
+          "name": "Braviary",
+          "level": "70",
+          "item": "Sitrus Berry",
+          "ability": "Defiant",
+          "nature": "Jolly",
+          "moves": ["Brave Bird", "Double-Edge", "Close Combat", "Assurance"]
+        },
+        {
+          "name": "Pidgeot",
+          "level": "70",
+          "item": "Normal Gem",
+          "ability": "No Guard",
+          "nature": "Timid",
+          "moves": ["Hyper Beam", "Hurricane", "Focus Blast", "Heat Wave"]
+        },
+        {
+          "name": "Swanna",
+          "level": "70",
+          "item": "Life Orb",
+          "ability": "Hydration",
+          "nature": "Jolly",
+          "moves": ["Brave Bird", "Liquidation", "Steel Wing", "Aqua Jet"]
+        }
+      ]
+    },
+    {
+      "name": "Camper Flint (forced double w/ Edwardo)",
+      "optional": false,
+      "pokemon": [
+        {
+          "name": "Swellow",
+          "level": "70",
+          "item": "Flame Orb",
+          "ability": "Guts",
+          "nature": "Adamant",
+          "moves": ["Brave Bird", "Double-Edge", "Protect", "U-turn"]
+        },
+        {
+          "name": "Yanmega",
+          "level": "70",
+          "item": "Life Orb",
+          "ability": "Speed Boost",
+          "nature": "Modest",
+          "moves": ["Bug Buzz", "Hurricane", "Psychic", "Detect"]
+        },
+        {
+          "name": "Mantine",
+          "level": "70",
+          "item": "Sitrus Berry",
+          "ability": "Water Absorb",
+          "nature": "Timid",
+          "moves": ["Scald", "Air Slash", "Ice Beam", "Roost"]
+        }
+      ]
+    },
+    {
+      "name": "Bird Keeper Edwardo (forced double w/ Flint)",
+      "optional": false,
+      "pokemon": [
+        {
+          "name": "Staraptor",
+          "level": "70",
+          "item": "Sitrus Berry",
+          "ability": "Intimidate",
+          "nature": "Adamant",
+          "moves": ["Brave Bird", "Double-Edge", "Close Combat", "U-turn"]
+        },
+        {
+          "name": "Honchkrow",
+          "level": "70",
+          "item": "Dark Gem",
+          "ability": "Moxie",
+          "nature": "Naive",
+          "moves": ["Brave Bird", "Sucker Punch", "Icy Wind", "Heat Wave"]
+        },
+        {
+          "name": "Drifblim",
+          "level": "70",
+          "item": "Flame Orb",
+          "ability": "Flare Boost",
+          "nature": "Timid",
+          "moves": ["Shadow Ball", "Thunderbolt", "Protect", "Hypnosis"]
+        }
+      ]
+    },
+    {
+      "name": "Bird Keeper Darius",
+      "pokemon": [
+        {
+          "name": "Tropious",
+          "level": "70",
+          "item": "Sitrus Berry",
+          "ability": "Harvest",
+          "nature": "Bold",
+          "moves": ["Sunny Day", "Air Slash", "Leech Seed", "Substitute"]
+        },
+        {
+          "name": "Dodrio",
+          "level": "70",
+          "item": "Normal Gem",
+          "ability": "Moxie",
+          "nature": "Jolly",
+          "moves": ["Brave Bird", "Double-Edge", "Jump Kick", "Quick Attack"]
+        },
+        {
+          "name": "Emolga",
+          "level": "70",
+          "item": "Flying Gem",
+          "ability": "Static",
+          "nature": "Jolly",
+          "moves": ["Acrobatics", "Wild Charge", "U-turn", "Thunder Wave"]
+        },
+        {
+          "name": "Archeops",
+          "level": "70",
+          "item": "Flying Gem",
+          "ability": "Defeatist",
+          "nature": "Jolly",
+          "moves": ["Acrobatics", "Stone Edge", "Dragon Claw", "Crunch"]
+        }
+      ]
+    }
+  ],
+  "bosses": [
+    {
+      "name": "Leader Winona (Double)",
+      "pokemon": [
+        {
+          "name": "Gyarados",
+          "level": "71",
+          "evs": "252 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe",
+          "nature": "Adamant",
+          "item": "Wacan Berry",
+          "ability": "Intimidate",
+          "moves": ["Waterfall", "Earthquake", "Stone Edge", "Power Whip"]
+        },
+        {
+          "name": "Hawlucha",
+          "level": "71",
+          "evs": "4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe",
+          "nature": "Jolly",
+          "item": "Flying Gem",
+          "ability": "Unburden",
+          "moves": ["Close Combat", "Brave Bird", "Rock Slide", "Encore"]
+        },
+        {
+          "name": "Dragonite",
+          "level": "71",
+          "evs": "252 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe",
+          "nature": "Adamant",
+          "item": "Yache Berry",
+          "ability": "Multiscale",
+          "moves": ["Wing Attack", "Earthquake", "Fire Punch", "Extreme Speed"]
+        },
+        {
+          "name": "Aerodactyl",
+          "level": "71",
+          "evs": "4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe",
+          "nature": "Jolly",
+          "item": "Life Orb",
+          "ability": "Rock Head",
+          "moves": ["Rock Slide", "Brave Bird", "Earthquake", "Wide Guard"]
+        },
+        {
+          "name": "Emolga",
+          "level": "71",
+          "evs": "252 HP / 0 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe",
+          "nature": "Timid",
+          "item": "Focus Sash",
+          "ability": "Lightning Rod",
+          "moves": ["Hurricane", "Electroweb", "Tickle", "Helping Hand"]
+        },
+        {
+          "name": "Altaria-Mega",
+          "level": "73",
+          "evs": "4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe",
+          "nature": "Jolly",
+          "item": "Altarianite",
+          "ability": "Pixilate",
+          "moves": ["Return", "Earthquake", "Roost", "Dragon Dance"]
+        }
+      ]
+    }
+  ]
+}

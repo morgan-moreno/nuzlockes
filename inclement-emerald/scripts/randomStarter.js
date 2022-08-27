@@ -1,27 +1,34 @@
-var args = process.argv.slice(2);
+const regions = [
+  "Kanto",
+  "Johto",
+  "Hoenn",
+  "Sinnoh",
+  "Unova",
+  "Kalos",
+  "Alola",
+];
 
-if (args.length > 0) {
-  // console.debug("[DEBUG] Args: ", args);
+const starters = {
+  Alola: ["Rowlet", "Litten", "Popplio"],
+  Kalos: ["Chespin", "Fennekin", "Froakie"],
+  Unova: ["Snivy", "Tepig", "Oshawott"],
+  Sinnoh: ["Turtwig", "Chimchar", "Piplup"],
+  Hoenn: ["Treecko", "Torchic", "Mudkip"],
+  Johto: ["Chikorita", "Cyndiquil", "Totodile"],
+  Kanto: ["Bulbasaur", "Charmander", "Squirtle"],
+};
 
-  const region = args[0];
+const regionIndex = Math.floor(Math.random() * regions.length);
 
-  const starters = {
-    Alola: ["Rowlet", "Litten", "Popplio"],
-    Kalos: ["Chespin", "Fennekin", "Froakie"],
-    Unova: ["Snivy", "Tepig", "Oshawott"],
-    Sinnoh: ["Turtwig", "Chimchar", "Piplup"],
-    Hoenn: ["Treecko", "Torchic", "Mudkip"],
-    Johto: ["Chikorita", "Cyndiquil", "Totodile"],
-    Kanto: ["Bulbasaur", "Charmander", "Squirtle"],
-  };
+// Get the region name
+const region = regions[regionIndex];
 
-  const starterOptions = starters[region];
+// Get the starters available in the region
+const starterOptions = starters[region];
 
-  const index = Math.floor(Math.random() * starterOptions.length);
+// Get a random starter from the options
+const starterIndex = Math.floor(Math.random() * starterOptions.length);
+const starter = starterOptions[starterIndex];
 
-  const starter = starterOptions[index];
-
-  console.log("Starter: ", starter);
-} else {
-  console.error("[ERROR] Args: region name is required");
-}
+console.log("Region: ", region);
+console.log("Starter: ", starter);

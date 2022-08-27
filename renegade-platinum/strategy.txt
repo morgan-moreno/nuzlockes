@@ -1,3 +1,116 @@
+====================================================================================
+Leader Roark
+====================================================================================
+
+* corphish sweep
+
+- Nosepass @ Smooth Rock: 
+- Bonsly @ Rindo Berry:
+- Geodude @ Expert Belt:
+- Onix @ Muscle Band:
+- Larvitar @ Flame Orb:
+- Cranidos @ Sitrus Berry:
+
+====================================================================================
+Commander Mars 1
+====================================================================================
+
+- Zubat: 
+- Bronzor @ Sitrus Berry:
+- Yanma:
+- Purugly @ Sitrus Berry:
+
+====================================================================================
+PKMN Trainer Cheryl
+====================================================================================
+
+- Drifloon @ Sitrus Berry: Pachirisu @ Magnet
+
+    1. Thunderbolt (KO)
+
+- Chansey @ Sitrus Berry: Aron @ Sitrus Berry / Marshtomp @ Sitrus Berry
+
+    1. Switch in aron, hyper voice (14 - 16)
+    2. Switch in marshtomp, thunderbolt (0)
+    3. Eq (63.9 - 75.7), hyper voice (35.4 - 43.5) (2HKO)
+
+- Wailmer: Roselia @ Miracle Seed
+
+    1. Switch in water pulse (11.5 - 13.4)
+    2. Energy ball (KO)
+
+- Makuhita: Azumarill @ Sitrus Berry
+
+    1. Switch in brick break (12.3 - 15)
+    2. Scald (53.2 - 62.9), brick break (12.3 - 15) (2HKO)
+
+====================================================================================
+Leader Gardenia
+====================================================================================
+
+
+- Bellossom @ Wide Lens: Gengar @ Poison Barb
+
+    1. Sludge bomb (KO)
+
+- Roserade @ Sitrus Berry: Metang @ Expert Belt
+
+    1. Switch in extrasensory (9.5 - 10.9)
+    2. Magical leaf (32.8 - 39.7), zen headbutt (85.3 - 105.3)
+    3. Bullet punch (KO)
+
+- Cherrim @ Focus Sash: Charmeleon @ Sitrus Berry
+
+    1. Switch in sunny day (0)
+    2. Weather ball (16.4 - 19.4), flamethrower (KO range)
+    
+- Tangela @ Coba Berry: Monferno @ Lum Berry
+
+    1. Switch in ancient power (33.7 - 40.2)
+    2. Flamethrower (KO)
+    
+- Breloom @ Muscle Band: Misdreavus @ Lum Berry
+
+    1. Switch in mach punch (0)
+    2. Draining kiss (KO range)
+
+- Grotle @ Leftovers: Roselia @ Sitrus Berry
+
+    1. Switch in seed bomb (20 - 24.6)
+    2. Sludge bomb (KO range)
+
+
+====================================================================================
+Commander Mars
+====================================================================================
+
+- Golbat: Pachirisu @ Lum Berry
+
+    thunderbolt 2HKO
+
+- Skuntank @ Sitrus Berry: Gyarados @ Sitrus Berry / Lairon @ Sitrus Berry
+
+    switch in lairon, poison jab (0)
+    switch in gyarados, night slash (20.6 - 25.2) [-1 Atk]
+    switch in lairon, poison jab (0)
+    switch in gyarados, night slash (17.2 - 20.6)
+    
+    kill with gyarados
+
+- Tangela: Charmeleon @ Lum Berry
+
+    switch in shock wave (26 - 32)
+    flamethrower (KO)
+
+- Sableye @ Sitrus Berry: 
+    switch in shadow claw 
+
+
+
+====================================================================================
+Hearthome Gym
+====================================================================================
+
 - Drifblim @ Starf Berry: Kabutops @ Hard Stone
 
     1. Shadow ball (42.3 - 50), rock slide (99.3 - 118.3) :prayge:

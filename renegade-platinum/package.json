@@ -10,6 +10,7 @@
   },
   "scripts": {
     "docToSet": "ts-node src/scripts/docToSet.ts",
+    "encounters": "ts-node src/scripts/getRouteEncounters.ts",
     "natures": "ts-node src/scripts/natures.ts",
     "random": "ts-node src/scripts/random",
     "random:between": "ts-node src/scripts/random between",

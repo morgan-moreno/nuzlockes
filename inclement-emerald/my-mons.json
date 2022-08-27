@@ -1,0 +1,1288 @@
+{
+  "alive": [
+    {
+      "name": "Raichu",
+      "level": "70",
+      "ability": "Static",
+      "nature": "Naive",
+      "item": "",
+      "ivs": {
+        "hp": "25",
+        "atk": "15",
+        "def": "3",
+        "spa": "31",
+        "spd": "31",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "252",
+        "atk": "0",
+        "def": "252",
+        "spa": "4",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Light Screen", "Thunderbolt", "Fly", "Extreme Speed"]
+    },
+    {
+      "name": "Sawk",
+      "level": "70",
+      "ability": "Sturdy",
+      "nature": "Brave",
+      "item": "",
+      "ivs": {
+        "hp": "13",
+        "atk": "2",
+        "def": "31",
+        "spa": "31",
+        "spd": "20",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "252",
+        "spe": "252"
+      },
+      "moves": ["Bulk Up", "Quick Guard", "Close Combat", "Reversal"]
+    },
+    {
+      "name": "Palossand",
+      "level": "70",
+      "ability": "Water Compaction",
+      "nature": "Calm",
+      "item": "",
+      "ivs": {
+        "hp": "18",
+        "atk": "31",
+        "def": "31",
+        "spa": "12",
+        "spd": "31",
+        "spe": "21"
+      },
+      "evs": {
+        "hp": "18",
+        "atk": "31",
+        "def": "31",
+        "spa": "12",
+        "spd": "31",
+        "spe": "21"
+      },
+      "moves": ["Shore Up", "Shadow Ball", "Earth Power", "Giga Drain"]
+    },
+    {
+      "name": "Togekiss",
+      "level": "70",
+      "ability": "Serene Grace",
+      "nature": "Modest",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "28",
+        "def": "0",
+        "spa": "31",
+        "spd": "6",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "252",
+        "atk": "0",
+        "def": "252",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Yawn", "Protect", "Extreme Speed", "Moonblast"]
+    },
+    {
+      "name": "Reuniclus",
+      "level": "70",
+      "ability": "Magic Guard",
+      "nature": "Quiet",
+      "item": "",
+      "ivs": {
+        "hp": "13",
+        "atk": "31",
+        "def": "31",
+        "spa": "31",
+        "spd": "26",
+        "spe": "27"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Light Screen", "Reflect", "Charm", "Psychic"]
+    },
+    {
+      "name": "Exeggutor",
+      "level": "70",
+      "ability": "Chloroplast",
+      "nature": "Naive",
+      "item": "",
+      "ivs": {
+        "hp": "10",
+        "atk": "17",
+        "def": "31",
+        "spa": "23",
+        "spd": "31",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Reflect", "Dragon Breath", "Bullet Seed", "Leaf Storm"]
+    },
+    {
+      "name": "Kommo-o",
+      "level": "70",
+      "ability": "Overcoat",
+      "nature": "Bold",
+      "item": "",
+      "ivs": {
+        "hp": "19",
+        "atk": "16",
+        "def": "31",
+        "spa": "31",
+        "spd": "22",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "252",
+        "spa": "252",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Aura Sphere", "Protect", "Dragon Dance", "Outrage"]
+    },
+    {
+      "name": "Dragonite",
+      "level": "70",
+      "ability": "Inner Focus",
+      "nature": "Impish",
+      "item": "",
+      "ivs": {
+        "hp": "17",
+        "atk": "12",
+        "def": "31",
+        "spa": "20",
+        "spd": "31",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "252",
+        "atk": "0",
+        "def": "252",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Wing Attack", "Thunder Punch", "Extreme Speed", "Dragon Dance"]
+    },
+    {
+      "name": "Quagsire",
+      "level": "70",
+      "ability": "Water Absorb",
+      "nature": "Careful",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "20",
+        "def": "31",
+        "spa": "18",
+        "spd": "31",
+        "spe": "8"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "252",
+        "def": "0",
+        "spa": "0",
+        "spd": "252",
+        "spe": "4"
+      },
+      "moves": ["Aqua Tail", "Earthquake", "Recover", "Yawn"]
+    },
+    {
+      "name": "Vikavolt",
+      "level": "70",
+      "ability": "Levitate",
+      "nature": "Modest",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "15",
+        "def": "31",
+        "spa": "31",
+        "spd": "23",
+        "spe": "29"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "252",
+        "spa": "252",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Thunderbolt", "Protect", "Bug Buzz", "Air Slash"]
+    },
+    {
+      "name": "Farfetch'd",
+      "level": "70",
+      "ability": "Super Luck",
+      "nature": "Hardy",
+      "item": "",
+      "ivs": {
+        "hp": "23",
+        "atk": "31",
+        "def": "18",
+        "spa": "31",
+        "spd": "31",
+        "spe": "22"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Sacred Sword", "Brave Bird", "Poison Jab", "Night Slash"]
+    },
+    {
+      "name": "Ferrothorn",
+      "level": "70",
+      "ability": "Iron Barbs",
+      "nature": "Adamant",
+      "item": "",
+      "ivs": {
+        "hp": "20",
+        "atk": "31",
+        "def": "31",
+        "spa": "31",
+        "spd": "30",
+        "spe": "14"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "252",
+        "def": "252",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Protect", "Iron Head", "Rock Climb", "Power Whip"]
+    },
+    {
+      "name": "Aegislash",
+      "level": "70",
+      "ability": "Stance Change",
+      "nature": "Brave",
+      "item": "",
+      "ivs": {
+        "hp": "4",
+        "atk": "31",
+        "def": "31",
+        "spa": "1",
+        "spd": "31",
+        "spe": "25"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Night Slash", "King's Shield", "Iron Head", "Sacred Sword"]
+    },
+    {
+      "name": "Porygon2",
+      "level": "70",
+      "ability": "Trace",
+      "nature": "Relaxed",
+      "item": "",
+      "ivs": {
+        "hp": "12",
+        "atk": "1",
+        "def": "31",
+        "spa": "11",
+        "spd": "31",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Recover", "Discharge", "Signal Beam", "Hyper Beam"]
+    },
+    {
+      "name": "Empoleon",
+      "level": "70",
+      "ability": "Torrent",
+      "nature": "Modest",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "31",
+        "def": "11",
+        "spa": "29",
+        "spd": "31",
+        "spe": "30"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "252",
+        "spa": "252",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Hydro Pump", "Aqua Jet", "Ice Beam", "Flash Cannon"]
+    },
+    {
+      "name": "Scrafty",
+      "level": "70",
+      "ability": "Intimidate",
+      "nature": "Brave",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "21",
+        "def": "31",
+        "spa": "31",
+        "spd": "25",
+        "spe": "18"
+      },
+      "evs": {
+        "hp": "4",
+        "atk": "252",
+        "def": "252",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Brick Break", "Protect", "Crunch", "Rock Climb"]
+    },
+    {
+      "name": "Clawitzer",
+      "level": "70",
+      "ability": "Mega Launcher",
+      "nature": "Gentle",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "31",
+        "def": "8",
+        "spa": "10",
+        "spd": "31",
+        "spe": "21"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Swords Dance", "Aqua Jet", "Aura Sphere", "Water Pulse"]
+    },
+    {
+      "name": "Lilligant",
+      "level": "70",
+      "ability": "Chlorophyll",
+      "nature": "Serious",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "1",
+        "def": "31",
+        "spa": "27",
+        "spd": "7",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Growth", "Moonblast", "Giga Drain", "Leaf Storm"]
+    },
+    {
+      "name": "Crobat",
+      "level": "70",
+      "ability": "Inner Focus",
+      "nature": "Jolly",
+      "item": "",
+      "ivs": {
+        "hp": "5",
+        "atk": "31",
+        "def": "8",
+        "spa": "31",
+        "spd": "31",
+        "spe": "16"
+      },
+      "evs": {
+        "hp": "252",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "4",
+        "spe": "252"
+      },
+      "moves": ["Cross Poison", "Leech Life", "Wing Attack", "Quick Guard"]
+    },
+    {
+      "name": "Slurpuff",
+      "level": "70",
+      "ability": "Unburden",
+      "nature": "Gentle",
+      "item": "",
+      "ivs": {
+        "hp": "29",
+        "atk": "28",
+        "def": "1",
+        "spa": "31",
+        "spd": "31",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Energy Ball", "Wish", "Play Rough", "Light Screen"]
+    },
+    {
+      "name": "Florges",
+      "level": "70",
+      "ability": "Flower Veil",
+      "nature": "Careful",
+      "item": "",
+      "ivs": {
+        "hp": "21",
+        "atk": "31",
+        "def": "29",
+        "spa": "31",
+        "spd": "31",
+        "spe": "11"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Draining Kiss", "Solar Beam", "Moonblast", "Wish"]
+    },
+    {
+      "name": "Seismitoad",
+      "level": "70",
+      "ability": "Poison Touch",
+      "nature": "Sassy",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "22",
+        "def": "31",
+        "spa": "17",
+        "spd": "9",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "252",
+        "spd": "252",
+        "spe": "0"
+      },
+      "moves": ["Hydro Pump", "Hyper Voice", "Drain Punch", "Mud Shot"]
+    },
+    {
+      "name": "Hippowdon",
+      "level": "70",
+      "ability": "Sand Stream",
+      "nature": "Adamant",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "23",
+        "def": "25",
+        "spa": "24",
+        "spd": "31",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "252",
+        "def": "0",
+        "spa": "0",
+        "spd": "252",
+        "spe": "0"
+      },
+      "moves": ["Slack Off", "Earthquake", "Yawn", "Protect"]
+    },
+    {
+      "name": "Dragalge",
+      "level": "70",
+      "ability": "Adaptability",
+      "nature": "Mild",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "22",
+        "def": "1",
+        "spa": "21",
+        "spd": "31",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Toxic", "Sludge Bomb", "Hydro Pump", "Dragon Pulse"]
+    },
+    {
+      "name": "Starmie",
+      "level": "70",
+      "ability": "Natural Cure",
+      "nature": "Timid",
+      "item": "",
+      "ivs": {
+        "hp": "4",
+        "atk": "31",
+        "def": "31",
+        "spa": "26",
+        "spd": "22",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "252",
+        "spd": "0",
+        "spe": "252"
+      },
+      "moves": ["Psychic", "Light Screen", "Surf", "Ice Beam"]
+    },
+    {
+      "name": "Jellicent",
+      "level": "70",
+      "ability": "Water Absorb",
+      "nature": "Modest",
+      "item": "",
+      "ivs": {
+        "hp": "24",
+        "atk": "4",
+        "def": "31",
+        "spa": "31",
+        "spd": "31",
+        "spe": "3"
+      },
+      "evs": {
+        "hp": "252",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "252",
+        "spe": "0"
+      },
+      "moves": ["Toxic", "Shadow Ball", "Water Spout", "Recover"]
+    },
+    {
+      "name": "Dhelmise",
+      "level": "70",
+      "ability": "Steelworker",
+      "nature": "Adamant",
+      "item": "",
+      "ivs": {
+        "hp": "28",
+        "atk": "0",
+        "def": "31",
+        "spa": "12",
+        "spd": "31",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "252",
+        "def": "252",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Liquidation", "Anchor Shot", "Phantom Force", "Power Whip"]
+    },
+    {
+      "name": "Banette",
+      "level": "70",
+      "ability": "Vengeance",
+      "nature": "Jolly",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "31",
+        "def": "13",
+        "spa": "18",
+        "spd": "16",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "252",
+        "def": "0",
+        "spa": "0",
+        "spd": "252",
+        "spe": "0"
+      },
+      "moves": ["Knock Off", "Shadow Sneak", "Phantom Force", "Play Rough"]
+    },
+    {
+      "name": "Amoonguss",
+      "level": "70",
+      "ability": "Regenerator",
+      "nature": "Sassy",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "31",
+        "def": "0",
+        "spa": "31",
+        "spd": "5",
+        "spe": "14"
+      },
+      "evs": {
+        "hp": "252",
+        "atk": "0",
+        "def": "0",
+        "spa": "252",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Synthesis", "Giga Drain", "Toxic", "Spore"]
+    },
+    {
+      "name": "Audino",
+      "level": "70",
+      "ability": "Regenerator",
+      "nature": "Hasty",
+      "item": "",
+      "ivs": {
+        "hp": "21",
+        "atk": "26",
+        "def": "31",
+        "spa": "31",
+        "spd": "3",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Baby-Doll Eyes", "Soft-Boiled", "Hyper Voice", "Moonblast"]
+    },
+    {
+      "name": "Audino-Mega",
+      "level": "70",
+      "ability": "Healer",
+      "nature": "Hasty",
+      "item": "",
+      "ivs": {
+        "hp": "21",
+        "atk": "26",
+        "def": "31",
+        "spa": "31",
+        "spd": "3",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Baby-Doll Eyes", "Soft-Boiled", "Hyper Voice", "Moonblast"]
+    },
+    {
+      "name": "Magmortar",
+      "level": "70",
+      "ability": "Vital Spirit",
+      "nature": "Docile",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "11",
+        "def": "10",
+        "spa": "24",
+        "spd": "31",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "252",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "252",
+        "spe": "0"
+      },
+      "moves": ["Aura Sphere", "Dark Pulse", "Flamethrower", "Sunny Day"]
+    },
+    {
+      "name": "Weavile",
+      "level": "70",
+      "ability": "Pressure",
+      "nature": "Adamant",
+      "item": "",
+      "ivs": {
+        "hp": "5",
+        "atk": "31",
+        "def": "15",
+        "spa": "31",
+        "spd": "31",
+        "spe": "4"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Night Slash", "Ice Shard", "Icicle Spear", "Fake Out"]
+    },
+    {
+      "name": "Ursaring",
+      "level": "70",
+      "ability": "Guts",
+      "nature": "Rash",
+      "item": "",
+      "ivs": {
+        "hp": "30",
+        "atk": "31",
+        "def": "31",
+        "spa": "31",
+        "spd": "15",
+        "spe": "6"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Charm", "Thunder Punch", "Slash", "Hammer Arm"]
+    },
+    {
+      "name": "Seaking",
+      "level": "70",
+      "ability": "Swift Swim",
+      "nature": "Modest",
+      "item": "",
+      "ivs": {
+        "hp": "7",
+        "atk": "31",
+        "def": "31",
+        "spa": "31",
+        "spd": "11",
+        "spe": "28"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Megahorn", "Flail", "Waterfall", "Poison Jab"]
+    },
+    {
+      "name": "Wobbuffet",
+      "level": "70",
+      "ability": "Shadow Tag",
+      "nature": "Mild",
+      "item": "",
+      "ivs": {
+        "hp": "20",
+        "atk": "12",
+        "def": "11",
+        "spa": "31",
+        "spd": "31",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Encore", "Mirror Coat", "Safeguard", "Counter"]
+    },
+    {
+      "name": "Breloom",
+      "level": "70",
+      "ability": "Effect Spore",
+      "nature": "Bold",
+      "item": "",
+      "ivs": {
+        "hp": "27",
+        "atk": "28",
+        "def": "31",
+        "spa": "12",
+        "spd": "31",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Mach Punch", "Sky Uppercut", "Seed Bomb", "Giga Drain"]
+    },
+    {
+      "name": "Sharpedo",
+      "level": "70",
+      "ability": "Rough Skin",
+      "nature": "Rash",
+      "item": "",
+      "ivs": {
+        "hp": "3",
+        "atk": "5",
+        "def": "31",
+        "spa": "10",
+        "spd": "31",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Liquidation", "Ice Fang", "Crunch", "Taunt"]
+    },
+    {
+      "name": "Luvdisc",
+      "level": "70",
+      "ability": "Soul-Heart",
+      "nature": "Mild",
+      "item": "",
+      "ivs": {
+        "hp": "9",
+        "atk": "31",
+        "def": "31",
+        "spa": "23",
+        "spd": "4",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Charm", "Hydro Pump", "Captivate", "Draining Kiss"]
+    },
+    {
+      "name": "Crawdaunt",
+      "level": "70",
+      "ability": "Shell Armor",
+      "nature": "Serious",
+      "item": "",
+      "ivs": {
+        "hp": "7",
+        "atk": "31",
+        "def": "14",
+        "spa": "31",
+        "spd": "31",
+        "spe": "13"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Crabhammer", "Crunch", "Dragon Dance", "Protect"]
+    },
+    {
+      "name": "Abomasnow",
+      "level": "70",
+      "ability": "Snow Warning",
+      "nature": "Adamant",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "20",
+        "def": "31",
+        "spa": "0",
+        "spd": "30",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "252",
+        "spa": "0",
+        "spd": "252",
+        "spe": "0"
+      },
+      "moves": ["Ice Hammer", "Ice Shard", "Avalanche", "Wood Hammer"]
+    },
+    {
+      "name": "Kingdra",
+      "level": "70",
+      "ability": "Swift Swim",
+      "nature": "Modest",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "14",
+        "def": "31",
+        "spa": "29",
+        "spd": "21",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "252",
+        "spa": "252",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Yawn", "Brine", "Dragon Pulse", "Hydro Pump"]
+    },
+    {
+      "name": "Muk-Alola",
+      "level": "70",
+      "ability": "Gluttony",
+      "nature": "Lonely",
+      "item": "",
+      "ivs": {
+        "hp": "7",
+        "atk": "2",
+        "def": "31",
+        "spa": "31",
+        "spd": "20",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Gunk Shot", "Acid Armor", "Crunch", "Venom Drench"]
+    },
+    {
+      "name": "Girafarig",
+      "level": "70",
+      "ability": "Strong Jaw",
+      "nature": "Naughty",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "23",
+        "def": "22",
+        "spa": "31",
+        "spd": "25",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Baton Pass", "Psychic Fangs", "Nasty Plot", "Psycho Boost"]
+    },
+    {
+      "name": "Dusclops",
+      "level": "70",
+      "ability": "Pressure",
+      "nature": "Timid",
+      "item": "",
+      "ivs": {
+        "hp": "10",
+        "atk": "31",
+        "def": "31",
+        "spa": "5",
+        "spd": "31",
+        "spe": "1"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Will-O-Wisp", "Shadow Sneak", "Shadow Punch", "Ice Punch"]
+    },
+    {
+      "name": "Gyarados",
+      "level": "70",
+      "ability": "Intimidate",
+      "nature": "Adamant",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "31",
+        "def": "6",
+        "spa": "31",
+        "spd": "18",
+        "spe": "17"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "252",
+        "def": "252",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Waterfall", "Ice Fang", "Dragon Dance", "Protect"]
+    },
+    {
+      "name": "Golem-Alola",
+      "level": "70",
+      "ability": "Sturdy",
+      "nature": "Adamant",
+      "item": "",
+      "ivs": {
+        "hp": "20",
+        "atk": "31",
+        "def": "31",
+        "spa": "20",
+        "spd": "31",
+        "spe": "19"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "252",
+        "def": "252",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Thunder Punch", "Protect", "Rock Blast", "Stone Edge"]
+    },
+    {
+      "name": "Azumarill",
+      "level": "70",
+      "ability": "Huge Power",
+      "nature": "Adamant",
+      "item": "",
+      "ivs": {
+        "hp": "15",
+        "atk": "29",
+        "def": "16",
+        "spa": "31",
+        "spd": "31",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "252",
+        "def": "252",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Aqua Tail", "Play Rough", "Belly Drum", "Superpower"]
+    },
+    {
+      "name": "Rampardos",
+      "level": "70",
+      "ability": "Mold Breaker",
+      "nature": "Careful",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "31",
+        "def": "31",
+        "spa": "31",
+        "spd": "25",
+        "spe": "28"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Chip Away", "Zen Headbutt", "Accelerock", "Head Smash"]
+    },
+    {
+      "name": "Aurorus",
+      "level": "70",
+      "ability": "Refrigerate",
+      "nature": "Adamant",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "31",
+        "def": "1",
+        "spa": "24",
+        "spd": "1",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Light Screen", "Power Gem", "Hyper Beam", "Freeze-Dry"]
+    },
+    {
+      "name": "Aerodactyl",
+      "level": "70",
+      "ability": "Rock Head",
+      "nature": "Lax",
+      "item": "",
+      "ivs": {
+        "hp": "13",
+        "atk": "31",
+        "def": "1",
+        "spa": "31",
+        "spd": "31",
+        "spe": "26"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Stone Edge", "Iron Head", "Wing Attack", "Giga Impact"]
+    },
+    {
+      "name": "Pelipper",
+      "level": "70",
+      "ability": "Drizzle",
+      "nature": "Mild",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "24",
+        "def": "13",
+        "spa": "31",
+        "spd": "31",
+        "spe": "2"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Roost", "Protect", "Hydro Pump", "Hurricane"]
+    },
+    {
+      "name": "Arcanine",
+      "level": "70",
+      "ability": "Intimidate",
+      "nature": "Impish",
+      "item": "",
+      "ivs": {
+        "hp": "23",
+        "atk": "31",
+        "def": "31",
+        "spa": "15",
+        "spd": "24",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Crunch", "Extreme Speed", "Outrage", "Flare Blitz"]
+    }
+  ],
+  "dead": [
+    "Octillery / 25",
+    "Shedinja / 38",
+    "Decidueye / 38",
+    "Sableye / 50",
+    "Mightyena / 50",
+    "Weezing / 50",
+    "Charizard / 70",
+    "Swampert / 70",
+    "Bronzong / 70",
+    "Electrode / 70"
+  ]
+}

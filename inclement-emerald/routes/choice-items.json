@@ -1,0 +1,188 @@
+{
+  "trainers": [],
+  "bosses": [
+    {
+      "name": "Lucy (Lavaridge Town)",
+      "pokemon": [
+        {
+          "name": "Shuckle",
+          "level": "70",
+          "evs": "252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe",
+          "nature": "Careful",
+          "item": "Red Card",
+          "ability": "Sturdy",
+          "moves": ["Sticky Web", "Stealth Rock", "Infestation", "Toxic"]
+        },
+        {
+          "name": "Milotic",
+          "level": "70",
+          "evs": "0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe",
+          "nature": "Timid",
+          "item": "Water Gem",
+          "ability": "Competitive",
+          "moves": ["Hydro Pump", "Ice Beam", "Dragon Pulse", "Recover"]
+        },
+        {
+          "name": "Serperior",
+          "level": "70",
+          "evs": "252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe",
+          "nature": "Careful",
+          "item": "Leftovers",
+          "ability": "Shed SKin",
+          "moves": ["Power Whip", "Dragon Rush", "Coil", "Rest"]
+        },
+        {
+          "name": "Steelix",
+          "level": "70",
+          "evs": "252 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe",
+          "nature": "Adamant",
+          "item": "Choice Band",
+          "ability": "Sheer Force",
+          "moves": ["Iron Tail", "Earthquake", "Ice Fang", "Explosion"]
+        },
+        {
+          "name": "Gyarados",
+          "level": "70",
+          "evs": "4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe",
+          "nature": "Jolly",
+          "item": "Leftovers",
+          "ability": "Intimidate",
+          "moves": ["Waterfall", "Bounce", "Dragon Dance", "Substitute"]
+        },
+        {
+          "name": "Seviper",
+          "level": "71",
+          "evs": "0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe",
+          "nature": "Timid",
+          "item": "Life Orb",
+          "ability": "Merciless",
+          "moves": ["Sludge Bomb", "Giga Drain", "Flamethrower", "Dark Pulse"]
+        }
+      ]
+    },
+    {
+      "name": "Spenser (Fortree City)",
+      "pokemon": [
+        {
+          "name": "Crobat",
+          "level": "70",
+          "evs": "252 HP / 0 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe",
+          "nature": "Jolly",
+          "item": "Black Sludge",
+          "ability": "Infiltrator",
+          "moves": ["Fly", "Roost", "Protect", "Toxic"]
+        },
+        {
+          "name": "Slaking",
+          "level": "70",
+          "evs": "4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe",
+          "nature": "Adamant",
+          "item": "Choice Scarf",
+          "ability": "Truant",
+          "moves": ["Giga Impact", "Earthquake", "Hammer Arm", "Play Rough"]
+        },
+        {
+          "name": "Arcanine",
+          "level": "70",
+          "evs": "4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe",
+          "nature": "Naive",
+          "item": "White Herb",
+          "ability": "Intimidate",
+          "moves": ["Overheat", "Extreme Speed", "Wild Charge", "Crunch"]
+        },
+        {
+          "name": "Lapras",
+          "level": "70",
+          "evs": "252 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 4 Spe",
+          "nature": "Modest",
+          "item": "Water Gem",
+          "ability": "Water Absorb",
+          "moves": ["Freeze-Dry", "Hydro Pump", "Thunder", "Psychic"]
+        },
+        {
+          "name": "Venusaur-Mega",
+          "level": "70",
+          "evs": "252 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 4 Spe",
+          "nature": "Modest",
+          "item": "Venusairite",
+          "ability": "Thick Fat",
+          "moves": ["Giga Drain", "Sludge Bomb", "Earth Power", "Sleep Powder"]
+        },
+        {
+          "name": "Suicune",
+          "level": "71",
+          "evs": "252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe",
+          "nature": "Bold",
+          "item": "Leftovers",
+          "ability": "Pressure",
+          "moves": ["Scald", "Calm Mind", "Rest", "Sleep Talk"]
+        }
+      ]
+    },
+    {
+      "name": "Greta (Slateport City)",
+      "pokemon": [
+        {
+          "name": "Landorus-Therian",
+          "level": "70",
+          "evs": "252 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe",
+          "nature": "Adamant",
+          "item": "Yache Berry",
+          "ability": "Intimidate",
+          "moves": ["Earthquake", "Strength", "Stealth Rock", "U-turn"]
+        },
+        {
+          "name": "Breloom",
+          "level": "70",
+          "evs": "4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe",
+          "nature": "Jolly",
+          "item": "Toxic Orb",
+          "ability": "Poison Heal",
+          "moves": ["Spore", "Substitute", "Focus Punch", "Seed Bomb"]
+        },
+        {
+          "name": "Heracross",
+          "level": "70",
+          "evs": "4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe",
+          "nature": "Jolly",
+          "item": "Flame Orb",
+          "ability": "Guts",
+          "moves": ["Megahorn", "Close Combat", "Facade", "Swords Dance"]
+        },
+        {
+          "name": "Umbreon",
+          "level": "71",
+          "evs": "252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe",
+          "nature": "Bold",
+          "item": "Leftovers",
+          "ability": "Magic Guard",
+          "moves": ["Dark Pulse", "Calm Mind", "Strength Sap", "Toxic"]
+        },
+        {
+          "name": "Gengar-Mega",
+          "level": "70",
+          "evs": "0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe",
+          "nature": "Timid",
+          "item": "Gengarite",
+          "ability": "Shadow Tag",
+          "moves": ["Shadow Ball", "Hypnosis", "Dream Eater", "Nasty Plot"]
+        },
+        {
+          "name": "Tapu Koko",
+          "level": "70",
+          "evs": "0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe",
+          "nature": "Timid",
+          "item": "Choice Specs",
+          "ability": "Electric Surge",
+          "moves": [
+            "Volt Switch",
+            "Dazzling Gleam",
+            "Aurora Beam",
+            "Grass Knot"
+          ]
+        }
+      ]
+    }
+  ],
+  "boss_history": []
+}

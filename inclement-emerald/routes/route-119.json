@@ -1,0 +1,144 @@
+{
+  "trainers": [
+    {
+      "name": "Pokemon Trainer Catherine",
+      "pokemon": [
+        {
+          "name": "Bellossom",
+          "level": "68",
+          "item": "Miracle Seed",
+          "ability": "",
+          "nature": "",
+          "moves": ["Quiver Dance", "Moonblast", "Giga Drain", "Sleep Powder"]
+        },
+        {
+          "name": "Noivern",
+          "level": "38",
+          "item": "Petaya Berry",
+          "ability": "",
+          "nature": "",
+          "moves": ["Hurricane", "Water Pulse", "Dragon Pulse", "Boomburst"]
+        },
+        {
+          "name": "Beartic",
+          "level": "68",
+          "item": "Water Gem",
+          "ability": "Swift Swim",
+          "nature": "",
+          "moves": ["Icicle Crash", "Liquidation", "Throat Chop", "Aqua Jet"]
+        },
+        {
+          "name": "Seismitoad",
+          "level": "68",
+          "item": "Sitrus Berry",
+          "ability": "",
+          "nature": "",
+          "moves": ["Earth Power", "Hydro Pump", "Sludge Wave", "Power Whip"]
+        }
+      ]
+    },
+    {
+      "name": "Pokemon Ranger Jackson",
+      "pokemon": [
+        {
+          "name": "Mantine",
+          "level": "68",
+          "item": "Mystic Water",
+          "ability": "",
+          "nature": "",
+          "moves": ["Hydro Pump", "Hurricane", "Signal Beam", "Roost"]
+        },
+        {
+          "name": "Rotom-Fan",
+          "level": "68",
+          "item": "Salac Berry",
+          "ability": "",
+          "nature": "",
+          "moves": ["Hurricane", "Thunder", "Shadow Ball", "Nasty Plot"]
+        },
+        {
+          "name": "Parasect",
+          "level": "68",
+          "item": "Leftovers",
+          "ability": "Dry Skin",
+          "nature": "",
+          "moves": ["Spore", "Substitute", "Leech Seed", "Leech Life"]
+        },
+        {
+          "name": "Lapras",
+          "level": "68",
+          "item": "Sitrus Berry",
+          "ability": "Hydration",
+          "nature": "",
+          "moves": ["Liquidation", "Drill Run", "Curse", "Rest"]
+        }
+      ]
+    }
+  ],
+  "bosses": [
+    {
+      "name": "Pokemon Trainer May",
+      "pokemon": [
+        {
+          "name": "Swellow",
+          "level": "70",
+          "evs": "0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe",
+          "nature": "Timid",
+          "item": "Life Orb",
+          "ability": "Scrappy",
+          "moves": ["Hurricane", "Boomburst", "Heat Wave", "U-turn"]
+        },
+        {
+          "name": "Starmie",
+          "level": "70",
+          "evs": "0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe",
+          "nature": "Timid",
+          "item": "Life Orb",
+          "ability": "Analytic",
+          "moves": ["Hydro Pump", "Psyshock", "Thunder", "Ice Beam"]
+        },
+        {
+          "name": "Rapidash",
+          "level": "70",
+          "evs": "4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe",
+          "nature": "Jolly",
+          "item": "Life Orb",
+          "ability": "Reckless",
+          "moves": ["Flare Blitz", "Jump Kick", "Wild Charge", "Poison Jab"]
+        },
+        {
+          "name": "Mimikyu",
+          "level": "70",
+          "evs": "4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe",
+          "nature": "Jolly",
+          "item": "Lum Berry",
+          "ability": "Disguise",
+          "moves": ["Shadow Claw", "Play Rough", "Swords Dance", "Shadow Sneak"]
+        },
+        {
+          "name": "Vikavolt",
+          "level": "70",
+          "evs": "0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe",
+          "nature": "Timid",
+          "item": "Assault Vest",
+          "ability": "Levitate",
+          "moves": ["Thunder", "Bug Buzz", "Energy Ball", "Mud Shot"]
+        },
+        {
+          "name": "Sceptile-Mega",
+          "level": "72",
+          "evs": "0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe",
+          "nature": "Timid",
+          "item": "Sceptilite",
+          "ability": "Chloroplast",
+          "moves": [
+            "Frenzy Plant",
+            "Dragon Pulse",
+            "Focus Blast",
+            "Grassy Terrain"
+          ]
+        }
+      ]
+    }
+  ]
+}

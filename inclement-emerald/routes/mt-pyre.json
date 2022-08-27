@@ -1,0 +1,184 @@
+{
+  "encounter": [],
+  "encounter_history": [],
+  "trainers": [
+    {
+      "name": "Team Aqua Grunt 1",
+      "pokemon": [
+        {
+          "name": "Bruxish",
+          "level": "68",
+          "item": "",
+          "ability": "Strong Jaw",
+          "nature": "",
+          "moves": ["Waterfall", "Crunch", "Psychic Fangs", "Ice Fang"]
+        },
+        {
+          "name": "Weavile",
+          "level": "68",
+          "item": "",
+          "ability": "",
+          "nature": "",
+          "moves": ["Night Slash", "Icicle Crash", "Psycho Cut", "Ice Shard"]
+        },
+        {
+          "name": "Wailord",
+          "level": "68",
+          "item": "",
+          "ability": "",
+          "nature": "",
+          "moves": ["Scald", "Ice Beam", "Body Slam", "Noble Roar"]
+        }
+      ]
+    },
+    {
+      "name": "Team Aqua Grunt 2",
+      "pokemon": [
+        {
+          "name": "Muk",
+          "level": "68",
+          "item": "",
+          "ability": "",
+          "nature": "",
+          "moves": ["Fire Blast", "Acid Spray", "Giga Drain", "Toxic"]
+        },
+        {
+          "name": "Raticate-Alola",
+          "level": "68",
+          "item": "",
+          "ability": "Hustle",
+          "nature": "",
+          "moves": ["Crunch", "Iron Tail", "Quick Attack", "Zen Headbutt"]
+        },
+        {
+          "name": "Tentacruel",
+          "level": "68",
+          "item": "",
+          "ability": "",
+          "nature": "",
+          "moves": ["Scald", "Sludge Bomb", "Mirror Coat", "Hex"]
+        }
+      ]
+    },
+    {
+      "name": "Team Aqua Grunt 3 (forced double w/ grunt 4)",
+      "pokemon": [
+        {
+          "name": "Jellicent",
+          "level": "68",
+          "item": "",
+          "ability": "",
+          "nature": "",
+          "moves": ["Rain Dance", "Scald", "Shadow Ball", "Psychic"]
+        },
+        {
+          "name": "Amoonguss",
+          "level": "68",
+          "item": "",
+          "ability": "",
+          "nature": "",
+          "moves": ["Spore", "Giga Drain", "Sludge Bomb", "Synthesis"]
+        },
+        {
+          "name": "Lanturn",
+          "level": "68",
+          "item": "",
+          "ability": "",
+          "nature": "",
+          "moves": ["Scald", "Thunder", "Confuse Ray", "Spotlight"]
+        }
+      ]
+    },
+    {
+      "name": "Team Aqua Grunt 4 (forced double w/ grunt 3)",
+      "pokemon": [
+        {
+          "name": "Carracosta",
+          "level": "68",
+          "item": "",
+          "ability": "Swift Swim",
+          "nature": "",
+          "moves": ["Liquidation", "Rock Slide", "Shell Smash", "Zen Headbutt"]
+        },
+        {
+          "name": "Liepard",
+          "level": "68",
+          "item": "",
+          "ability": "",
+          "nature": "",
+          "moves": ["Knock Off", "Play Rough", "U-turn", "Encore"]
+        },
+        {
+          "name": "Qwilfish",
+          "level": "68",
+          "item": "",
+          "ability": "Intimidate",
+          "nature": "",
+          "moves": ["Waterfall", "Poison Jab", "Payback", "Thunder Wave"]
+        }
+      ]
+    }
+  ],
+  "bosses": [
+    {
+      "name": "Aqua Admin Matt",
+      "pokemon": [
+        {
+          "name": "Pelipper",
+          "level": "70",
+          "evs": "252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe",
+          "nature": "Bold",
+          "item": "Rocky Helmet",
+          "ability": "Drizzle",
+          "moves": ["Hurricane", "Scald", "Roost", "U-turn"]
+        },
+        {
+          "name": "Dhelmise",
+          "level": "70",
+          "evs": "252 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe",
+          "nature": "Adamant",
+          "item": "Assault Vest",
+          "ability": "Steelworker",
+          "moves": ["Power Whip", "Phantom Force", "Liquidation", "Anchor Shot"]
+        },
+        {
+          "name": "Heliolisk",
+          "level": "70",
+          "evs": "0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe",
+          "nature": "Timid",
+          "item": "Life Orb",
+          "ability": "Dry Skin",
+          "moves": ["Thunder", "Weather Ball", "Focus Blast", "Grass Knot"]
+        },
+        {
+          "name": "Toxicroak",
+          "level": "70",
+          "evs": "252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe",
+          "nature": "Careful",
+          "item": "Black Sludge",
+          "ability": "Dry Skin",
+          "moves": ["Drain Punch", "Poison Jab", "Bulk Up", "Sucker Punch"]
+        },
+        {
+          "name": "Seismitoad",
+          "level": "70",
+          "evs": "4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe",
+          "nature": "Adamant",
+          "item": "Rindo Berry",
+          "ability": "Swift Swim",
+          "moves": ["Liquidation", "Earthquake", "Power Whip", "Ice Punch"]
+        },
+        {
+          "name": "Gyarados-Mega",
+          "level": "72",
+          "evs": "4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe",
+          "nature": "Jolly",
+          "item": "Gyardosite",
+          "ability": "Mold Breaker",
+          "moves": ["Waterfall", "Crunch", "Earthquake", "Dragon Dance"]
+        }
+      ]
+    }
+  ],
+  "boss_history": []
+}

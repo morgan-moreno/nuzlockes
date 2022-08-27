@@ -1,0 +1,103 @@
+===================================================
+Leader Wattson
+===================================================
+
+Galvantula @ Grass Gem
+EVs: 252 Spe
+Level: 38
+Ability: Swarm
+Modest Nature
+- Sticky Web
+- Volt Switch
+- Bug Buzz
+- Giga Drain
+
+Lanturn @ Air Balloon
+EVs: 252 Spe
+Level: 38
+Ability: Water Absorb
+Modest Nature
+- Volt Switch
+- Surf
+- Icy Wind
+- Dazzling Gleam
+
+Magneton @ Eviolite
+EVs: 252 Spe
+Level: 38
+Ability: Sturdy
+Modest Nature
+- Volt Switch
+- Flash Cannon
+- Thunder Wave
+- Electric Terrain
+
+Rotom-Mow @ White Herb
+EVs: 252 Spe
+Level: 38
+Ability: Levitate
+Modest Nature
+- Volt Switch
+- Leaf Storm
+- Toxic
+- Hex
+
+Raichu-Alola @ Shuca Berry
+EVs: 252 Spe
+Level: 38
+Ability: Surge Surfer
+Modest Nature
+- Volt Switch
+- Psychic
+- Grass Knot
+- Surf
+
+Manectric @ Sitrus Berry
+EVs: 252 SpA / 252 Spe
+Level: 40
+Ability: Lightning Rod
+Modest Nature
+- Volt Switch
+- Flamethrower
+- Aurora Beam
+- Signal Beam
+
+===================================================
+Strategy
+===================================================
+
+- Galvantula @ Grass Gem: Emboar @ Sitrus Berry
+
+    1. Sticky Web, head smash (KO)
+
+- Lanturn @ Air Balloon: Quagsire @ Sitrus Berry / Trevenant @ Sitrus Berry
+
+    1. Switch in quagsire, surf (0)
+    2. Dazzling gleam (22.9 - 27.4), yawn
+    3. Dazzling gleam (22.9 - 27.4), recover
+    4. Switch in Trevenant
+    5. Horn leech (71.4 - 85.7) (2HKO)
+
+- Manectric @ Sitrus Berry: Quagsire @ Sitrus Berry
+
+    1. Switch in flamethrower (22.9 - 27.4)
+    2. Signal beam (38.9 - 45.8), earthquake (KO)
+
+- Rotom-Mow @ White Herb: Gogoat @ Pecha Berry / Snorlax @ Pecha Berry
+
+    1. Switch in gogoat, leaf storm (0) [+1 Atk]
+    2. Switch in snorlax, hex (0)
+    3. Repeat until leaf storm out, gogoat should be [+5 Atk]
+    4. Seed bomb (2HKO)
+
+- Magneton @ Eviolite: Swampert @ Sitrus Berry
+
+    1. Switch in flash cannon (20 - 23.7)
+    2. Flash cannon (20 - 23.7), bulldoze (86.5 - 103) (2HKO)
+
+- Raichu @ Shuca Berry: 
+
+    1. Switch in grass knot (21.9 - 25.8)
+    2. Psychic (24.1 - 29.2), crunch (89.5 - 106.6) (2HKO)
+
+

@@ -1,0 +1,101 @@
+ROUTE-120
+
+===
+Parsasol Lady Clarissa
+===
+
+Tangrowth @ 
+Level: 67
+- Power Whip
+- Ancient Power
+- Sleep Powder
+- Leech Seed
+
+Wailord @ 
+Level: 68
+- Water Spout
+- Heavy Slam
+- Bounce
+- Aqua Ring
+
+Pyroar @ 
+Level: 67
+- Fire Blast
+- Hyper Voice
+- Noble Roar
+- Work Up
+
+
+===
+Bird Keeper Robert
+===
+
+Fearow @ 
+Level: 68
+Ability: Sniper
+- Drill Peck
+- Drill Run
+- Focus Energy
+- Pursuit
+
+Staraptor @ 
+Level: 68
+- Return
+- Brave Bird
+- Close Combat
+- Work Up
+
+
+===
+Bird Keeper Colin
+===
+
+Dodrio @ 
+Level: 67
+- Brave Bird
+- Return
+- Jump Kick
+- Swords Dance
+
+Xatu @ 
+Level: 67
+Ability: Magic Bounce
+- Psychic
+- Air Slash
+- Roost
+- Night Shade
+
+Oricorio @ 
+Level: 67
+- Hurricane
+- Revelation Dance
+- Roost
+- Agility
+
+
+===
+Bug Maniac Jeffrey
+===
+
+Durant @ 
+Level: 67
+- X-Scissor
+- Iron head
+- Crunch
+- Hone Claws
+
+Vespiquen @ 
+Level: 67
+- Attack Order
+- Defend Order
+- Heal Order
+- Acrobatics
+
+Masquerain @ 
+Level: 67
+- Bug Buzz
+- Air Slash
+- Quiver Dance
+- Stun Spore
+
+

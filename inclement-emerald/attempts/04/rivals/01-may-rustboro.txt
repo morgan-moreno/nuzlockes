@@ -1,0 +1,75 @@
+Swellow
+Level: 24
+Ability: Guts
+Hardy Nature
+- Quick Attack
+- Aerial Ace
+- Roost
+- Refresh
+
+Staryu @ 
+Level: 24
+Ability: Natural Cure
+Hardy Nature
+- Bubble Beam
+- Recover
+- Psywave
+- Swift
+
+Ponyta @
+Level: 24
+Ability: Flame Body
+Hardy Nature
+- Flame Wheel
+- Tail Whip
+- Tackle
+- Double Kick
+
+Grovyle @ Oran Berry
+Level: 25
+Ability: Overgrow
+Hardy Nature
+- Mega Drain
+- Dragon Breath
+- Fury Cutter
+- Rock Tomb
+
+Steenee
+Level: 24
+Ability: Sweet Veil
+Hardy Nature
+- Razor Leaf
+- Charm
+- Acupressure
+- Synthesis
+
+Combusken @ Oran Berry
+Level: 25
+Ability: Blaze
+Hardy Nature
+- Double Kick
+- Rock Tomb
+- Flame Charge
+- Peck
+
+
+- Swellow: Blitzle @ Oran Berry
+
+    1. Quick attack (34.4 - 40.9), discharge (71.4 - 88.5)
+    2. Quick attack (34.4 - 40.9), discharge (KO)
+
+- Steenee: Ledian @ Oran Berry
+
+    1. Switch in razor leaf (4.2 - 5.7)
+    2. Leech life (KO)
+
+- Combusken: 
+
+    1. Switch in rock tomb (6.6 - 7.7)
+    2. Double kick (20 - 26.6), mud bomb (52.7 - 66.6) (2HKO)
+
+- Staryu: Dartrix
+
+    eats everything razor leaf OHKO range
+
+

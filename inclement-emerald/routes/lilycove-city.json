@@ -1,0 +1,63 @@
+{
+  "bosses": [
+    {
+      "name": "Pokemon Trainer May",
+      "pokemon": [
+        {
+          "name": "Vikavolt",
+          "level": "71",
+          "evs": "0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe",
+          "nature": "Timid",
+          "item": "Life Orb",
+          "ability": "Levitate",
+          "moves": ["Thunderbolt", "Bug Buzz", "Energy Ball", "Sticky Web"]
+        },
+        {
+          "name": "Swellow",
+          "level": "71",
+          "evs": "4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe",
+          "nature": "Jolly",
+          "item": "Flame Orb",
+          "ability": "Guts",
+          "moves": ["Brave Bird", "Facade", "Reversal", "Protect"]
+        },
+        {
+          "name": "Starmie",
+          "level": "71",
+          "evs": "0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe",
+          "nature": "Timid",
+          "item": "Assault Vest",
+          "ability": "Analytic",
+          "moves": ["Hydro Pump", "Psyshock", "Thunder", "Ice Beam"]
+        },
+        {
+          "name": "Rapidash",
+          "level": "71",
+          "evs": "4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe",
+          "nature": "Jolly",
+          "item": "Fire Gem",
+          "ability": "Reckless",
+          "moves": ["Flare Blitz", "Jump Kick", "Wild Charge", "Poison Jab"]
+        },
+        {
+          "name": "Mimikyu",
+          "level": "71",
+          "evs": "4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe",
+          "nature": "Jolly",
+          "item": "Lum Berry",
+          "ability": "Disguise",
+          "moves": ["Shadow Claw", "Play Rough", "Swords Dance", "Shadow Sneak"]
+        },
+        {
+          "name": "Sceptile-Mega",
+          "level": "73",
+          "evs": "0 HP / 4 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe",
+          "nature": "Hasty",
+          "item": "Sceptilite",
+          "ability": "Chloroplast",
+          "moves": ["Solar Beam", "Dragon Pulse", "Earthquake", "Growth"]
+        }
+      ]
+    }
+  ]
+}

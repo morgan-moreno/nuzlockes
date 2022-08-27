@@ -1,0 +1,65 @@
+LILYCOVE-CITY
+
+===
+Pokemon Trainer May
+Vikavolt @ Life Orb
+Level: 71
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Ability: Levitate
+Timid Nature
+- Thunderbolt
+- Bug Buzz
+- Energy Ball
+- Sticky Web
+
+Swellow @ Flame Orb
+Level: 71
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Ability: Guts
+Jolly Nature
+- Brave Bird
+- Facade
+- Reversal
+- Protect
+
+Starmie @ Assault Vest
+Level: 71
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Ability: Analytic
+Timid Nature
+- Hydro Pump
+- Psyshock
+- Thunder
+- Ice Beam
+
+Rapidash @ Fire Gem
+Level: 71
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Ability: Reckless
+Jolly Nature
+- Flare Blitz
+- Jump Kick
+- Wild Charge
+- Poison Jab
+
+Mimikyu @ Lum Berry
+Level: 71
+EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Ability: Disguise
+Jolly Nature
+- Shadow Claw
+- Play Rough
+- Swords Dance
+- Shadow Sneak
+
+Sceptile-Mega @ Sceptilite
+Level: 73
+EVs: 0 HP / 4 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Ability: Chloroplast
+Hasty Nature
+- Solar Beam
+- Dragon Pulse
+- Earthquake
+- Growth
+
+

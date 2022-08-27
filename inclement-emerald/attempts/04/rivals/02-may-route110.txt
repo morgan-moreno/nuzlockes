@@ -1,0 +1,73 @@
+===================================================
+PKMN Trainer May
+===================================================
+
+Swellow @ 
+Level: 37
+Ability: Guts
+Hardy Nature
+- Wing Attack
+- Quick Attack
+- Roost
+- U-turn
+
+Starmie @ 
+Level: 37
+Ability: Natural Cure
+Hardy Nature
+- Water Pulse
+- Recover
+- Psybeam
+- Icy Wind
+
+Tsareena @ 
+Level: 37
+Ability: Queenly Majesty
+Hardy Nature
+- Trop Kick
+- Low Sweep
+- U-turn
+- Synthesis
+
+Mimikyu @ 
+Level: 37
+Ability: Disguise
+Hardy Nature
+- Shadow Claw
+- Shadow Sneak
+- Bulk Up
+- Drain Punch
+
+Combusken @ Sitrus Berry
+Level: 39
+Ability: Blaze
+Hardy Nature
+- Brick Break
+- Rock Tomb
+- Fire Pledge
+- Bulk Up
+
+===================================================
+Team
+===================================================
+
+
+
+===================================================
+Strategy
+===================================================
+
+- Swellow: Zebstrika @ Oran Berry
+
+    * Predicting switch to tsareena
+
+    1. U-turn (18.4 - 22.6)
+
+- Tsareena: Zebstrika @ Oran Berry / 
+
+    1. tsareena comes into blaze kick (45 - 54)
+    2. switch in ,trop kick ()
+    
+- Starmie:ww
+- Mimikyu:
+- Combusken @ Sitrus Berry:

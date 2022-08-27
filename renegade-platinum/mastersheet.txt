@@ -1,5 +1,5 @@
 ====================================================================================
-Route 201
+Starter
 ====================================================================================
 
 # Encounters
@@ -11,7 +11,21 @@ Starter / Chimchar (33), Piplup (33), Turtwig (33)
 2 / Piplup
 3 / Turtwig
 4 / Chimchar
+5 / Chimchar
 
+====================================================================================
+Route 201
+====================================================================================
+
+# Encounters
+
+Day         Starly (30%), Bidoof (30%), Pidgey (20%), Nidoran♂ (10%), Nidoran♀ (10%)
+Night       Starly (30%), Bidoof (30%), Hoothoot (10%), Kricketot (10%), Nidoran♂ (10%), Nidoran♀ (10%)
+Poké Radar  Doduo (22%)
+
+# Encounter History
+
+5 / Starly
 
 ====================================================================================
 Sandgem Town
@@ -26,6 +40,7 @@ Starter / Chimchar (33), Piplup (33), Turtwig (33)
 2 / Turtwig
 3 / Chimchar
 4 / Piplup
+5 / Piplup
 
 ====================================================================================
 Twinleaf Town
@@ -34,6 +49,11 @@ Twinleaf Town
 # Encounters
 
 Eevee
+
+# Encounter History
+
+4 / Espeon
+5 / 
 
 ====================================================================================
 Lake Valor
@@ -49,6 +69,7 @@ Poké Radar / Wynaut (22%)
 2 / Wynaut
 3 / Wingull
 4 / Bidoof
+5 / Azurill
 
 ====================================================================================
 Route 202
@@ -64,13 +85,25 @@ Poké Radar / Houndour (22%)
 2 / Shinx
 3 / Burmy
 4 / Rattata
+5 / Sentret
 
 # Trainers
 
-PKMN Trainer Lucas          Piplup Lv. 9 / Growl, Bubble
-Lass Natalie                Sentret Lv. 7 / Defense Curl, Bidoof Lv. 7
-Youngster Tristan (!)       Hoothoot Lv. 7 / Hypnosis-Peck-Growl, Starly Lv. 7 / Tackle
-Youngster Logan             Growlithe Lv. 7 / Intimidate-Howl, Burmy Lv. 7, Zigzagoon Lv. 7
+PKMN Trainer Lucas          
+- Piplup Lv. 9 / Growl, Bubble
+
+Lass Natalie                
+- Sentret Lv. 7 / Defense Curl, 
+- Bidoof Lv. 7
+
+Youngster Tristan
+- Hoothoot Lv. 7 / Hypnosis-Peck-Growl, 
+- Starly Lv. 7 / Tackle
+
+Youngster Logan
+- Growlithe Lv. 7 / Intimidate-Howl
+- Burmy Lv. 7
+- Zigzagoon Lv. 7
 
 ====================================================================================
 Jubilife City
@@ -85,10 +118,14 @@ Starter / Charmander (33), Squirtle (33), Bulbasaur (33)
 2 / Squirtle
 3 / Squirtle
 4 / Bulbasaur
+5 / Charmander
 
 # Trainers
 
-Reporter Kayla              Bulbasaur Lv. 5, Charmander Lv. 5, Squirtle Lv. 5 / Tail Whip
+Reporter Kayla              
+- Bulbasaur Lv. 5
+- Charmander Lv. 5
+- Squirtle Lv. 5 / Tail Whip
 
 ====================================================================================
 Route 218
@@ -105,6 +142,7 @@ Honey Tree / Combee (30%), Forretress (10%), Wormadam (10%), Mothim (10%), Beaut
 
 3 / Magikarp
 4 / Finneon
+5 / 
 
 ====================================================================================
 Route 204 (South)
@@ -120,10 +158,14 @@ Old Rod     Magikarp (60%), Goldeen (30%), Corphish (10%)
 
 3 / Weedle
 4 / Sunkern
+5 / Budew
 
 # Trainers
 
-Lass Sarah                  Shinx Lv. 8 / Intimidate / Howl-Tackle-Leer, Nidoran-F Lv. 8 / Tail Whip-Scratch, Pidgey Lv. 8 / Sand Attack-Gust-Quick Attack
+Lass Sarah                  
+- Shinx Lv. 8 / Intimidate / Howl-Tackle-Leer
+- Nidoran-F Lv. 8 / Tail Whip-Scratch
+- Pidgey Lv. 8 / Sand Attack-Gust-Quick Attack
 
 ====================================================================================
 Ravaged Path
@@ -139,6 +181,7 @@ Old Rod     Magikarp (65%), Barboach (35%)
 2 / Barboach
 3 / Geodude
 4 / Magikarp
+5 / Magikarp
 
 ====================================================================================
 Route 203
@@ -155,13 +198,28 @@ Old Rod / Magikarp (65%), Corphish (35%)
 2 / Corphish
 3 / Bidoof
 4 / Starly
+5 / Corphish
 
 # Trainers
 
-PKMN Trainer Barry          Starly Lv. 10 / Wing Attack, Munchlax Lv. 10 / Amnesia-Rock Tomb-Metronome, Chimchar Lv. 11 @ Oran Berry / Ember-Taunt
-Youngster Sebastian         Nakuhita Lv. 10 / Fake Out, Machop Lv. 10 / Focus Energy
-Lass Kaitlin                Spearow Lv. 9 / Pursuit, Cubone Lv. 9 / Bone Club, Azurill Lv. 9 / Charm-Bubble
-Lass Madeline (!)           Psyduck Lv. 10 / Tail Whip, Sunkern Lv. 10
+PKMN Trainer Barry          
+- Starly Lv. 10 / Wing Attack
+- Munchlax Lv. 10 / Amnesia, Rock Tomb, Metronome
+- Piplup Lv. 11 @ Oran Berry / Water Pulse, Pound
+- Chimchar Lv. 11 @ Oran Berry / Ember, Taunt
+
+Youngster Sebastian         
+- Makuhita Lv. 10 / Fake Out
+- Machop Lv. 10 / Focus Energy, Karate Chop, Leer
+
+Lass Kaitlin 
+- Spearow Lv. 9 / Pursuit
+- Cubone Lv. 9 / Bone Club, Sing
+- Azurill Lv. 9 / Charm, Bubble
+
+Lass Madeline 
+- Psyduck Lv. 10 / Tail Whip, Confusion
+- Sunkern Lv. 10
 
 ====================================================================================
 Oreburgh Gate
@@ -174,11 +232,18 @@ Grass / Zubat (35%), Geodude (35%), Diglett (20%), Riolu (10%)
 # Encounter History
 
 3 / Riolu
+4 / Zubat
+5 / Diglett
 
 # Trainers
 
-Camper Curtis               Seedot Lv. 10, Diglett Lv. 10 / Bulldoze-Growl
-Picnicker Diana             Whismur Lv. 10, Wooper Lv. 10 / Mud Shot
+Camper Curtis
+- Seedot Lv. 10
+- Diglett Lv. 10 / Bulldoze, Growl
+
+Picnicker Diana
+- Whismur Lv. 10
+- Wooper Lv. 10 / Mud Shot
 
 ====================================================================================
 Oreburgh City
@@ -192,10 +257,15 @@ Starter / Mudkip (33), Torchic (33), Treecko (33)
 
 2 / Torchic
 3 / Mudkip
+4 / Treecko
+5 / Mudkip
 
 # Trainers
 
-Reporter Helen              Treecko Lv. 10 / Quick Attack, Torchic Lv. 10 / Ember-Scratch-Sand Attack, Mudkip Lv. 10 / Tackle
+Reporter Helen              
+- Treecko Lv. 10 / Quick Attack, Pound
+- Torchic Lv. 10 / Ember, Scratch, Sand Attack
+- Mudkip Lv. 10 / Tackle
 
 ====================================================================================
 Oreburgh Mine
@@ -208,6 +278,8 @@ Walking       Geodude (25%), Zubat (25%), Whismur (20%), Aron (10%), Onix (10%),
 # Encounter History
 
 3 / Onix
+4 / Trapinch
+5 / Aaron
 
 ====================================================================================
 Route 207
@@ -223,6 +295,7 @@ Poké Radar  Stantler (22%)
 2 / Ponyta
 3 / Machop
 4 / Rhyhorn
+5 / Machop
 
 ====================================================================================
 Oreburgh Gym
@@ -242,6 +315,7 @@ Cranidos (Lv. 16) @ Sitrus Berry    /   Hasty       /   Rock Head (!)   /   Zen 
 2 / W
 3 / W
 4 / W
+5 / W
 
 ====================================================================================
 Jubilife City
@@ -249,8 +323,13 @@ Jubilife City
 
 # Trainers
 
-Galactic Grunt              Stunky Lv. 13, Silcoon Lv. 13
-Galactic Grunt              Glameow Lv. 13, Cascoon Lv. 13
+Galactic Grunt              
+- Stunky Lv. 13
+- Silcoon Lv. 13
+
+Galactic Grunt              
+- Glameow Lv. 13
+- Cascoon Lv. 13
 
 ====================================================================================
 Route 204 (North)
@@ -258,7 +337,10 @@ Route 204 (North)
 
 # Trainers
 
-Aroma Lady Taylor           Cherubi Lv. 13, Hoppip Lv. 13, Shroomish Lv. 13
+Aroma Lady Taylor           
+- Cherubi Lv. 13
+- Hoppip Lv. 13
+- Shroomish Lv. 13
 
 ====================================================================================
 Floaroma Town
@@ -273,9 +355,14 @@ Starter / Chikorita (33), Cyndaquil (33), Totodile (33)
 2 / Cyndaquil
 3 / Chikorita
 4 / Totodile
+5 / Totodile
 
 # Trainers
-Reporter Jenny              Chikorita Lv. 15, Cyndaquil Lv. 15, Totodile Lv. 15
+
+Reporter Jenny              
+- Chikorita Lv. 15 / Tackle
+- Cyndaquil Lv. 15 / Flame Wheel
+- Totodile Lv. 15 / Scary Face, Scratch
 
 ====================================================================================
 Floaroma Meadow
@@ -290,10 +377,16 @@ Honey Tree  Cherubi (30%), Shroomish (20%), Exeggcute (20%), Seedot (20%), Tange
 2 / Shroomish
 3 / Cherubi -> Skorupi
 4 / Cherubi -> Skorupi
+5 / Cherubi -> Skorupi
 
 # Trainers
-Galactic Grunt              Zubat Lv. 15, Spinarak Lv. 15
-Galactic Grunt              Croagunk Lv. 15, Ledyba Lv. 15
+Galactic Grunt              
+- Zubat Lv. 15
+- Spinarak Lv. 15
+
+Galactic Grunt              
+- Croagunk Lv. 15
+- Ledyba Lv. 15
 
 ====================================================================================
 Valley Windworks
@@ -310,11 +403,18 @@ Honey Tree  Aipom (30%), Slakoth (20%), Caterpie (20%), Weedle (20%), Munchlax (
 2 / Voltorb
 3 / Magnemite
 4 / Magnemite
+5 / Pachirisu
 
 # Trainers
 
-Galactic Grunt              Poochyena Lv. 14, Gulpin Lv. 14, Houndour Lv. 14
-Galactic Grunt              Grimer Lv. 15, Koffing Lv. 15
+Galactic Grunt              
+- Poochyena Lv. 14 / Bite
+- Gulpin Lv. 14
+- Houndour Lv. 14 / Howl
+
+Galactic Grunt              
+- Grimer Lv. 15
+- Koffing Lv. 15 / Smog
 
 # Boss
 
@@ -328,6 +428,7 @@ Purugly (Lv. 19) @ Sitrus Berry     /   Jolly       /   Thick Fat       /   Fake
 2 / W
 3 / W
 4 / W
+5 / W
 
 ====================================================================================
 Route 205 (South)
@@ -344,10 +445,14 @@ Honey Tree  Combee (30%), Burmy (20%), Pineco (20%), Wurmple (20%), Heracross (1
 2 / Heracross
 3 / Heracross
 4 / Burmy
+5 / Shellder
 
 # Trainers
 
-Hiker Daniel                Diglett Lv. 15 / Bulldoze, Shieldon Lv. 15, Numel Lv. 15
+Hiker Daniel                
+- Diglett Lv. 15 / Bulldoze
+- Shieldon Lv. 15
+- Numel Lv. 15
 
 
 ====================================================================================
@@ -366,6 +471,7 @@ Poké Radar  Beautifly (11%), Dustox (11%)
 2 / Buneary
 3 / Nincada
 4 / Shroomish
+5 / Misdreavus
 
 # Trainers
 
@@ -384,6 +490,7 @@ Chansey (Lv. 20) @ Sitrus Berry     /   Quiet       /   Serene Grace    /   Hype
 2 / W
 3 / W
 4 / W
+5 / W
 
 ====================================================================================
 Old Chateau
@@ -401,6 +508,7 @@ Event       Gengar (50%), Rotom (50%)
 2 / Gengar
 3 / Rotom
 4 / Gastly
+5 / Gengar
 
 ====================================================================================
 Eterna City
@@ -415,6 +523,7 @@ Old Rod     Magikarp (60%), Poliwag (30%), Dratini (10%)
 2 / Poliwag
 3 / Poliwag
 4 / Poliwag
+5 / Poliwag
 
 ====================================================================================
 Route 211 (West)
@@ -430,10 +539,14 @@ Poké Radar  Tyrogue (22%)
 2 / Meditite
 3 / Meditite
 4 / Meditite
+5 / Chingling
 
 # Trainers
 
-Hiker Louis                 Geodude Lv. 19, Slugma Lv. 19, Beldum Lv. 19
+Hiker Louis        
+- Geodude Lv. 19
+- Slugma Lv. 19
+- Beldum Lv. 19
 
 ====================================================================================
 Mt. Coronet
@@ -449,10 +562,13 @@ Old Rod     Feebas (100%)
 2 / Feebas
 3 / Feebas
 4 / Feebas
+5 / Metang
 
 ====================================================================================
 Route 216
 ====================================================================================
+
+* Repel Manip: Sneasel Lv. 25
 
 # Encounters
 
@@ -464,19 +580,35 @@ Poké Radar  Delibird (22%)
 2 / Snorunt
 3 / Swinub
 4 / Sneasel
+5 / Snover - Eddie made me kill it 
 
 # Trainers
 
-Ace Trainer Laura           Togetic Lv. 23 / Air Cutter-Ancient Power, Swellow Lv. 23 / Double Team-Reversal
+Ace Trainer Laura           
+- Togetic Lv. 23 / Air Cutter, Ancient Power
+- Swellow Lv. 23 / Double Team, Reversal
 
 ====================================================================================
 Eterna City Gym
 ====================================================================================
 
 # Trainers
-Lass Caroline               Lotad Lv. 22, Cacnea Lv. 22, Exeggcute Lv. 22, Shroomish Lv. 22
-Aroma Lady Jenna            Weepinbell Lv. 23, Ivysaur Lv. 23, Gloom Lv. 23
-Aroma Lady Angela           Roselia Lv. 23, Bayleef Lv. 23, Skiploom Lv. 23
+
+Lass Caroline               
+- Lotad Lv. 22
+- Cacnea Lv. 22
+- Exeggcute Lv. 22
+- Shroomish Lv. 22
+
+Aroma Lady Jenna            
+- Weepinbell Lv. 23
+- Ivysaur Lv. 23
+- Gloom Lv. 23
+
+Aroma Lady Angela           
+- Roselia Lv. 23
+- Bayleef Lv. 23
+- Skiploom Lv. 23
 
 # Boss
 
@@ -491,6 +623,8 @@ Roserade (Lv. 26) @ Sitrus Berry    /   Timid       /   Technician      /   Magi
 
 2 / W
 3 / W
+4 / W
+5 / W
 
 ====================================================================================
 Eterna Galactic Building
@@ -507,11 +641,27 @@ Static      Porygon (100%)
 
 # Trainers
 
-Galactic Grunt              Ledian Lv. 24 / U-turn-Aerial Ace-Silver Wind, Ariados Lv. 24 / Leech Life
-Galactic Grunt              Ekans Lv. 23, Glameow Lv. 23 / Feint Attack, Nidoran-F Lv. 23 / Poison Fang-Toxic Spikes
-Galactic Grunt              Koffing Lv. 23, Stunky Lv. 23 / Night Slash, Nidoran-M Lv. 23 / Toxic Spikes
-Galactic Grunt              Cleffa Lv. 23
-Scientist Travon            Drowzee Lv. 24, Metang Lv. 24 / Pursuit, Kadabra Lv. 24 / Psybeam
+Galactic Grunt              
+- Ledian Lv. 24 / U-turn, Aerial Ace, Silver Wind 
+- Ariados Lv. 24 / Leech Life
+
+Galactic Grunt             
+- Ekans Lv. 23
+- Glameow Lv. 23 / Feint Attack, 
+- Nidoran-F Lv. 23 / Poison Fang, Toxic Spikes
+
+Galactic Grunt              
+- Koffing Lv. 23
+- Stunky Lv. 23 / Night Slash
+- Nidoran-M Lv. 23 / Toxic Spikes
+
+Galactic Grunt              
+- Cleffa Lv. 23
+
+Scientist Travon            
+- Drowzee Lv. 24
+- Metang Lv. 24 / Pursuit
+- Kadabra Lv. 24 / Psybeam
 
 # Boss
 

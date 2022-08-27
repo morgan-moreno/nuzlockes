@@ -4,11 +4,14 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
+    "convert-me": "node scripts/convertSetsToTxt.js my-mons",
+    "convert-route": "node scripts/convertSetsToTxt.js",
     "random:region": "node scripts/randomRegion.js",
     "random:starter": "node scripts/randomStarter.js",
     "random:mauville": "node scripts/randomMauville.js",
     "readPdf": "node scripts/readPdf.js",
-    "nature": "node scripts/nature.js"
+    "nature": "node scripts/nature.js",
+    "update-levels": "node scripts/update-levels.js"
   },
   "dependencies": {
     "pdf-parse": "^1.1.1"

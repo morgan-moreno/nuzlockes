@@ -1,0 +1,26 @@
+Mightyena @ 
+Level: 38
+Ability: Intimidate
+Hardy Nature
+- Bite
+- Fire Fang
+- Thunder Fang
+- Scary Face
+
+Crobat @ 
+Level: 38
+Ability: Inner Focus
+Hardy Nature
+- Air Cutter
+- Venoshock
+- Giga Drain
+- Super Fang
+
+Sharpedo @ 
+Level: 39
+Ability: Speed Boost
+Hardy Nature
+- Poison Fang
+- Bite
+- Aqua Jet
+- Ice Fang
