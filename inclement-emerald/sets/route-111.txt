@@ -1,6 +1,7 @@
-/
+
+===
 Cooltrainer Wilton
-/
+===
 
 Doublade @ Eviolite
 Level: 49
@@ -25,11 +26,9 @@ Ability: Rough Skin
 - Poison Jab
 - Flamethrower
 
-
-
-/
+===
 Cooltrainer Brooke
-/
+===
 
 Gastrodon @ Rindo Berry
 Level: 49
@@ -52,3 +51,8 @@ Ability: Technician
 - Extrasensory
 - Toxic
 - Venoshock
+
+===
+
+===
+

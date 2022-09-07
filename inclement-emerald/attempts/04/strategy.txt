@@ -1,0 +1,502 @@
+==========================================
+Leader Roxanne
+==========================================
+
+- Aron @ Chesto Berry: Tympole @ Oran Berry
+
+    1. Mud shot (Sturdy), stealth rock
+    2. mud shot (KO)
+
+- Lileep @ Oran Berry: Grubbin @ Oran Berry
+
+    1. Switch in mega drain (13 - 15.2)
+    2. Bug bite (54.5 - 68.1), rock tomb (39.1 - 52.1)
+    3. Bug bite (KO)
+
+- Anorith @ Water Gem: Marshtomp @ Oran Berry
+
+    1. Switch in rock tomb (11.3 - 15)
+    2. Water gun (68.4 - 84.2), bug bite (24.5 - 30.1)
+    3. Water gun (KO)
+
+- Tyrunt @ Red Card:
+
+    1. Switch in dragon tail ()
+
+==========================================
+Leader Brawly
+==========================================
+
+- Meditite @ Light Clay: Shedinja
+
+    1. Shadow sneak (83 - 101.8), light Screen
+    2. Shadow sneak (KO)
+
+- Lucario @ Lum Berry: Octillery @ Oran Berry
+
+    1. Switch in payback (15 - 18.7)
+    2. Payback (15 - 18.7), octazooka (59.7 - 72.2)
+    3. Payback (15 - 18.7), octazooka (KO)
+
+- Breloom @ Toxic Orb: Golbat @ Chesto Berry
+
+    1. Switch in bullet seed (12.3 - 16.4)
+    2. Aerial ace (KO)
+
+- Hitmonchan @ Coba Berry: Shedinja
+
+    1. Switch in thunder punch (0)
+    2. Can't touch Shedinja
+
+- Dewott @ Eviolite: Luvdisc @ Oran Berry
+
+    1. Switch in air slash (29.3 - 36.2)
+    2. Draining kiss (45.9 - 56.7), x-scissor (37.9 - 44.8)'
+    3. Draining kiss (KO)
+
+- Hariyama @ Sitrus Berry:
+
+    1. Switch in arm thrust ()
+
+==========================================
+Archie (Slateport City)
+==========================================
+
+- Mightyena:
+- Crobat:
+- Sharpedo:
+
+==========================================
+PKMN Trainer May (Route 110)
+==========================================
+
+- Swellow: Swampert @ Oran Berry
+
+    1. Wing attack (24.4 - 28.8), rock slide (72.5 - 86.2) (2HKO)
+
+- Grovyle: Lilligant @ Oran Berry
+
+    1. Switch in grass pledge (24.1 - 29.4)
+    2. Grass pledge (24.1 - 29.4), draining kiss (49 - 58) (2HKO)
+
+- Ponyta: Seismitoad @ Oran Berry
+
+    1. Switch in blaze kick (13.6 - 16.5)
+    2. Take down (23.7 - 28), drain punch (37.8 - 45.2) (2HKO)
+
+- Starmie: Shedinja @ 
+
+
+- Mimikyu: Sableye @ Oran Berry
+
+    1. Switch in shadow claw (12.9 - 15.3)
+    
+
+==========================================
+Leader Wattson
+==========================================
+
+- Galvantula @ Grass Gem: Shedinja
+
+    1. Sticky Web, shadow ball (46.4 - 56.2) (2HKO)
+
+- Rotom-Mow @ White Herb: Audino @ Sitrus Berry / Shedinja
+
+    1. Switch in audino, hex (0)
+    2. Switch in shedinja (0) (Continue until hex is out [10 PP])
+    3. Kill with shedinja
+
+- Manectric @ Sitrus Berry: Swampert @ Leftovers
+
+    1. Switch in flamethrower (20 - 23.7)
+    2. Signal beam (33.3 - 40), mud shot (45.7 - 55.9)
+    3. Signal beam (33.3 - 40), mud shot (KO)
+
+- Raichu-Alola @ Shuca Berry: Decidueye @ Sitrus Berry
+
+    1. Switch in grass knot (8.4 - 10)
+    2. Psychic (38.7 - 46.2), spirit shackle (KO)
+
+- Magneton @ Eviolite: Seismitoad @ Cheri Berry
+
+    1. Switch in flash cannon (22.3 - 26.6)
+    2. Flash cannon (22.3 - 26.6), Mud shot (86.5 - 103) (2HKO)
+
+- Lanturn @ Air Balloon: Lilligant @ Yache Berry
+
+    1. Switch in surf (25 - 29.4)
+    2. Icy wind (20.5 - 25), giga drain (51.9 - 62.3) [35.7 - 42.8 recovered]
+    3. Icy wind (41 - 50), giga drain (KO)
+
+==========================================
+Maxie 1
+==========================================
+
+- Crobat @ Assault Vest: Empoleon @ Sitrus Berry
+    * Change nature to Relaxed (+Def, -Spe)
+
+    1. Brave bird (31.4 - 37.1), aurora beam (39 - 46.3)
+    2. Brave bird (31.4 - 37.1), aurora beam (39 - 46.3) (KO)
+
+- Zweilous @ Choice Scarf: Togekiss @ Sitrus Berry
+
+    1. Switch in superpower (14.3 - 16.8)
+    2. Superpower (14.3 - 16.8), draining kiss (KO)
+
+- Victreebel @ Scope Lens: Weezing @ Chesto Berry
+
+    1. Switch in poison jab (20.1 - 24)
+    2. Sucker punch (24 - 28.6), heat wave (60.7 - 72.1)
+    3. Sucker punch (24 - 28.6), heat wave (KO)
+
+- Camerupt @ Power Herb: Swampert @ Sea Incense
+
+    1. Switch in fire blast (41.1 - 48.5)
+    2. Water pulse (KO)
+
+- Weezing @ Black Sludge: Reuniclus @ Sitrus Berry
+
+    1. Switch in venoshock (32.9 - 39.7)
+    2. Venoshock (32.9 - 39.7), psychic (KO)
+
+==========================================
+Flannery
+==========================================
+
+- Torkoal @ White Herb: Quagsire @ Sitrus Berry
+
+    1. Yawn, overheat (33.5 - 39.4)
+    2. Recover, overheat (33.5 - 39.4)
+    3. Stealth Rocks, sleep
+    4. Recover, sleep
+    5. Earthquake (2HKO)
+
+- Houndoom @ Fire Gem: Kommo-o @ Leftovers
+
+    1. Switch in solar beam (15.2 - 18)
+    2. Overheat (38.8 - 45.8), aura sphere (73.3 - 88) (2HKO)
+
+- Arcanine @ Assault Vest: Empoleon @ Chople Berry
+
+    1. Switch in play rough (10.9 - 13)
+    2. Close combat (29.3 - 35), brine (69.8 - 84.3)
+    3. Aqua jet (KO)
+
+- Blaziken @ Weakness Policy: Palossand @ Sitrus Berry
+
+    1. Switch in thunder punch (0)
+    2. Overheat (37.8 - 44.9), earth power (KO) 
+
+- Talonflame @ White Herb: Swampert @ Leftovers
+
+    1. Switch in brave bird (32.3 - 38.1)
+    2. Brave bird (32.3 - 38.1), rock slide (KO)
+
+- Volcarona @ Charti Berry: Charizard @ Sitrus Berry
+
+    1. Switch in giga drain (5.6 - 6.3)
+    2. Fiery dance (17.6 - 21.1), wing attack (91.6 - 109.3)
+
+==========================================
+Norman
+==========================================
+
+- Swellow @ Flame Orb: Raichu @ Sitrus Berry:
+
+    1. Facade (34.6 - 41.4), thunderbolt (KO)
+
+- Tauros @ Life Orb: Banette @ Air Balloon / Scrafty @ Leftovers
+
+    1. Switch in banette, eq (0)
+    2. Switch in scrafty, throat chop (6 - 8) [-1 Atk]
+    3. Repeat until -6 atk, then kill with scrafty
+
+- Slaking @ Lum Berry: Scrafty @ Leftovers
+
+    1. Protect, giga impact
+    2. Brick break (43 - 50.9)
+    3. Protect, giga impact
+    4. Brick break (43 - 50.9) KO
+
+- Kangaskhan @ Kangaskhanite: Banette @ Air Balloon / Sawk @ Fighting Gem
+
+    1. Switch in banette, seismic toss (0)    
+    2. Switch in sawk, crunch (14.5 - 17.2)
+    3. Seismic toss (58), close combat (KO)
+
+- Exploud @ Expert Belt: Empoleon @ Steel Gem
+
+    1. Switch in boomburst (25.7 - 30.4)
+    2. Fire blast (26.9 - 32.1), flash cannon (49.7 - 59)
+    3. Fire blast (26.9 - 32.1), brine (KO)
+    
+- Linoone @ Figy Berry: Kommo-o @ Leftovers
+
+    1. Switch in seed bomb (9 - 10.3)
+    2. Extreme speed (27 - 31.6), aura sphere (KO)
+
+==========================================
+Aqua Admin Shelly (Weather Institute)
+==========================================
+
+- Ninteales-Alola @ Light Clay: Hippowdown @ Sitrus Berry / Empoleon @ Leftovers
+    * Lead Hippowdon to avoid hail & aurora veil
+
+    1. Switch in Empoleon, blizzard (8.2 - 9.5)
+    2. Moonblast (14.1 - 16.8), flash cannon (KO)
+
+- Beedrill-Mega @ Beedrillite: Dragonite @ Focus Sash
+
+    1. Switch in drill run (0)
+    2. Poison jab (62.1 - 73.9), wing attack (KO)
+
+- Crawdaunt @ Ice Gem: Scrafty @ Leftovers
+
+    1. Switch in blizzard (32.1 - 38.3)
+    2. Protect
+    3. Crabhammer (37.3 - 44.5), brick break (85.4 - 101)
+    4. Vacuum Wave (KO)
+
+- Empoleon @ Petaya Berry: Sawk @ Sitrus Berry
+
+    1. Switch in hydro pump (63.9 - 75.7)
+    2. Close combat (KO)
+
+- Ludicolo @ Safety Goggles: Dragalge @ Yache Berry
+
+    1. Switch in scald (15.1 - 18.2)
+    2. Blizzard (28.1 - 33.3), sludge bomb (KO)
+
+- Clefable @ Leftovers:
+
+    1. Blizzard (39.5 - 46.8), sludge bomb (KO)
+
+==========================================
+May (119)
+==========================================
+
+- Swellow @ Life Orb: Electrode @ Sitrus Berry
+
+    1. Thunderbolt (KO)
+
+- Rapidash @ Life Orb: Swampert @ Leftovers
+
+    1. Switch in flare blitz (27.3 - 32.2)
+    2. Jump Kick (30.5 - 36.1), earthquake (KO)
+
+- Sceptile-Mega @ Sceptilite: Togekiss @ Sitrus Berry
+
+    1. Switch in frenzy plant (28.7 - 34)
+    2. Frenzy plant (28.7 - 34), moonblast (KO)
+
+- Vikavolt @ Assault Vest: Swampert @ Leftovers / Charizard @ Leftovers
+
+    1. Switch in swampert, thunder (0)
+    2. Switch in charizard, energy ball (8.7 - 10.2)
+    * Stall out thunder PP (5)
+    3. Bug buzz (12.8 - 15.3), flare blitz (KO) (must have > 35%)
+
+- Starmie @ Life Orb: Ferrothorn @ Sitrus Berry
+
+    1. Switch in hydro pump (24.8 - 29.4)
+    2. Ice beam (27.9 - 32.9), power whip (KO)
+
+- Mimikyu @ Lum Berry: Empoleon @ Sitrus Berry
+
+    1. Switch in shadow claw (26.4 - 31.9)
+    2. Shadow claw (26.4 - 31.9), flash cannon (90.5 - 107.2)
+
+==========================================
+Spenser (Fortree City)
+==========================================
+
+- Crobat @ Black Sludge: Electrode @ Pecha Berry
+
+    1. Thunderbolt (60.9 - 71.5), fly (26.4 - 31.3)
+    2. Thunderbolt (KO)
+
+- Slaking @ Choice Scarf: Aegislash @ Air Balloon
+
+    1. Switch in giga impact (0)
+    2. Sacred sword (43.5 - 51.9)
+    3. King's shield
+    * repeat until dead
+
+- Arcanine @ Intimidate: Swampert @ Swampertite
+
+    1. Switch in overheat (20 - 23.5)
+    2. Overheat (20 - 23.5), earthquake (KO)
+
+- Venusaur-Mega @ Venusairite: Bronzong @ Chesto Berry
+
+    1. Switch in giga drain (16.4 - 19.4)
+    2. Giga drain (16.4 - 19.4), extrasensory & recover until dead
+
+- Lapras @ Water Gem: Ferrothorn @ Grass Gem
+
+    1. Switch in hydro pump (26.9 - 31.9)
+    2. Freeze-dry (35.5 - 42.6), power whip (KO)
+s
+- Suicune @ Leftovers: Quagsire
+
+==========================================
+Greta (Slateport City)
+==========================================
+
+- Landorus-Therian @ Yache Berry: Starmie @ Sitrus Berry
+
+    1. Surf (KO)
+
+- Breloom @ Toxic Orb: Starmie @ Sitrus Berry
+
+    1. Psychic (KO)
+
+- Heracross @ Flame Orb: Crobat @ Sitrus Berry
+
+    1. Switch in megahorn (28 - 32.9)
+    2. Wing attack (KO)
+
+- Tapu Koko @ Choice Specs: Seismitoad @ Sitrus Berry
+
+    1. Switch in volt switch (0)
+    2. Mud shot (2HKO) [locked into volt switch w/ choice specs]
+
+- Gengar-Mega @ Gengarite: Seismitoad @ Sitrus Berry / Banette @ Chesto Berry
+
+    1. Shadow ball (43.9 - 52), mud shot (56.2 - 68.1) (2HKO)
+    2. Bannette can't be touched, phantom force OHKO
+
+- Umbreon @ Leftovers: Audino-Mega @ Audinite
+
+    1. Switch in dark pulse (6.1 - 7.3)
+    2. Dark pulse (6.1 - 7.3), moonblast (55.3 - 65.9) (2HKO)
+
+==========================================
+Lucy (Lavaridge)
+==========================================
+
+- Shuckle @ Red Card: Hippowdon @ Pecha Berry
+
+    1. Stealth rock, Toxic
+    2. Yawn, Toxic
+    3. Earthquake until dead
+
+- Milotic @ Water Gem: Jellicent @ Sitrus Berry
+
+    1. Switch in hydro pump (0)
+    2. Dragon pulse (15.3 - 18.2), toxic and stall out
+
+- Serperior @ Leftovers: Abomasnow @ Sitrus Berry
+
+    1. Switch in power whip (12.3 - 14.5)
+    2. Dragon rush (17.6 - 21.2), avalanche (KO)
+
+- Seviper @ Life Orb: Starmie @ Sitrus Berry
+
+    1. Switch in flamethrower (27.1 - 33.1)
+    2. Psychic (KO)
+
+- Steelix @ Choice Band: Empoleon @ Air Balloon
+
+    1. Switch in earthquake (0)
+    2. Hydro pump (KO)
+
+- Gyarados @ Leftovers: Dragonite @ Sitrus Berry
+
+    1. Switch in bounce (27.7 - 33)
+    2. Bounce (27.7 - 33), thunder punch (KO)
+
+==========================================
+May (Lilycove)
+==========================================
+
+- Vikavolt @ Life Orb: Magmortar @ Sitrus Berry
+
+    1. Thunderbolt (53.2 - 62.8), flamethrower (KO)
+
+- Starmie @ Assault Vest: Ferrothorn @ Leftovers
+
+    1. Switch in hydro pump (19.7 - 23.3)
+    2. Ice beam (21.8 - 25.8), power whip (KO)
+
+- Rapidash @ Fire Gem: Kingdra @ Zoom Lens
+
+    1. Switch in flare blitz (19.4 - 22.8)
+    2. Jump kick (33.4 - 39.8), hydro pump (KO)
+
+- Sceptile-Mega @ Sceptilite: Abomasnow @ Ice Gem
+
+    1. Switch in dragon pulse (44.9 - 53.3)
+    2. Ice shard (KO)
+
+- Swellow @ Flame Orb: Golem-Alola @ Sitrus Berry
+
+    1. Switch in brave bird (11.8 - 14)
+    2. Facade (28.1 - 33.1), thunder punch (KO)
+
+- Mimikyu @ Lum Berry: Empoleon @ Sitrus Berry
+
+    1. Switch in play rough (17.3 - 20.5)
+    2. Shadow claw (27.3 - 32.8), flash cannon (KO)
+
+==========================================
+Matt (Mt. Pyre)
+==========================================    
+
+- Pelipper @ Rocky Helmet: Vikavolt @ Sitrus Berry:
+
+    1. Thunderbolt (KO)
+
+- Seismitoad @ Rindo Berry: Dhelmise @ Yache Berry
+
+    1. Switch in liquidation (19.7 - 23.3)
+    2. Ice punch (23.3 - 27.9), power whip (KO)
+
+- Dhelmise @ Assault Vest: Dragonite @ Sitrus Berry
+
+    1. Switch in phantom force (30 - 35.7)
+    2. Wing attack (53.1 - 63), phantom force (30 - 35.7)
+    3. Wing attack (KO)
+
+- Heliolisk @ Life Orb: Hippowdon @ Rindo Berry
+
+    2. Grass knot (43.6 - 51.9), earthquake (KO)
+
+- Gyarados-Mega @ Gyaradosite: Azumarill @ Sitrus Berry
+
+    1. Switch in waterfall (23 - 27.3)
+    2. Earthquake (38.2 - 45.2), play rough (KO)
+
+- Toxicroak @ Black Sludge: Quagsire @ Leftovers
+
+    1. Switch in poison jab (14.1 - 17)
+    2. Drain punch (27.3 - 32.4), earthquake (KO)
+
+==========================================
+Winona (Double)
+==========================================  
+
+turn 1: vikavolt & gyarados vs gyarados & hawlucha: [-1 Atk] w/ intimidate + vikavolt KO gyarados switch out gyarados for golem [brave bird (6.3 - 7.7)]
+turn 2: vikavolt & golem vs. aerodactyl & hawlucha: hawlucha brave bird on vikavolt (35.8 - 42.1), aero earthquake, switch out golem back into gyarados [-2 Atk], vikavolt KO aerodactyl w/ thunderbolt
+turn 3: vikavolt & gyarados vs emolga & hawlucha: switch out vikavolt for golem and gyarados for hippowdon, hawlucha brave bird golem (5.4 - 6.3 / 26.1 - 30.9) and emolga electroweb (14.5 - 17.2 / 0)
+turn 4: golem & hippowdon vs emolga & hawlucha: switch in gyarados for hippowdon, hawlucha cc on golem (27.2 - 32.7), emolga hurricane on gyarados (40.1 - 47.8), golem rock blast emolga (KO)
+turn 5: golem & gyarados vs dragonite & hawlucha: switch in togekiss for golem, hawlucha cc on togekiss (3.7 - 4.5), dragonite earthquake (0 / 0), gyarados ice fang on dragonite (40.5 - 48.5)
+turn 6: togekiss & gyarados vs dragonite & hawlucha: switch in golem for gyarados, dragonite wing attack on golem (7.7 - 9.5), hawlucha cc on golem (27.2 - 32.7), togekiss moonblast on dragonite (KO)
+turn 7: togekiss & golem vs altaria-mega & hawlucha: golem protect, hawlucha & altaria try to kill golem, togekiss moonblast on hawlucha KO
+turn 8: togekiss & golem vs altaria-mega: 2v1 never lose
+
+Vikavolt @ Electric Gem
+Gyarados @ Sitrus Berry
+Golem-Alola @ Leftovers
+Hippowdon @ Sitrus Berry
+Togekiss @ Sitrus Berry
+Ferrothorn @ Leftovers
+
+- Gyarados @ Wacan Berry: Vikavolt @ Electric Gem
+- Hawlucha @ Flying Gem: Togekiss @ Sitrus Berryaw
+- Dragonite @ Yache Berry: Togekiss @ Sitrus Berry
+- Aerodactyl @ Life Orb: Vikavolt @ 
+- Emolga @ Focus Sash: Golem-Alola @ Leftovers
+- Altaria-Mega @ Altarianite: Ferrothorn @ Leftovers
+
+

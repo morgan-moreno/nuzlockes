@@ -1,25 +1,24 @@
 const fs = require("fs");
-
-const FILE = "my-mons.txt";
+const path = require("path");
+const { cwd } = require("process");
 
 const args = process.argv.slice(2);
+const FILE_PATH = path.join(cwd(), "my-mons.json");
 
-if (!args.length > 0) {
+if (!(args.length > 0)) {
   console.error("Invalid usage: $ yarn update-levels <new-level>");
   process.exit(1);
 }
 
-const newLevel = args[0];
-let file = fs.readFileSync(FILE).toString();
+try {
+  const newLevel = args[0];
+  const mons = fs.readFileSync(FILE_PATH, "utf-8");
+  const data = JSON.parse(mons);
 
-file = file.replace(/Level: \d{2,}/g, `Level: ${newLevel}`);
+  data.levelCap = Number(newLevel);
 
-fs.writeFile(FILE, file, (err, data) => {
-  if (err) {
-    console.error("Error writing to file");
-    process.exit(1);
-  }
-
-  console.log("Levels successfully updated");
-  process.exit(0);
-});
+  fs.writeFileSync(FILE_PATH, JSON.stringify(data));
+} catch (error) {
+  console.error("Error reading/writing file: ", error);
+  process.exit(1);
+}

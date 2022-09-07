@@ -1,4 +1,3 @@
-ROUTE-121
 
 ===
 Beauty Jessica
@@ -19,14 +18,13 @@ Ability: Shed Skin
 - Rest
 - Crunch
 
-Keckleon @ 
+Kecleon @ 
 Level: 67
 Ability: Protean
 - Substitute
 - Recover
 - Sucker Punch
 - Drain Punch
-
 
 ===
 Sr. and Jr. Kate & Joy
@@ -47,14 +45,14 @@ Level: 70
 - Play Rough
 - Slack Off
 
-
 ===
-Cooltrainer Marcel
+Cooltrainer Marcel (potential double battle with Cooltrainer Cristin)
 ===
 
 Shiftry @ Assault Vest
 Level: 70
-Timid Nature- Energy Ball
+Nature: Timid
+- Energy Ball
 - Dark Pulse
 - Air Slash
 - Heat Wave
@@ -62,44 +60,45 @@ Timid Nature- Energy Ball
 Zebstrika @ Fire Gem
 Level: 70
 Ability: Sap Sipper
-Jolly Nature- Wild Charge
+Nature: Jolly
+- Wild Charge
 - Flare Blitz
 - Quick Attack
 - Jump Kick
 
 Stoutland @ Weakness Policy
 Level: 70
-Jolly Nature- Return
+Nature: Jolly
+- Return
 - Crunch
 - Play Rough
 - Work Up
-- Return
-
 
 ===
-Cooltrainer Cristin
+Cooltrainer Cristin (potential double battle with Cooltrainer Marcel)
 ===
 
 Ninetales @ Grass Gem
 Level: 70
 Ability: Drought
-Timid Nature- Heat Wave
+Nature: Timid
+- Heat Wave
 - Solar Beam
 - Sunny Day
 - Will-O-Wisp
 
 Flygon @ White Herb
 Level: 70
-Timid Nature- Draco Meteor
+Nature: Timid
+- Draco Meteor
 - Earth Power
 - Solar Beam
 - Flamethrower
 
 Pidgeot @ Yache Berry
 Level: 70
-Timid Nature- Hyper Voice
+Nature: Timid
+- Hyper Voice
 - Air Slash
 - Heat Wave
 - Roost
-
-

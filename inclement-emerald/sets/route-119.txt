@@ -1,7 +1,6 @@
-ROUTE-119
 
 ===
-Pokemon Trainer Catherine
+Pokemon Ranger Catherine
 ===
 
 Bellossom @ Miracle Seed
@@ -12,11 +11,10 @@ Level: 68
 - Sleep Powder
 
 Noivern @ Petaya Berry
-Level: 38
+Level: 68
 - Hurricane
 - Water Pulse
-- Dragon Pulse
-- Boomburst
+- Dragon Pulse Boomburst
 
 Beartic @ Water Gem
 Level: 68
@@ -33,7 +31,6 @@ Level: 68
 - Sludge Wave
 - Power Whip
 
-
 ===
 Pokemon Ranger Jackson
 ===
@@ -45,7 +42,7 @@ Level: 68
 - Signal Beam
 - Roost
 
-Rotom-Fan @ Salac Berry
+Rotom @ Salac Berry
 Level: 68
 - Hurricane
 - Thunder
@@ -68,14 +65,186 @@ Ability: Hydration
 - Curse
 - Rest
 
+===
+Ninja Boy Hideo
+===
+
+Bisharp @ 
+Level: 68
+- Night Slash
+- Iron Head
+- Laser Focus
+- Torment
+
+Muk @ 
+Level: 68
+- Gunk Shot
+- Screech
+- Shadow Sneak
+- Acid Armor
 
 ===
-Pokemon Trainer May
+Team Aqua Grunt 2
+===
+
+Golbat @ 
+Level: 68
+- Acrobatics
+- Leech Life
+- Confuse Ray
+- Hypnosis
+
+Dragalge @ 
+Level: 68
+Ability: Adaptability
+- Sludge Bomb
+- Dragon Pulse
+- Hydro Pump
+- Toxic
+
+Liepard @ 
+Level: 68
+- Sucker Punch
+- Play Rough
+- Swagger
+- Iron Tail
+
+===
+Team Aqua Grunt 3 (Right) (potential double with Team Aqua Grunt 4)
+===
+
+Toxicroak @ Black Sludge
+Level: 69
+Ability: Dry Skin
+- Poison Jab
+- Drain Punch
+- Sucker Punch
+- Protect
+
+Eelektross @ 
+Level: 69
+- Thunder
+- Aqua Tail
+- Giga Drain
+- Iron Tail
+
+===
+Team Aqua Grunt 4 (Left) (potential double with Team Aqua Grunt 3)
+===
+
+Pelipper @ 
+Level: 69
+Ability: Drizzle
+- Hurricane
+- Hydro Pump
+- Ice Beam
+- Roost
+
+Ferrothorn @ 
+Level: 69
+- Power Whip
+- Iron Head
+- Payback
+- Thunder Wave
+
+===
+Team Aqua Grunt 5
+===
+
+Mightyena @ 
+Level: 68
+- Crunch
+- Play Rough
+- Fire Fang
+- Ice Fang
+
+Golisopod @ 
+Level: 68
+- First Impression
+- Liquidation
+- Sucker Punch
+- Close Combat
+
+Muk-Alola @ 
+Level: 68
+- Crunch
+- Poison Jab
+- Fire Blast
+- Screech
+
+===
+Shelly (Weather Institute)
+===
+
+Ninetales-Alola @ Light Clay
+Level: 70
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+Ability: Snow Warning
+- Blizzard
+- Moonblast
+- Water Pulse
+- Aurora Veil
+
+Empoleon @ Petaya Berry
+Level: 70
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+Ability: Slush Rush
+- Hydro Pump
+- Blizzard
+- Flash Cannon
+- Grass Knot
+
+Crawdaunt @ Ice Gem
+Level: 71
+EVs: 0 Hp / 252 Atk / 0 Def / 4 SpA / 0 SpD / 252 Spe
+Naive Nature
+Ability: Adaptability
+- Crabhammer
+- Crunch
+- Dragon Dance
+- Blizzard
+
+Clefable @ Leftovers
+Level: 70
+EVs: 252 Hp / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+Ability: Magic Guard
+- Flamethrower
+- Blizzard
+- Calm Mind
+- Soft Boiled
+
+Ludicolo @ Safety Goggles
+Level: 70
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+Ability: Rain Dish
+- Scald
+- Giga Drain
+- Leech Seed
+- Blizzard
+
+Beedrill @ Beedrillite
+Level: 72
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Adaptability
+- X-Scissor
+- Poison Jab
+- Drill Run
+- Drill Peck
+
+===
+May (Route 119) - Grass
+===
+
 Swellow @ Life Orb
 Level: 70
-EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
-Ability: Scrappy
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Timid Nature
+Ability: Scrappy
 - Hurricane
 - Boomburst
 - Heat Wave
@@ -83,29 +252,29 @@ Timid Nature
 
 Starmie @ Life Orb
 Level: 70
-EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
-Ability: Analytic
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Timid Nature
+Ability: Analytic
 - Hydro Pump
 - Psyshock
 - Thunder
 - Ice Beam
 
-Rapidash @ Life Orb
+Tsareena @ Grass Gem
 Level: 70
-EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
-Ability: Reckless
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Jolly Nature
-- Flare Blitz
-- Jump Kick
-- Wild Charge
-- Poison Jab
+Ability: Queenly Majesty
+- Power Whip
+- High Jump Kick
+- Play Rough
+- Strength
 
 Mimikyu @ Lum Berry
 Level: 70
-EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
-Ability: Disguise
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Jolly Nature
+Ability: Disguise
 - Shadow Claw
 - Play Rough
 - Swords Dance
@@ -113,22 +282,148 @@ Jolly Nature
 
 Vikavolt @ Assault Vest
 Level: 70
-EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
-Ability: Levitate
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Timid Nature
+Ability: Levitate
 - Thunder
 - Bug Buzz
 - Energy Ball
 - Mud Shot
 
-Sceptile-Mega @ Sceptilite
+Blaziken @ Blazikenite
 Level: 72
-EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
-Ability: Chloroplast
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+Ability: Speed Boost
+- Blast Burn
+- Aura Sphere
+- Solar Beam
+- Sunny Day
+
+===
+May (Route 119) - Fire
+===
+
+Swellow @ Life Orb
+Level: 70
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Timid Nature
+Ability: Scrappy
+- Hurricane
+- Boomburst
+- Heat Wave
+- U-turn
+
+Rapidash @ Life Orb
+Level: 70
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Reckless
+- Flare Blitz
+- Jump Kick
+- Wild Charge
+- Poison Jab
+
+Tsareena @ Grass Gem
+Level: 70
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Queenly Majesty
+- Power Whip
+- High Jump Kick
+- Play Rough
+- Strength
+
+Mimikyu @ Lum Berry
+Level: 70
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Disguise
+- Shadow Claw
+- Play Rough
+- Swords Dance
+- Shadow Sneak
+
+Vikavolt @ Assault Vest
+Level: 70
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+Ability: Levitate
+- Thunder
+- Bug Buzz
+- Energy Ball
+- Mud Shot
+
+Swampert @ Swampertite
+Level: 72
+EVs: 252 Hp / 252 Atk / 0 Def / 4 SpA / 0 SpD / 0 Spe
+Naive Nature
+Ability: Swift Swim
+- Hydro Cannon
+- Earthquake
+- Ice Punch
+- Rain Dance
+
+===
+May (Route 119) - Water
+===
+
+Swellow @ Life Orb
+Level: 70
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+Ability: Scrappy
+- Hurricane
+- Boomburst
+- Heat Wave
+- U-turn
+
+Starmie @ Life Orb
+Level: 70
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+Ability: Analytic
+- Hydro Pump
+- Psyshock
+- Thunder
+- Ice Beam
+
+Rapidash @ Life Orb
+Level: 70
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Reckless
+- Flare Blitz
+- Jump Kick
+- Wild Charge
+- Poison Jab
+
+Mimikyu @ Lum Berry
+Level: 70
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Disguise
+- Shadow Claw
+- Play Rough
+- Swords Dance
+- Shadow Sneak
+
+Vikavolt @ Assault Vest
+Level: 70
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+Ability: Levitate
+- Thunder
+- Bug Buzz
+- Energy Ball
+- Mud Shot
+
+Sceptile @ Sceptilite
+Level: 72
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+Ability: Chloroplast
 - Frenzy Plant
 - Dragon Pulse
 - Focus Blast
 - Grassy Terrain
-
-

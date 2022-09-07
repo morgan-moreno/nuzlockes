@@ -1,7 +1,6 @@
-ROUTE-120
 
 ===
-Parsasol Lady Clarissa
+Parasol Lady Clarissa
 ===
 
 Tangrowth @ 
@@ -25,27 +24,6 @@ Level: 67
 - Noble Roar
 - Work Up
 
-
-===
-Bird Keeper Robert
-===
-
-Fearow @ 
-Level: 68
-Ability: Sniper
-- Drill Peck
-- Drill Run
-- Focus Energy
-- Pursuit
-
-Staraptor @ 
-Level: 68
-- Return
-- Brave Bird
-- Close Combat
-- Work Up
-
-
 ===
 Bird Keeper Colin
 ===
@@ -63,7 +41,7 @@ Ability: Magic Bounce
 - Psychic
 - Air Slash
 - Roost
-- Night Shade
+- NightShade
 
 Oricorio @ 
 Level: 67
@@ -72,7 +50,6 @@ Level: 67
 - Roost
 - Agility
 
-
 ===
 Bug Maniac Jeffrey
 ===
@@ -80,7 +57,7 @@ Bug Maniac Jeffrey
 Durant @ 
 Level: 67
 - X-Scissor
-- Iron head
+- Iron Head
 - Crunch
 - Hone Claws
 
@@ -97,5 +74,3 @@ Level: 67
 - Air Slash
 - Quiver Dance
 - Stun Spore
-
-

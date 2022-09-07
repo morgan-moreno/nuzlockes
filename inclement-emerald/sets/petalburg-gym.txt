@@ -1,0 +1,262 @@
+
+===
+Cooltrainer Randall (Speed)
+===
+
+Swellow @ Flame Orb
+Level: 54
+Nature: Jolly
+- Quick Attack
+- Brave Bird
+- Double Edge
+- Protect
+
+Lopunny @ Salac Berry
+Level: 54
+Nature: Jolly
+- Quick Attack
+- Jump Attack
+- Return
+- Ice Punch
+
+Sawsbuck @ Heat Rock
+Level: 54
+Nature: Jolly
+- Sunny Day
+- Jump Kick
+- Return
+- Horn Leech
+
+===
+Cooltrainer Mary (Accuracy)
+===
+
+Braviary @ White Herb
+Level: 54
+Nature: Jolly
+- Hone Claws
+- Brave Bird
+- Double Edge
+- Superpower
+
+Raticate-Alola @ Salac Berry
+Level: 54
+Ability: Hustle
+Nature: Jolly
+- Quick Attack
+- Double Edge
+- Crunch
+- Hone Claws
+
+Drampa @ Damp Rock
+Level: 54
+Nature: Modest
+- Rain Dance
+- Thunder
+- Hurricane
+- Work Up
+
+===
+Cooltrainer Parker (Confusion)
+===
+
+Spinda @ Focus Sash
+Level: 54
+Ability: Contrary
+Nature: Jolly
+- Teeter Dance
+- Superpower
+- Dizzy Punch
+- Attract
+
+Stantler @ Perism Berry
+Level: 54
+Ability: Sap Sipper
+Nature: Jolly
+- Swagger
+- Disable
+- Protect
+- Thrash
+
+Girafarig @ Damp Rock
+Level: 54
+Ability: Contrary
+Nature: Timid
+- Psychic
+- Swagger
+- Foul Play
+- Thunder Wave
+
+===
+Cooltrainer Alexia (Defense)
+===
+
+Snorlax @ Leftovers
+Level: 54
+Ability: Thick Fat
+Nature: Impish
+- Body Slam
+- Curse
+- Rest
+- Sleep Talk
+
+Furfrou @ Leftovers
+Level: 54
+Nature: Impish
+- Thunder Wave
+- Headbutt
+- Cotton Guard
+- Bite
+
+Miltank @ Leftovers
+Level: 54
+Ability: Scrappy
+Nature: Impish
+- Defenses Curl
+- Rollout
+- Body Slam
+- Milk Drink
+
+===
+Cooltrainer George (Recovery)
+===
+
+Chansey @ Eviolite
+Level: 54
+- Minimize
+- Soft Boiled
+- Seismic Toss
+- Aromatherapy
+
+Dunsparce @ Leftovers
+Level: 54
+Nature: Impish
+- Coil
+- Headbutt
+- Thunderwave
+- Roost
+
+Porygon2 @ Eviolite
+Level: 54
+Ability: Analytic
+- Tri-Attack
+- Recover
+- Ice Beam
+- Thunderbolt
+
+===
+Cooltrainer Jody (Strength)
+===
+
+Zangoose @ Toxic Orb
+Level: 54
+Ability: Toxic Boost
+Nature: Adamant
+- Swords Dance
+- Facade
+- Close Combat
+- Knock Off
+
+Bouffalant @ Leichi Berry
+Level: 54
+Nature: Adamant
+- Swords Dance
+- Head Charge
+- Megahorn
+- Earthquake
+
+Porygon @ Life Orb
+Level: 54
+Ability: Download
+Nature: Modest
+- Tri-Attack
+- Nasty Plot
+- Ice Beam
+- Shadow Ball
+
+===
+Cooltrainer Berke (One-Hit KO)
+===
+
+Lickilicky @ Custap Berry
+Level: 54
+Nature: Adamant
+- Belly Drum
+- Explosion
+
+Snorlax @ Normal Gem
+Level: 54
+Ability: Thick Fat
+Nature: Adamant
+- Fissure
+- Self Destruct
+
+Ursaring @ Flame Orb
+Level: 54
+Nature: Adamant
+- Protect
+- Giga Impact
+
+===
+Norman
+===
+
+Swellow @ Flame Orb
+Level: 54
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Guts
+- Brave Bird
+- Facade
+- Reversal
+- U-turn
+
+Tauros @ Life Orb
+Level: 54
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Intimidate
+- Facade
+- Earthquake
+- Throat Chop
+- Close Combat
+
+Linoone @ Figy Berry
+Level: 54
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Gluttony
+- Extreme Speed
+- Belly Drum
+- Shadow Claw
+- Seed Bomb
+
+Exploud @ Expert Belt
+Level: 54
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Modest Nature
+Ability: Scrappy
+- Boomburst
+- Fire Blast
+- Surf
+- Extrasensory
+
+Slaking @ Lum Berry
+Level: 56
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+Ability: Truant
+- Giga Impact
+- Yawn
+- Night Slash
+- Earthquake
+
+Kangaskhan @ Kangaskhanite
+Level: 54
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Parental Bond
+- Facade
+- Crunch
+- Seismic Toss
+- Earthquake

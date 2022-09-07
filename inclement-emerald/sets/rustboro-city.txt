@@ -1,0 +1,200 @@
+
+===
+
+===
+
+===
+Roxanne
+===
+
+Aron @ Chesto Berry
+Level: 22
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Relaxed Nature
+Ability: Sturdy
+- Rock Tomb
+- Stealth Rock
+- Metal Claw
+- Rest
+
+Tyrunt @ Red Card
+Level: 22
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Relaxed Nature
+Ability: Sturdy
+- Rock Tomb
+- Bite
+- Dragon Tail
+- Poison Fang
+
+Amaura @ Chople Berry
+Level: 22
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Relaxed Nature
+Ability: Refrigerate
+- Rock Tomb
+- Thunder Wave
+- Bulldoze
+- Echoed Voice
+
+Anorith @ Water Gem
+Level: 22
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Relaxed Nature
+Ability: Battle Armor
+- Rock Tomb
+- Cut
+- Bug Bite
+- Aqua Jet
+
+Lileep @ Oran Berry
+Level: 22
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Relaxed Nature
+Ability: Storm Drain
+- Rock Tomb
+- Mega Drain
+- Infestation
+- Pain Split
+
+Nosepass @ Berry Juice
+Level: 25
+244 Hp / 0 Atk / 92 Def / 0 SpA / 168 SpD / 0 Spe
+Careful Nature
+Ability: Sand Force
+- Sandstorm
+- Rock Tomb
+- Bulldoze
+- Fire Punch
+
+===
+May (Rustboro City) - Fire
+===
+
+Swellow @ None
+Level: 24
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Guts
+- Aerial Ace
+- Quick Attack
+- Roost
+- Refresh
+
+Steenee @ None
+Level: 24
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Sweet Veil
+- Razor Leaf
+- Charm
+- Acupressure
+- Synthesis
+
+Ponyta @ None
+Level: 24
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Flame Body
+- Flame Wheel
+- Tail Whip
+- Tackle
+- Double Kick
+
+Marshtomp @ Oran Berry
+Level: 25
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Torrent
+- Mud Shot
+- Water Gun
+- Rock Tomb
+- Growl
+
+===
+May (Rustboro City) - Grass
+===
+
+Swellow @ None
+Level: 24
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Guts
+- Aerial Ace
+- Quick Attack
+- Roost
+- Refresh
+
+Staryu @ None
+Level: 24
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Natural Cure
+- Bubble Beam
+- Recover
+- Psywave
+- Swift
+
+Steenee @ None
+Level: 24
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Sweet Veil
+- Razor Leaf
+- Charm
+- Acupressure
+- Synthesis
+
+Combusken @ Oran Berry
+Level: 25
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Blaze
+- Double Kick
+- Rock Tomb
+- Flame Charge
+- Peck
+
+===
+May (Rustboro City) - Water
+===
+
+Swellow @ None
+Level: 24
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Guts
+- Aerial Ace
+- Quick Attack
+- Roost
+- Refresh
+
+Staryu @ None
+Level: 24
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Natural Cure
+- Bubble Beam
+- Recover
+- Psywave
+- Swift
+
+Ponyta @ None
+Level: 24
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Flame Body
+- Flame Wheel
+- Tail Whip
+- Tackle
+- Double Kick
+
+Grovyle @ Oran Berry
+Level: 25
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Overgrow
+- Mega Drain
+- Dragon Breath
+- Fury Cutter
+- Rock Tomb

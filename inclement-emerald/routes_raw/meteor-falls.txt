@@ -1,0 +1,34 @@
+===
+Trainers:
+===
+
+
+===
+Bosses:
+===
+
+Courtney (Meteor Falls)		
+Ninetales	Krookodile	Houndoom
+Lvl Scale	Lvl Scale	Lvl Scale
+31/0/31/31/31/31	31/31/31/31/31/31	31/0/31/31/31/31
+0/0/0/252/0/252	252/252/0/0/0/4	0/0/0/252/0/252
+Timid	Adamant	Timid
+Passho Berry	Assault Vest	Grass Gem
+Drought	Intimidate	Flash Fire
+Mystical Fire	Crunch	Dark Pulse
+Hypnosis	Earthquake	Heat Wave
+Solar Beam	Fire Fang	Solar Beam
+Calm Mind	Thunder Fang	Sludge Bomb
+
+Team Magma Grunt (Meteor Falls)				
+Excadrill	Weezing	Shiftry
+Lvl Scale	Lvl Scale	Lvl Scale
+31/31/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31
+80/80/80/80/80/80	80/80/80/80/80/80	80/80/80/80/80/80
+Hardy	Hardy	Hardy
+Occa Berry	Sitrus Berry	Heat Rock
+Mold Breaker	Levitate	Chlorophyll
+Drill Run	Will-O-Wisp	Energy Ball
+Iron Head	Sludge Bomb	Dark Pulse
+Rock Slide	Heat Wave	Air Slash
+X-Scissor	Thunderbolt	Sunny Day

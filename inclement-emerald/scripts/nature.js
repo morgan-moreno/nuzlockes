@@ -1,9 +1,9 @@
 class Nature {
-  name;
-  increased;
-  decreased;
+  name: string;
+  increased: string;
+  decreased: string;
 
-  constructor(name, increased, decreased) {
+  constructor(name: string, increased: string, decreased: string) {
     this.name = name;
     this.increased = increased;
     this.decreased = decreased;
@@ -16,6 +16,15 @@ class Nature {
       return `${this.name}: NEUTRAL`;
     }
   }
+}
+
+enum StatCategory {
+  HP = "Hp",
+  ATK = "Atk",
+  DEF = "Def",
+  SPA = "SpA",
+  SPD = "SpD",
+  SPE = "Spe",
 }
 
 const natures = [
@@ -53,7 +62,7 @@ if (args.length > 0) {
 
   const nature = natures.find((n) => n.name === natureName);
 
-  console.log("Nature: ", nature.toString());
+  console.log("Nature: ", nature?.toString());
 } else {
   console.error("[ERROR] Args: Nature name is required");
 }

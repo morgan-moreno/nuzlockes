@@ -1,0 +1,65 @@
+DEWFORD-GYM
+
+===
+Leader Brawly
+Meditite @ Light Clay
+Level: 23
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Pure Power
+Adamant Nature
+- Drain Punch
+- Light Screen
+- Reflect
+- Zen Headbutt
+
+Breloom @ Toxic Orb
+Level: 23
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Poison Heal
+Adamant Nature
+- Drain Punch
+- Bulk Up
+- Bullet Seed
+- Spore
+
+Lucario @ Lum Berry
+Level: 23
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Steadfast
+Adamant Nature
+- Bullet Punch
+- Bulk Up
+- Payback
+- Reversal
+
+Hitmonchan @ Coba Berry
+Level: 23
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Keen Eye
+Adamant Nature
+- Drain Punch
+- Bulk Up
+- Thunder Punch
+- Ice Punch
+
+Dewott @ Eviolite
+Level: 23
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Torrent
+Adamant Nature
+- Razor Shell
+- Karate Chop
+- X-Scissor
+- Air Slash
+
+Hariyama @ Sitrus Berry
+Level: 25
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Guts
+Adamant Nature
+- Arm Thrust
+- Knock Off
+- Bulldoze
+- Bulk Up
+
+

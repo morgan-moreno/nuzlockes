@@ -1,0 +1,13 @@
+===
+Trainers:
+===
+
+Sailor Duncan
+-Machamp lvl -3 (A) No Guard // Dynamic Punch, Strength, Dual Chop, Knock Off
+-Walrein lvl -3 (A) Ice Body // Blizzard, Slack Off, Aqua Tail, Hail
+-Dhelmise lvl -3 // Anchor Shot, Phantom Force, Power Whip, Whirlpool
+
+===
+Bosses:
+===
+

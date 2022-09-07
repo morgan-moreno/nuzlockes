@@ -1,0 +1,93 @@
+===
+Trainers:
+===
+
+Pokemon Ranger Catherine
+-Bellossom lvl -2 (I) Miracle Seed // Quiver Dance, Moonblast, Giga Drain, Sleep Powder
+-Noivern lvl -2 (I) Petaya Berry // Hurricane, Water Pulse, Dragon Pulse, Boomburst
+-Beartic lvl -2 (A) Swift Swim, (I) Water Gem // Icicle Crash, Liquidation, Throat Chop, Aqua Jet
+-Seismitoad lvl -2 (I) Sitrus Berry // Earth Power, Hydro Pump, Sludge Wave, Power Whip
+
+Pokemon Ranger Jackson
+-Mantine lvl -2 (I) Mystic Water // Hydro Pump, Hurricane, Signal Beam, Roost
+-Rotom-Fan lvl -2 (I) Salac Berry // Hurricane, Thunder, Shadow Ball, Nasty Plot
+-Parasect lvl -2 (A) Dry Skin (I) Leftovers // Spore, Substitute, Leech Seed, Leech Life
+-Lapras lvl -2 (A) Hydration (I) Sitrus Berry // Liquidation, Drill Run, Curse, Rest
+
+Ninja Boy Hideo
+-Bisharp lvl -2 // Night Slash, Iron Head, Laser Focus, Torment
+-Muk lvl -2 // Gunk Shot, Screech, Shadow Sneak, Acid Armor
+
+Team Aqua Grunt 2
+-Golbat lvl -2 // Acrobatics, Leech Life, Confuse Ray, Hypnosis
+-Dragalge lvl -2 (A) Adaptability // Sludge Bomb, Dragon Pulse, Hydro Pump, Toxic
+-Liepard lvl -2 // Sucker Punch, Play Rough, Swagger, Iron Tail
+
+Team Aqua Grunt 3 (Right) (potential double with Team Aqua Grunt 4)
+-Toxicroak lvl -1 (A) Dry Skin (I) Black Sludge // Poison Jab, Drain Punch, Sucker Punch, Protect
+-Eelektross lvl -1 // Thunder, Aqua Tail, Giga Drain, Iron Tail
+
+Team Aqua Grunt 4 (Left) (potential double with Team Aqua Grunt 3)
+-Pelipper lvl -1 (A) Drizzle // Hurricane, Hydro Pump, Ice Beam, Roost
+-Ferrothorn lvl -1 // Power Whip, Iron Head, Payback, Thunder Wave
+
+Team Aqua Grunt 5
+-Mightyena lvl -2 // Crunch, Play Rough, Fire Fang, Ice Fang
+-Golisopod lvl -2 // First Impression, Liquidation, Sucker Punch, Close Combat
+-Muk (Alolan) lvl -2 // Crunch, Poison Jab, Fire Blast, Screech
+
+===
+Bosses:
+===
+
+Shelly (Weather Institute)
+Ninetales-Alola	Empoleon	Crawdaunt	Clefable	Ludicolo	Beedrill
+Lvl Scale	Lvl Scale	Lvl Scale +1	Lvl Scale	Lvl Scale	Lvl Scale +2
+31/0/31/31/31/31	31/0/31/31/31/31	31/31/31/31/31/31	31/0/31/31/31/31	31/0/31/31/31/31	31/31/31/31/31/31
+0/0/0/252/0/252	0/0/0/252/0/252	0/252/0/4/0/252	252/0/252/0/4/0	0/0/0/252/0/252	4/252/0/0/0/252
+Timid	Modest	Naive	Bold	Modest	Jolly
+Light Clay	Petaya Berry	Ice Gem	Leftovers	Safety Goggles	Beedrillite
+Snow Warning	Slush Rush	Adaptability	Magic Guard	Rain Dish	Adaptability
+Blizzard	Hydro Pump	Crabhammer	Flamethrower	Scald	X-Scissor
+Moonblast	Blizzard	Crunch	Blizzard	Giga Drain	Poison Jab
+Water Pulse	Flash Cannon	Dragon Dance	Calm Mind	Leech Seed	Drill Run
+Aurora Veil	Grass Knot	Blizzard	Soft Boiled	Blizzard	Drill Peck
+
+May (Route 119) - Grass
+Swellow	Starmie	Tsareena	Mimikyu	Vikavolt	Blaziken
+Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale +2
+31/0/31/31/31/31	31/0/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/0/31/31/31/31	31/0/31/31/31/31
+0/0/0/252/0/252	0/0/0/252/0/252	4/252/0/0/0/252	4/252/0/0/0/252	0/0/0/252/0/252	0/0/0/252/0/252
+Timid	Timid	Jolly	Jolly	Timid	Modest
+Life Orb	Life Orb	Grass Gem	Lum Berry	Assault Vest	Blazikenite
+Scrappy	Analytic	Queenly Majesty	Disguise	Levitate	Speed Boost
+Hurricane	Hydro Pump	Power Whip	Shadow Claw	Thunder	Blast Burn
+Boomburst	Psyshock	High Jump Kick	Play Rough	Bug Buzz	Aura Sphere
+Heat Wave	Thunder	Play Rough	Swords Dance	Energy Ball	Solar Beam
+U-Turn	Ice Beam	Strength	Shadow Sneak	Mud Shot	Sunny Day
+
+May (Route 119) - Fire
+Swellow	Rapidash	Tsareena	Mimikyu	Vikavolt	Swampert
+Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale +2
+31/0/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/0/31/31/31/31	31/31/31/31/31/31
+0/0/0/252/0/252	4/252/0/0/0/252	4/252/0/0/0/252	4/252/0/0/0/252	0/0/0/252/0/252	252/252/0/4/0/0
+Timid	Jolly	Jolly	Jolly	Timid	Naive
+Life Orb	Life Orb	Grass Gem	Lum Berry	Assault Vest	Swampertite
+Scrappy	Reckless	Queenly Majesty	Disguise	Levitate	Swift Swim
+Hurricane	Flare Blitz	Power Whip	Shadow Claw	Thunder	Hydro Cannon
+Boomburst	Jump Kick	High Jump Kick	Play Rough	Bug Buzz	Earthquake
+Heat Wave	Wild Charge	Play Rough	Swords Dance	Energy Ball	Ice Punch
+U-Turn	Poison Jab	Strength	Shadow Sneak	Mud Shot	Rain Dance
+
+May (Route 119) - Water					
+Swellow	Starmie	Rapidash	Mimikyu	Vikavolt	Sceptile
+Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale +2
+31/0/31/31/31/31	31/0/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/0/31/31/31/31	31/0/31/31/31/31
+0/0/0/252/0/252	0/0/0/252/0/252	4/252/0/0/0/252	4/252/0/0/0/252	0/0/0/252/0/252	0/0/0/252/0/252
+Timid	Timid	Jolly	Jolly	Timid	Timid
+Life Orb	Life Orb	Life Orb	Lum Berry	Assault Vest	Sceptilite
+Scrappy	Analytic	Reckless	Disguise	Levitate	Chloroplast
+Hurricane	Hydro Pump	Flare Blitz	Shadow Claw	Thunder	Frenzy Plant
+Boomburst	Psyshock	Jump Kick	Play Rough	Bug Buzz	Dragon Pulse
+Heat Wave	Thunder	Wild Charge	Swords Dance	Energy Ball	Focus Blast
+U-Turn	Ice Beam	Poison Jab	Shadow Sneak	Mud Shot	Grassy Terrain

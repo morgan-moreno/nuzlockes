@@ -1,0 +1,104 @@
+
+===
+Kindler Jace (potential double with Hiker Eli)
+===
+
+Emboar @ Sitrus Berry
+Level: 49
+Ability: Blaze
+- Yawn
+- Heat Crash
+- Sucker Punch
+- Hammer Arm
+
+Flareon @ Toxic Orb
+Level: 49
+Ability: Guts
+- Blaze Kick
+- Facade
+- Quick Attack
+- Dig
+
+===
+Hiker Eli (potential double with Kindler Jace)
+===
+
+Heatmor @ Sitrus Berry
+Level: 49
+Ability: Tough Claws
+- Fire Lash
+- Iron Tail
+- Throat Chop
+- Stomping Tantrum
+
+Lampent @ White Herb
+Level: 50
+Ability: Flame Body
+- Overheat
+- Hex
+- Pain Split
+- Will-o-Wisp
+
+===
+Flannery
+===
+
+Torkoal @ White Herb
+Level: 53
+EVs: 252 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 4 Spe
+Modest Nature
+Ability: Drought
+- Overheat
+- Stealth Rock
+- Clear Smog
+- Rapid Spin
+
+Houndoom @ Fire Gem
+Level: 50
+EVs: 0 Hp / 4 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Hasty Nature
+Ability: Flash Fire
+- Overheat
+- Dark Pulse
+- Solar Beam
+- Sucker Punch
+
+Arcanine @ Assault Vest
+Level: 50
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+Ability: Intimidate
+- Flare Blitz
+- Play Rough
+- Close Combat
+- Extreme Speed
+
+Blaziken @ Weakness Policy
+Level: 50
+EVs: 0 Hp / 252 Atk / 0 Def / 4 SpA / 0 SpD / 252 Spe
+Naive Nature
+Ability: Speed Boost
+- Overheat
+- Reversal
+- Thunder Punch
+- Endure
+
+Volcarona @ Charti Berry
+Level: 50
+EVs: 252 Hp / 0 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
+Timid Nature
+Ability: Flame Body
+- Fiery Dance
+- Giga Drain
+- Quiver Dance
+- Roost
+
+Talonflame @ White Herb
+Level: 50
+EVs: 0 Hp / 252 Atk / 0 Def / 4 SpA / 0 SpD / 252 Spe
+Naughty Nature
+Ability: Gale Wings
+- Overheat
+- Brave Bird
+- Defog
+- U-turn

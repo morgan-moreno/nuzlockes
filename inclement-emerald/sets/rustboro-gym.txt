@@ -1,0 +1,68 @@
+
+===
+
+===
+
+===
+Roxanne
+===
+
+Aron @ Chesto Berry
+Level 13
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Relaxed Nature
+Ability: Sturdy
+- Rock Tomb
+- Stealth Rock
+- Metal Claw
+- Rest
+
+Tyrunt @ Red Card
+Level 13
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Relaxed Nature
+Ability: Sturdy
+- Rock Tomb
+- Bite
+- Dragon Tail
+- Poison Fang
+
+Amaura @ Chople Berry
+Level 13
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Relaxed Nature
+Ability: Refrigerate
+- Rock Tomb
+- Thunder Wave
+- Bulldoze
+- Echoed Voice
+
+Anorith @ Water Gem
+Level 13
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Relaxed Nature
+Ability: Battle Armor
+- Rock Tomb
+- Cut
+- Bug Bite
+- Aqua Jet
+
+Lileep @ Oran Berry
+Level 13
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Relaxed Nature
+Ability: Storm Drain
+- Rock Tomb
+- Mega Drain
+- Infestation
+- Pain Split
+
+Nosepass @ Berry Juice
+Level: 16
+244 Hp / 0 Atk / 92 Def / 0 SpA / 168 SpD / 0 Spe
+Careful Nature
+Ability: Sand Force
+- Sandstorm
+- Rock Tomb
+- Bulldoze
+- Fire Punch

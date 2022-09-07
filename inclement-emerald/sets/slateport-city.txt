@@ -1,0 +1,82 @@
+
+===
+Team Aqua Grunt 1
+===
+
+Palpitoad @ 
+Level: 36
+Ability: Water Absorb
+- Bubblebeam
+- Acid
+- Mud Shot
+- Round
+
+Basculin @ 
+Level: 36
+Ability: Adaptability
+- Aqua Jet
+- Crunch
+- Takedown
+- Revenge
+
+===
+Team Aqua Grunt 2
+===
+
+Golbat @ 
+Level: 35
+Ability: Inner Focus
+- Aerial Ace
+- Poison Fang
+- Confuse Ray
+- Screech
+
+Clauncher @ 
+Level: 35
+Ability: Mega Launcher
+- Bubblebeam
+- Aqua Jet
+- Smack Down
+- Venoshock
+
+Grimer-Alola @ 
+Level: 35
+Ability: Poison Touch
+- Poison Fang
+- Bite
+- Disable
+- Minimize
+
+===
+Archie (Slateport City)
+===
+
+Mightyena @ None
+Level: 38
+20 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 20 Spe
+Hardy Nature
+Ability: Intimidate
+- Bite
+- Fire Fang
+- Thunder Fang
+- Scary Face
+
+Crobat @ None
+Level: 38
+20 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 20 Spe
+Hardy Nature
+Ability: Inner Focus
+- Air Cutter
+- Venoshock
+- Giga Drain
+- Super Fang
+
+Sharpedo @ None
+Level: 39
+20 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 20 Spe
+Hardy Nature
+Ability: Speed Boost
+- Poison Fang
+- Bite
+- Aqua Jet
+- Ice Fang

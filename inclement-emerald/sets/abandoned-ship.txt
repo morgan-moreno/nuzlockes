@@ -1,0 +1,27 @@
+
+===
+Sailor Duncan
+===
+
+Machamp @ 
+Level: 67
+Ability: No Guard
+- Dynamic Punch
+- Strength
+- Dual Chop
+- Knock Off
+
+Walrein @ 
+Level: 67
+Ability: Ice Body
+- Blizzard
+- Slack Off
+- Aqua Tail
+- Hail
+
+Dhelmise @ 
+Level: 67
+- Anchor Shot
+- Phantom Force
+- Power Whip
+- Whirlpool

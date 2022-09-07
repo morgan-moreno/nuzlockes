@@ -1,581 +1,625 @@
-Raichu @ 
+Sandslash-Alola @ 
 Level: 70
-IVs: 25 HP / 15 Atk / 3 Def / 31 SpA / 31 SpD / 31 Spe
-EVs: 252 HP / 0 Atk / 252 Def / 4 SpA / 0 SpD / 0 Spe
-Ability: Static
-Naive Nature
-- Light Screen
-- Thunderbolt
-- Fly
-- Extreme Speed
+IVs: 31 HP / 31 Atk / 12 Def / 15 SpA / 22 SpD / 31 Spe
+EVs: 0 HP / 252 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Snow Cloak
+Impish Nature
+- Spiky Shield
+- Strength
+- Iron Head
+- Ice Shard
 
-Sawk @ 
+Houndoom @ 
 Level: 70
-IVs: 13 HP / 2 Atk / 31 Def / 31 SpA / 20 SpD / 31 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 252 Spe
-Ability: Sturdy
-Brave Nature
-- Bulk Up
-- Quick Guard
-- Close Combat
-- Reversal
+IVs: 31 HP / 1 Atk / 31 Def / 10 SpA / 31 SpD / 19 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Early Bird
+Timid Nature
+- Howl
+- Incinerate
+- Dark Pulse
+- Flamethrower
 
-Palossand @ 
+Chandelure @ 
 Level: 70
-IVs: 18 HP / 31 Atk / 31 Def / 12 SpA / 31 SpD / 21 Spe
-EVs: 18 HP / 31 Atk / 31 Def / 12 SpA / 31 SpD / 21 Spe
-Ability: Water Compaction
-Calm Nature
-- Shore Up
+IVs: 31 HP / 3 Atk / 31 Def / 31 SpA / 23 SpD / 11 Spe
+EVs: 0 HP / 0 Atk / 252 Def / 252 SpA / 0 SpD / 0 Spe
+Ability: Flame Body
+Modest Nature
+- Overheat
 - Shadow Ball
-- Earth Power
-- Giga Drain
+- Hex
+- Will-O-Wisp
 
 Togekiss @ 
 Level: 70
-IVs: 31 HP / 28 Atk / 0 Def / 31 SpA / 6 SpD / 31 Spe
-EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 8 HP / 3 Atk / 8 Def / 31 SpA / 31 SpD / 31 Spe
+EVs: 0 HP / 0 Atk / 252 Def / 252 SpA / 0 SpD / 0 Spe
 Ability: Serene Grace
-Modest Nature
+Bold Nature
+- Soft-Boiled
 - Yawn
-- Protect
-- Extreme Speed
+- Air Slash
 - Moonblast
 
-Reuniclus @ 
+Spinda @ 
 Level: 70
-IVs: 13 HP / 31 Atk / 31 Def / 31 SpA / 26 SpD / 27 Spe
+IVs: 15 HP / 26 Atk / 19 Def / 31 SpA / 31 SpD / 31 Spe
 EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Magic Guard
-Quiet Nature
-- Light Screen
-- Reflect
-- Charm
-- Psychic
+Ability: Contrary
+Lax Nature
+- Sucker Punch
+- Psycho Boost
+- Dizzy Punch
+- Superpower
 
-Exeggutor @ 
+Milotic @ 
 Level: 70
-IVs: 10 HP / 17 Atk / 31 Def / 23 SpA / 31 SpD / 31 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Chloroplast
-Naive Nature
-- Reflect
-- Dragon Breath
-- Bullet Seed
-- Leaf Storm
-
-Kommo-o @ 
-Level: 70
-IVs: 19 HP / 16 Atk / 31 Def / 31 SpA / 22 SpD / 31 Spe
-EVs: 0 HP / 0 Atk / 252 Def / 252 SpA / 0 SpD / 0 Spe
-Ability: Overcoat
-Bold Nature
-- Aura Sphere
-- Protect
-- Dragon Dance
-- Outrage
-
-Dragonite @ 
-Level: 70
-IVs: 17 HP / 12 Atk / 31 Def / 20 SpA / 31 SpD / 31 Spe
-EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Inner Focus
-Impish Nature
-- Wing Attack
-- Thunder Punch
-- Extreme Speed
-- Dragon Dance
-
-Quagsire @ 
-Level: 70
-IVs: 31 HP / 20 Atk / 31 Def / 18 SpA / 31 SpD / 8 Spe
-EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 252 SpD / 4 Spe
-Ability: Water Absorb
-Careful Nature
-- Aqua Tail
-- Earthquake
+IVs: 31 HP / 31 Atk / 25 Def / 29 SpA / 31 SpD / 9 Spe
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
+Ability: Marvel Scale
+Sassy Nature
 - Recover
-- Yawn
+- Coil
+- Surf
+- Moonblast
 
-Vikavolt @ 
+Illumise @ 
 Level: 70
-IVs: 31 HP / 15 Atk / 31 Def / 31 SpA / 23 SpD / 29 Spe
-EVs: 0 HP / 0 Atk / 252 Def / 252 SpA / 0 SpD / 0 Spe
-Ability: Levitate
-Modest Nature
+IVs: 28 HP / 23 Atk / 1 Def / 31 SpA / 31 SpD / 31 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Tinted Lens
+Calm Nature
+- Encore
 - Thunderbolt
-- Protect
+- Moonblast
 - Bug Buzz
+
+Lumineon @ 
+Level: 70
+IVs: 31 HP / 25 Atk / 31 Def / 31 SpA / 18 SpD / 10 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Swift Swim
+Mild Nature
+- Quiver Dance
 - Air Slash
-
-Farfetch'd @ 
-Level: 70
-IVs: 23 HP / 31 Atk / 18 Def / 31 SpA / 31 SpD / 22 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Super Luck
-Hardy Nature
-- Sacred Sword
-- Brave Bird
-- Poison Jab
-- Night Slash
-
-Ferrothorn @ 
-Level: 70
-IVs: 20 HP / 31 Atk / 31 Def / 31 SpA / 30 SpD / 14 Spe
-EVs: 0 HP / 252 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Iron Barbs
-Adamant Nature
-- Protect
-- Iron Head
-- Rock Climb
-- Power Whip
-
-Aegislash @ 
-Level: 70
-IVs: 4 HP / 31 Atk / 31 Def / 1 SpA / 31 SpD / 25 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Stance Change
-Brave Nature
-- Night Slash
-- King's Shield
-- Iron Head
-- Sacred Sword
-
-Porygon2 @ 
-Level: 70
-IVs: 12 HP / 1 Atk / 31 Def / 11 SpA / 31 SpD / 31 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Trace
-Relaxed Nature
-- Recover
-- Discharge
-- Signal Beam
-- Hyper Beam
-
-Empoleon @ 
-Level: 70
-IVs: 31 HP / 31 Atk / 11 Def / 29 SpA / 31 SpD / 30 Spe
-EVs: 0 HP / 0 Atk / 252 Def / 252 SpA / 0 SpD / 0 Spe
-Ability: Torrent
-Modest Nature
 - Hydro Pump
-- Aqua Jet
-- Ice Beam
-- Flash Cannon
+- U-turn
 
-Scrafty @ 
+Azumarill @ 
 Level: 70
-IVs: 31 HP / 21 Atk / 31 Def / 31 SpA / 25 SpD / 18 Spe
-EVs: 4 HP / 252 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Intimidate
-Brave Nature
-- Brick Break
-- Protect
-- Crunch
-- Rock Climb
-
-Clawitzer @ 
-Level: 70
-IVs: 31 HP / 31 Atk / 8 Def / 10 SpA / 31 SpD / 21 Spe
+IVs: 5 HP / 31 Atk / 31 Def / 31 SpA / 18 SpD / 31 Spe
 EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Mega Launcher
-Gentle Nature
-- Swords Dance
-- Aqua Jet
-- Aura Sphere
-- Water Pulse
+Ability: Huge Power
+Sassy Nature
+- Bounce
+- Aqua Tail
+- Play Rough
+- Charm
 
 Lilligant @ 
 Level: 70
-IVs: 31 HP / 1 Atk / 31 Def / 27 SpA / 7 SpD / 31 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Chlorophyll
-Serious Nature
-- Growth
-- Moonblast
-- Giga Drain
+IVs: 31 HP / 31 Atk / 8 Def / 31 SpA / 8 SpD / 18 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Ability: Own Tempo
+Modest Nature
+- Quiver Dance
+- Draining Kiss
+- Synthesis
 - Leaf Storm
+
+Emboar @ 
+Level: 70
+IVs: 10 HP / 31 Atk / 31 Def / 31 SpA / 18 SpD / 31 Spe
+EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Blaze
+Adamant Nature
+- Heat Crash
+- Slack Off
+- Vacuum Wave
+- Hammer Arm
+
+Corsola @ 
+Level: 70
+IVs: 16 HP / 31 Atk / 31 Def / 31 SpA / 28 SpD / 24 Spe
+EVs: 0 HP / 0 Atk / 252 Def / 252 SpA / 0 SpD / 0 Spe
+Ability: Natural Cure
+Relaxed Nature
+- Recover
+- Brine
+- Power Gem
+- Earth Power
+
+Greninja @ 
+Level: 70
+IVs: 18 HP / 0 Atk / 25 Def / 31 SpA / 31 SpD / 31 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Infiltrator
+Modest Nature
+- Water Shuriken
+- Dark Pulse
+- Shadow Sneak
+- Hydro Pump
+
+Rhydon @ 
+Level: 70
+IVs: 16 HP / 10 Atk / 31 Def / 31 SpA / 10 SpD / 31 Spe
+EVs: 0 HP / 252 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Rock Head
+Impish Nature
+- Strength
+- Hammer Arm
+- Metal Burst
+- Earthquake
+
+Seaking @ 
+Level: 70
+IVs: 31 HP / 31 Atk / 6 Def / 28 SpA / 31 SpD / 4 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Swift Swim
+Gentle Nature
+- Waterfall
+- Poison Jab
+- Megahorn
+- Flail
+
+Gothitelle @ 
+Level: 70
+IVs: 17 HP / 21 Atk / 6 Def / 31 SpA / 31 SpD / 31 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 252 SpD / 0 Spe
+Ability: Competitive
+Modest Nature
+- Dark Pulse
+- Psychic
+- Magic Room
+- Charm
+
+Tyranitar @ 
+Level: 70
+IVs: 6 HP / 31 Atk / 31 Def / 7 SpA / 31 SpD / 28 Spe
+EVs: 0 HP / 0 Atk / 252 Def / 0 SpA / 252 SpD / 0 Spe
+Ability: Sand Storm
+Jolly Nature
+- Stone Edge
+- Crunch
+- Earthquake
+- Iron Defense
+
+Audino @ 
+Level: 70
+IVs: 25 HP / 31 Atk / 31 Def / 22 SpA / 31 SpD / 27 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Regenerator
+Naive Nature
+- Baby-Doll Eyes
+- Soft-Boiled
+- Hyper Voice
+- Moonblast
+
+Stoutland @ 
+Level: 70
+IVs: 31 HP / 17 Atk / 23 Def / 31 SpA / 28 SpD / 31 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Intimidate
+Quirky Nature
+- Play Rough
+- Giga Impact
+- Baby-Doll eyes
+- Crunch
+
+Lopunny @ 
+Level: 70
+IVs: 31 HP / 31 Atk / 6 Def / 31 SpA / 14 SpD / 31 Spe
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
+Ability: Scrappy
+Gentle Nature
+- Dizzy Punch
+- Return
+- Jump Kick
+- Charm
+
+Haxorus @ 
+Level: 70
+IVs: 31 HP / 31 Atk / 15` Def / 1 SpA / 19 SpD / 31 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Rivalry
+Jolly Nature
+- Dragon Dance
+- Taunt
+- Crunch
+- Dragon Claw
+
+Minun @ 
+Level: 70
+IVs: 23 HP / 31 Atk / 2 Def / 0 SpA / 31 SpD / 31 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Battery
+Impish Nature
+- Encore
+- Switcheroo
+- Thunder
+- Electro Ball
+
+Torterra @ 
+Level: 70
+IVs: 1 HP / 31 Atk / 31 Def / 31 SpA / 2 SpD / 23 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Solid Rock
+Sassy Nature
+- Wood Hammer
+- Leech Seed
+- Synthesis
+- Earthquake
+
+Gyarados @ 
+Level: 70
+IVs: 12 HP / 31 Atk / 31 Def / 17 SpA / 31 SpD / 11 Spe
+EVs: 0 HP / 252 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Moxie
+Adamant Nature
+- Hurricane
+- Aqua Tail
+- Dragon Dance
+- Crunch
+
+Drapion @ 
+Level: 70
+IVs: 31 HP / 1 Atk / 31 Def / 31 SpA / 22 SpD / 1 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Sniper
+Impish Nature
+- Night Slash
+- Cross Poison
+- X-Scissor
+- Crunch
 
 Crobat @ 
 Level: 70
-IVs: 5 HP / 31 Atk / 8 Def / 31 SpA / 31 SpD / 16 Spe
-EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
-Ability: Inner Focus
-Jolly Nature
-- Cross Poison
-- Leech Life
-- Wing Attack
-- Quick Guard
-
-Slurpuff @ 
-Level: 70
-IVs: 29 HP / 28 Atk / 1 Def / 31 SpA / 31 SpD / 31 Spe
+IVs: 31 HP / 31 Atk / 3 Def / 31 SpA / 3 SpD / 5 Spe
 EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Unburden
-Gentle Nature
-- Energy Ball
-- Wish
-- Play Rough
+Ability: Inner Focus
+Modest Nature
+- Leech Life
+- Air Slash
+- Haze
+- Cross Poison
+
+Rapidash @ 
+Level: 70
+IVs: 27 HP / 31 Atk / 11 Def / 21 SpA / 31 SpD / 31 Spe
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
+Ability: Reckless
+Careful Nature
+- Jump Kick
+- Flare Blitz
+- Morning Sun
+- Bounce
+
+Raichu @ 
+Level: 70
+IVs: 31 HP / 31 Atk / 4 Def / 31 SpA / 31 SpD / 8 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Static
+Lax Nature
+- Thunder Wave
+- Thunderbolt
+- Surf
+- Extreme Speed
+
+Gengar @ 
+Level: 70
+IVs: 8 HP / 31 Atk / 31 Def / 31 SpA / 19 SpD / 5 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Levitate
+Lonely Nature
+- Shadow Ball
+- Sludge Bomb
+- Perish Song
+- Dark Pulse
+
+Aurorus @ 
+Level: 70
+IVs: 30 HP / 31 Atk / 31 Def / 24 SpA / 31 SpD / 21 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Refrigerate
+Jolly Nature
+- Hail
+- Freeze-Dry
+- Power Gem
 - Light Screen
 
-Florges @ 
+Tyrantrum @ 
 Level: 70
-IVs: 21 HP / 31 Atk / 29 Def / 31 SpA / 31 SpD / 11 Spe
+IVs: 31 HP / 24 Atk / 27 Def / 31 SpA / 31 SpD / 12 Spe
 EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Flower Veil
-Careful Nature
-- Draining Kiss
-- Solar Beam
-- Moonblast
-- Wish
-
-Seismitoad @ 
-Level: 70
-IVs: 31 HP / 22 Atk / 31 Def / 17 SpA / 9 SpD / 31 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 252 SpD / 0 Spe
-Ability: Poison Touch
-Sassy Nature
-- Hydro Pump
-- Hyper Voice
-- Drain Punch
-- Mud Shot
-
-Hippowdon @ 
-Level: 70
-IVs: 31 HP / 23 Atk / 25 Def / 24 SpA / 31 SpD / 31 Spe
-EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
-Ability: Sand Stream
-Adamant Nature
-- Slack Off
+Ability: Strong Jaw
+Lonely Nature
+- Crunch
+- Dragon Claw
+- Strength
 - Earthquake
-- Yawn
+
+Kabutops @ 
+Level: 70
+IVs: 27 HP / 31 Atk / 29 Def / 30 SpA / 31 SpD / 31 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Keen Edge
+Lax Nature
+- Stone Edge
+- Liquidation
 - Protect
+- Leech Life
+
+Flygon @ 
+Level: 70
+IVs: 31 HP / 31 Atk / 14 Def / 15 SpA / 20 SpD / 31 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Tinted Lens
+Lax Nature
+- Dragon Claw
+- Earthquake
+- Boomburst
+- Bug Buzz
+
+Cacturne @ 
+Level: 70
+IVs: 5 HP / 20 Atk / 15 Def / 31 SpA / 31 SpD / 31 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 252 Spe
+Ability: Water Absorb
+Bold Nature
+- Spikes
+- Sucker Punch
+- Spiky Shield
+- Energy Ball
+
+Heracross @ 
+Level: 70
+IVs: 31 HP / 20 Atk / 31 Def / 31 SpA / 18 SpD / 3 Spe
+EVs: 0 HP / 0 Atk / 252 Def / 0 SpA / 252 SpD / 0 Spe
+Ability: Swarm
+Careful Nature
+- Wing Attack
+- Megahorn
+- Close Combat
+- Reversal
+
+Grumpig @ 
+Level: 70
+IVs: 31 HP / 31 Atk / 31 Def / 15 SpA / 16 SpD / 13 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Thick Fat
+Mild Nature
+- Rest
+- Snore
+- Psychic
+- Power Gem
+
+Sigilyph @ 
+Level: 70
+IVs: 31 HP / 10 Atk / 31 Def / 31 SpA / 13 SpD / 6 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Tinted Lens
+Bold Nature
+- Light Screen
+- Air Slash
+- Psychic
+- Reflect
 
 Dragalge @ 
 Level: 70
-IVs: 31 HP / 22 Atk / 1 Def / 21 SpA / 31 SpD / 31 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+IVs: 8 HP / 31 Atk / 2 Def / 31 SpA / 13 SpD / 31 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 252 Spe
 Ability: Adaptability
-Mild Nature
-- Toxic
+Calm Nature
+- Aqua Tail
 - Sludge Bomb
 - Hydro Pump
 - Dragon Pulse
 
-Starmie @ 
+Vikavolt @ 
 Level: 70
-IVs: 4 HP / 31 Atk / 31 Def / 26 SpA / 22 SpD / 31 Spe
+IVs: 1 HP / 31 Atk / 31 Def / 22 SpA / 18 SpD / 31 Spe
 EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
-Ability: Natural Cure
-Timid Nature
-- Psychic
-- Light Screen
-- Surf
-- Ice Beam
-
-Jellicent @ 
-Level: 70
-IVs: 24 HP / 4 Atk / 31 Def / 31 SpA / 31 SpD / 3 Spe
-EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
-Ability: Water Absorb
+Ability: Levitate
 Modest Nature
-- Toxic
-- Shadow Ball
-- Water Spout
-- Recover
+- Sticky Web
+- Thunderbolt
+- Bug Buzz
+- Air Slash
 
-Dhelmise @ 
+Emolga @ 
 Level: 70
-IVs: 28 HP / 0 Atk / 31 Def / 12 SpA / 31 SpD / 31 Spe
-EVs: 0 HP / 252 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Steelworker
-Adamant Nature
-- Liquidation
-- Anchor Shot
-- Phantom Force
-- Power Whip
+IVs: 28 HP / 31 Atk / 9 Def / 5 SpA / 31 SpD / 31 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Lightning Rod
+Bold Nature
+- Roost
+- Hurricane
+- Nuzzle
+- Volt Switch
 
-Banette @ 
+Goodra @ 
 Level: 70
-IVs: 31 HP / 31 Atk / 13 Def / 18 SpA / 16 SpD / 31 Spe
+IVs: 31 HP / 22 Atk / 18 Def / 31 SpA / 13 SpD / 31 Spe
+EVs: 0 HP / 0 Atk / 252 Def / 252 SpA / 0 SpD / 0 Spe
+Ability: Poison Heal
+Modest Nature
+- Dragon Pulse
+- Protect
+- Rain Dance
+- Water Pulse
+
+Togedemaru @ 
+Level: 70
+IVs: 31 HP / 3 Atk / 31 Def / 0 SpA / 10 SpD / 31 Spe
 EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
-Ability: Vengeance
-Jolly Nature
-- Knock Off
-- Shadow Sneak
-- Phantom Force
-- Play Rough
+Ability: Lightning Rod
+Careful Nature
+- Zing Zap
+- Volt Tackle
+- Spiky Shield
+- Fell Stinger
 
-Amoonguss @ 
+Dragonite @ 
 Level: 70
-IVs: 31 HP / 31 Atk / 0 Def / 31 SpA / 5 SpD / 14 Spe
-EVs: 252 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 0 Spe
-Ability: Regenerator
-Sassy Nature
-- Synthesis
-- Giga Drain
-- Toxic
-- Spore
-
-Audino @ 
-Level: 70
-IVs: 21 HP / 26 Atk / 31 Def / 31 SpA / 3 SpD / 31 Spe
+IVs: 6 HP / 31 Atk / 31 Def / 29 SpA / 17 SpD / 31 Spe
 EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Regenerator
-Hasty Nature
-- Baby-Doll Eyes
-- Soft-Boiled
-- Hyper Voice
-- Moonblast
-
-Audino-Mega @ 
-Level: 70
-IVs: 21 HP / 26 Atk / 31 Def / 31 SpA / 3 SpD / 31 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Healer
-Hasty Nature
-- Baby-Doll Eyes
-- Soft-Boiled
-- Hyper Voice
-- Moonblast
-
-Magmortar @ 
-Level: 70
-IVs: 31 HP / 11 Atk / 10 Def / 24 SpA / 31 SpD / 31 Spe
-EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
-Ability: Vital Spirit
+Ability: Inner Focus
 Docile Nature
-- Aura Sphere
-- Dark Pulse
-- Flamethrower
-- Sunny Day
+- Thunder Punch
+- Outrage
+- Extreme Speed
+- Wing Attack
+
+Salamence @ 
+Level: 70
+IVs: 31 HP / 31 Atk / 13 Def / 25 SpA / 31 SpD / 14 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Intimidate
+Calm Nature
+- Fly
+- Crunch
+- Protect
+- Dragon Claw
 
 Weavile @ 
 Level: 70
-IVs: 5 HP / 31 Atk / 15 Def / 31 SpA / 31 SpD / 4 Spe
+IVs: 25 HP / 21 Atk / 31 Def / 7 SpA / 31 SpD / 31 Spe
 EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Ability: Pressure
-Adamant Nature
+Careful Nature
 - Night Slash
 - Ice Shard
 - Icicle Spear
 - Fake Out
 
-Ursaring @ 
+Ferrothorn @ 
 Level: 70
-IVs: 30 HP / 31 Atk / 31 Def / 31 SpA / 15 SpD / 6 Spe
+IVs: 2 HP / 10 Atk / 31 Def / 5 SpA / 31 SpD / 31 Spe
 EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Guts
-Rash Nature
-- Charm
-- Thunder Punch
-- Slash
-- Hammer Arm
-
-Seaking @ 
-Level: 70
-IVs: 7 HP / 31 Atk / 31 Def / 31 SpA / 11 SpD / 28 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Swift Swim
-Modest Nature
-- Megahorn
-- Flail
-- Waterfall
-- Poison Jab
-
-Wobbuffet @ 
-Level: 70
-IVs: 20 HP / 12 Atk / 11 Def / 31 SpA / 31 SpD / 31 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Shadow Tag
-Mild Nature
-- Encore
-- Mirror Coat
-- Safeguard
-- Counter
-
-Breloom @ 
-Level: 70
-IVs: 27 HP / 28 Atk / 31 Def / 12 SpA / 31 SpD / 31 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Effect Spore
-Bold Nature
-- Mach Punch
-- Sky Uppercut
-- Seed Bomb
-- Giga Drain
-
-Sharpedo @ 
-Level: 70
-IVs: 3 HP / 5 Atk / 31 Def / 10 SpA / 31 SpD / 31 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Rough Skin
-Rash Nature
-- Liquidation
-- Ice Fang
-- Crunch
-- Taunt
-
-Luvdisc @ 
-Level: 70
-IVs: 9 HP / 31 Atk / 31 Def / 23 SpA / 4 SpD / 31 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Soul-Heart
-Mild Nature
-- Charm
-- Hydro Pump
-- Captivate
-- Draining Kiss
-
-Crawdaunt @ 
-Level: 70
-IVs: 7 HP / 31 Atk / 14 Def / 31 SpA / 31 SpD / 13 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Shell Armor
+Ability: Iron Barbs
 Serious Nature
-- Crabhammer
-- Crunch
-- Dragon Dance
-- Protect
+- Power Whip
+- Curse
+- Leech Seed
+- Iron Head
 
-Abomasnow @ 
+Seismitoad @ 
 Level: 70
-IVs: 31 HP / 20 Atk / 31 Def / 0 SpA / 30 SpD / 31 Spe
-EVs: 0 HP / 0 Atk / 252 Def / 0 SpA / 252 SpD / 0 Spe
-Ability: Snow Warning
-Adamant Nature
-- Ice Hammer
-- Ice Shard
-- Avalanche
-- Wood Hammer
+IVs: 31 HP / 31 Atk / 12 Def / 3 SpA / 6 SpD / 31 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Poison TOuch
+Gentle Nature
+- Hyper Voice
+- Drain Punch
+- Rain Dance
+- Liquidation
+
+Muk-Alola @ 
+Level: 70
+IVs: 31 HP / 25 Atk / 31 Def / 31 SpA / 25 SpD / 3 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Poison Touch
+Naive Nature
+- Gunk Shot
+- Acid Armor
+- Knock Off
+- Crunch
+
+Golem-Alola @ 
+Level: 70
+IVs: 31 HP / 31 Atk / 1 Def / 11 SpA / 10 SpD / 31 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Sturdy
+Hasty Nature
+- Thunder Punch
+- Rock Blast
+- Stealth Rock
+- Strength
+
+Toucannon @ 
+Level: 70
+IVs: 30 HP / 31 Atk / 31 Def / 31 SpA / 30 SpD / 5 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Skill Link
+Naive Nature
+- Fly
+- Rock Blast
+- Roost
+- Drill Peck
 
 Kingdra @ 
 Level: 70
-IVs: 31 HP / 14 Atk / 31 Def / 29 SpA / 21 SpD / 31 Spe
-EVs: 0 HP / 0 Atk / 252 Def / 252 SpA / 0 SpD / 0 Spe
+IVs: 31 HP / 21 Atk / 31 Def / 4 SpA / 31 SpD / 9 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Ability: Swift Swim
-Modest Nature
+Quirky Nature
 - Yawn
 - Brine
 - Dragon Pulse
 - Hydro Pump
 
-Muk-Alola @ 
+Wobbuffet @ 
 Level: 70
-IVs: 7 HP / 2 Atk / 31 Def / 31 SpA / 20 SpD / 31 Spe
+IVs: 31 HP / 31 Atk / 2 Def / 31 SpA / 22 SpD / 5 Spe
 EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Gluttony
-Lonely Nature
-- Gunk Shot
-- Acid Armor
-- Crunch
-- Venom Drench
-
-Girafarig @ 
-Level: 70
-IVs: 31 HP / 23 Atk / 22 Def / 31 SpA / 25 SpD / 31 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Strong Jaw
-Naughty Nature
-- Baton Pass
-- Psychic Fangs
-- Nasty Plot
-- Psycho Boost
-
-Dusclops @ 
-Level: 70
-IVs: 10 HP / 31 Atk / 31 Def / 5 SpA / 31 SpD / 1 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Pressure
-Timid Nature
-- Will-O-Wisp
-- Shadow Sneak
-- Shadow Punch
-- Ice Punch
-
-Gyarados @ 
-Level: 70
-IVs: 31 HP / 31 Atk / 6 Def / 31 SpA / 18 SpD / 17 Spe
-EVs: 0 HP / 252 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Intimidate
-Adamant Nature
-- Waterfall
-- Ice Fang
-- Dragon Dance
-- Protect
-
-Golem-Alola @ 
-Level: 70
-IVs: 20 HP / 31 Atk / 31 Def / 20 SpA / 31 SpD / 19 Spe
-EVs: 0 HP / 252 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Sturdy
-Adamant Nature
-- Thunder Punch
-- Protect
-- Rock Blast
-- Stone Edge
-
-Azumarill @ 
-Level: 70
-IVs: 15 HP / 29 Atk / 16 Def / 31 SpA / 31 SpD / 31 Spe
-EVs: 0 HP / 252 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Huge Power
-Adamant Nature
-- Aqua Tail
-- Play Rough
-- Belly Drum
-- Superpower
-
-Rampardos @ 
-Level: 70
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 25 SpD / 28 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Mold Breaker
-Careful Nature
-- Chip Away
-- Zen Headbutt
-- Accelerock
-- Head Smash
-
-Aurorus @ 
-Level: 70
-IVs: 31 HP / 31 Atk / 1 Def / 24 SpA / 1 SpD / 31 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Refrigerate
-Adamant Nature
-- Light Screen
-- Power Gem
-- Hyper Beam
-- Freeze-Dry
-
-Aerodactyl @ 
-Level: 70
-IVs: 13 HP / 31 Atk / 1 Def / 31 SpA / 31 SpD / 26 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Rock Head
-Lax Nature
-- Stone Edge
-- Iron Head
-- Wing Attack
-- Giga Impact
+Ability: Shadow Tag
+Docile Nature
+- Amnesia
+- Charm
+- Encore
+- Mirror Coat
 
 Pelipper @ 
 Level: 70
-IVs: 31 HP / 24 Atk / 13 Def / 31 SpA / 31 SpD / 2 Spe
+IVs: 31 HP / 31 Atk / 19 Def / 29 SpA / 31 SpD / 17 Spe
 EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Ability: Drizzle
-Mild Nature
+Jolly Nature
 - Roost
 - Protect
 - Hydro Pump
 - Hurricane
 
+Dusclops @ 
+Level: 70
+IVs: 31 HP / 31 Atk / 2 Def / 31 SpA / 4 SpD / 31 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Pressure
+Quirky Nature
+- Hex
+- Will-O-Wisp
+- Shadow Punch
+- Shadow Sneak
+
+Hydreigon @ 
+Level: 70
+IVs: 22 HP / 13 Atk / 14 Def / 31 SpA / 31 SpD / 31 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Levitate
+Gentle Nature
+- Dragon Pulse
+- Body Slam
+- Crunch
+- Hyper Voice
+
+Golisopod @ 
+Level: 70
+IVs: 8 HP / 31 Atk / 31 Def / 19 SpA / 23 SpD / 31 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Emergency Exit
+Jolly Nature
+- Sucker Punch
+- Liquidation
+- Aqua Jet
+- First Impression
+
 Arcanine @ 
 Level: 70
-IVs: 23 HP / 31 Atk / 31 Def / 15 SpA / 24 SpD / 31 Spe
+IVs: 9 HP / 31 Atk / 31 Def / 18 SpA / 31 SpD / 0 Spe
 EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Ability: Intimidate
-Impish Nature
+Careful Nature
 - Crunch
 - Extreme Speed
 - Outrage

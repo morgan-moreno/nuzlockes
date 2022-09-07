@@ -1,0 +1,1229 @@
+====================================================================================
+Starter
+====================================================================================
+
+# Encounters
+
+# Encounter History
+
+1   /   Rowlet
+2   /   Oshawott
+3   /   Mudkip
+4   /   Chickorita
+5   /   Tepig
+
+====================================================================================
+Route 101
+====================================================================================
+
+# Encounter
+
+Grass       /   Zigazagoon (20), Poochyena (20), Wurmple (20), Zorua (10), Sewaddle (10), Lilliup (10), Bonsly (10)
+Honey       /   Audino (50), Beautifly (20), Dustox (20), Swadloon (10)
+
+# Encounter History
+
+1   /    
+2   /    
+3   /   Poochyena
+4   /   Bonsly
+5   /   Lillipup
+
+====================================================================================
+Route 103
+====================================================================================
+
+# Encounters
+
+Grass       /   Wingull (20), Shellos (20), Shinx (20), Snubbull (10), Blitzle (10), Grubbin (10), Kircketot (10)
+Old Rod     /   Magikarp (60), Tentacool (40)
+
+# Encounter History
+
+1   /   Blitzle
+2   / 
+3   /   Grubbin
+4   /   Shinx
+5   /   Grubbin
+
+====================================================================================
+Route 102
+====================================================================================
+
+# Encounters
+
+Grass       /   Lotad (20), Seedot (20), Bidoof (20), Tympole (10), Gothita (10), Ralts (10), Surskit (10)
+Old Rod     /   Corphish (60), Goldeen (40)
+
+# Encounter History
+
+1   /   Seedot
+2   / 
+3   /   Tympole
+4   /   Bidoof
+5   /   Gothita
+
+====================================================================================
+Petalburg City
+====================================================================================
+
+# Encounters
+
+Old Rod     /   Goldeen (60), Corphish (40)
+
+# Encounter History
+
+1   /   Goldeen
+2   /   Goldeen
+3   /   Goldeen
+4   /   Goldeen
+5   /   Goldeen
+
+====================================================================================
+Route 104
+====================================================================================
+
+# Encounters
+
+Grass       /   Azurill (20), Tailow (20), Sentret (10), Pidove (10), Litleo (10), Budew (10), Bunnelby (10), Ledyba (10)
+Old Rod     /   Magikarp (60), Luvdisc (40)
+Berry Tree  /   Crabrawler (30), Burmy (30), Aipom (15), Pikipek (15), Munchlax (10)
+
+# Encounter History
+
+1   /   
+2   /   
+3   /   Luvdisc   
+4   /   Magikarp
+5   /   Azurill
+
+====================================================================================
+Petalburg Woods
+====================================================================================
+
+# Encounters
+
+Grass       /   Shroomish (20), Slakoth (20), Phantump (10), Pidgey (10), Paras (10), Buneary (10), Pichu (10), Silcoon (5), Cascoon (5)
+
+# Encounter History
+
+1   /   
+2   /   Phantump
+3   /   Shroomish
+4   /   Shroomish
+5   /   Buneary
+
+====================================================================================
+Rustboro City
+====================================================================================
+
+# Encounters
+
+Grass       /   Nidoran-F (20), Nidoran-M(20), Petilil (20), Cottonee (20), Eevee (10), Glameow (10)
+Honey       /   Audino (60), Nidorino (20), Nidorina (20)
+
+# Encounter History
+
+1   /   
+2   /   Nidoran-M
+3   /   Petilil
+4   /   Petilil
+5   /   Petilil
+
+====================================================================================
+Seaspray Cave
+====================================================================================
+
+# Encounters
+
+## 1F
+
+Cave        /   Tynamo (20), Psyduck (20), Zubat (20), Wooper (20), Woobat (15), Stunfisk (5)
+Surf        /   Quagsire (60), Eelektrik (30), Golbat (10)
+Old Rod     /   Wishiwashi (60), Krabby (40)
+Good Rod    /   Krabby (60), Wishiwashi (40)
+Super Rod   /   Kingler (55), Wishiwashi (45)
+Rock Smash  /   Binacle (60), Dweblle (40)
+
+## B1F
+
+Cave        /   Seel (20), Swinub (20), Snorunt (10), Sneasel (10), Bergmite (10), Smoochum (10), Vanillite (10), Spheal (10)
+Honey       /   Cubchoo (50), Snover (40), Delibird (5), Cryogonal (5)
+
+# Encounter History
+
+1   /
+2   /   Wooper
+3   /   Zubat
+4   /   Psyduck
+5   /   Wooper
+
+
+====================================================================================
+Route 116
+====================================================================================
+
+# Encounters
+
+Grass       /   Skiddo (20), Nincada (20), Starly (10), Mareep (10), Riolu (10), Joltik (10), Houndour (10), Skitty (10)
+Honey       /   Audino (50), Pancham (25), Purrloin (25)
+Cut         /   Spinarak (60), Fomantis (40)
+
+# Encounter History
+
+1   /
+2   /   Skiddo
+3   /   Nincada
+4   /   Mareep
+5   /   Houndour
+
+====================================================================================
+Rusturf Tunnel
+====================================================================================
+
+# Encounters
+
+Cave        /   Whismur (20), Noibat (20), Dunsparce (10), Teddiursa (10), Chingling (10), Drilbur (10), Larvitar (10), Roggenrola (10)
+
+# Encounter History
+
+1   /   Teddiursa
+2   /   
+3   /   Teddiursa
+4   /   Teddiursa
+5   /   Larvitar
+
+
+====================================================================================
+Petalburg Woods (Area 2 & 3)
+====================================================================================
+
+# Encounters
+
+## Area 2
+
+Grass       /   Kakuna (20), Metapod (20), Venipede (10), Panpour (10), Pansear (10), Pansage (10), Morelull (10), Bounsweet (10)
+Honey       /   Audino (50), Beedrill (25), Butterfee (25)
+Cut         /   Exeggcute (60), Venonat (40)
+
+## Area 3
+
+Grass       /   Oddish (20), Bellsprout (20), Yanma (10), Croagunk (10), Misdreavus (10), Murkrow (10), Emolga (10), Dewpider (10)
+Honey       /   Audino (50), Emolga (45), Goomy (5)
+Surf        /   Poliwag (60), Slowpoke (30), Poliwhirl (10)
+Old Rod     /   Poliwag (60), Slowpoke (40)
+Good Rod    /   Slowpoke (60), Poliwag (20), Poliwhirl (20)
+Super Rod   /   Slowbro (40), Poliwhirl (30), Slowpoke (15), Poliwrath (10), Politoed (5)
+Cut         /   Beedrill (60), Trevenant (40)
+
+# Encounter History
+
+1   /   Venonat
+2   /   
+3   /   Exeggcute
+4   /   Misdreavus
+5   /   Oddish
+
+====================================================================================
+Dewford Meadow
+====================================================================================
+
+# Encounters
+
+Grass       /   Cutiefly (20), Oricorio (20), Combee (15), Butterfree (15), Flabebe-Red (10), Flabebe-Orange (10), Flabebe-Yellow (10)
+Honey       /   Audino (50), Swirlix (25), Spritzee (25)
+
+# Encounter History
+
+1   /   
+2   /   
+3   /   Flabebe-Red
+4   /   Cutiefly
+5   /   Oricorio
+
+====================================================================================
+Dewford Manor
+====================================================================================
+
+# Encounters
+
+Floor       /   Gastly (20), Solosis (20), Litwick (20), Rattata (15), Hoothoot (15), Mime Jr. (10)
+
+# Encounter History
+
+1   /   Rattata
+2   /   
+3   /   Solosis
+4   /   Mime Jr.
+5   /   Litwick
+
+====================================================================================
+Dewford Town
+====================================================================================
+
+# Encounters
+
+Surf        /   Tentacool (60), Wingull (30), Pelipper (5), Frillish (5)
+Old Rod     /   Staryu (60), Shellder (40)
+Good Rod    /   Shellder (60), Staryu (20), Finneon (20)
+Super Rod   /   Staryu (40), Shellder (40), Lumineon (15), Starmie (4), Cloyster (1)
+
+# Encounter History
+
+1   /   
+2   /
+3   /   Staryu
+4   /   Staryu
+5   /   Shellder
+
+====================================================================================
+Route 106
+====================================================================================
+
+# Encounters
+
+Grass       /   Inkay (20), Chatot (20), Buizel (20), Crabrawler (20), Exeggcute (20)
+Surf        /   Tentacool (60), Wingull (30), Pelipper (10)
+Old Rod     /   Clauncher (60), Skrelp (40)
+Good Rod    /   Skrelp (60), Clauncher (40)
+Super Rod   /   Clawitzer (55), Dragalge (45)
+Rock Smash  /   Binacle (60), Wimpod (30), Dwebble (10)
+
+# Encounter History
+
+1   /   Skrelp
+2   /
+3   /   Clauncher
+4   /   Buizel
+5   /
+
+====================================================================================
+Route 107
+====================================================================================
+
+# Encounters
+
+Surf        /   Frillish (60), Mantyke (30), Wingull (10)
+Old Rod     /   Remoraid (60), Finneon (40)
+Good Rod    /   Finneon (60), Remoraid (40)
+Super Rod   /   Lumineon (40), Octillery (40), Gyarados (20)
+
+# Encounter History
+
+1   /
+2   /
+3   /   Remoraid
+4   /   Remoraid
+5   /   Finneon
+
+====================================================================================
+Granite Cave
+====================================================================================
+
+# Encounters
+
+## 1F
+
+Cave        /   Geodude (20), Zubat (20), Makuhita (20), Aron (10), Abra (10), Axew (10), Timburr (10)
+
+## BF
+
+Cave        /   Mawile (20), Sableye (20), Aron (20), Onix (10), Carbink (10), Cubone (10), Bronzor (10)
+Rock Smash  /   Nosepass (70), Dwebble (30)
+
+## Steven's Room
+
+Cave        /   Aron (20), Zubat (20), Makuhita (20), Beldum (10), Abra (10), Axew (10), Timburr (10)
+
+# Encounter History
+
+1   /   Carbink
+2   /   
+3   /   Sableye
+4   /   Beldum
+5   /   Axew
+
+====================================================================================
+Route 109
+====================================================================================
+
+# Encounters
+
+Surf        /   Frillish (60), Mantyke (30), Pyukumuku (10)
+Old Rod     /   Corsola (60), Mareanie (40)
+Good Rod    /   Corsola (60), Mareanie (20), Bruxish (20)
+Super Rod   /   Bruxish (45), Corsola (40), Toxapex (15)
+Sand Mound  /   Sandygast (70), Pyukumuku (30)
+
+# Encounter History
+
+1   /   Pyukumuku
+2   /   
+3   /   Sandygast
+4   /   Corsola
+5   /   Corsola
+
+
+====================================================================================
+Slateport City
+====================================================================================
+
+# Encounters
+
+Surf        /   Tentacool (60), Wingull (30), Pelipper (10)
+Old Rod     /   Horsea (60), Frillish (40)
+Good Rod    /   Horsea (60), Frillish (20), Alomomola (20)
+Super Rod   /   Seadra (40), Alomomola (40), Jellicent (19), Kingdra (1)
+
+# Encounter History
+
+1   /   Frillish
+2   /   
+3   /   Horsea
+4   /   Frillish
+5   /   Horsea
+
+====================================================================================
+Route 110
+====================================================================================
+
+# Encounters
+
+Grass                                       Electrike (20), Gulpin (20), Plusle (10), Minun (10), Trubbish (10), Magnemite (10), Pachirisu (10), Stunky (10)
+Honey                                       Audino (50), Ekans (30), Doduo (20)
+Surf                                        Shellos (60), Gastrodon (30), Pelipper (10)
+Old Rod                                     Wailmer (60), Chinchou (40)
+Good Rod                                    Chinchou (60), Wailmer (20)
+Super Rod                                   Chinchou (40), Wailmer (40), Lanturn (15), Wailord (5)    
+
+# Encounter History
+
+1   /
+2   /
+3   /
+4   /   Wailmer
+5   /   Minun
+
+====================================================================================
+Mauville City
+====================================================================================
+
+# Encounters
+
+Game Corner (Fire)      /   Charmander, Cyndaquil, Torchic, Chimchar, Tepig, Fennekin, Litten
+Game Corner (Water)     /   Squirtle, Totodile, Mudkip, Piplup, Oshawott, Froakie, Popplio
+Game Corner (Grass)     /   Bulbasuar, Chikorita, Treecko, Turtwig, Snivy, Chespin, Rowlet
+Game Corner (Other)     /   Porygon, Munchlax, Vulpix, Sandshrew, Rattata, Meowth, Grimer, Diglett, Geodude, Raichu, Marowak, Exeggutor
+
+# Encounter History
+
+1   /   Tepig, Mudkip, Chespin, Munchlax
+2   /   
+3   /   Charmander, Piplup, Rowlet, Porygon
+4   /   Charmander, Popplio, Snivy, Munchlax
+5   /   Cyndaquil, Froakie, Turtwig, Sandshrew
+
+====================================================================================
+Route 117
+====================================================================================
+
+# Encounters
+
+Grass       /   Roselia (20), Deerling (20), Volbeat (10), Illumise (10), Meowth (10), Farfetch'd (10), Marill (10), Minccino (10)
+Honey       /   Audino (60), Shelmet (20), Karrablast (20)
+Surf        /   Marill (60), Azumarill (30), Seaking (10)
+Old Rod     /   Goldeen (60), Corphish (40)
+Good Rod    /   Corphish (60), Goldeen (40)
+Super Rod   /   Corphish (40), Seaking (40), Crawdaunt (20)
+Cut         /   Floette (60), Sunkern (40)
+Berry Tree  /   Crabrawler (30), Burmy (30), Aipom (15), Pikipek (15), Munchlax (10)
+Egg         /   Bagon, Shuppet, Sneasel, Corphish, Marill, Emolga, Goomy, Rhyhorn, Gastly, Pichu, Wimpod, Ponyta, Snover, Ferroseed, Taillow, Dratini, Feebas
+
+# Encounter History
+
+1   /   Deerling
+2   /   
+3   /   Farfetch'd
+4   /   Roselia
+5   /   Illumise
+
+====================================================================================
+Verdant Glade
+====================================================================================
+
+# Encounters
+
+Grass                           Munna (20), Espurr (20), Floette (30), Stufful (10), Ribombee (10), Vivillon (10)
+Honey                           Audino (50), Ribombee (45), Togetic (5)
+Gift                            Audino (100)
+
+# Encounter History
+
+1   /   Audino
+2   /
+3   /   Audino, Vivillon
+4   /   Audino
+
+====================================================================================
+Mauville City
+====================================================================================
+
+# Encounter
+
+Random      /   Egg (100)
+
+# Encounter History
+
+1   /
+2   /
+3   /
+4   /   Sneasel
+5   /   Tailow
+
+====================================================================================
+Littleroot Town
+====================================================================================
+
+# Encounters
+
+Random      /   Egg (100)
+
+# Encounter History
+
+1   /
+2   /
+3   /
+4   /   Gastly
+5   /   Dratini
+
+====================================================================================
+Odale Town
+====================================================================================
+
+# Encounters
+
+Random      /   Egg (100)
+
+# Encounter History
+
+1   /
+2   /
+3   /
+4   /   Dratini
+5   /   Rhyhorn
+
+====================================================================================
+Verdanturf Town
+====================================================================================
+
+# Encounters
+
+Random          Egg (100)
+
+# Encounter History
+
+1   /   
+2   /
+3   /   Sneasel   
+4   /   Togepi
+5   /    Togepi
+
+====================================================================================
+Trainer Hill
+====================================================================================
+
+# Encounters
+
+Random  /   Egg (100)
+
+# Encounter History
+
+1   /   
+2   /   Shuppet
+3   /
+4   /
+5   /   Feebas
+
+====================================================================================
+Route 118
+====================================================================================
+
+# Encounters
+
+Grass                           Linoone (20), Manectric (20), Lickitung (10), Raticate (10), Kecleon (10), Liepard (10), Carnivine (10), Dedenne (10)
+Honey                           Audino (60), Lickilicky (20), Dedenne (20)
+Surf                            Tentacool (60), Wingull (30), Pelipper (10)
+Old Rod                         Magikarp (60), Carvanha (40)
+Good Rod                        Carvanha (60), Magikarp (20), Basculin (20)
+Super Rod                       Basculin (80), Sharpedo (15), Gyarados (5)
+Cut                             Fearow (60), Venomoth (40)
+
+# Encounter History
+
+1   /   Carvanha
+2   /   
+3   /   Carvanha
+4   /   Magikarp
+
+====================================================================================
+Route 112 (South)
+====================================================================================
+
+# Encounters
+
+Grass   /   Numel (20), Machoke (20), Ponyta (10), Tyrogue (10), Sawk (10), Throh (10), Vullaby (10), Rufflet (10)
+Honey   /   Audino (60), Sawk (15), Throh (15), Hitmonchan (5), Hitmonlee (5)
+
+# Encounter History
+
+1   /   Hitmonlee
+2   /   
+3   /   Sawk
+4   /
+5   /   Machoke
+
+====================================================================================
+Fiery Path
+====================================================================================
+
+# Encounters
+
+Cave    /   Slugma (20), Diglett (20), Torkoal (10), Grimer (10), Koffing (10), Magby (10), Heatmor (10), Durant (10)
+
+# Encounter History
+
+1   /   Heatmor
+2   /   
+3   /   Koffing
+4   /
+5   /   Diglett
+
+====================================================================================
+Route 113
+====================================================================================
+
+# Encounters
+
+Grass   /   Spinda (20), Scraggy (20), Pawniard (10), Klefki (10), Bouffalant (10), Skarmory (10), Fletchinder (10), Meinfoo (10)
+Honey   /   Spinda (90), Talonflame (5), Meinshao (5)
+
+# Encounter History
+
+1   /   Bouffalant
+2   /
+3   /   Scraggy
+4   /   
+5   /   Spinda
+
+====================================================================================
+Fallarbor Town
+====================================================================================
+
+# Encounters
+
+Random  /   Egg (100)
+
+# Encounter History
+
+1   /   
+2   /
+3   /   Pichu
+4   /
+5   /   Pichu
+
+====================================================================================
+Route 114
+====================================================================================
+
+# Encounters
+
+Grass       /   Swablu (20), Ducklett (20), Lombre (10), Nuzleaf (10), Zangoose (10), Seviper (10), Phanpy (10), Skorupi (10)
+Honey       /   Audino (50), Quagsire (25), Donphan (25)
+Surf        /   Wooper (60), Quagsire (30), Masquerain (10)
+Old Rod     /   Wishiwashi (60), Barboach (40)
+Good Rod    /   Barboach (60), Wishiwashi (20), Seaking (20)
+Super Rod   /   Wishiwash (40), Seaking (40), Whiscash (20)
+
+# Encounter History
+
+1   /   Donphan
+2   /   
+3   /   Quagsire
+4   /   
+5   /   Skorupi
+
+
+====================================================================================
+Meteor Falls
+====================================================================================
+
+# Encounters
+
+Cave        /   Lunatone (20), Solrock (20), Minior (20), Clefairy (10), Deino (10), Ferroseed (10), Druddigon (10)
+Surf        /   Golbat (60), Dratini (30), Solrock (5), Lunatone (5)
+Old Rod     /   Barboach (60), Dratini (30)
+Good Rod    /   Dratini (60), Barboach (20), Dragonair (20)
+Super Rod   /   Dratini (40), Dragonair (40), Whiscash (19), Dragonite (1)
+Egg
+
+# Encounter History
+
+1   /   
+2   /   
+3   /   Ferroseed
+4   /   
+5   /   Ponyta 
+
+====================================================================================
+Route 115
+====================================================================================
+
+# Encounters
+
+# Encounter History
+
+1   /   
+2   /   
+3   /   Swirlix
+4   /   
+5   /   Shuppet
+
+====================================================================================
+Mt. Chimney
+====================================================================================
+
+# Encounters
+
+Random  /   Egg (100)
+
+# Encounter History
+
+1   /   
+2   /   
+3   /   Dratini
+4   /   
+5   /   Gastly
+
+====================================================================================
+Jagged Pass
+====================================================================================
+
+# Encounters
+
+Grass   /   Grumpig (20), Salandit (20), Primeape (10), Gligar (10), Fearow (10), Mudbray (10), Jangmo-o(10), Turtonator (10)
+Honey   /   Audino (70), Hakamo-o(25), Salazzle (5)
+
+# Encounter History
+
+1   /  
+2   /    
+3   /   Hakamo-o
+4   /   
+5   /   Grumpig
+
+====================================================================================
+Ember Path
+====================================================================================
+
+# Encounters
+
+Cave    /   Magcargo (30), Magmar (20), Boldore (20), Golbat (10), Grumpig (10), Larvesta (10)
+
+# Encounter History
+
+1   /   
+2   /   
+3   /   Magmar
+4   /   
+5   /   Golbat
+
+====================================================================================
+Ashen Woods
+====================================================================================
+
+# Encounters
+
+Grass   /   Salandit (20), Growlithe (20), Pinsir (10), Heracross (10), Scyther (10), Trumbeak (10), Camerupt (10), Noctowl (10)
+Honey   /   Audino (90), Salazzle (5), Toucannon (5)
+
+# Encounter History
+
+1   /   
+2   /   
+3   /   Salandit
+4   /   
+5   /   Heracross
+
+====================================================================================
+Lavaridge Town
+====================================================================================
+
+# Encounters
+
+Random  /   Egg (100)
+
+# Encounter History
+
+1   /   
+2   /   
+3   /   Wynaut
+4   /   
+5   /   Goomy
+
+====================================================================================
+Route 111 (Desert)
+====================================================================================
+
+# Encounters
+
+Desert      /   Sandshrew (20), Cacnea (20), Trapinch (10), Gible (10), Sandile (10), Baltoy (10), Maractus (10), Hippopotas (10)
+Surf        /   Marill (60), Surskit (30), Masquerain (5), Azumarill (5)
+Old Rod     /   Barboach (60), Goldeen (40)
+Good Rod    /   Goldeen (60), Basculin (40)
+Super Rod   /   Basculin (80), Seaking (20)
+Rock Smash  /   Geodude (60), Graveler (30), Shuckle (10)
+
+# Encounter History
+
+1   /   
+2   /
+3   /   Hippopotas   
+4   /   
+5   /   Cacnea
+
+====================================================================================
+Mirage Tower
+====================================================================================
+
+# Encounters
+
+Floor       /   Sandshrew (20), Trapinch (20), Bronzor (20), Golett (10), Sigilyph (10), Yanmask (10), Darumaka (10)
+Rock Smash  /   Geodude (50), Dwebble (50)
+
+# Encounter History
+
+1   /   
+2   /   
+3   /   Bronzor
+4   /   
+5   /   Trapinch
+
+====================================================================================
+Sandstrewn Ruins
+====================================================================================
+
+# Encounters
+
+Cave        /   Yamask (20), Bronzong (20), Golett (10), Darumaka (10), Honedge (10), Sigilyph (10), Claydol (10), Gabite (10)
+Grass       /   Xatu (20), Helioptile (20), Rockruff (20), Girafarig (10), Hawlucha (10), Skiploom (10), Meditite (10)
+Honey       /   Jumpluff (100)
+Surf        /   Relicanth (100)
+Old Rod     /   Relicanth (100)
+Good Rod    /   Relicanth (100)   
+Super Rod   /   Relicanth (100)   
+Rock Smash  /   Baltoy (50), Onix (30), Steelix (20)
+
+
+# Encounter History
+
+1   /   
+2   /   
+3   /   Honedge
+4   /   
+5   /   Sigilyph
+
+====================================================================================
+Fossil Encounters
+====================================================================================
+
+# Encounters
+
+Fossil      /   Aerodactyl, Amaura, Cranidos, Omanyte, Kabuto, Tyrunt, Shieldon, Tirtuoga, Archen, Anorith, Lileep
+
+# Encounter History
+
+1   /   
+2   /   
+3   /   Aerodactyl, Amaura, Cranidos
+4   /   
+5   /   Tyrunt, Kabuto, Amaura
+
+
+====================================================================================
+New Mauville
+====================================================================================
+
+# Encounters
+
+Floor   /   Magneton (20), Klang (20), Elekid (10), Klink (10), Electrode (10), Magneton (10), Electabuzz (10), Tegdemaru (10)
+Static  /   Zapdos (100), Rotom (100)
+
+# Encounter History
+
+1   /   
+2   /   
+3   /   Electrode
+4   /   
+5   /   Togedemaru
+
+====================================================================================
+Route 105
+====================================================================================
+
+# Encounters
+
+Grass       /   Malamar (20), Chatot (20), Floatzel (20), Crabrawler (20), Exeggutor (20)
+Surf        /   Tentacool (60), Wingull (30), Pelipper (10)
+Old Rod     /   Clauncher (60), Skrelp (40)
+Good Rod    /   Skrelp (60), Clauncher (40)
+Super Rod   /   Clawitzer (55), Dragalge (45)
+Rock Smash  /   Binacle (60), Wimpod (30), Dwebble (10)
+
+# Encounter History
+
+1   /   
+2   /
+3   /   Skrelp
+4   /   
+5   /   Skrelp
+
+====================================================================================
+Route 108
+====================================================================================
+
+# Encounters
+
+Surf        /   Frillish (60), Mantyke (30), Wingull (10)
+Old Rod     /   Remoraid (60), Finneon (40)
+Good Rod    /   Finneon (60), Remoraid (40)
+Super Rod   /   Lumineon (40), Octillery (40), Gyarados (20)
+
+# Encounter History
+
+1   /   
+2   /   
+3   /   Frillish
+4   /   
+5   /   Manytke
+
+# Trainers
+
+====================================================================================
+Abandoned Ship
+====================================================================================
+
+# Encounters
+
+Surf        /   Frillish (95), Jellicent (5)
+Old Rod     /   Frillish (60), Skrelp (40)
+Good Rod    /   Skrelp (60), Frillish (20), Dhelmise (20)
+Super Rod   /   Dragalge (40), Dhelmise (40), Jellicent (20)
+
+# Encounter History
+
+1   /   
+2   /
+3   /   Dhelmise
+4   /   
+5   /   Dhelmise (Ran Away)
+
+====================================================================================
+Route 119
+====================================================================================
+
+# Encounters
+
+Grass       /   Gumshoos (20), Tropious (20), Goomy (15), Oranguru (10), Passimian (10), Comfey (10), Keckleon (10), Amoonguss (5)
+Honey       /   Audino (60), Sliggoo (20), Amoonguss (20)
+Surf        /   Gastrodon (60), Floatzel (30), Pelipper (10)
+Old Rod     /   Carvanha (60), Magikarp (40)
+Good Rod    /   Carvanha (60), Magikarp (20), Sharpedo (20)
+Super Rod   /   Carvanha (40), Gyarados (40), Sharpedo (19), Milotic (1)
+Static      /   Feebas (100)
+
+# Encounter History
+
+1   /   
+2   /   
+3   /   Amoonguss
+4   /   
+5   /   Emolga
+
+====================================================================================
+Fortree City
+====================================================================================
+
+# Encounters
+
+Random      /   Egg (100)
+
+# Encounter History
+
+1   /   
+2   /   
+3   /   Snover
+4   /   
+5   /   Bagon
+
+====================================================================================
+Route 120
+====================================================================================
+
+# Encounters
+
+Grass       /   Absol (20), Watchog (20), Venomoth (10), Tropious (10), Pumpkaboo-R (15), Pumpkaboo-S (10), Pumpkaboo-L (10), Pumpkaboo-XL (5)
+Honey       /   Audino (90), Tangrowth (5), Yanmega (5)
+Surf        /   Azumarill (60), Stunfisk (30), Masquerain (10)
+Old Rod     /   Barboach (60), Magikarp (40)
+Good Rod    /   Barboach (60), Stunfisk (20), Magikarp (20)
+Super Rod   /   Whiscash (40), Stunfisk (40), Gyarados (20)
+Cut         /   Pinsir (60), Masquerain (40)
+Random      /   Egg (100)
+
+# Encounter History
+
+1   /   
+2   /
+3   /   Corphish
+4   /   
+5   /   Sneasel
+
+====================================================================================
+Scorched Slab
+====================================================================================
+
+# Encounters
+
+## 1F
+
+Cave        /   Golbat (95), Crobat (5)
+Surf        /   Golbat (95), Crobat (5)
+Old Rod     /   Goldeen (60), Barboach (40)
+Good Rod    /   Barboach (60), Goldeen (20), Whiscash (20)
+Super Rod   /   Barboach (40), Seaking (30), Whiscash (30)
+
+## B1F
+
+Cave        /   Golbat (25), Gurdurr (25), Dugtrio (20), Boldore (20), Zweilous (10)
+Surf        /   Golbat (95), Crobat (5)
+Old Rod     /   Goldeen (60), Barboach (40)
+Good Rod    /   Barboach (60), Goldeen (20), Whiscash (20)
+Super Rod   /   Barboach (40), Seaking (30), Whiscash (30)
+
+## B2F
+
+Cave        /   Golbat (20), Gurdurr (20), Dugtrio (20), Boldore (20), Magmar (10), Turtonator (10)
+
+## Heatran's Room
+
+Cave        /   Golbat (20), Magcargo (20), Dugtrio (20), Boldore (10), Magmar (10), Turtonator (10)
+
+# Encounter History
+
+1   /   
+2   /   
+3   /   
+4   /   
+5   /   Zweilous
+
+====================================================================================
+Route 121
+====================================================================================
+
+# Encounters
+
+Grass       /   Shuppet (20), Duskull (20), Hypno (10), Elgyem (10), Furfrou (10), Pangoro (10), Komala (10), Arbok (10)
+Honey       /   Audino (50), Dusclops (25), Banette (25)
+Surf        /   Pelipper (60), Frillish (30), Alomomola (10)
+Old Rod     /   Magikarp (60), Wailmer (40)
+Good Rod    /   Wailmer (100)
+Super Rod   /   Wailmer (40), Gyarados (40), Lumineon (20)
+Cut         /   Arbok (60), Heracross (40)
+
+# Encounter History
+
+1   /
+2   /   
+3   /   Dusclops
+4   /   
+5   /   Dusclops
+
+====================================================================================
+Safari Zone
+====================================================================================
+
+# Encounters
+
+## North East
+
+Grass       /   Gloom (20), Weepinbell (20), Donphan (20), Marowak-Alola (10), Heracross (10), Kangaskhan (10), Dugtrio-Alola (10)
+Rock Smash  /   Graveler-Alola (100)
+
+## North West
+
+Grass       /   Xatu (20), Dodrio (20), Rhyhorn (20), Pinsir (10), Rhydon (10), Chansey (10), Raticate-Alola (10)
+Surf        /   Grimer-Alola (90), Muk-Alola (10)
+Old Rod     /   Grimer-Alola (60), Grimer (40)
+Good Rod    /   Grimer-Alola (60), Muk-Alola (20), Muk (20)
+Super Rod   /   Muk-Alola (60), Muk (40)
+
+## South West
+
+Grass       /   Karrablast (20), Shelmet (20), Palpitoad (20), Seismitoad (10), Toxicroak (10), Sliggoo (10), Arbok (10)
+Surf        /   Stunfisk (60), Sliggoo (30), Seismitoad (10)
+Old Rod     /   Magikarp (60), Goldeen (40)
+Good Rod    /   Goldeen (60), Seaking (40)
+Super Rod   /   Seaking (100)
+
+## South East
+
+Grass       /   Wobbuffet (20), Pikachu (20), Meowth-Alola (20), Smeargle (10), Girafarig (10), Persian-Alola (10), Raichu-Alola (10)
+
+## Expansion North
+
+Grass       /   Houndoom (20), Pineco (20), Forretress (10), Miltank (10), Tauros (10), Ledian (10), Nidorino (10), Nidorina (10)
+Rock Smash  /   Shuckle (100)
+
+## Expansion South
+
+Grass       /   Gligar (20), Flaaffy (20), Ariados (20), Ambipom (20), Granbull (10), Stantler (10)
+Surf        /   Wooper (60), Quagsire (40)
+Old Rod     /   Remoraid (60), Dratinit (40)
+Good Rod    /   Dratini (60), Dragonair (40)
+Super Rod   /   Dratini (59), Dragonair (40), Dragonite (1)
+
+# Encounter History
+
+1   /   
+2   /   
+3   /   Graveler-Alola, Grimer-Alola, Magikarp, Girafarig
+4   /   
+5   /   Graveler-Alola, Grimer-Alola, Palpitoad, Wobbuffet
+
+====================================================================================
+Desert Underpass
+====================================================================================
+
+# Encounters
+
+Random      /   Egg (100)
+
+# Encounter History
+
+1   /
+2   /   
+3   /   Marill
+4   /   
+5   /   Wimpodka
+
+====================================================================================
+Route 122
+====================================================================================
+
+# Encounters
+
+Surf        /   Pelipper (60), Frillish (30), Alomomola (10)
+Old Rod     /   Magikarp (60), Wailmer (40)
+Good Rod    /   Wailmer (60), Finneon (40)
+Super Rod   /   Wailmer (40), Gyarados (40), Lumineon (20)
+
+# Encounter History
+
+1   /
+2   /   
+3   /   Pelipper
+4   /   
+5   /   Pelipper
+
+
+====================================================================================
+Route 123
+====================================================================================
+
+# Encounters
+
+Grass       /   Mightyena (20), Linoon (20), Karrablast (20), Shelmet (20), Stantler (10), Gloom (10)
+Honey       /   Audino (90), Escavalier (5), Accelgor (5)
+Surf        /   Azumarill (60), Stunfisk (30), Masquerain (10)
+Old Rod     /   Goldeen (60), Corphish (40)
+Good Rod    /   Corphish (60), Goldeen (40)
+Super Rod   /   Corphish (40), Crawdaunt (40), Seaking (20)
+Cut         /   Noctowl (60), Exeggcute (40)
+Berry Tree
+
+# Encounter History
+
+1   /
+2   /   
+3   /   Accelgor (Killed)
+4   /   
+5   /   Pikipek
+
+====================================================================================
+Lilycove City
+====================================================================================
+
+# Encounters
+
+Surf        /   Floatzel (60), Pelipper (30), Bruxish (10)
+Old Rod     /   Magikarp (60), Finneon (40)
+Good Rod    /   Finneon (60), Staryu, (20), Bruxish (20)
+Super Rod   /   Lumineon (40), Bruxish (40), Starmie (20)
+Egg
+
+# Encounter History
+
+1   /   
+2   /   
+3   /   
+4   /   
+5   /   Ferroseed
+
+====================================================================================
+Mt. Pyre
+====================================================================================
+
+# Encounters
+
+## 1F - 3F
+
+Floor       /   Shuppet (20), Duskull (20), Litwick (20), Haunter (10), Golbat (10), Misdreavus (10), Murkrow (10)
+
+## 4F - 6F
+
+Floor       /   Banette (20), Dusclops (20), Lampent (10), Mimikyu (10), Haunter (10), Golbat (10), Misdreavus (10), Murkrow (10)
+
+## Exterior
+
+Grass       /   Vulpix (30), Medicham (20), Drifblim (20), Beheeyem (10), Growlithe (10), Bronzong (10)
+Honey       /   Audino (70), Arcanine (15), Ninetales (15)
+
+## Summit
+
+Grass       /   Vulpix (20), Medicham (20), Drifblim (20), Growlithe (15), Bronzong (10), Beheeyem (10), Chimecho (5)
+Honey       /   Audino (70), Chimecho (15), Bronzong (15)
+
+# Encounter History
+
+1   /
+2   /   
+3   /   Arcanine
+4   /   
+5   /   Arcanine
+
+====================================================================================
+Magma Hideout
+====================================================================================
+
+# Encounters
+
+Cave        /   Graveler (20), Boldore (20), Excadrill (15), Torkoal (15), Turtonator (10), Weezing (10), Golem (5), Gigalith (5)
+
+# Encounter History
+
+1   /   
+2   /   
+3   /   Excadrill
+4   /   
+5   /   
+

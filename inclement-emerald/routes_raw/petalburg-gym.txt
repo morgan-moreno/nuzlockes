@@ -1,0 +1,55 @@
+===
+Trainers:
+===
+
+Cooltrainer Randall (Speed)
+-Swellow (N) Jolly (I) Flame Orb // Quick Attack, Brave Bird, Double Edge, Protect
+-Lopunny (N) Jolly (I) Salac Berry // Quick Attack, Jump Attack, Return, Ice Punch
+-Sawsbuck (N) Jolly (I) Heat Rock // Sunny Day, Jump Kick, Return, Horn Leech
+
+Cooltrainer Mary (Accuracy)
+-Braviary (N) Jolly (I) White Herb // Hone Claws, Brave Bird, Double Edge, Superpower
+-Raticate (Alolan) (A) Hustle (N) Jolly (I) Salac Berry // Quick Attack, Double Edge, Crunch, Hone Claws
+-Drampa (N) Modest (I) Damp Rock // Rain Dance, Thunder, Hurricane, Work Up
+
+Cooltrainer Parker (Confusion)
+-Spinda (A) Contrary (N) Jolly (I) Focus Sash // Teeter Dance, Superpower, Dizzy Punch, Attract
+-Stantler (A) Sap Sipper (N) Jolly (I) Perism Berry // Swagger, Disable, Protect, Thrash
+-Girafarig (A) Contrary (N) Timid (I) Damp Rock // Psychic, Swagger, Foul Play, Thunder Wave
+
+Cooltrainer Alexia (Defense)
+-Snorlax (A) Thick Fat (N) Impish (I) Leftovers // Body Slam, Curse, Rest, Sleep Talk
+-Furfrou (N) Impish (I) Leftovers // Thunder Wave, Headbutt, Cotton Guard, Bite
+-Miltank (A) Scrappy (N) Impish (I) Leftovers // Defenses Curl, Rollout, Body Slam, Milk Drink
+
+Cooltrainer George (Recovery)
+-Chansey (I) Eviolite // Minimize, Soft Boiled, Seismic Toss, Aromatherapy
+-Dunsparce (N) Impish (I) Leftovers // Coil, Headbutt, Thunderwave, Roost
+-Porygon2 (A) Analytic (I) Eviolite // Tri-Attack, Recover, Ice Beam, Thunderbolt
+
+Cooltrainer Jody (Strength)
+-Zangoose (A) Toxic Boost (N) Adamant (I) Toxic Orb // Swords Dance, Facade, Close Combat, Knock Off
+-Bouffalant (N) Adamant (I) Leichi Berry // Swords Dance, Head Charge, Megahorn, Earthquake
+-Porygon Z (A) Download (N) Modest (I) Life Orb // Tri-Attack, Nasty Plot, Ice Beam, Shadow Ball
+
+Cooltrainer Berke (One-Hit KO)
+-Lickilicky (N) Adamant (I) Custap Berry // Belly Drum, Explosion
+-Snorlax (A) Thick Fat (N) Adamant (I) Normal Gem // Fissure, Self Destruct
+-Ursaring (N) Adamant (I) Flame Orb // Protect, Giga Impact
+
+===
+Bosses:
+===
+
+Norman			
+Swellow	Tauros	Linoone	Exploud	Slaking	Kangaskhan
+Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale +2	Lvl Scale
+31/31/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/0/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31
+4/252/0/0/0/252	4/252/0/0/0/252	4/252/0/0/0/252	0/0/0/252/0/252	4/252/0/0/0/252	4/252/0/0/0/252
+Jolly	Jolly	Jolly	Modest	Adamant	Jolly
+Flame Orb	Life Orb	Figy Berry	Expert Belt	Lum Berry	Kangaskhanite
+Guts	Intimidate	Gluttony	Scrappy	Truant	Parental Bond
+Brave Bird	Facade	Extreme Speed	Boomburst	Giga Impact	Facade
+Facade	Earthquake	Belly Drum	Fire Blast	Yawn	Crunch
+Reversal	Throat Chop	Shadow Claw	Surf	Night Slash	Seismic Toss
+U-Turn	Close Combat	Seed Bomb	Extrasensory	Earthquake	Earthquake

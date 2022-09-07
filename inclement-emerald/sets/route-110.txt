@@ -1,0 +1,216 @@
+
+===
+Pokefan Isabel (potential double with Pokefan Kaleb)
+===
+
+Plusle @ Oran Berry
+Level: 35
+- Electro Ball
+- Nuzzle
+- Helping Hand
+- Charm
+
+Pachirisu @ Oran Berry
+Level: 35
+- Electro Ball
+- Nuzzle
+- Swift
+- Sweet Kiss
+
+===
+Pokefan Kaleb
+===
+
+Minun @ Oran Berry
+Level: 35
+- Electro Ball
+- Nuzzle
+- Helping Hand
+- Fake Tears
+
+Emolga @ Oran Berry
+Level: 35
+- Shock Wave
+- Nuzzle
+- Acrobatics
+- Nasty Plot
+
+===
+Youngster Timmy
+===
+
+Ferroseed @ 
+Level: 36
+- Ingrain
+- Iron Head
+- Pin Missile
+- Bullet Seed
+
+Electrike @ 
+Level: 36
+- Discharge
+- Bite
+- Quick Attack
+- Odor Sleuth
+
+===
+May (Route 110) - Grass
+===
+
+Swellow @ None
+Level: 37
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Guts
+- Wing Attack
+- Quick Attack
+- Roost
+- U-Turn
+
+Starmie @ None
+Level: 37
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Natural Cure
+- Water Pulse
+- Recover
+- Psybeam
+- Icy Wind
+
+Tsareena @ None
+Level: 37
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Queenly Majesty
+- Trop Kick
+- Low Sweep
+- U-Turn
+- Synthesis
+
+Mimikyu @ None
+Level: 37
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Disguise
+- Shadow Claw
+- Shadow Sneak
+- Bulk Up
+- Drain Punch
+
+Combusken @ Sitrus Berry
+Level: 39
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Blaze
+- Brick Break
+- Rock Tomb
+- Fire Pledge
+- Bulk Up
+
+===
+May (Route 110) - Fire
+===
+
+Swellow @ None
+Level: 37
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Guts
+- Wing Attack
+- Quick Attack
+- Roost
+- U-turn
+
+Tsareena @ None
+Level: 37
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Queenly Majesty
+- Trop Kick
+- Low Sweep
+- U-turn
+- Synthesis
+
+Ponyta @ None
+Level: 37
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Reckless
+- Blaze Kick
+- Wild Charge
+- Take Down
+- Double Kick
+
+Mimikyu @ None
+Level: 37
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Disguise
+- Shadow Claw
+- Shadow Sneak
+- Bulk Up
+- Drain Punch
+
+Marshtomp @ Sitrus Berry
+Level: 39
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Torrent
+- Bulldoze
+- Water Pledge
+- Rock Slide
+- Brick Break
+
+===
+May (Route 110) - Water
+===
+
+Swellow @ None
+Level: 37
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Guts
+- Wing Attack
+- Quick Attack
+- Roost
+- U-Turn
+
+Starmie @ None
+Level: 37
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Natural Cure
+- Water Pulse
+- Recover
+- Psybeam
+- Icy Wind
+
+Ponyta @ None
+Level: 37
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Reckless
+- Blaze Kick
+- Wild Charge
+- Take Down
+- Double Kick
+
+Mimikyu @ None
+Level: 37
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Disguise
+- Shadow Claw
+- Shadow Sneak
+- Bulk Up
+- Drain Punch
+
+Grovyle @ Sitrus Berry
+Level: 39
+0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Hardy Nature
+Ability: Overgrow
+- Grass Pledge
+- Dragon Breath
+- Fury Cutter
+- Rock Tomb

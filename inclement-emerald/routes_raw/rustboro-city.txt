@@ -1,0 +1,60 @@
+===
+Trainers:
+===
+
+
+===
+Bosses:
+===
+
+Roxanne					
+Aron	Tyrunt	Amaura	Anorith	Lileep	Nosepass
+Lvl Scale -3	Lvl Scale -3	Lvl Scale -3	Lvl Scale -3	Lvl Scale -3	Lvl Scale
+25/25/25/25/25/25	25/25/25/25/25/25	25/25/25/25/25/25	25/25/25/25/25/25	25/25/25/25/25/25	31/31/31/31/31/31
+0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0	244/0/92/0/168/0
+Relaxed	Relaxed	Relaxed	Relaxed	Relaxed	Careful
+Chesto Berry	Red Card	Chople Berry	Water Gem	Oran Berry	Berry Juice
+Sturdy	Sturdy	Refrigerate	Battle Armor	Storm Drain	Sand Force
+Rock Tomb	Rock Tomb	Rock Tomb	Rock Tomb	Rock Tomb	Sandstorm
+Stealth Rock	Bite	Thunder Wave	Cut	Mega Drain	Rock Tomb
+Metal Claw	Dragon Tail	Bulldoze	Bug Bite	Infestation	Bulldoze
+Rest	Poison Fang	Echoed Voice	Aqua Jet	Pain Split	Fire Punch
+
+May (Rustboro City) - Fire			
+Swellow	Steenee	Ponyta	Marshtomp
+Lvl Scale -1	Lvl Scale -1	Lvl Scale -1	Lvl Scale
+15/15/15/15/15/15	15/15/15/15/15/15	15/15/15/15/15/15	15/15/15/15/15/15
+0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0
+Hardy	Hardy	Hardy	Hardy
+None	None	None	Oran Berry
+Guts	Sweet Veil	Flame Body	Torrent
+Aerial Ace	Razor Leaf	Flame Wheel	Mud Shot
+Quick Attack	Charm	Tail Whip	Water Gun
+Roost	Acupressure	Tackle	Rock Tomb
+Refresh	Synthesis	Double Kick	Growl
+
+May (Rustboro City) - Grass			
+Swellow	Staryu	Steenee	Combusken
+Lvl Scale -1	Lvl Scale -1	Lvl Scale -1	Lvl Scale
+15/15/15/15/15/15	15/15/15/15/15/15	15/15/15/15/15/15	15/15/15/15/15/15
+0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0
+Hardy	Hardy	Hardy	Hardy
+None	None	None	Oran Berry
+Guts	Natural Cure	Sweet Veil	Blaze
+Aerial Ace	Bubble Beam	Razor Leaf	Double Kick
+Quick Attack	Recover	Charm	Rock Tomb
+Roost	Psywave	Acupressure	Flame Charge
+Refresh	Swift	Synthesis	Peck
+
+May (Rustboro City) - Water			
+Swellow	Staryu	Ponyta	Grovyle
+Lvl Scale -1	Lvl Scale -1	Lvl Scale -1	Lvl Scale
+15/15/15/15/15/15	15/15/15/15/15/15	15/15/15/15/15/15	15/15/15/15/15/15
+0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0
+Hardy	Hardy	Hardy	Hardy
+None	None	None	Oran Berry
+Guts	Natural Cure	Flame Body	Overgrow
+Aerial Ace	Bubble Beam	Flame Wheel	Mega Drain
+Quick Attack	Recover	Tail Whip	Dragon Breath
+Roost	Psywave	Tackle	Fury Cutter
+Refresh	Swift	Double Kick	Rock Tomb

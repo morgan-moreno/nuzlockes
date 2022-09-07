@@ -1,0 +1,604 @@
+{
+  "alive": [
+    {
+      "name": "Gyarados",
+      "ability": "Intimidate",
+      "nature": "Adamant",
+      "item": "",
+      "ivs": {
+        "hp": "13",
+        "atk": "31",
+        "def": "31",
+        "spa": "31",
+        "spd": "28",
+        "spe": "9"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Ice Fang", "Brine", "Bite", "Aqua Tail"]
+    },
+    {
+      "name": "Sudowoodo",
+      "ability": "Sturdy",
+      "nature": "Adamant",
+      "item": "",
+      "ivs": {
+        "hp": "9",
+        "atk": "24",
+        "def": "31",
+        "spa": "1",
+        "spd": "31",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Mimic", "Rock Slide", "Counter", "Low Kick"]
+    },
+    {
+      "name": "Seaking",
+      "ability": "Water Veil",
+      "nature": "Modest",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "15",
+        "def": "4",
+        "spa": "31",
+        "spd": "28",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Waterfall", "Poison Jab", "Bubble Beam", "Horn Attack"]
+    },
+    {
+      "name": "Luxray",
+      "ability": "Intimidate",
+      "nature": "Naughty",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "2",
+        "def": "31",
+        "spa": "18",
+        "spd": "31",
+        "spe": "23"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Night Slash", "Baby-Doll Eyes", "Spark", "Volt Switch"]
+    },
+    {
+      "name": "Meganium",
+      "ability": "Overgrow",
+      "nature": "Bashful",
+      "item": "",
+      "ivs": {
+        "hp": "17",
+        "atk": "31",
+        "def": "31",
+        "spa": "12",
+        "spd": "31",
+        "spe": "23"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Reflect", "Synthesis", "Magical Leaf", "Moonblast"]
+    },
+    {
+      "name": "Bibarel",
+      "ability": "Unaware",
+      "nature": "Relaxed",
+      "item": "",
+      "ivs": {
+        "hp": "27",
+        "atk": "31",
+        "def": "30",
+        "spa": "31",
+        "spd": "31",
+        "spe": "9"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Super Fang", "Aqua Jet", "Yawn", "Aqua Tail"]
+    },
+    {
+      "name": "Breloom",
+      "ability": "Effect Spore",
+      "nature": "Sassy",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "8",
+        "def": "5",
+        "spa": "31",
+        "spd": "31",
+        "spe": "25"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Mega Drain", "Force Palm", "Stun Spore", "Mach Punch"]
+    },
+    {
+      "name": "Gengar",
+      "ability": "Levitate",
+      "nature": "Mild",
+      "item": "",
+      "ivs": {
+        "hp": "4",
+        "atk": "7",
+        "def": "3",
+        "spa": "31",
+        "spd": "31",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Shadow Punch", "Sucker Punch", "Clear Smog", "Hex"]
+    },
+    {
+      "name": "Ampharos",
+      "ability": "Mold Breaker",
+      "nature": "Modest",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "3",
+        "def": "8",
+        "spa": "4",
+        "spd": "31",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Dragon Breath", "Thunder Wave", "Thunder Shock", "Power Gem"]
+    },
+    {
+      "name": "Roselia",
+      "ability": "Poison Point",
+      "nature": "Impish",
+      "item": "",
+      "ivs": {
+        "hp": "21",
+        "atk": "31",
+        "def": "31",
+        "spa": "31",
+        "spd": "19",
+        "spe": "9"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Leech Seed", "Toxic", "Giga Drain", "Petal Blizzard"]
+    },
+    {
+      "name": "Lilligant",
+      "ability": "Chlorophyll",
+      "nature": "Timid",
+      "item": "",
+      "ivs": {
+        "hp": "4",
+        "atk": "4",
+        "def": "31",
+        "spa": "31",
+        "spd": "31",
+        "spe": "29"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Growth", "Draining Kiss", "Synthesis", "Energy Ball"]
+    },
+    {
+      "name": "Golduck",
+      "ability": "Cloud Nine",
+      "nature": "Rash",
+      "item": "",
+      "ivs": {
+        "hp": "15",
+        "atk": "23",
+        "def": "31",
+        "spa": "31",
+        "spd": "27",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Zen Headbutt", "Tail Whip", "Aqua Tail", "Psyshock"]
+    },
+    {
+      "name": "Ribombee",
+      "ability": "Shield Dust",
+      "nature": "Modest",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "3",
+        "def": "31",
+        "spa": "17",
+        "spd": "25",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Dazzling Gleam", "Pollen Puff", "Bug Buzz", "Draining Kiss"]
+    },
+    {
+      "name": "Misdreavus",
+      "ability": "Levitate",
+      "nature": "Naughty",
+      "item": "",
+      "ivs": {
+        "hp": "7",
+        "atk": "31",
+        "def": "7",
+        "spa": "26",
+        "spd": "31",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Psybeam", "Pain Split", "Disarming Voice", "Hex"]
+    },
+    {
+      "name": "Mr. Mime",
+      "ability": "Technician",
+      "nature": "Quirky",
+      "item": "",
+      "ivs": {
+        "hp": "0",
+        "atk": "31",
+        "def": "28",
+        "spa": "5",
+        "spd": "31",
+        "spe": "3"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Protect", "Substitute", "Psybeam", "Light Screen"]
+    },
+    {
+      "name": "Octillery",
+      "ability": "Suction Cups",
+      "nature": "Sassy",
+      "item": "",
+      "ivs": {
+        "hp": "16",
+        "atk": "31",
+        "def": "31",
+        "spa": "24",
+        "spd": "31",
+        "spe": "6"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Signal Beam", "Aurora Beam", "Octazooka", "Gunk Shot"]
+    },
+    {
+      "name": "Starmie",
+      "ability": "Natural Cure",
+      "nature": "Quirky",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "5",
+        "def": "31",
+        "spa": "19",
+        "spd": "31",
+        "spe": "13"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Rapid Spin", "Psybeam", "Power Gem", "Brine"]
+    },
+    {
+      "name": "Frillish",
+      "ability": "Cursed Body",
+      "nature": "Adamant",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "31",
+        "def": "3",
+        "spa": "13",
+        "spd": "31",
+        "spe": "26"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Night Shade", "Brine", "Rain Dance", "Hex"]
+    },
+    {
+      "name": "Corsola",
+      "ability": "Natural Cure",
+      "nature": "Docile",
+      "item": "",
+      "ivs": {
+        "hp": "13",
+        "atk": "6",
+        "def": "11",
+        "spa": "31",
+        "spd": "31",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Refresh", "Brine", "Rock Blast", "Spike Cannon"]
+    },
+    {
+      "name": "Floatzel",
+      "ability": "Swift Swim",
+      "nature": "Gentle",
+      "item": "",
+      "ivs": {
+        "hp": "29",
+        "atk": "31",
+        "def": "5",
+        "spa": "1",
+        "spd": "31",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Crunch", "Bubble Beam", "Aqua Tail", "Aqua Jet"]
+    },
+    {
+      "name": "Metang",
+      "ability": "Clear Body",
+      "nature": "Docile",
+      "item": "",
+      "ivs": {
+        "hp": "13",
+        "atk": "7",
+        "def": "31",
+        "spa": "28",
+        "spd": "31",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Bullet Punch", "Zen Headbutt", "Psychic", "Pursuit"]
+    },
+    {
+      "name": "Snorlax",
+      "ability": "Thick Fat",
+      "nature": "Brave",
+      "item": "",
+      "ivs": {
+        "hp": "14",
+        "atk": "31",
+        "def": "31",
+        "spa": "31",
+        "spd": "10",
+        "spe": "19"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Chip Away", "Yawn", "Body Slam", "Crunch"]
+    },
+    {
+      "name": "Charizard",
+      "ability": "Tough Claws",
+      "nature": "Lax",
+      "item": "",
+      "ivs": {
+        "hp": "18",
+        "atk": "26",
+        "def": "31",
+        "spa": "31",
+        "spd": "23",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Wing Attack", "Flamethrower", "Dragon Claw", "Shadow Claw"]
+    },
+    {
+      "name": "Serperior",
+      "ability": "Overgrow",
+      "nature": "Lonely",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "31",
+        "def": "31",
+        "spa": "31",
+        "spd": "12",
+        "spe": "8"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Dragon Rush", "Leaf Blade", "Coil", "Giga Drain"]
+    },
+    {
+      "name": "Primarina",
+      "ability": "Berserk",
+      "nature": "Hardy",
+      "item": "",
+      "ivs": {
+        "hp": "31",
+        "atk": "16",
+        "def": "11",
+        "spa": "31",
+        "spd": "27",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Sparkling Aria", "Moonblast", "Baby-Doll Eyes", "Hyper Voice"]
+    },
+    {
+      "name": "Audino",
+      "ability": "Regenerator",
+      "nature": "Quiet",
+      "item": "",
+      "ivs": {
+        "hp": "28",
+        "atk": "31",
+        "def": "31",
+        "spa": "6",
+        "spd": "5",
+        "spe": "31"
+      },
+      "evs": {
+        "hp": "0",
+        "atk": "0",
+        "def": "0",
+        "spa": "0",
+        "spd": "0",
+        "spe": "0"
+      },
+      "moves": ["Baby-Doll Eyes", "Heal Pulse", "Hyper Voice", "Extrasensory"]
+    }
+  ],
+  "dead": ["Ursaring / 38"],
+  "levelCap": 38
+}

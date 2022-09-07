@@ -1,0 +1,134 @@
+
+===
+Team Magma Grunt 1 (potential double with Team Magma Grunt 2)
+===
+
+Numel @ 
+Level: 48
+- Earth Power
+- Lava Plume
+- Rock Slide
+- Yawn
+
+Dugtrio @ 
+Level: 47
+Ability: Arena Trap
+- Earthquake
+- Sucker Punch
+- Giga Impact
+
+===
+Team Magma Grunt 2
+===
+
+Golbat @ 
+Level: 48
+- Poison Fang
+- Acrobatics
+- Crunch
+- Hypnosis
+
+Rhydon @ 
+Level: 48
+- Drill Run
+- Rock Slide
+- Hammer Arm
+- Scary Face
+
+===
+Tabitha (Mt. Chimney)
+===
+
+Gigalith @ Passho Berry
+Level: 50
+EVs: 252 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 4 Spe
+Modest Nature
+Ability: Sand Stream
+- Power Gem
+- Earth Power
+- Stealth Rock
+- Discharge
+
+Darmanitan @ Life Orb
+Level: 50
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Sheer Force
+- Flare Blitz
+- Zen Headbutt
+- Rock Slide
+- Bite
+
+Steelix @ Leftovers
+Level: 51
+EVs: 252 Hp / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
+Careful Nature
+Ability: Sheer Force
+- Iron Tail
+- Earthquake
+- Rock Slide
+- Coil
+
+Gliscor @ Toxic Orb
+Level: 50
+EVs: 252 Hp / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Impish Nature
+Ability: Poison Heal
+- Wing Attack
+- Dig
+- Toxic
+- Protect
+
+===
+Maxie (Mt. Chimney)
+===
+
+Crobat @ Assault Vest
+Level: 51
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+Ability: Infiltrator
+- Brave Bird
+- Cross Poison
+- Crunch
+- U-turn
+
+Zweilous @ Choice Scarf
+Level: 51
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Hustle
+- Outrage
+- Crunch
+- Head Smash
+- Superpower
+
+Weezing @ Black Sludge
+Level: 51
+EVs: 252 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 4 Spe
+Modest Nature
+Ability: Levitate
+- Venoshock
+- Thunderbolt
+- Toxic
+- Heat Wave
+
+Victreebel @ Scope Lens
+Level: 51
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Chlorophyll
+- Leaf Blade
+- Poison Jab
+- Sucker Punch
+- Sleep Powder
+
+Camerupt @ Power Herb
+Level: 53
+EVs: 252 Hp / 4 Atk / 0 Def / 252 SpA / 0 SpD / 0 Spe
+Quiet Nature
+Ability: Sheer Force
+- Earth Power
+- Fire Blast
+- Rock Slide
+- Solar Beam

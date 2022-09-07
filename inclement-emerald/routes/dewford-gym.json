@@ -1,0 +1,64 @@
+{
+  "name": "Dewford Gym",
+  "bosses": [
+    {
+      "name": "Leader Brawly",
+      "pokemon": [
+        {
+          "name": "Meditite",
+          "level": "23",
+          "evs": "0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe",
+          "nature": "Adamant",
+          "item": "Light Clay",
+          "ability": "Pure Power",
+          "moves": ["Drain Punch", "Light Screen", "Reflect", "Zen Headbutt"]
+        },
+        {
+          "name": "Breloom",
+          "level": "23",
+          "evs": "0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe",
+          "nature": "Adamant",
+          "item": "Toxic Orb",
+          "ability": "Poison Heal",
+          "moves": ["Drain Punch", "Bulk Up", "Bullet Seed", "Spore"]
+        },
+        {
+          "name": "Lucario",
+          "level": "23",
+          "evs": "0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe",
+          "nature": "Adamant",
+          "item": "Lum Berry",
+          "ability": "Steadfast",
+          "moves": ["Bullet Punch", "Bulk Up", "Payback", "Reversal"]
+        },
+        {
+          "name": "Hitmonchan",
+          "level": "23",
+          "evs": "0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe",
+          "nature": "Adamant",
+          "item": "Coba Berry",
+          "ability": "Keen Eye",
+          "moves": ["Drain Punch", "Bulk Up", "Thunder Punch", "Ice Punch"]
+        },
+        {
+          "name": "Dewott",
+          "level": "23",
+          "evs": "0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe",
+          "nature": "Adamant",
+          "item": "Eviolite",
+          "ability": "Torrent",
+          "moves": ["Razor Shell", "Karate Chop", "X-Scissor", "Air Slash"]
+        },
+        {
+          "name": "Hariyama",
+          "level": "25",
+          "evs": "0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe",
+          "nature": "Adamant",
+          "item": "Sitrus Berry",
+          "ability": "Guts",
+          "moves": ["Arm Thrust", "Knock Off", "Bulldoze", "Bulk Up"]
+        }
+      ]
+    }
+  ]
+}

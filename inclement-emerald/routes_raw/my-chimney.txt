@@ -1,0 +1,41 @@
+===
+Trainers:
+===
+
+Team Magma Grunt 1 (potential double with Team Magma Grunt 2)
+-Numel lvl -2 // Earth Power, Lava Plume, Rock Slide, Yawn
+-Dugtrio lvl -3 (A) Arena Trap // Earthquake, Sucker Punch, Giga Impact
+
+Team Magma Grunt 2
+-Golbat lvl -2 // Poison Fang, Acrobatics, Crunch, Hypnosis
+-Rhydon lvl -2 // Drill Run, Rock Slide, Hammer Arm, Scary Face
+
+===
+Bosses:
+===
+
+Tabitha (Mt. Chimney)	
+Gigalith	Darmanitan	Steelix	Gliscor
+Lvl Scale	Lvl Scale	Lvl Scale +1	Lvl Scale
+31/0/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31
+252/0/0/252/0/4	4/252/0/0/0/252	252/0/4/0/252/0	252/0/252/0/4/0
+Modest	Jolly	Careful	Impish
+Passho Berry	Life Orb	Leftovers	Toxic Orb
+Sand Stream	Sheer Force	Sheer Force	Poison Heal
+Power Gem	Flare Blitz	Iron Tail	Wing Attack
+Earth Power	Zen Headbutt	Earthquake	Dig
+Stealth Rock	Rock Slide	Rock Slide	Toxic
+Discharge	Bite	Coil	Protect
+
+Maxie (Mt. Chimney)				
+Crobat	Zweilous	Weezing	Victreebel	Camerupt
+Lvl Scale +1	Lvl Scale +1	Lvl Scale +1	Lvl Scale +1	Lvl Scale +3
+31/31/31/31/31/31	31/31/31/31/31/31	31/0/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31
+4/252/0/0/0/252	4/252/0/0/0/252	252/0/0/252/0/4	4/252/0/0/0/252	252/4/0/252/0/0
+Adamant	Jolly	Modest	Jolly	Quiet
+Assault Vest	Choice Scarf	Black Sludge	Scope Lens	Power Herb
+Infiltrator	Hustle	Levitate	Chlorophyll	Sheer Force
+Brave Bird	Outrage	Venoshock	Leaf Blade	Earth Power
+Cross Poison	Crunch	Thunderbolt	Poison Jab	Fire Blast
+Crunch	Head Smash	Toxic	Sucker Punch	Rock Slide
+U-Turn	Superpower	Heat Wave	Sleep Powder	Solar Beam

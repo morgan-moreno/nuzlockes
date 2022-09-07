@@ -4,16 +4,23 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
+    "deaths": "ts-node scripts/deaths.ts",
+    "add-death": "ts-node scripts/addDeath.ts",
+    "convert-encounters": "ts-node scripts/convertRawEncounters.ts",
     "convert-me": "node scripts/convertSetsToTxt.js my-mons",
+    "convert-raw": "ts-node scripts/convertRawSets.ts",
     "convert-route": "node scripts/convertSetsToTxt.js",
-    "random:region": "node scripts/randomRegion.js",
-    "random:starter": "node scripts/randomStarter.js",
-    "random:mauville": "node scripts/randomMauville.js",
-    "readPdf": "node scripts/readPdf.js",
-    "nature": "node scripts/nature.js",
+    "nature": "ts-node scripts/nature.ts",
     "update-levels": "node scripts/update-levels.js"
   },
   "dependencies": {
-    "pdf-parse": "^1.1.1"
+    "axios": "^0.27.2",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.184",
+    "@types/node": "^18.7.14",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.2"
   }
 }

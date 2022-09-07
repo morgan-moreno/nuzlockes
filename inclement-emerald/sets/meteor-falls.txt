@@ -1,0 +1,72 @@
+
+===
+
+===
+
+===
+Courtney (Meteor Falls)
+===
+
+Ninetales @ Passho Berry
+Level: 50
+0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+Ability: Drought
+- Mystical Fire
+- Hypnosis
+- Solar Beam
+- Calm Mind
+
+Krookodile @ Assault Vest
+Level: 50
+252 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
+Adamant Nature
+Ability: Intimidate
+- Crunch
+- Earthquake
+- Fire Fang
+- Thunder Fang
+
+Houndoom @ Grass Gem
+Level: 50
+0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+Ability: Flash Fire
+- Dark Pulse
+- Heat Wave
+- Solar Beam
+- Sludge Bomb
+
+===
+Team Magma Grunt (Meteor Falls)
+===
+
+Excadrill @ Occa Berry
+Level: 50
+80 Hp / 80 Atk / 80 Def / 80 SpA / 80 SpD / 80 Spe
+Hardy Nature
+Ability: Mold Breaker
+- Drill Run
+- Iron Head
+- Rock Slide
+- X-Scissor
+
+Weezing @ Sitrus Berry
+Level: 50
+80 Hp / 80 Atk / 80 Def / 80 SpA / 80 SpD / 80 Spe
+Hardy Nature
+Ability: Levitate
+- Will-O-Wisp
+- Sludge Bomb
+- Heat Wave
+- Thunderbolt
+
+Shiftry @ Heat Rock
+Level: 50
+80 Hp / 80 Atk / 80 Def / 80 SpA / 80 SpD / 80 Spe
+Hardy Nature
+Ability: Chlorophyll
+- Energy Ball
+- Dark Pulse
+- Air Slash
+- Sunny Day

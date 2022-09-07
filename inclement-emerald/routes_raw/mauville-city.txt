@@ -1,0 +1,38 @@
+===
+Trainers:
+===
+
+Youngster Ben
+-Rotom lvl -1 (I) Colbur Berry // Electro Ball, Hex, Thunder Wave, Pain Split
+-Stunfisk lvl -1 (I) Shuca Berry // Muddy Water, Sucker Punch, Mud Shot, Shock Wave
+-Togedemaru lvl -1 (A) Sturdy (I) Salac Berry // Zing Zap, Magnet Rise, Pin Missile, Iron Head
+
+===
+Bosses:
+===
+
+Wally (Mauville City)			
+Roselia	Fletchinder	Azumarill	Kirlia
+Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale +1
+25/25/25/25/25/25	25/25/25/25/25/25	25/25/25/25/25/25	25/25/25/25/25/25
+0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0
+Hardy	Hardy	Hardy	Hardy
+Black Sludge	Flying Gem	Rocky Helmet	Focus Sash
+Natural Cure	Gale Wings	Huge Power	Trace
+Giga Drain	Flame Charge	Aqua Tail	Psychic
+Venoshock	Acrobatics	Play Rough	Draining Kiss
+Poison Powder	Steel Wing	Brick Break	Hypnosis
+Leech Seed	Roost	Bulldoze	Charm
+
+Wattson							
+Galvantula	Lanturn	Magneton	Rotom-Mow	Raichu-Alola	Manectric
+Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale +2
+31/0/31/31/31/31	31/0/31/31/31/31	31/0/31/31/31/31	31/0/31/31/31/31	31/0/31/31/31/31	31/0/31/31/31/31
+0/0/0/0/0/252	0/0/0/0/0/252	0/0/0/0/0/252	0/0/0/0/0/252	0/0/0/0/0/252	0/0/0/252/0/252
+Modest	Modest	Modest	Modest	Modest	Modest
+Grass Gem	Air Balloon	Eviolite	White Herb	Shuca Berry	Sitrus Berry
+Swarm	Water Absorb	Sturdy	Levitate	Surge Surfer	Lightning Rod
+Sticky Web	Volt Switch	Volt Switch	Volt Switch	Volt Switch	Volt Switch
+Volt Switch	Surf	Flash Cannon	Leaf Storm	Psychic	Flamethrower
+Bug Buzz	Icy Wind	Thunder Wave	Toxic	Grass Knot	Aurora Beam
+Giga Drain	Dazzling Gleam	Electric Terrain	Hex	Surf	Signal Beam

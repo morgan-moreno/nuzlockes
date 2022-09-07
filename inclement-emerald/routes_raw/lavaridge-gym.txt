@@ -1,0 +1,28 @@
+===
+Trainers:
+===
+
+Kindler Jace (potential double with Hiker Eli)
+-Emboar lvl -1 (A) Blaze (I) Sitrus Berry // Yawn, Heat Crash, Sucker Punch, Hammer Arm
+-Flareon lvl -1 (A) Guts (I) Toxic Orb // Blaze Kick, Facade, Quick Attack, Dig
+
+Hiker Eli (potential double with Kindler Jace)
+-Heatmor lvl -1 (A) Tough Claws (I) Sitrus Berry // Fire Lash, Iron Tail, Throat Chop, Stomping Tantrum
+-Lampent lvl 0 (A) Flame Body (I) White Herb // Overheat, Hex, Pain Split, Will-o-Wisp
+
+===
+Bosses:
+===
+
+Flannery					
+Torkoal	Houndoom	Arcanine	Blaziken	Volcarona	Talonflame
+Lvl Scale +3	Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale
+31/0/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/0/31/31/31/31	31/31/31/31/31/31
+252/0/0/252/0/4	0/4/0/252/0/252	4/252/0/0/0/252	0/252/0/4/0/252	252/0/0/0/4/252	0/252/0/4/0/252
+Modest	Hasty	Adamant	Naive	Timid	Naughty
+White Herb	Fire Gem	Assault Vest	Weakness Policy	Charti Berry	White Herb
+Drought	Flash Fire	Intimidate	Speed Boost	Flame Body	Gale Wings
+Overheat	Overheat	Flare Blitz	Overheat	Fiery Dance	Overheat
+Stealth Rock	Dark Pulse	Play Rough	Reversal	Giga Drain	Brave Bird
+Clear Smog	Solar Beam	Close Combat	Thunder Punch	Quiver Dance	Defog
+Rapid Spin	Sucker Punch	Extreme Speed	Endure	Roost	U-Turn

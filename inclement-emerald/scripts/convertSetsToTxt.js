@@ -14,12 +14,13 @@ if (route_name === "my-mons") {
   const mons = require("../my-mons.json");
 
   const pokemons = mons.alive;
+  const levelCap = mons.levelCap;
 
   for (let i = 0; i < pokemons.length; i++) {
     const pokemon = pokemons[i];
 
     text += `${pokemon.name} @ ${pokemon.item}\r\n`;
-    text += `Level: ${pokemon.level}\r\n`;
+    text += `Level: ${levelCap}\r\n`;
     text += `IVs: ${pokemon.ivs.hp} HP / ${pokemon.ivs.atk} Atk / ${pokemon.ivs.def} Def / ${pokemon.ivs.spa} SpA / ${pokemon.ivs.spd} SpD / ${pokemon.ivs.spe} Spe\r\n`;
     text += `EVs: ${pokemon.evs.hp} HP / ${pokemon.evs.atk} Atk / ${pokemon.evs.def} Def / ${pokemon.evs.spa} SpA / ${pokemon.evs.spd} SpD / ${pokemon.evs.spe} Spe\r\n`;
     text += `Ability: ${pokemon.ability}\r\n`;

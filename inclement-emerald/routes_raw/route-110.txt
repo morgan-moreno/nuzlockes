@@ -1,0 +1,58 @@
+===
+Trainers:
+===
+
+Pokefan Isabel (potential double with Pokefan Kaleb)
+-Plusle lvl -3 (I) Oran Berry // Electro Ball, Nuzzle, Helping Hand, Charm
+-Pachirisu lvl -3 (I) Oran Berry // Electro Ball, Nuzzle, Swift, Sweet Kiss
+
+Pokefan Kaleb
+-Minun lvl -3 (I) Oran Berry // Electro Ball, Nuzzle, Helping Hand, Fake Tears
+-Emolga lvl -3 (I) Oran Berry // Shock Wave, Nuzzle, Acrobatics, Nasty Plot
+
+Youngster Timmy
+-Ferroseed lvl -2 // Ingrain, Iron Head, Pin Missile, Bullet Seed
+-Electrike lvl -2 // Discharge, Bite, Quick Attack, Odor Sleuth
+
+===
+Bosses:
+===
+
+May (Route 110) - Grass								
+Swellow	Starmie	Tsareena	Mimikyu	Combusken
+Lvl Scale -1	Lvl Scale -1	Lvl Scale -1	Lvl Scale -1	Lvl Scale +1
+25/25/25/25/25/25	25/25/25/25/25/25	15/15/15/15/15/15	25/25/25/25/25/25	25/25/25/25/25/25
+0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0
+Hardy	Hardy	Hardy	Hardy	Hardy
+None	None	None	None	Sitrus Berry
+Guts	Natural Cure	Queenly Majesty	Disguise	Blaze
+Wing Attack	Water Pulse	Trop Kick	Shadow Claw	Brick Break
+Quick Attack	Recover	Low Sweep	Shadow Sneak	Rock Tomb
+Roost	Psybeam	U-Turn	Bulk Up	Fire Pledge
+U-Turn	Icy Wind	Synthesis	Drain Punch	Bulk Up
+
+May (Route 110) - Fire				
+Swellow	Tsareena	Ponyta	Mimikyu	Marshtomp
+Lvl Scale -1	Lvl Scale -1	Lvl Scale -1	Lvl Scale -1	Lvl Scale +1
+25/25/25/25/25/25	15/15/15/15/15/15	25/25/25/25/25/25	25/25/25/25/25/25	25/25/25/25/25/25
+0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0
+Hardy	Hardy	Hardy	Hardy	Hardy
+None	None	None	None	Sitrus Berry
+Guts	Queenly Majesty	Reckless	Disguise	Torrent
+Wing Attack	Trop Kick	Blaze Kick	Shadow Claw	Bulldoze
+Quick Attack	Low Sweep	Wild Charge	Shadow Sneak	Water Pledge
+Roost	U-Turn	Take Down	Bulk Up	Rock Slide
+U-Turn	Synthesis	Double Kick	Drain Punch	Brick Break
+
+May (Route 110) - Water				
+Swellow	Starmie	Ponyta	Mimikyu	Grovyle
+Lvl Scale -1	Lvl Scale -1	Lvl Scale -1	Lvl Scale -1	Lvl Scale +1
+25/25/25/25/25/25	25/25/25/25/25/25	25/25/25/25/25/25	25/25/25/25/25/25	25/25/25/25/25/25
+0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0
+Hardy	Hardy	Hardy	Hardy	Hardy
+None	None	None	None	Sitrus Berry
+Guts	Natural Cure	Reckless	Disguise	Overgrow
+Wing Attack	Water Pulse	Blaze Kick	Shadow Claw	Grass Pledge
+Quick Attack	Recover	Wild Charge	Shadow Sneak	Dragon Breath
+Roost	Psybeam	Take Down	Bulk Up	Fury Cutter
+U-Turn	Icy Wind	Double Kick	Drain Punch	Rock Tomb
