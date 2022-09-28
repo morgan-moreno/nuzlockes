@@ -1,0 +1,52 @@
+===
+Trainers:
+===
+
+Bird Keeper Humberto
+-Gliscor lvl 0 (A) (N) Jolly (I) Flying Gem // Acrobatics, Earthquake, Poison Jab, Swords Dance
+-Mandibuzz lvl 0 (A) Overcoat (N) Impish (I) Leftovers // Foul Play, Swagger, Roost, Substitute
+-Hawlucha lvl 0 (A) Unburden (N) Jolly (I) Sitrus Berry // Brave Bird, Close Combat, Stone Edge, Swords Dance
+-Minior lvl 0 (A) (N) Jolly (I) White Herb // Acrobatics, Rock Slide, Zen Headbutt, Shell Smash
+
+Bird Keeper Jared (potential double with Picnicker Ashley)
+-Swoobat lvl 0 (A) Simple (N) Timid (I) Salac Berry // Air Slash, Psyshock, Energy Ball, Nasty Plot
+-Noctowl lvl 0 (A) Tinted Lens (N) Modest (I) Leftovers // Hurricane, Heat Wave, Roost, Nasty Plot
+-Noivern lvl 0 (A) Infiltrator (N) Timid (I) White Herb // Draco Meteor, Hurricane, Flamethrower, Water Pulse
+
+Picnicker Ashley (potential double with Bird Keeper Jared)
+-Braviary lvl 0 (A) Defiant (N) Jolly (I) Sitrus Berry // Brave Bird, Double Edge, Close Combat, Assurance
+-Pidgeot lvl 0 (A) No Guard (N) Timid (I) Normal Gem // Hyper Beam, Hurricane, Focus Blast, Heat Wave
+-Swanna lvl 0 (A) Hydration (N) Jolly (I) Life Orb // Brave Bird, Liquidation, Steel Wing, Aqua Jet
+
+Camper Flint (forced double with Bird Keeper Edwardo)
+-Swellow lvl 0 (A) Guts (N) Adamant (I) Flame Orb // Brave Bird, Double Edge, Protect, U-Turn
+-Yanmega lvl 0 (A) Speed Boost (N) Modest (I) Life Orb // Bug Buzz, Hurricane, Psychic, Detect
+-Mantine lvl 0 (A) Water Absorb (N) Timid (I) Sitrus Berry // Scald, Air Slash, Ice Beam, Roost
+
+Bird Keeper Edwardo (forced double with Camper Flint)
+-Staraptor lvl 0 (A) Intimidate (N) Adamant (I) Sitrus Berry // Brave Bird, Double Edge, Close Combat, U-Turn
+-Honchkrow lvl 0 (A) Moxie (N) Naive (I) Dark Gem // Brave Bird, Sucker Punch, Icy Wind, Heat Wave
+-Drifblim lvl 0 (A) Flare Boost (N) Timid (I) Flame Orb // Shadow Ball, Thunderbolt, Protect, Hypnosis 
+
+Bird Keeper Darius
+-Tropius lvl 0 (A) Harvest (N) Bold (I) Sitrus Berry // Sunny Day, Air Slash, Leech Seed, Substitute
+-Dodrio lvl 0 (A) Moxie (N) Jolly (I) Normal Gem // Brave Bird, Double Edge, Jump Kick, Quick Attack
+-Emolga lvl 0 (A) Static (N) Jolly (I) Flying Gem // Acrobatics, Wild Charge, U-Turn, Thunder Wave
+-Archeops lvl 0 (A) Defeatist (N) Jolly (I) Flying Gem // Acrobatics, Stone Edge, Dragon Claw, Crunch
+
+===
+Bosses:
+===
+
+Winona (Double)
+Gyarados	Hawlucha	Dragonite	Aerodactyl	Emolga	Altaria
+Lvl Scale +1	Lvl Scale +1	Lvl Scale +1	Lvl Scale +1	Lvl Scale +1	Lvl Scale +3
+31/31/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/0/31/31/31/31	31/31/31/31/31/31
+252/252/0/0/0/4	4/252/0/0/0/252	252/252/0/0/0/4	4/252/0/0/0/252	252/0/0/0/4/252	4/252/0/0/0/252
+Adamant	Jolly	Adamant	Jolly	Timid	Jolly
+Wacan Berry	Flying Gem	Yache Berry	Life Orb	Focus Sash	Altarianite
+Intimidate	Unburden	Multiscale	Rock Head	Lightning Rod	Pixilate
+Waterfall	Close Combat	Wing Attack	Rock Slide	Hurricane	Return
+Earthquake	Brave Bird	Earthquake	Brave Bird	Electroweb	Earthquake
+Stone Edge	Rock Slide	Fire Punch	Earthquake	Tickle	Roost
+Power Whip	Encore	Extreme Speed	Wide Guard	Helping Hand	Dragon Dance

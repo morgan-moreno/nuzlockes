@@ -1,0 +1,276 @@
+$
+Route 102
+$
+
+Youngster Calvin
+-Poochyena lvl -2 // Howl, Tackle
+-Lillipup lvl -2 // Tackle, Odor Sleuth
+
+Bug Catcher Rick
+-Wurmple lvl -4 // String Shot, Poison Sting
+-Sewaddle lvl -4 // String Shot, Tackle
+-Grubbin lvl -4 // String Shot, Vise Grip
+
+Youngster Allen
+-Zigzagoon lvl -4 // Tackle, Growl, Tail Whip
+-Taillow lvl -4 // Quick Attack, Growl, Rage
+
+Lass Tiana
+-Buizel lvl -3 // Growl, Quick Attack
+-Shroomish lvl -3 // Tackle, Stun Spore
+
+$
+Route 104 (South)
+$
+
+Youngster Billy
+-Litleo lvl -5 (A) Rivalry // Tackle, Leer, Ember
+-Seedot lvl -3 // Bide, Harden
+
+Fisherman Darian
+-Magikarp lvl -3 // Splash, Tackle
+-Goldeen lvl -3 // Horn Attack, Supersonic, Water Sport, Tail Whip
+
+Lady Cindy
+-Buneary lvl 0 // Endure, Pound, Defense Curl, Baby Doll Eyes
+
+$
+Petalburg Woods
+$
+
+Bug Catcher Lyle
+-Venipede lvl -3 // Defense Curl, Rollout, Poison Sting, Screech
+-Surskit lvl -3 // Bubble, Quick Attack, Sweet Scent
+-Cascoon lvl -2 // Poison Sting, Harden
+-Kakuna lvl -2 // Poison Sting, Harden
+
+Team Aqua Grunt
+-Carvanha lvl -3 (A) Speed Boost // Bite, Leer, Aqua Jet, Rage
+-Skrelp lvl -3 (A) Adaptability // Bubble, Tail Whip, Feint Attack, Smokescreen
+
+Bug Catcher James
+-Nincada lvl -3 // Sand Attack, Absorb, Bug Bite
+-Paras lvl -3 // Absorb, Poison Powder, Stun Spore, Scratch
+
+$
+Route 104 (North)
+$
+
+Rich Boy Winston
+-Bidoof lvl -4 // Defense Curl, Rollout, Headbutt
+-Pidgey lvl -4 // Sand Attack, Gust, Quick Attack
+
+Lass Haley
+-Gothita lvl -4 // Confusion, Fake Tears, Play Nice, Tickle
+-Skiddo lvl -4 // Tackle, Growth, Vine Whip, Leech Seed
+-Starly lvl -4 (I) Oran Berry // Quick Attack, Aerial Ace, Growl, Double-Team
+
+Twins Gina & Mia
+-Petilil lvl -3 // Fairy Wind, Absorb, Leech Seed, Stun Spore
+-Cottonee lvl -3 // Fairy Wind, Absorb, Leech Seed, Growth
+
+Fisherman Ivan
+-Luvdisc lvl -3 // Tackle, Charm, Water Gun, Agility
+- Feebas lvl 0 // Tackle, Splash
+-Tentacool lvl -3 (A) Liquid Ooze // Buble, Acid, Constrict
+
+$
+Rustboro Gym
+$
+
+Youngster Josh
+-Geodude lvl -4 (A) Sturdy // Rock Tomb, Flail, Magnitude, Rock Polish
+-Dwebble lvl -4 (A) Sturdy // Rock Tomb, Fury Cutter, Sand Tomb, Withdraw
+
+Youngster Tommy (potential double with Hiker Marc)
+-Kabuto lvl -3 (A) Battle Armor // Rock Tomb, Aqua Jet, Absorb, Screech
+-Rockruff lvl -3(A) Vital Spirit // Rock Tomb, Bite, Howl
+
+Hiker Marc (potential double with Youngster Tommy)
+-Cranidos lvl -3 // Rock Tomb, Headbutt, Pursuit
+-Archen lvl -3 // Rock Tomb, Bite, Aerial Ace, Quick Attack
+-Shieldon lvl -3 // Taunt, Counter, Rock Tomb, Iron Defense
+
+$
+Route 116
+$
+
+Bug Catcher Jose
+-Joltik lvl -4 // Thundershock, Fury Cutter, Absorb, Spider Web
+-Cutiefly lvl -4 // Struggle Bug, Fairy Wind, Absorb, Stun Spore
+
+Youngster Joey
+-Machop lvl -4 // Low Kick, Leer, Bide, Seismic Toss
+-Rattata lvl -4 // Quick Attack, Tail Whip, Bite
+
+School Kid Karen
+-Fomantis lvl -5 // Leafage, Fury Cutter
+-Riolu lvl -5 // Counter, Quick Attack, Endure
+-Eevee lvl -5 // Covet, Tail Whip, Baby Doll Eyes, Sand Attack
+
+Hiker Clark (potential double with Youngster Johnson)
+-Geodude lvl -5 // Rock Throw, Defense Curl, Tackle
+-Roggenrola lvl -5 // Rock Throw, Round, Harden
+
+Youngster Johnson (potential double with Hiker Clark or Hiker Devan)
+-Shinx lvl -4 // Baby Doll Eyes, Tackle, Leer, Charge
+-Patrat lvl -4 // Detect, Bide, Leer, Bite
+
+Hiker Devan (potential double with Youngster Johnson)
+-Drilbur lvl -5 // Fury Swipes, Mud Slap, Rapid Spin, Iron Defense
+-Woobat lvl -5  // Heart Swap, Assurance, Gust, Odor Sleuth
+
+Lady Sarah (potential double with Rich Boy Dawson)
+-Lombre lvl -3 // Astonish, Absorb, Bubble, Fake Out
+-Furret lvl -3 // Agility, Quick Attack, Defense Curl, Fury Swipes
+
+Rich Boy Dawson (potential double with Lady Sarah)
+-Blitzle lvl -4 // Shock Wave, Thunder Wave, Quick Attack
+-Pansear lvl -4 // Incinerate, Bite, Yawn, Play Nice
+
+School Kid Jerry
+-Ralts lvl -2 // Confusion, Disarming Voice, Double-Team, Lucky Chant
+-Shuppet lvl -4 // Shadow Sneak, Screech, Knock Off, Spite
+-Pancham lvl -4 // Karate Chop, Work Up, Comet Punch
+
+Lass Janice
+-Marill lvl -4 // Aqua Jet, Defense Curl, Rollout, Helping Hand
+-Bounsweet lvl -4 // Razor Leaf, Rapid Spin, Play Nice, Splash
+
+$
+Rusturf Tunnel
+$
+
+Team Aqua Grunt
+-Carvanha lvl -3 (A) Speed Boost // Bite, Leer, Aqua Jet, Protect
+-Skrelp lvl -3 (A) Adaptability // Bubble, Acid, Feint Attack, Smokescreen
+-Grimer -3 (A) Poison Touch // Shadow Sneak, Venoshock, Poison Gas
+
+Hiker Mike
+-Boldore lvl -1 // Power Gem, Shock Wave, Round, Iron Defense
+-Graveller lvl -1 (A) Sturdy // Bulldoze, Smack Down, Self Destruct, Rock Polish
+-Primeape lvl -1 (A) Defiant // Cross Chop, Assurance, Swagger, Thrash
+
+$
+Route 106
+$
+
+Fisherman Ned
+-Staryu lvl -3 // Swift, Psywave, Water Gun, Recover
+-Finneon lvl -3 // Gust, Attract, Water Gun, Rain Dance
+
+Fisherman Elliot
+-Wimpod lvl -3 // Struggle Bug, Sand Attack, Aqua Jet
+-Frillish lvl -4 // Bubblebeam, Absorb, NightShade, Water Sport
+-Shellder lvl -4 (A) Overcoat // Icicle Spear, Supersonic, Water Gun, Withdraw
+
+Swimmer Douglas
+-Lapras lvl -3 // Freeze Dry, Water Pulse, Perish Song, Sing
+-Tentacruel lvl -3 // Sludge Bomb, Hydro Pump, Hex, Reflect Type
+
+Swimmer Kyla
+-Nidoqueen lvl -3 (A) Sheer Force // Surf, Sludge Bomb, Superpower, Crunch
+-Golduck lvl -3 // Aqua Tail, Zen Headbutt, Cross Chop, Soak
+-Jellicent lvl -3 // Water Spout, Shadow Ball, Recover, Acid Armor
+
+$
+Dewford Gym
+$
+
+Battle Girl Laura
+-Mienfoo lvl -4 // Fake Out, Detect, Meditate, Low Sweep
+-Makuhita lvl -4 // Fake Out, Force Palm, Knock Off, Sand Attack
+-Crabrawler lvl -4 // Pursuit, Rock Smash, Leer, Bubblebeam
+
+Battle Girl Lilith (forced double with Sailor Brenden)
+-Monferno lvl -3 // Fake Out, Mach Punch, Flame Wheel, Torment
+-Croagunk lvl -3 (A) Dry Skin // Toxic, Venoshock, Feint Attack, Vacuum Wave
+-Timburr lvl -3 // Low Kick, Rock Throw, Leer, Mach Punch
+
+Sailor Brenden (forced double with Battle Girl Lilith)
+-Tyrogue lvl -3 // Fake Out, Bullet Punch, Mach Punch, Meditate
+-Scraggy lvl -3 (A) Moxie // Feint Attack, Low Kick, Headbutt, Leer
+
+Black Belt Takao
+-Machop lvl -3 (A) No Guard // Low Sweep, Leer, Foresight, Thunder Punch
+-Stufful  lvl -3 // Brutal Swing, Bide, Force Palm, Bulldoze
+-Jangmo-o lvl -3 (A) Soundproof // Dragon Tail, Counter, Brick Break, Shadow Claw
+
+Black Belt Cristian
+-Pignite lvl 0 // Flame Charge, Rollout, Defense Curl, Arm Thrust
+
+Battle Girl Jocelyn
+-Meditite lvl -3 // Fake Out, Detect, Meditate, Low Sweep
+-Mankey lvl -3 // Pursuit, Karate Chop, Lee, Covet
+
+$
+Route 109
+$
+
+Sailor Huey
+-Wingull lvl -3 // Aerial Ace, Bubblebeam, Supersonic, Mist
+-Timburr lvl -3 // Rock Throw, Low Kick, Bide, Leer
+
+Sailor Edmond (potential double with Tuber Hailey)
+-Slowpoke lvl -3 // Confusion, Water Gun, Yawn, Grown
+-Cubchoo lvl -3 // Icy Wind, Bide, Growl
+-Staravia lvl -3 // Aerial Ace, Quick Attack, Growl, Double-Team
+
+Tuber Hailey (potential double with Sailor Edmond or Tuber Ricky)
+-Marill lvl -2// Water Pulse, Defense Curl, Rollout, Helping Hand
+-Bibarel lvl -3  // Headbutt, Defense Curl, Rollout, Aqua Jet
+
+Tuber Ricky (potential double with Tuber Hailey; or forced after double Tuber Hailey and Sailor Edmond)
+-Zigzagoon lvl 0 // Sand Attack, Headbutt, Pin Missile, Surf
+
+Tuber Lola (potential double with Tuber Chandler)
+-Azurill lvl -3 // Water Pulse, Charm, Tail Whip, Bounce
+-Spheal lvl -3 // Brine, Defense Curl, Ice Ball, Encore
+
+Tuber Chandler (potential double with Tuber Lola)
+-Mareanie lvl -2 // Bite, Peck, Poison Sting, Toxic Spikes
+-Panpour  lvl -1 // Scald, Bite, Lick, Play Nice
+
+Tuber Simon
+-Seel lvl -3 // Ice Shard, Encore, Headbutt, Icy Wind
+-Totodile lvl -3 // Water Gun, Bite, Rage, Leer
+-Herdier lvl -3 // Take Down, Bite, Odor Sleuth, Surf
+
+Beauty Johanna
+-Goldeen lvl -2 (A) Lightning Rod // Bubblebeam, Peck, Horn Attack, Supersonic
+-Bruxish lvl -3 (A) Strong Jaw // Aqua Jet, Bite, Confusion, Astonish
+
+Sailor Dwayne
+-Corphish lvl -3 // Bubblebeam, Vise Grip, Leer, Harden
+-Tentacool lvl -3 // Bubblebeam, Acid, Constrict
+-Makuhita lvl -3 // Whirlwind, Force Palm, Fake Out
+
+Tuber Austina
+-Gastrodon lvl -2 (A) Storm Drain // Muddy Water, Earth Power, Rain Dance, Recover
+-Bibarel lvl -2 (A) Simple // Aqua Jet, Quick Attack, Crunch, Swords Danc
+
+Tuber Gwen
+-Floatzel lvl -3 // Hydro Pump, Crunch, Ice Fang, Aqua Jet
+-Luvdisc lvl -3 (A) Soul-Heart // Hydro Pump, Draining Kiss, Lovely Kiss, Charm
+-Quagsire lvl -3 (A) Water Absorb // Earthquake, Aqua Tail, Toxic, Recover
+
+Swimmer David
+-Crawdaunt lvl -2 // Liquidation, Crunch, Swords Dance, Aqua Jet
+-Palossand lvl -2 // Earth Power, Shadow Ball, Giga Drain, Hypnosis
+
+Swimmer Alice
+-Corsola lvl -3 // Power Gem, Earth Power, Brine, Recover
+-Closyter lvl -3 (A) Skill Link // Icicle Spear, Rock Blast, Hydro Pump, Shell Smash
+-Kangaskhan lvl -3 // Surf, Crunch, Outrage, Mega Punch
+
+Fisherman Carter (potential double with Bird Keeper Elijah)
+-Tentacruel lvl -2 // Sludge Wave, Hydro Pump, Acid Armor, Screech
+-Lanturn lvl -2 // Charge Beam, Signal Beam, Hydro Pump, Confuse Ray
+
+Bird Keeper Elijah (potential double with Fisherman Carter)
+-Skarmory lvl -2 (A) Sturdy // Drill Peck, Steel Wing, Swords Dance, Roost
+-Honchkrow lvl -2 (A) Super Luck // Drill Peck, Night Slash, Roost, Thunder Wave
+
+Young Couple Mel & Paul
+-Dustox lvl -2 // Bug Buzz, Quiver Dance, Toxic, Protect
+-Beautifly lvl -2 // Hurricane, Giga Drain, Attract, Quiver Dance

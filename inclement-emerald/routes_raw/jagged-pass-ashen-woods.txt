@@ -17,9 +17,9 @@ Hiker Roman
 -Golem lvl -2 (A) Rock Head // Earthquake, Rock Blast, Steamroller, Explosion
 
 Pokemon Ranger Martin (potential double with Pokemon Ranger Alannah)
--Alolan-Muk lvl -1 (A) Poison Touch // Poison Jab, Crunch, Acid Spray, Disable
+-Muk-Alolan lvl -1 (A) Poison Touch // Poison Jab, Crunch, Acid Spray, Disable
 -Golisopod lvl -1  // Razor Shell, First Impression, Sucker Punch, Drill Run
--Chansey lvl -1 (I) Eviolite // Seismic Toss, Soft Boiled, Toxic, Heal Pulse
+-Chansey lvl -1 (I) Eviolite // Seismic Toss, Soft-Boiled, Toxic, Heal Pulse
 
 Pokemon Ranger Alannah (potential double with Pokemon Ranger Martin)
 -Primarina lvl -1 (A) Berserk // Sparkling Aria, Moonblast, Icy Wind, Sing

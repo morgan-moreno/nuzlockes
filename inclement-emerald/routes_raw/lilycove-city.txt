@@ -1,0 +1,47 @@
+===
+Trainers:
+===
+
+
+===
+Bosses:
+===
+
+May (Lilycove City) - Grass		
+Vikavolt	Swellow	Starmie	Tsareena	Mimikyu	Blaziken
+Lvl Scale +1	Lvl Scale +1	Lvl Scale +1	Lvl Scale +1	Lvl Scale +1	Lvl Scale +3
+31/0/31/31/31/31	31/31/31/31/31/31	31/0/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31
+0/0/0/252/0/252	4/252/0/0/0/252	0/0/0/252/0/252	4/252/0/0/0/252	4/252/0/0/0/252	4/252/0/0/0/252
+Timid	Jolly	Timid	Jolly	Jolly	Adamant
+Life Orb	Flame Orb	Water Gem	Assault Vest	Lum Berry	Blazikenite
+Levitate	Guts	Analytic	Queenly Majesty	Disguise	Speed Boost
+Thunderbolt	Brave Bird	Hydro Pump	Power Whip	Shadow Claw	Flare Blitz
+Bug Buzz	Facade	Psyshock	High Jump Kick	Play Rough	High Jump Kick
+Energy Ball	Reversal	Thunder	Knock Off	Swords Dance	Thunder Punch
+Sticky Web	Protect	Ice Beam	Strength	Shadow Sneak	Swords Dance
+
+May (Lilycove City) - Fire					
+Vikavolt	Swellow	Rapidash	Tsareena	Mimikyu	Swampert
+Lvl Scale +1	Lvl Scale +1	Lvl Scale +1	Lvl Scale +1	Lvl Scale +1	Lvl Scale +3
+31/0/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31
+0/0/0/252/0/252	4/252/0/0/0/252	4/252/0/0/0/252	4/252/0/0/0/252	4/252/0/0/0/252	4/252/0/0/0/252
+Timid	Jolly	Jolly	Jolly	Jolly	Jolly
+Life Orb	Flame Orb	Fire Gem	Assault Vest	Lum Berry	Swampertite
+Levitate	Guts	Reckless	Queenly Majesty	Disguise	Swift Swim
+Thunderbolt	Brave Bird	Flare Blitz	Power Whip	Shadow Claw	Liquidation
+Bug Buzz	Facade	Jump Kick	High Jump Kick	Play Rough	Earthquake
+Energy Ball	Reversal	Wild Charge	Knock Off	Swords Dance	Ice Punch
+Sticky Web	Protect	Poison Jab	Strength	Shadow Sneak	Rain Dance
+
+May (Lilycove City) - Water
+Vikavolt	Swellow	Starmie	Rapidash	Mimikyu	Sceptile
+Lvl Scale +1	Lvl Scale +1	Lvl Scale +1	Lvl Scale +1	Lvl Scale +1	Lvl Scale +3
+31/0/31/31/31/31	31/31/31/31/31/31	31/0/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/0/31/31/31/31
+0/0/0/252/0/252	4/252/0/0/0/252	0/0/0/252/0/252	4/252/0/0/0/252	4/252/0/0/0/252	0/4/0/252/0/252
+Timid	Jolly	Timid	Jolly	Jolly	Hasty
+Life Orb	Flame Orb	Assault Vest	Fire Gem	Lum Berry	Sceptilite
+Levitate	Guts	Analytic	Reckless	Disguise	Chloroplast
+Thunderbolt	Brave Bird	Hydro Pump	Flare Blitz	Shadow Claw	Solar Beam
+Bug Buzz	Facade	Psyshock	Jump Kick	Play Rough	Dragon Pulse
+Energy Ball	Reversal	Thunder	Wild Charge	Swords Dance	Earthquake
+Sticky Web	Protect	Ice Beam	Poison Jab	Shadow Sneak	Growth

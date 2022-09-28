@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "nuzlocke-web",
+			"path": "../../pinkgrippers/nuzlocke-web"
+		},
+		{
+			"name": "nuzlocke-api",
+			"path": "../../pinkgrippers/nuzlocke-api"
+		},
+		{
+			"name": "nuzlocke",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

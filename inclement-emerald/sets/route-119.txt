@@ -4,20 +4,21 @@ Pokemon Ranger Catherine
 ===
 
 Bellossom @ Miracle Seed
-Level: 68
+Level: 53
 - Quiver Dance
 - Moonblast
 - Giga Drain
 - Sleep Powder
 
 Noivern @ Petaya Berry
-Level: 68
+Level: 53
 - Hurricane
 - Water Pulse
-- Dragon Pulse Boomburst
+- Dragon Pulse
+- Boomburst
 
 Beartic @ Water Gem
-Level: 68
+Level: 53
 Ability: Swift Swim
 - Icicle Crash
 - Liquidation
@@ -25,7 +26,7 @@ Ability: Swift Swim
 - Aqua Jet
 
 Seismitoad @ Sitrus Berry
-Level: 68
+Level: 53
 - Earth Power
 - Hydro Pump
 - Sludge Wave
@@ -36,21 +37,21 @@ Pokemon Ranger Jackson
 ===
 
 Mantine @ Mystic Water
-Level: 68
+Level: 53
 - Hydro Pump
 - Hurricane
 - Signal Beam
 - Roost
 
 Rotom @ Salac Berry
-Level: 68
+Level: 53
 - Hurricane
 - Thunder
 - Shadow Ball
 - Nasty Plot
 
 Parasect @ Leftovers
-Level: 68
+Level: 53
 Ability: Dry Skin
 - Spore
 - Substitute
@@ -58,7 +59,7 @@ Ability: Dry Skin
 - Leech Life
 
 Lapras @ Sitrus Berry
-Level: 68
+Level: 53
 Ability: Hydration
 - Liquidation
 - Drill Run
@@ -70,14 +71,14 @@ Ninja Boy Hideo
 ===
 
 Bisharp @ 
-Level: 68
+Level: 53
 - Night Slash
 - Iron Head
 - Laser Focus
 - Torment
 
 Muk @ 
-Level: 68
+Level: 53
 - Gunk Shot
 - Screech
 - Shadow Sneak
@@ -88,14 +89,14 @@ Team Aqua Grunt 2
 ===
 
 Golbat @ 
-Level: 68
+Level: 53
 - Acrobatics
 - Leech Life
 - Confuse Ray
 - Hypnosis
 
 Dragalge @ 
-Level: 68
+Level: 53
 Ability: Adaptability
 - Sludge Bomb
 - Dragon Pulse
@@ -103,7 +104,7 @@ Ability: Adaptability
 - Toxic
 
 Liepard @ 
-Level: 68
+Level: 53
 - Sucker Punch
 - Play Rough
 - Swagger
@@ -114,7 +115,7 @@ Team Aqua Grunt 3 (Right) (potential double with Team Aqua Grunt 4)
 ===
 
 Toxicroak @ Black Sludge
-Level: 69
+Level: 54
 Ability: Dry Skin
 - Poison Jab
 - Drain Punch
@@ -122,7 +123,7 @@ Ability: Dry Skin
 - Protect
 
 Eelektross @ 
-Level: 69
+Level: 54
 - Thunder
 - Aqua Tail
 - Giga Drain
@@ -133,7 +134,7 @@ Team Aqua Grunt 4 (Left) (potential double with Team Aqua Grunt 3)
 ===
 
 Pelipper @ 
-Level: 69
+Level: 54
 Ability: Drizzle
 - Hurricane
 - Hydro Pump
@@ -141,7 +142,7 @@ Ability: Drizzle
 - Roost
 
 Ferrothorn @ 
-Level: 69
+Level: 54
 - Power Whip
 - Iron Head
 - Payback
@@ -152,21 +153,21 @@ Team Aqua Grunt 5
 ===
 
 Mightyena @ 
-Level: 68
+Level: 53
 - Crunch
 - Play Rough
 - Fire Fang
 - Ice Fang
 
 Golisopod @ 
-Level: 68
+Level: 53
 - First Impression
 - Liquidation
 - Sucker Punch
 - Close Combat
 
 Muk-Alola @ 
-Level: 68
+Level: 53
 - Crunch
 - Poison Jab
 - Fire Blast
@@ -177,7 +178,7 @@ Shelly (Weather Institute)
 ===
 
 Ninetales-Alola @ Light Clay
-Level: 70
+Level: 55
 EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Timid Nature
 Ability: Snow Warning
@@ -187,7 +188,7 @@ Ability: Snow Warning
 - Aurora Veil
 
 Empoleon @ Petaya Berry
-Level: 70
+Level: 55
 EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Modest Nature
 Ability: Slush Rush
@@ -197,7 +198,7 @@ Ability: Slush Rush
 - Grass Knot
 
 Crawdaunt @ Ice Gem
-Level: 71
+Level: 56
 EVs: 0 Hp / 252 Atk / 0 Def / 4 SpA / 0 SpD / 252 Spe
 Naive Nature
 Ability: Adaptability
@@ -207,7 +208,7 @@ Ability: Adaptability
 - Blizzard
 
 Clefable @ Leftovers
-Level: 70
+Level: 55
 EVs: 252 Hp / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
 Bold Nature
 Ability: Magic Guard
@@ -217,7 +218,7 @@ Ability: Magic Guard
 - Soft Boiled
 
 Ludicolo @ Safety Goggles
-Level: 70
+Level: 55
 EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Modest Nature
 Ability: Rain Dish
@@ -227,7 +228,7 @@ Ability: Rain Dish
 - Blizzard
 
 Beedrill @ Beedrillite
-Level: 72
+Level: 57
 EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Jolly Nature
 Ability: Adaptability
@@ -241,7 +242,7 @@ May (Route 119) - Grass
 ===
 
 Swellow @ Life Orb
-Level: 70
+Level: 55
 EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Timid Nature
 Ability: Scrappy
@@ -251,7 +252,7 @@ Ability: Scrappy
 - U-turn
 
 Starmie @ Life Orb
-Level: 70
+Level: 55
 EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Timid Nature
 Ability: Analytic
@@ -261,7 +262,7 @@ Ability: Analytic
 - Ice Beam
 
 Tsareena @ Grass Gem
-Level: 70
+Level: 55
 EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Jolly Nature
 Ability: Queenly Majesty
@@ -271,7 +272,7 @@ Ability: Queenly Majesty
 - Strength
 
 Mimikyu @ Lum Berry
-Level: 70
+Level: 55
 EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Jolly Nature
 Ability: Disguise
@@ -281,7 +282,7 @@ Ability: Disguise
 - Shadow Sneak
 
 Vikavolt @ Assault Vest
-Level: 70
+Level: 55
 EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Timid Nature
 Ability: Levitate
@@ -291,7 +292,7 @@ Ability: Levitate
 - Mud Shot
 
 Blaziken @ Blazikenite
-Level: 72
+Level: 57
 EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Modest Nature
 Ability: Speed Boost
@@ -305,7 +306,7 @@ May (Route 119) - Fire
 ===
 
 Swellow @ Life Orb
-Level: 70
+Level: 55
 EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Timid Nature
 Ability: Scrappy
@@ -315,7 +316,7 @@ Ability: Scrappy
 - U-turn
 
 Rapidash @ Life Orb
-Level: 70
+Level: 55
 EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Jolly Nature
 Ability: Reckless
@@ -325,7 +326,7 @@ Ability: Reckless
 - Poison Jab
 
 Tsareena @ Grass Gem
-Level: 70
+Level: 55
 EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Jolly Nature
 Ability: Queenly Majesty
@@ -335,7 +336,7 @@ Ability: Queenly Majesty
 - Strength
 
 Mimikyu @ Lum Berry
-Level: 70
+Level: 55
 EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Jolly Nature
 Ability: Disguise
@@ -345,7 +346,7 @@ Ability: Disguise
 - Shadow Sneak
 
 Vikavolt @ Assault Vest
-Level: 70
+Level: 55
 EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Timid Nature
 Ability: Levitate
@@ -355,7 +356,7 @@ Ability: Levitate
 - Mud Shot
 
 Swampert @ Swampertite
-Level: 72
+Level: 57
 EVs: 252 Hp / 252 Atk / 0 Def / 4 SpA / 0 SpD / 0 Spe
 Naive Nature
 Ability: Swift Swim
@@ -369,7 +370,7 @@ May (Route 119) - Water
 ===
 
 Swellow @ Life Orb
-Level: 70
+Level: 55
 EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Timid Nature
 Ability: Scrappy
@@ -379,7 +380,7 @@ Ability: Scrappy
 - U-turn
 
 Starmie @ Life Orb
-Level: 70
+Level: 55
 EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Timid Nature
 Ability: Analytic
@@ -389,7 +390,7 @@ Ability: Analytic
 - Ice Beam
 
 Rapidash @ Life Orb
-Level: 70
+Level: 55
 EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Jolly Nature
 Ability: Reckless
@@ -399,7 +400,7 @@ Ability: Reckless
 - Poison Jab
 
 Mimikyu @ Lum Berry
-Level: 70
+Level: 55
 EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Jolly Nature
 Ability: Disguise
@@ -409,7 +410,7 @@ Ability: Disguise
 - Shadow Sneak
 
 Vikavolt @ Assault Vest
-Level: 70
+Level: 55
 EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Timid Nature
 Ability: Levitate
@@ -419,7 +420,7 @@ Ability: Levitate
 - Mud Shot
 
 Sceptile @ Sceptilite
-Level: 72
+Level: 57
 EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Timid Nature
 Ability: Chloroplast

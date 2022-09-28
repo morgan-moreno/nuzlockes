@@ -1,0 +1,68 @@
+===
+Trainers:
+===
+
+Psychic Preston (potential double with Psychic Maura)
+-Slowking lvl -2 (A) (N) Modest (I) Assault Vest // Surf, Psychic, Ice Beam, Fire Blast
+-Alakazam lvl -2 (A) Magic Guard (N) Timid (I) Life Orb // Psychic, Aura SPhere, Dazzling Gleam, Shadow Ball
+
+Psychic Maura (potential double with Psychic Preston)
+-Beheeyem lvl -1 (A) Psychic Surge (N) Modest (I) Psychic Seed // Psychic, Thunderbolt, Dark Pulse, Nasty Plot
+-Espeon lvl -1 (A) Magic Bounce (N) Timid (I) Fairy Gem // Dazzling Gleam, Psychic, Shadow Ball, Calm Mind
+
+Psychic Samantha (potential double with Psychic Blake)
+-Xatu lvl -2 (A) Magic Bounce (N) Timid (I) Fire Gem // Psychic, Air Slash, Heat Wave, Shadow Ball
+-Gardevoir lvl -2 (A) Trace (N) Timid (I) Expert Belt // Dazzling Gleam, Mystical Fire, Focus Blast, Shadow Ball
+
+Psychic Blake (potential double with Psychic Samantha)
+-Girafarig lvl -2 (N) Jolly (I) Salac Berry // Psychic Fangs, Crunch, Hyper Fang, Ice Fang
+-Meowstic (F) lvl -2 (A) Sheer Force (N) Timid (I) Life Orb // Psychic, Thunderbolt, Energy Ball, Signal Beam
+
+Psychic Nicholas
+-Musharna lvl -2 (A) Psychic Surge (N) Modest (I) Psychic Seed // Future Sight, Hypnosis, Reflect, Light Screen
+-Wobbuffet lvl -2 (A) Shadow Tag (N) Bold (I) Rocky Helmet // Counter, Mirror Coat, Encore, Destiny Bond
+
+Hex Maniac Kathleen (potential double with Psychic Nicholas or Gentleman Clifford)
+-Hypno lvl -2 (N) Timid (I) Electric Seed // Future Sight, Shadow Ball, Hypnosis, Focus Blast
+-Swoobat lvl -2 (A) Simple (N) Timid (I) Weakness Policy // Air Slash, Giga Drain, Heat Wave, Endure
+
+Gentleman Clifford (potential double with Hex Maniac Kathleen or Psychic Macey)
+-Raichu (Alolan) lvl -2 (N) Timid (I) Electric Seed // Psychic, Thunderbolt, Grass Knot, Electric Terrain
+-Mr. Mime lvl -2 (N) Timid (I) Light Clay // Psychic, Dazzling Gleam, Reflect, Light Screen
+
+Psychic Macey (potential double with Gentleman Clifford)
+-Jynx lvl -2 (A) Dry Skin (N) Timid (I) Ice Gem // Psychic, Freeze-dry, Lovely Kiss, Nasty Plot
+-Delphox lvl -2 (A) Pyromancy (N) Timid (I) Power Herb // Psychic, Heat Wave, Solar Beam, Aura Sphere
+
+Gentleman Nate (potential double with Psychic Virgil)
+-Grumpig lvl -2 (N) Modest (I) Assault Vest // Extrasensory, Energy Ball, Focus Blast, Charge Beam
+-Starmie lvl -2 (N) Bold (I) Rocky Helmet // Psychic, Scald, Recover, Cosmic Power
+
+Psychic Virgil (potential double with Gentleman Nate)
+-Medicham lvl -2 (N) Jolly (I) Rock Gem // Drain Punch, Poison Jab, Fake Out, Rock Slide
+-Bronzong lvl -2 (A) Heavy Metal (N) Adamant (I) Air Ballon // Heavy Slam, Payback, Hypnosis, Rock Slide
+
+Hex Maniac Sylvia (potential double with Psychic Hannah)
+-Oranguru lvl -2 (N) Quiet (I) Dark Gem // Trick Room, Psychic, Foul Play, Hyper Beam
+-Gothitelle lvl -2 (A) Shadow Tag (N) Quiet (I) Leftovers // Psychic, Thunderbolt, Charm, Calm Mind
+
+Psychic Hannah (potential double with Hex Maniac Sylvia)
+-Bruxish lvl -2 (A) Strong Jaw (N) Jolly (I) Poison Gem // Liquidation, Psychic Fangs, Poison Fang, Ice Fang
+-Malamar lvl -2 (A) Contrary (N) Brave (I) Leftovers // Superpower, Throat Chop, Psycho Cut, Rock Slide
+
+===
+Bosses:
+===
+
+Tate and Liza (Double Battle) (Inverse Battle)
+Slowbro	Claydol	Exeggutor	Reuniclus	Lunatone	Solrock
+Lvl Scale +2	Lvl Scale +2	Lvl Scale +2	Lvl Scale +2	Lvl Scale +3	Lvl Scale +3
+31/0/31/31/31/0	31/0/31/31/31/0	31/0/31/31/31/0	31/0/31/31/31/0	31/0/31/31/31/0	31/31/31/31/31/0
+252/0/4/252/0/0	252/0/104/0/152/0	252/0/4/252/0/0	252/0/4/252/0/0	252/0/4/252/0/0	252/252/0/0/0/4
+Quiet	Sassy	Quiet	Quiet	Quiet	Brave
+Slowbronite	Absorb Bulb	Expert Belt	Life Orb	Ghost Gem	Weakness Policy
+Shell Armor	Levitate	Chloroplast	Magic Guard	Levitate	Levitate
+Surf	Earth Power	Psychic	Psychic	Power Gem	Flare Blitz
+Psychic	Signal Beam	Sludge Bomb	Aura Sphere	Shadow Ball	Rock Slide
+Ice Beam	Psychic	Solar Beam	Thunder	Grass Knot	Zen Headbutt
+Calm Mind	Trick Room	Trick Room	Calm Mind	Calm Mind	Rock Polish

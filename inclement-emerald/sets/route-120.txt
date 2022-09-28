@@ -4,21 +4,21 @@ Parasol Lady Clarissa
 ===
 
 Tangrowth @ 
-Level: 67
+Level: 52
 - Power Whip
 - Ancient Power
 - Sleep Powder
 - Leech Seed
 
 Wailord @ 
-Level: 68
+Level: 53
 - Water Spout
 - Heavy Slam
 - Bounce
 - Aqua Ring
 
 Pyroar @ 
-Level: 67
+Level: 52
 - Fire Blast
 - Hyper Voice
 - Noble Roar
@@ -29,22 +29,22 @@ Bird Keeper Colin
 ===
 
 Dodrio @ 
-Level: 67
+Level: 52
 - Brave Bird
 - Return
 - Jump Kick
 - Swords Dance
 
 Xatu @ 
-Level: 67
+Level: 52
 Ability: Magic Bounce
 - Psychic
 - Air Slash
 - Roost
-- NightShade
+- Night Shade
 
 Oricorio @ 
-Level: 67
+Level: 52
 - Hurricane
 - Revelation Dance
 - Roost
@@ -55,21 +55,21 @@ Bug Maniac Jeffrey
 ===
 
 Durant @ 
-Level: 67
+Level: 52
 - X-Scissor
 - Iron Head
 - Crunch
 - Hone Claws
 
 Vespiquen @ 
-Level: 67
+Level: 52
 - Attack Order
 - Defend Order
 - Heal Order
 - Acrobatics
 
 Masquerain @ 
-Level: 67
+Level: 52
 - Bug Buzz
 - Air Slash
 - Quiver Dance

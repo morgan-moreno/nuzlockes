@@ -1,0 +1,173 @@
+
+===
+Aroma Lady Rose
+===
+
+Floette @ 
+Level: 53
+- Magical Leaf
+- Draining Kiss
+- Wish
+- Leech Seed
+
+Ivysaur @ 
+Level: 53
+- Seed Bomb
+- Sludge
+- Sleep Powder
+- Leech Seed
+
+Combee @ 
+Level: 55
+- Bug Buzz
+- Gust
+- Sweet Scent
+- Bug Bite
+
+===
+Youngster Deandre
+===
+
+Diggersby @ 
+Level: 53
+Ability: Huge Power
+- Double Kick
+- Bulldoze
+- Swords Dance
+- Quick Attack
+
+Lairon @ 
+Level: 54
+- Iron Head
+- Rock Slide
+- Take Down
+- Protect
+
+Simisear @ 
+Level: 53
+Ability: Blaze
+- Crunch
+- Acrobatics
+- Flame Burst
+- Yawn
+
+===
+Fisherman Wade
+===
+
+Gyarados @ 
+Level: 54
+Ability: Moxie
+- Aqua Tail
+- Ice Fang
+- Thrash
+- Whirlpool
+
+Chinchou @ 
+Level: 54
+- Discharge
+- Signal Beam
+- Water Pulse
+- Thunder Wave
+
+===
+Guitarist Dalton
+===
+
+Noivern @ 
+Level: 55
+- Dragon Pulse
+- Air Cutter
+- Moonlight
+- Supersonic
+
+===
+Interviewer Gabby & Ty
+===
+
+Magnezone @ 
+Level: 53
+Nature: Modest
+- Flash Cannon
+- Thunderbolt
+- Thunder Wave
+- Signal Beam
+
+Exploud @ 
+Level: 53
+Nature: Modest
+- Hyper Voice
+- Extrasensory
+- Focus Blast
+- Ice Beam
+
+===
+Fisherman Barny
+===
+
+Tentacruel @ 
+Level: 52
+Ability: Liquid Ooze
+- Hydro Pump
+- Sludge Wave
+- Wring Out
+- Barrier
+
+Sharpedo @ 
+Level: 52
+- Hydro Pump
+- Crunch
+- Ice Fang
+- Aqua Jet
+
+Barbaracle @ 
+Level: 52
+- Razor Shell
+- Stone Edge
+- Cross Chop
+- Night Slash
+
+===
+Bird Keeper Chester
+===
+
+Talonflame @ 
+Level: 53
+- Brave Bird
+- Flare Blitz
+- Steel Wing
+- Roost
+
+Mandibuzz @ 
+Level: 53
+- Foul Play
+- Roost
+- Iron Defense
+- Whirlwind
+
+===
+Bird Keeper Perry
+===
+
+Toucannon @ 
+Level: 52
+Ability: Skill Link
+- Brave Bird
+- Bullet Seed
+- Rock Blast
+- Roost
+
+Unfezant @ 
+Level: 52
+Ability: Super Luck
+- Drill Peck
+- Submission
+- Taunt
+- Detect
+
+Decidueye @ 
+Level: 52
+- Spirit Shackle
+- Leaf Blade
+- Jump Kick
+- Sucker Punch

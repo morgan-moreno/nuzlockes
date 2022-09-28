@@ -1,0 +1,41 @@
+===
+Trainers:
+===
+
+Bird Keeper Aidan (potential double with Cooltrainer Athena)
+-Pidgeot lvl -2 // Hyper Voice, Hurricane, Heat Wave, Work Up
+-Talonflame lvl -2 (A) Gale Wings // Brave Bird, Flare Blitz, Sunny Day, Solar Bea
+
+Cooltrainer Athena (potential double with Bird Keeper Aidan)
+-Infernape lvl -2 (A) Iron Fist (N) Naive (I) Expert Belt // Close Combat, Fire Blast, Thunder Punch, Stone Edge
+-Accelgor lvl -2 (A) (N) Timid (I) Poison Gem // Bug Buzz, Focus Blast, Energy Ball, Sludge Bomb
+
+Fisherman Jonah
+-Corsola lvl -2 // Recover, Mirror Coat, Power Gem, Scald
+-Toxapex lvl -2 // Toxic, Venoshock, Recover, Venom Drench
+
+Fisherman Roger
+-Crawdaunt lvl -2 // Crabhammer, Knock Off, Aqua Jet, Double Edge
+-Pyukumuku lvl -2 // Toxic, Counter, Recover, Taunt
+
+Fisherman Henry
+-Tentacruel lvl -2 // Whirlpool, Toxic, Protect, Dive
+-Jellicent lvl -2 // Acid Armor, Strength Sap, Scald, Giga Drain
+
+Triathlete Camden
+-Klinklang lvl -3 // Gear Grind, Wild Charge, Double Edge, Shift Gear
+-Greninja lvl -3 // Water Shuriken, Scald, Ice Beam, Grass Knot
+-Emolga lvl -3 // Acrobatics, Discharge, Energy Ball, Eerie Impulse
+
+Black Belt Koji
+-Hariyama lvl -2 // Fake Out, Close Combat, Stone Edge, Knock Off
+-Aggron lvl -2 // Stone Edge, Iron Tail, Earthquake, Dragon Claw
+
+Triathlete Donny
+-Yanmega lvl -2 // Bug Buzz, Air Slash, Psychic, Detect
+-Blastoise lvl -2 // Hydro Pump, Ice Beam, Aura Sphere, Rapid Spin
+
+
+===
+Bosses:
+===

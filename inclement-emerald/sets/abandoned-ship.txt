@@ -4,7 +4,7 @@ Sailor Duncan
 ===
 
 Machamp @ 
-Level: 67
+Level: 52
 Ability: No Guard
 - Dynamic Punch
 - Strength
@@ -12,7 +12,7 @@ Ability: No Guard
 - Knock Off
 
 Walrein @ 
-Level: 67
+Level: 52
 Ability: Ice Body
 - Blizzard
 - Slack Off
@@ -20,7 +20,7 @@ Ability: Ice Body
 - Hail
 
 Dhelmise @ 
-Level: 67
+Level: 52
 - Anchor Shot
 - Phantom Force
 - Power Whip

@@ -1,0 +1,306 @@
+
+===
+Team Magma Grunt 1
+===
+
+Salazzle @ 
+Level: 91
+- Sludge Bomb
+- Fire Blast
+- Fake Out
+- Dragon Pulse
+
+Palossand @ 
+Level: 91
+- Earth Power
+- Shadow Ball
+- Psychic
+- Shore Up
+
+Amoonguss @ 
+Level: 91
+- Spore
+- Ingrain
+- Sludge Bomb
+- Foul Play
+
+===
+Team Magma Grunt 2
+===
+
+Mightyena @ 
+Level: 91
+- Crunch
+- Play Rough
+- Iron Tail
+- Howl
+
+Camerupt @ 
+Level: 91
+- Earthquake
+- Lava Plume
+- Double Edge
+- Growth
+
+Shiftry @ 
+Level: 91
+- Sunny Day
+- Solar Blade
+- Heat Wave
+- Knock Off
+
+===
+Team Magma Grunt 3
+===
+
+Torkoal @ 
+Level: 91
+- Earth Power
+- Lava Plume
+- Shell Smash
+- Clear Smog
+
+Claydol @ 
+Level: 91
+- Earth Power
+- Shadow Ball
+- Psychic
+- Ancient Power
+
+Rhyperior @ 
+Level: 91
+- Earthquake
+- Rock Blast
+- Crunch
+- Ice Punch
+
+===
+Team Magma Grunt 4
+===
+
+Flygon @ 
+Level: 91
+- U-Turn
+- Crunch
+- Earthquake
+- Dragon Claw
+
+Crobat @ 
+Level: 91
+- Fly
+- Toxic
+- Roost
+- Super Fang
+
+Drapion @ 
+Level: 91
+Ability: Sniper
+- Cross Poison
+- Night Slash
+- Ice Fang
+- Focus Energy
+
+===
+Team Magma Grunt 5
+===
+
+Pyroar @ 
+Level: 91
+- Hyper Beam
+- Fire Blast
+- Dark Pulse
+- Wild Charge
+
+Pangoro @ 
+Level: 91
+- Close Combat
+- Crunch
+- Gunk Shot
+- Zen Headbutt
+
+Nidoking @ 
+Level: 91
+Ability: Sheer Force
+- Earth Power
+- Ice Punch
+- Sludge Wave
+- Fire Blast
+
+===
+Team Magma Grunt 6
+===
+
+Hippowdon @ 
+Level: 91
+Ability: Sandstream
+- Earthquake
+- Crunch
+- Yawn
+- Fire Fang
+
+Sandslash @ 
+Level: 91
+Ability: Sand Rush
+- Earthquake
+- Rock Slide
+- X-Scissor
+- Swords Dance
+
+===
+Team Magma Grunt 7
+===
+
+Liepard @ 
+Level: 91
+Ability: Prankster
+- Assist
+- Thunder Wave
+- U-Turn
+- Charm
+
+Incineroar @ 
+Level: 91
+Ability: Intimidate
+- Darkest Lariat
+- Flare Blitz
+- Drain Punch
+- Thunder Punch
+
+Mamoswine @ 
+Level: 91
+- Icicle Crash
+- Earthquake
+- Ice Shard
+- Superpower
+
+===
+Tabitha (Mossdeep Space Center)
+===
+
+Gigalith @ Passho Berry
+Level: 92
+EVs: 252 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 4 Spe
+Modest Nature
+Ability: Sand Stream
+- Weather Ball
+- Earth Power
+- Stealth Rock
+- Thunderbolt
+
+Darmanitan @ Choice Scarf
+Level: 92
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Sheer Force
+- Flare Blitz
+- Zen Headbutt
+- Rock Slide
+- Earthquake
+
+Steelix @ Steelixite
+Level: 94
+EVs: 252 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
+Brave Nature
+Ability: Sand Force
+- Gyro Ball
+- Earthquake
+- Stone Edge
+- Shore Up
+
+Gliscor @ Toxic Orb
+Level: 92
+EVs: 252 Hp / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Impish Nature
+Ability: Poison Heal
+- Earthquake
+- Substitute
+- Toxic
+- Protect
+
+Excadrill @ Focus Sash
+Level: 92
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Sand Rush
+- Earthquake
+- Iron Head
+- Rock Slide
+- Swords Dance
+
+Gastrodon @ Leftovers
+Level: 92
+EVs: 252 Hp / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+Ability: Storm Drain
+- Earth Power
+- Scald
+- Toxic
+- Recover
+
+===
+Maxie (Mossdeep Space Center)
+===
+
+Victreebel @ Life Orb
+Level: 93
+EVs: 0 Hp / 252 Atk / 0 Def / 4 SpA / 0 SpD / 252 Spe
+Naive Nature
+Ability: Chlorophyll
+- Solar Blade
+- Poison Jab
+- Weather Ball
+- Sleep Powder
+
+Crobat @ Flying Gem
+Level: 93
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Infiltrator
+- Brave Bird
+- Cross Poison
+- Hypnosis
+- Super Fang
+
+Camerupt @ Cameruptite
+Level: 94
+EVs: 252 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 4 Spe
+Modest Nature
+Ability: Sheer Force
+- Earth Power
+- Heat Wave
+- Solar Beam
+- Flash Cannon
+
+===
+Courtney (Mossdeep Space Center)
+===
+
+Ninetales @ Fire Gem
+Level: 92
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+Ability: Drought
+- Heat Wave
+- Moonblast
+- Solar Beam
+- Will-O-Wisp
+
+Krookodile @ Assault Vest
+Level: 92
+EVs: 252 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
+Adamant Nature
+Ability: Intimidate
+- Knock Off
+- High Horsepower
+- Stone Edge
+- Iron Tail
+
+Houndoom @ Houndoomite
+Level: 93
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+Ability: Solar Power
+- Dark Pulse
+- Heat Wave
+- Solar Beam
+- Sludge Bomb

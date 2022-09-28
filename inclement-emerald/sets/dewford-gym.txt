@@ -1,65 +1,68 @@
-DEWFORD-GYM
 
 ===
-Leader Brawly
+
+===
+
+===
+Brawly
+===
+
 Meditite @ Light Clay
-Level: 23
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Pure Power
+Level: 18
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Adamant Nature
+Ability: Pure Power
 - Drain Punch
 - Light Screen
 - Reflect
 - Zen Headbutt
 
 Breloom @ Toxic Orb
-Level: 23
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Poison Heal
+Level: 18
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Adamant Nature
+Ability: Poison Heal
 - Drain Punch
 - Bulk Up
 - Bullet Seed
 - Spore
 
 Lucario @ Lum Berry
-Level: 23
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Steadfast
+Level: 18
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Adamant Nature
+Ability: Steadfast
 - Bullet Punch
 - Bulk Up
 - Payback
 - Reversal
 
 Hitmonchan @ Coba Berry
-Level: 23
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Keen Eye
+Level: 18
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Adamant Nature
+Ability: Keen Eye
 - Drain Punch
 - Bulk Up
 - Thunder Punch
 - Ice Punch
 
 Dewott @ Eviolite
-Level: 23
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Torrent
+Level: 18
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Adamant Nature
+Ability: Torrent
 - Razor Shell
 - Karate Chop
 - X-Scissor
 - Air Slash
 
 Hariyama @ Sitrus Berry
-Level: 25
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Guts
+Level: 20
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Adamant Nature
+Ability: Guts
 - Arm Thrust
 - Knock Off
 - Bulldoze
 - Bulk Up
-
-

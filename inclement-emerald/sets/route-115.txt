@@ -1,0 +1,36 @@
+
+===
+Black Belt Nob
+===
+
+Machamp @ 
+Level: 55
+- Dual Chop
+- Submission
+- Knock Off
+- Strength
+
+===
+Black Belt Koichi
+===
+
+Lucario @ 
+Level: 52
+- Meteor Mash
+- Extreme Speed
+- Aura Sphere
+- Dragon Pulse
+
+Passimian @ 
+Level: 52
+- Close Combat
+- Giga Impact
+- Bulk Up
+- Seed Bomb
+
+Pangoro @ 
+Level: 52
+- Sky Uppercut
+- Crunch
+- Body Slam
+- Bullet Punch

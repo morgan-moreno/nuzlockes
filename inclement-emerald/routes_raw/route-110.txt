@@ -14,6 +14,27 @@ Youngster Timmy
 -Ferroseed lvl -2 // Ingrain, Iron Head, Pin Missile, Bullet Seed
 -Electrike lvl -2 // Discharge, Bite, Quick Attack, Odor Sleuth
 
+Collector Edwin
+-Lombre lvl -2 // Fake Out, Knock Off, Mega Drain, Bubblebeam
+-Nuzleaf lvl -2 // Feint Attack, Leaf Blade, Air Cutter, Growth
+
+Guitarist Joseph
+-Luxio lvl -2 // Bite, Spark, Howl, Roar
+-Voltorb lvl -2 // Swift, Self Destruct, Light Screen, Electro Ball
+
+Triathlete Alyssa
+-Magnemite lvl -1 // Shock Wave, Thunder Wave, Metal Sound, Mirror Shot
+-Klink lvl -2 // Discharge, Thunder Wave, Metal Sound, Autotomize
+
+Psychic Edward
+-Abra lvl +1 (N) Timid // Hidden Power (Fighting), Shock Wave, Signal Beam
+
+Fisherman Dale
+-Tentacool lvl -3 // Wrap, Acid Spray, Water Pulse, Barrier
+-Wailmer lvl -2 // Brine, Rollout, Defense Curl, Whirlpool
+-Binacle lvl -2 // Ancient Power, Clamp, Rock Polish, Slash
+-Alomomola lvl -2 // Bubblebeam, Wake Up Slap, Protect, Aqua Ring
+
 ===
 Bosses:
 ===

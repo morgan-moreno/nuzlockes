@@ -1,0 +1,3132 @@
+﻿====================
+Route 102
+====================
+
+Youngster Calvin
+-Poochyena lvl -2 // Howl, Tackle
+-Lillipup lvl -2 // Tackle, Odor Sleuth
+  
+-----
+Bug Catcher Rick
+-Wurmple lvl -4 // String Shot, Poison Sting
+-Sewaddle lvl -4 // String Shot, Tackle
+-Grubbin lvl -4 // String Shot, Vise Grip
+  
+-----
+Youngster Allen
+-Zigzagoon lvl -4 // Tackle, Growl, Tail Whip
+-Taillow lvl -4 // Quick Attack, Growl, Rage
+  
+-----
+Lass Tiana
+-Buizel lvl -3 // Growl, Quick Attack
+-Shroomish lvl -3 // Tackle, Stun Spore
+  
+
+====================
+Route 104 (South)
+====================
+
+Youngster Billy
+-Litleo lvl -5 (A) Unnerve or Rivalry // Tackle, Leer, Ember
+-Seedot lvl -3 // Bide, Harden
+  
+-----
+Fisherman Darian
+-Magikarp lvl -3 // Splash, Tackle
+-Goldeen lvl -3 // Horn Attack, Supersonic, Water Sport, Tail Whip
+  
+-----
+Lady Cindy
+-Buneary lvl 0 // Endure, Pound, Defense Curl, Baby Doll Eyes
+  
+
+====================
+Petalburg Woods
+====================
+
+Bug Catcher Lyle
+-Venipede lvl -3 // Defense Curl, Rollout, Poison Sting, Screech
+-Surskit lvl -3 // Bubble, Quick Attack, Sweet Scent
+-Cascoon lvl -2 // Poison Sting, Harden
+-Kakuna lvl -2 // Poison Sting, Harden
+  
+-----
+Team Aqua Grunt
+-Carvanha lvl -3 (A) Speed Boost // Bite, Leer, Aqua Jet, Rage
+-Skrelp lvl -3 (A) Adaptability // Bubble, Tail Whip, Feint Attack, Smokescreen
+  
+-----
+Bug Catcher James
+-Nincada lvl -3 // Sand Attack, Absorb, Bug Bite
+-Paras lvl -3 // Absorb, Poison Powder, Stun Spore, Scratch
+  
+
+====================
+Route 104 (North)
+====================
+
+Rich Boy Winston
+-Bidoof lvl -4 // Defense Curl, Rollout, Headbutt
+-Pidgey lvl -4 // Sand Attack, Gust, Quick Attack
+  
+-----
+Lass Haley
+-Gothita lvl -4 // Confusion, Fake Tears, Play Nice, Tickle
+-Skiddo lvl -4 // Tackle, Growth, Vine Whip, Leech Seed
+-Starly lvl -4 (I) Oran Berry // Quick Attack, Aerial Ace, Growl, Double-Team
+  
+-----
+Twins Gina & Mia
+-Petilil lvl -3 // Fairy Wind, Absorb, Leech Seed, Stun Spore
+-Cottonee lvl -3 // Fairy Wind, Absorb, Leech Seed, Growth
+  
+-----
+Fisherman Ivan
+-Luvdisc lvl -3 // Tackle, Charm, Water Gun, Agility
+-Feebas lvl 0 // Tackle, Splash
+-Tentacool lvl -3 (A) Liquid Ooze // Buble, Acid, Constrict
+  
+
+====================
+Rustboro Gym
+====================
+
+Youngster Josh
+-Geodude lvl -4 (A) Sturdy // Rock Tomb, Flail, Magnitude, Rock Polish
+-Dwebble lvl -4 (A) Sturdy // Rock Tomb, Fury Cutter, Sand Tomb, Withdraw
+  
+a
+-----
+Youngster Tommy (potential double with Hiker Marc)
+-Kabuto lvl -3 (A) Battle Armor // Rock Tomb, Aqua Jet, Absorb, Screech
+-Rockruff lvl -3(A) Vital Spirit // Rock Tomb, Bite, Howl
+  
+-----
+
+Hiker Marc (potential double with Youngster Tommy)
+-Cranidos lvl -3 // Rock Tomb, Headbutt, Pursuit
+-Archen lvl -3 // Rock Tomb, Bite, Aerial Ace, Quick Attack
+-Shieldon lvl -3 // Taunt, Counter, Rock Tomb, Iron Defense
+  
+-----
+Leader Roxanne
+  
+
+====================
+Rustboro City (Optional)
+====================
+
+PKMN Trainer Brendan/May
+  
+
+====================
+Route 116
+====================
+
+Bug Catcher Jose
+-Joltik lvl -4 // Thundershock, Fury Cutter, Absorb, Spider Web
+-Cutiefly lvl -4 // Struggle Bug, Fairy Wind, Absorb, Stun Spore
+  
+-----
+Youngster Joey
+-Machop lvl -4 // Low Kick, Leer, Bide, Seismic Toss
+-Rattata lvl -4 // Quick Attack, Tail Whip, Bite
+  
+-----
+School Kid Karen
+-Fomantis lvl -5 // Leafage, Fury Cutter
+-Riolu lvl -5 // Counter, Quick Attack, Endure
+-Eevee lvl -5 // Covet, Tail Whip, Baby Doll Eyes, Sand Attack
+  
+-----
+Hiker Clark (potential double with Youngster Johnson)
+-Geodude lvl -5 // Rock Throw, Defense Curl, Tackle
+-Roggenrola lvl -5 // Rock Throw, Round, Harden
+  
+-----
+Youngster Johnson (potential double with Hiker Clark or Hiker Devan)
+-Shinx lvl -4 // Baby Doll Eyes, Tackle, Leer, Charge
+-Patrat lvl -4 // Detect, Bide, Leer, Bite
+  
+-----
+Hiker Devan (potential double with Youngster Johnson)
+-Drilbur lvl -5 // Fury Swipes, Mud Slap, Rapid Spin, Iron Defense
+-Woobat lvl -5  // Heart Swap, Assurance, Gust, Odor Sleuth
+  
+-----
+
+-After Cut-
+
+-----
+Lady Sarah (potential double with Rich Boy Dawson)
+-Lombre lvl -3 // Astonish, Absorb, Bubble, Fake Out
+-Furret lvl -3 // Agility, Quick Attack, Defense Curl, Fury Swipes
+  
+-----
+Rich Boy Dawson (potential double with Lady Sarah)
+-Blitzle lvl -4 // Shock Wave, Thunder Wave, Quick Attack
+-Pansear lvl -4 // Incinerate, Bite, Yawn, Play Nice
+  
+-----
+School Kid Jerry
+-Ralts lvl -2 // Confusion, Disarming Voice, Double-Team, Lucky Chant
+-Shuppet lvl -4 // Shadow Sneak, Screech, Knock Off, Spite
+-Pancham lvl -4 // Karate Chop, Work Up, Comet Punch
+  
+-----
+Lass Janice
+-Marill lvl -4 // Aqua Jet, Defense Curl, Rollout, Helping Hand
+-Bounsweet lvl -4 // Razor Leaf, Rapid Spin, Play Nice, Splash
+  
+
+====================
+Rusturf Tunnel
+====================
+
+Team Aqua Grunt
+-Carvanha lvl -3 (A) Speed Boost // Bite, Leer, Aqua Jet, Protect
+-Skrelp lvl -3 (A) Adaptability // Bubble, Acid, Feint Attack, Smokescreen
+-Grimer -3 (A) Poison Touch // Shadow Sneak, Venoshock, Poison Gas
+  
+-----
+
+-Verdanturf Side-
+
+-----
+Hiker Mike
+-Boldore lvl -1 // Power Gem, Shock Wave, Round, Iron Defense
+-Graveller lvl -1 (A) Sturdy // Bulldoze, Smack Down, Self Destruct, Rock Polish
+-Primeape lvl -1 (A) Defiant // Cross Chop, Assurance, Swagger, Thrash
+  
+
+====================
+Route 106
+====================
+
+Fisherman Ned
+-Staryu lvl -3 // Swift, Psywave, Water Gun, Recover
+-Finneon lvl -3 // Gust, Attract, Water Gun, Rain Dance
+  
+-----
+Fisherman Elliot
+-Wimpod lvl -3 // Struggle Bug, Sand Attack, Aqua Jet
+-Frillish lvl -4 // Bubblebeam, Absorb, NightShade, Water Sport
+-Shellder lvl -4 (A) Overcoat // Icicle Spear, Supersonic, Water Gun, Withdraw
+  
+-----
+
+-After Surf-
+
+-----
+Swimmer Douglas
+-Lapras lvl -3 // Freeze Dry, Water Pulse, Perish Song, Sing
+-Tentacruel lvl -3 // Sludge Bomb, Hydro Pump, Hex, Reflect Type
+  
+-----
+Swimmer Kyla
+-Nidoqueen lvl -3 (A) Sheer Force // Surf, Sludge Bomb, Superpower, Crunch
+-Golduck lvl -3 // Aqua Tail, Zen Headbutt, Cross Chop, Soak
+-Jellicent lvl -3 // Water Spout, Shadow Ball, Recover, Acid Armor
+  
+
+====================
+Dewford Gym
+====================
+
+Battle Girl Laura
+-Mienfoo lvl -4 // Fake Out, Detect, Meditate, Low Sweep
+-Makuhita lvl -4 // Fake Out, Force Palm, Knock Off, Sand Attack
+-Crabrawler lvl -4 // Pursuit, Rock Smash, Leer, Bubblebeam
+  
+-----
+Battle Girl Lilith (forced double with Sailor Brenden)
+-Monferno lvl -3 // Fake Out, Mach Punch, Flame Wheel, Torment
+-Croagunk lvl -3 (A) Dry Skin // Toxic, Venoshock, Feint Attack, Vacuum Wave
+-Timburr lvl -3 // Low Kick, Rock Throw, Leer, Mach Punch
+  
+-----
+Sailor Brenden (forced double with Battle Girl Lilith)
+-Tyrogue lvl -3 // Fake Out, Bullet Punch, Mach Punch, Meditate
+-Scraggy lvl -3 (A) Moxie // Feint Attack, Low Kick, Headbutt, Leer
+  
+-----
+Black Belt Takao
+-Machop lvl -3 (A) No Guard // Low Sweep, Leer, Foresight, Thunder Punch
+-Stufful  lvl -3 // Brutal Swing, Bide, Force Palm, Bulldoze
+-Jangmo-o lvl -3 (A) Soundproof // Dragon Tail, Counter, Brick Break, Shadow Claw
+-----
+Black Belt Cristian
+-Pignite lvl 0 // Flame Charge, Rollout, Defense Curl, Arm Thrust
+  
+-----
+Battle Girl Jocelyn
+-Meditite lvl -3 // Fake Out, Detect, Meditate, Low Sweep
+-Mankey lvl -3 // Pursuit, Karate Chop, Lee, Covet
+  
+-----
+Leader Brawly
+  
+
+====================
+Route 109 (Beach)
+====================
+
+Sailor Huey
+-Wingull lvl -3 // Aerial Ace, Bubblebeam, Supersonic, Mist
+-Timburr lvl -3 // Rock Throw, Low Kick, Bide, Leer
+  
+-----
+Sailor Edmond (potential double with Tuber Hailey)
+-Slowpoke lvl -3 // Confusion, Water Gun, Yawn, Grown
+-Cubchoo lvl -3 // Icy Wind, Bide, Growl
+-Staravia lvl -3 // Aerial Ace, Quick Attack, Growl, Double-Team
+  
+-----
+Tuber Hailey (potential double with Sailor Edmond or Tuber Ricky)
+-Marill lvl -2 // Water Pulse, Defense Curl, Rollout, Helping Hand
+-Bibarel lvl -3  // Headbutt, Defense Curl, Rollout, Aqua Jet
+  
+-----
+Tuber Ricky (potential double with Tuber Hailey; or forced after double Tuber Hailey and Sailor Edmond)
+-Zigzagoon lvl 0 // Sand Attack, Headbutt, Pin Missile, Surf
+  
+-----
+Tuber Lola (potential double with Tuber Chandler)
+-Azurill lvl -3 // Water Pulse, Charm, Tail Whip, Bounce
+-Spheal lvl -3 // Brine, Defense Curl, Ice Ball, Encore
+  
+-----
+Tuber Chandler (potential double with Tuber Lola)
+-Mareanie lvl -2 // Bite, Peck, Poison Sting, Toxic Spikes
+-Panpour  lvl -1 // Scald, Bite, Lick, Play Nice
+  
+-----
+
+-Beach House-
+
+-----
+Tuber Simon
+-Seel lvl -3 // Ice Shard, Encore, Headbutt, Icy Wind
+-Totodile lvl -3 // Water Gun, Bite, Rage, Leer
+-Herdier lvl -3 // Take Down, Bite, Odor Sleuth, Surf
+  
+-----
+Beauty Johanna
+-Goldeen lvl -2 (A) Lightning Rod // Bubblebeam, Peck, Horn Attack, Supersonic
+-Bruxish lvl -3 (A) Strong Jaw // Aqua Jet, Bite, Confusion, Astonish
+  
+-----
+Sailor Dwayne
+-Corphish lvl -3 // Bubblebeam, Vise Grip, Leer, Harden
+-Tentacool lvl -3 // Bubblebeam, Acid, Constrict
+-Makuhita lvl -3 // Whirlwind, Force Palm, Fake Out
+  
+-----
+
+-After Surf-
+
+-----
+Tuber Austina
+-Gastrodon lvl -2 (A) Storm Drain // Muddy Water, Earth Power, Rain Dance, Recover
+-Bibarel lvl -2 (A) Simple // Aqua Jet, Quick Attack, Crunch, Swords Dance
+  
+-----
+Tuber Gwen
+-Floatzel lvl -3 // Hydro Pump, Crunch, Ice Fang, Aqua Jet
+-Luvdisc lvl -3 (A) Soul-Heart // Hydro Pump, Draining Kiss, Lovely Kiss, Charm
+-Quagsire lvl -3 (A) Water Absorb // Earthquake, Aqua Tail, Toxic, Recover
+  
+-----
+Swimmer David
+-Crawdaunt lvl -2 // Liquidation, Crunch, Swords Dance, Aqua Jet
+-Palossand lvl -2 // Earth Power, Shadow Ball, Giga Drain, Hypnosis
+  
+-----
+Swimmer Alice
+-Corsola lvl -3 // Power Gem, Earth Power, Brine, Recover
+-Closyter lvl -3 (A) Skill Link // Icicle Spear, Rock Blast, Hydro Pump, Shell Smash
+-Kangaskhan lvl -3 // Surf, Crunch, Outrage, Mega Punch
+  
+-----
+Fisherman Carter (potential double with Bird Keeper Elijah)
+-Tentacruel lvl -2 // Sludge Wave, Hydro Pump, Acid Armor, Screech
+-Lanturn lvl -2 // Charge Beam, Signal Beam, Hydro Pump, Confuse Ray
+  
+-----
+Bird Keeper Elijah (potential double with Fisherman Carter)
+-Skarmory lvl -2 (A) Sturdy // Drill Peck, Steel Wing, Swords Dance, Roost
+-Honchkrow lvl -2 (A) Super Luck // Drill Peck, Night Slash, Roost, Thunder Wave
+  
+-----
+Young Couple Mel & Paul
+-Dustox lvl -2 // Bug Buzz, Quiver Dance, Toxic, Protect
+-Beautifly lvl -2 // Hurricane, Giga Drain, Attract, Quiver Dance
+  
+
+====================
+Slateport City (Museum)
+====================
+
+Team Aqua Grunt 1
+-Palpitoad lvl -2 (A) Water Absorb // Bubblebeam, Acid, Mud Shot, Round
+-Basculin lvl -2 (A) Adaptability // Aqua Jet, Crunch, Takedown, Revenge
+  
+-----
+Team Aqua Grunt 2
+-Golbat lvl -3 (A) Inner Focus // Aerial Ace, Poison Fang, Confuse Ray, Screech
+-Clauncher lvl -3 (A) Mega Launcher // Bubblebeam, Aqua Jet, Smack Down, Venoshock
+-Grimer (Alolan) lvl -3 (A) Poison Touch // Poison Fang, Bite, Disable, Minimize
+  
+-----
+Aqua Leader Archie
+  
+
+====================
+Route 110
+====================
+
+Pokefan Isabel (potential double with Pokefan Kaleb)
+-Plusle lvl -3 (I) Oran Berry // Electro Ball, Nuzzle, Helping Hand, Charm
+-Pachirisu lvl -3 (I) Oran Berry // Electro Ball, Nuzzle, Swift, Sweet Kiss
+  
+-----
+Pokefan Kaleb
+-Minun lvl -3 (I) Oran Berry // Electro Ball, Nuzzle, Helping Hand, Fake Tears
+-Emolga lvl -3 (I) Oran Berry // Shock Wave, Nuzzle, Acrobatics, Nasty Plot
+  
+-----
+Youngster Timmy
+-Ferroseed lvl -2 // Ingrain, Iron Head, Pin Missile, Bullet Seed
+-Electrike lvl -2 // Discharge, Bite, Quick Attack, Odor Sleuth
+  
+-----
+PKMN Trainer Brendan/May
+  
+-----
+Collector Edwin
+-Lombre lvl -2 // Fake Out, Knock Off, Mega Drain, Bubblebeam
+-Nuzleaf lvl -2 // Feint Attack, Leaf Blade, Air Cutter, Growth
+  
+-----
+Guitarist Joseph
+-Luxio lvl -2 // Bite, Spark, Howl, Roar
+-Voltorb lvl -2 // Swift, Self Destruct, Light Screen, Electro Ball
+  
+-----
+Triathlete Alyssa
+-Magnemite lvl -1 // Shock Wave, Thunder Wave, Metal Sound, Mirror Shot
+-Klink lvl -2 // Discharge, Thunder Wave, Metal Sound, Autotomize
+  
+-----
+Psychic Edward
+-Abra lvl +1 (N) Timid // Hidden Power (Fighting), Shock Wave, Signal Beam
+  
+-----
+Fisherman Dale
+-Tentacool lvl -3 // Wrap, Acid Spray, Water Pulse, Barrier
+-Wailmer lvl -2 // Brine, Rollout, Defense Curl, Whirlpool
+-Binacle lvl -2 // Ancient Power, Clamp, Rock Polish, Slash
+-Alomomola lvl -2 // Bubblebeam, Wake Up Slap, Protect, Aqua Ring
+  
+
+====================
+Trick House (1)
+====================
+Lass Sally
+-Gloom lvl -2  // Giga Drain, Sleep Powder, Acid, Lucky Chant
+-Torracat lvl -2  // Fire Fang, Bite, Double Kick, Lick
+  
+-----
+Lass Robin
+-Fletchinder lvl -2  // Aerial Ace, Flame Charge, Steel Wing, Roost
+-Brionne lvl -2  // Water Pulse, Icy Wind, Sing, Encore
+  
+-----
+Youngster Eddie
+-Ducklett lvl -2 // Air Slash, Bubblebeam, Steel Wing, Roost
+-Dartrix lvl -2 // Razor Leaf, Pluck, Ominous Wind, Synthesis
+  
+====================
+Trick House (2)
+====================
+School Kid Paul
+-Salandit lvl -3  // Flamethrower, Venoshock, Nasty Plot, Toxic
+-Foongus lvl -3  // Giga Drain, Clear Smog, Synthesis, Toxic
+-Seedra lvl -3  // Brine, Agility, Focus Energy, Aurora Beam
+  
+-----
+School Kid Ted
+-Gardevoir lvl -2  // Dazzling Gleam, Psychic, Calm Mind, Hypnosis
+-Persian lvl -2  // (A) Technician // Swift, Power Gem, Nasty Plot, Captivate
+  
+-----
+School Kid Georgia
+-Clefairy lvl -2  // (A) Magic Guard // Moonblast, Soft Boiled, Cosmic Power, Stored Power
+-Beautifly lvl -2  // Quiver Dance, Bug Buzz, Giga Drain, Air Cutter
+  
+====================
+Trick House (3)
+====================
+Camper Justin
+-Kecleon lvl -3  // (A) Protean, (I) Sitrus Berry // Sucker Punch, Return, Fire Punch, Trick Room
+-Slowbro lvl -3  // (I) Sitrus Berry // Surf, Psychic, Grass Knot, Trick Room
+-Sandslash (Alolan) lvl -3  // (I) NeverMeltIce // Icicle Crash, Iron Head, Drill Run, Swords Dance
+  
+-----
+Picknicker Martha
+-Meowstic (Female) lvl -3  // (I) Expert Belt // Psychic, Shadow Ball, Signal Beam, Energy Ball
+-Gogoat lvl -3  // (I) Sitrus Berry // Horn Leech, Rock Slide, Bulk Up, Milk Drink
+-Clefable lvl -3  // (I) Sitrus Berry // Moonblast, Sing, Calm Mind, Soft Boiled
+  
+-----
+Hiker Alan
+-Marowak lvl -3  // (I) Thick Club // Bonemerang, Rock Slide, Double Edge, Shadow Sneak
+-Probopass lvl -3  // (I) Air Balloon // Tri Attack, Earth Power, Power Gem, Sandstorm
+-Aggron lvl -3  // (A) Rock Head, (I) Air Balloon // Head Smash, Double Edge, Iron Tail, Autotomize
+  
+====================
+Trick House (4)
+====================
+Black Belt Yuji
+-Hariyama lvl -2  // (A) Sheer Force, (N) Adamant, (I) Life Orb // Force Palm, Rock Slide, Poison Jab, Whirlwind
+-Scrafty lvl -2  // (N) Adamant, (I) Sitrus Berry // Payback, Drain Punch, Iron Head, Zen Headbutt
+  
+-----
+Battle Girl Cora
+-Medicham lvl -3  // (A) Pure Power, (N) Jolly // High Jump Kick, Zen Headbutt, Bulk Up, Recover
+-Hawlucha lvl -3  // (A) Unburden, (N) Adamant, (I) Flying Gem // Acrobatics, High Jump Kick, Swords Dance, Roost
+-Toxicroak lvl -3  // (N) Quiet // Focus Blast, Sludge Bomb, Dark Pulse, Sucker Punch
+  
+-----
+Battle Girl Paula
+-Breloom lvl -3  // (A) Poison Heal, (N) Jolly, (I) Toxic Orb // Spore, Substitute, Focus Punch, Seed Bomb
+-Pangoro lvl -3  // (N) Adamant, (I) Roseli Berry // Crunch, Hammer Arm, Poison Jab, Parting Shot
+-Poliwrath lvl -3  // (N) Modest // Focus Blast, Hydro Pump, Ice Beam, Mind Reader
+  
+====================
+Trick House (6)
+====================
+Pokemon Ranger Sophia
+-Lurantis lvl -2  // (A) Contrary, (N) Adamant, (I) Leftovers // Petal Blizzard, Superpower, Leech Life, Synthesis
+-Oricorio (Yellow) lvl -2  // (N) Timid, (I) Electric Gem // Revelation Dance, Hurricane, Heat Wave, Quiver Dance
+-Mudsdale lvl -2  // (A) Stamina, (N) Adamant, (I) Sitrus Berry // High Horsepower, Strength, Counter, Heavy Slam
+  
+-----
+Pokemon Ranger Sebastian
+-Scizor lvl -2  // (A) Technician, (N) Adamant, (I) Leftovers // Bullet Punch, Thief, Bug Bite, Roost
+-Donphan lvl -2  // (N) Impish, (I) Rocky Helmet // Earthquake, Defense Curl, Rollout, Ice Shard
+-Dunsparce lvl -2  // (A) Serene Grace, (N) Careful, (I) Leftovers // Headbutt, Coil, Glare, Roost
+  
+-----
+Bird Keeper Benny
+-Swellow lvl -3  // Brave Bird, Boomburst, U-Turn, Reversal
+-Xatu lvl -3  // (A) Magic Bounce // Air Slash, Psychic, Giga Drain, Miracle Eye
+-Farfetch’d lvl -3  // (A) Super Luck, (I) Leek // Brave Bird, Close Combat, Leaf Blade, Knock Off
+  
+====================
+Trick House (7)
+====================
+Psychic Joshua (forced double with Hex Maniac Patricia)
+-Alakazam lvl -3  // Psychic, Shadow Ball, Energy Ball, Aura Sphere
+-Mr. Mime lvl -3  // (A) Filter // Dazzling Gleam, Psychic, Light Screen, Reflect
+-Darmanitan lvl -3  // (A) Zen Mode // Fire Blast, Psychic, Substitute, Grass Knot
+  
+-----
+Hex Maniac Patricia (forced double with Psychic Joshua)
+-Banette lvl -3  // Phantom Force, Return, Will-o-wisp, Gunk Shot
+-Mismagius lvl -3  // (A) Pixilate // Hyper Voice, Shadow Ball, Perish Song, Mystical Fire
+-Gothitelle lvl -3  // Dark Pulse, Psychic, Taunt, Torment
+  
+-----
+Psychic Mariella (forced double with Gentleman Everatt)
+-Starmie lvl -3 // (A) Analytic // Spotlight, Hydro Pump, Psychic, Thunderbolt
+-Chimecho lvl -3  // Psychic, Heal Pulse, Disable, Torment
+  
+-----
+Gentleman Everatt (forced double with Psychic Mariella)
+-Wobbuffet lvl -3  // Counter, Mirror Coat, Encore, Destiny Bond
+-Beheeyem lvl -3  // (A) Psychic Surge // Skill Swap, Psychic, Protect, Recover
+  
+-----
+Psychic Alexis (potential double with Psychic Alvaro)
+-Gardevoir lvl -3  // Moonblast, Mystical Fire, Aura Sphere, Encore
+-Oranguru lvl -3  // Foul Play, Dream Eater, Yawn, Substitute
+  
+-----
+Psychic Alvaro (potential double with Psychic Alexis)
+-Gallade lvl -3  // Psycho Cut, Close Combat, Poison Jab, Stone Edge
+-Girafarig lvl -3  // (A) Contrary // Psycho Boost, Hyper Voice, Thunderbolt, Dark Pulse
+  
+====================
+Route 103 (Optional)
+====================
+
+Aroma Lady Daisy
+-Cherubi lvl -2 // Morning Sun, Growth, Sunny Day, Magical Leaf
+-Roselia  lvl -3 // Grass Whistle, Giga Drain, Sweet Scent, Leech Seed
+  
+-----
+Twins Amy & Liv
+-Jigglypuff lvl -2 // Sing, Wake Up Slap, Stockpile, Round
+-Clefairy lvl -2 (A) Magic Guard // Disarming Voice, Minimize, Stored Power, Follow Me
+  
+-----
+Pokefan Miguel
+-Delcatty lvl -2 (A) Normalize (I) Sitrus Berry // Fake Out, Play Rough, Wake Up Slap, Sing
+-Meowth lvl -2 (A) Technician (I) Oran Berry // Feint Attack, Slash, Screech, Growl
+  
+-----
+Fisherman Andrew
+-Barboach lvl -2 // Aqua Tail, Magnitude, Amnesia, Mud Slap
+-Horsea lvl -2 // Bubblebeam, Twister, Smokescreen
+-Qwilfish lvl -3 // Revenge, Brine, Stockpile, Minimize
+  
+-----
+
+-After Cut-
+
+-----
+Black Belt Rhett (potential double with Guitarist Marcos)
+-Sawk lvl -3 // Retaliate, Bulk Up, Low Sweep, Bide
+  
+-----
+Guitarist Marcos (potential double with Black Belt Rhett)
+-Elekid lvl -2 // Thunder Punch, Low Kick, Swift, Thunder Wave
+-Kricketune lvl -2 // X-Scissor, Uproar, Air Slash, Sing
+  
+-----
+
+-After Surf-
+
+-----
+Swimmer Isabelle (potential double with Swimmer Pete)
+-Toxapex lvl -3 // Baneful Bunker, Recover, Poison Jab, Liquidation
+-Lapras lvl -3 // Freeze Dry, Surf, Rain Dance, Safeguard
+-Alomomola lvl -3 // Waterfall, Wish, Protect, Aqua Ring
+  
+-----
+Swimmer Pete (potential double with Swimmer Isabelle)
+-Blastoise lvl -2 // Water Pulse, Shell Smash, Flash Cannon, Skull Bash
+-Wishiwashi lvl -2 // Hydro Pump, Soak, Double Edge, Endeavor
+  
+
+====================
+Mauville City
+====================
+PKMN Trainer Wally
+  
+
+====================
+Mauville Gym
+====================
+
+Battle Girl Vivian (potential double with Guitarist Kirk)
+-Electabuzz lvl -1 (I) Salac Berry // Cross Chop, Ice Punch, Thunder Wave, Thunder Punch
+-Machoke lvl -1 (I) Liechi Berry // Thunder Punch, Low Sweep, Bullet Punch, Rock Slide
+  
+-----
+Guitarist Kirk (potential double with Battle Girl Vivian)
+-Eelektrik lvl -1 (I) Flying Gem // Discharge, Crunch, Acid Spray, Acrobatics
+-Electrode lvl -1 (I) Air Balloon // Charge Beam, Light Screen, Signal Beam, Magnet Rise
+-Zebstrika lvl -1 (I) Sitrus Berry // Blaze Kick, Wild Charge, Double Kick, Pursuit
+  
+-----
+Youngster Ben
+-Rotom lvl -1 (I) Colbur Berry // Electro Ball, Hex, Thunder Wave, Pain Split
+-Stunfisk lvl -1 (I) Shuca Berry // Muddy Water, Sucker Punch, Mud Shot, Shock Wave
+-Togedemaru lvl -1 (A) Sturdy (I) Salac Berry // Zing Zap, Magnet Rise, Pin Missile, Iron Head
+  
+-----
+Bug Maniac Angelo (potential double with Guitarist Shawn)
+-Illumise lvl -1 (A) Prankster (I) Magnet // Shock Wave, Dazzling Gleam, Charm, Struggle Bug
+-Volbeat lvl -1 (A) Prankster (I) Silver Powder // Shock Wave, Quick Attack, Confuse Ray, Struggle Bug
+  
+-----
+Guitarist Shawn (potential double with Bug Maniac Angelo)
+-Heliolisk lvl -1 (A) Solar Power // Sunny Day, Swift, Thunderbolt, Dragon Pulse
+-Raichu lvl -1 // Thunderbolt, Grass Knot, Signal Beam, Quick Attack
+  
+-----
+Leader Wattson
+  
+
+====================
+Route 110 (Cycling Road)
+====================
+
+Psychic Jaclyn
+-Solosis lvl -2 // Hidden Power, Psyshock, Reflect, Light Screen
+-Kadabra lvl -2 // Hidden Power, Psybeam, Miracle Eye
+  
+-----
+Triathlete Abigail
+-Jolteon lvl 0 // Shock Wave, Thunder Wave, Swift, Bite
+  
+-----
+Triathlete Anthony
+-Magnemite lvl -2 // Mirror Shot, Thunder Wave, Shock Wave, Metal Sound
+-Charjabug lvl -2 // Bug Bite, Spark, Acrobatics, String Shot
+  
+-----
+Triathlete Benjamin
+-Pikachu lvl -2 // Thunderbolt, Nuzzle, Nasty Plot, Sweet Kiss
+-Geodude (Alolan) lvl -2 // Thunder Punch, Rock Throw, Self Destruct, Rock Polish
+-Flaaffy lvl -2 // Electro Ball, Cotton Spore, Charge, Take Down
+  
+-----
+Triathlete Jasmin
+-Staravia lvl -2 // Wing Attack, Revenge, Endeavor, Quick Attack
+-Klink lvl -2 // Gear Grind, Screech, Discharge, Vise Grip
+-Helioptile lvl -2 // Parabolic Charge, Mud Slap, Thunder Wave Razor Wind
+  
+-----
+Triathlete Jacob
+-Growlithe lvl -1 // Flame Burst, Take Down, Reversal, Agility
+-Lycanroc lvl -1 // Accelerock, Rock Tomb, Bite, Roar
+  
+-----
+
+====================
+Route 117 (Optional)
+====================
+
+Triathlete Dylan
+-Yanma lvl -1 // Signal Beam, Air Cutter, Ancient Power, Uproar
+-Doduo lvl -2 // Quick Attack, Double Hit, Pluck, Acupressure
+  
+-----
+Sr. and Jr. Anna & Meg
+-Minccino lvl 0 // (A) Skill Link // Tail Slap, Helping Hand, Wake Up Slap, Sing
+-Gurdurr lvl 0 // Rock Slide, Wake Up Slap, Chip Away, Focus Energy
+  
+-----
+Pokemon Breeder Isaac
+-Bonsly lvl -5 // Rock Slide, Curse, Feint Attack, Low Kick
+-Eevee lvl -5 // Baton Pass, Yawn, Wish, Hyper Voice
+-Litwick lvl -5 // Flame Burst, Shadow Ball, Acid Armor, Pain Split
+-Mantyke lvl -5 // Signal Beam, Tailwind, Hydro Pump, Confuse Ray
+-Deino lvl -5 // Dark Pulse, Earth Power, Dragon Pulse, Slam
+-Tangela lvl -5 // Sleep Powder, Wake Up Slap, Giga Drain, Amnesia
+  
+-----
+Triathlete Maria
+-Tranquill lvl -2 // Quick Attack, Air Slash, Roost, Detect
+-Hawlucha lvl -2 // Bounce, Submission, Feather Dance, Hone Claws
+  
+-----
+Bug Maniac Derek
+-Mothim lvl -2 (A) Tinted Lens // Quiver Dance, Hidden Power, Silver Wind, Psybeam
+-Wormadam lvl -2 (A) Sandy Cloak // Quiver Dance, Hidden Power, Rock Blast, Psybeam
+  
+-----
+Psychic Brandi (potential double with Triathlete Melina)
+-Espurr lvl -2 // Psyshock, Disarming Voice, Fake Out, Light Screen
+-Munna lvl -2 // Yawn, Nightmare, Calm Mind, Psybeam
+  
+-----
+Triathlete Melina (potential double with Psychic Brandi or Battle Girl Aisha)
+-Ponyta lvl -2 // Blaze Kick, Jump Kick, Take Down, Inferno
+-Sneasel lvl -2 // Feint Attack, Ice Shard, Hone Claws, Quick Attack
+  
+-----
+Battle Girl Aisha
+-Lucario lvl 0 // Bullet Punch, Power Up Punch, Quick Attack, Screech
+  
+-----
+Pokemon Breeder Lydia
+-Froakie lvl -5 // Bubblebeam, Smack Down, Toxic Spikes, Camouflage
+-Elekid lvl -5 // Thunder Punch, Fire Punch, Cross Chop, Ice Punch
+-Magby lvl -5 // Thunder Punch, Fire Punch, Cross Chop, Mach Punch
+-Smoochum lvl -5 // Fake Out, Nasty Plot, Miracle Eye, Psyshock
+-Happiny lvl -5 // Seismic Toss, Aromatherapy, Counter, Soft Boiled
+-Dratini lvl -5 // Extreme Speed, Aqua Jet, Iron Tail, Dragon Rush
+  
+-----
+
+====================
+Route 118
+====================
+
+Aroma Lady Rose
+-Floette lvl -2 // Magical Leaf, Draining Kiss, Wish, Leech Seed
+-Ivysaur lvl -2 // Seed Bomb, Sludge, Sleep Powder, Leech Seed
+-Combee lvl 0 // Bug Buzz, Gust, Sweet Scent, Bug Bite
+  
+-----
+Youngster Deandre
+-Diggersby lvl -2 (A) Huge Power // Double Kick, Bulldoze, Swords Dance, Quick Attack
+-Lairon lvl -1 // Iron Head, Rock Slide, Take Down, Protect
+-Simisear lvl -2 (A) Blaze // Crunch, Acrobatics, Flame Burst, Yawn
+  
+-----
+Fisherman Wade
+-Gyarados lvl -1 (A) Moxie // Aqua Tail, Ice Fang, Thrash, Whirlpool
+-Chinchou lvl -1 // Discharge, Signal Beam, Water Pulse, Thunder Wave
+  
+-----
+Guitarist Dalton
+-Noivern lvl 0 // Dragon Pulse, Air Cutter, Moonlight, Supersonic
+  
+-----
+
+-After Surf-
+
+-----
+Interviewer Gabby & Ty
+-Magnezone lvl -2 (N) Modest // Flash Cannon, Thunderbolt, Thunder Wave, Signal Beam
+-Exploud lvl -2 (N) Modest // Hyper Voice, Extrasensory, Focus Blast, Ice Beam
+  
+-----
+Fisherman Barny
+-Tentacruel lvl -3 (A) Liquid Ooze // Hydro Pump, Sludge Wave, Wring Out, Barrier
+-Sharpedo lvl -3 // Hydro Pump, Crunch, Ice Fang, Aqua Jet
+-Barbaracle lvl -3 // Razor Shell, Stone Edge, Cross Chop, Night Slash
+  
+-----
+Bird Keeper Chester
+-Talonflame lvl -2 // Brave Bird, Flare Blitz, Steel Wing, Roost
+-Mandibuzz lvl -2 // Foul Play, Roost, Iron Defense, Whirlwind
+  
+-----
+Bird Keeper Perry
+-Toucannon lvl -3 (A) Skill Link // Brave Bird, Bullet Seed, Rock Blast, Roost
+-Unfezant lvl -3 (A) Super Luck // Drill Peck, Submission, Taunt, Detect
+-Decidueye lvl -3 // Spirit Shackle, Leaf Blade, Jump Kick, Sucker Punch
+  
+
+====================
+Route 111 (South)
+====================
+
+Camper Tyron (potential double with Aroma Lady Celina)
+-Sandslash lvl -2 // Crush Claw, Dig, X-Scissor, Sand Tomb
+-Scyther lvl -2 (A) Technician // Fury Cutter, Aerial Ace, Quick Attack, Pursuit
+  
+-----
+Aroma Lady Celina (potential double with Camper Tyron)
+-Weepinbell lvl -2 // Poison Jab, Razor Leaf, Knock Off, Gastro Acid
+-Jumpluff lvl -2 (A) Infiltrator // Strength, Acrobatics, Seed Bomb, Leech Seed
+  
+-----
+Picnicker Bianca (potential double with Kindler Hayden)
+-Pumpkaboo lvl -2 // Shadow Ball, Giga Drain, Mystical Fire, Trick-Or-Treat
+-Raticate lvl -2 (A) Hustle // Sucker Punch, Hyper Fang, Quick Attack, Endeavor
+  
+-----
+
+Kindler Hayden (potential double with Picnicker Bianca)
+-Numel lvl -2 // Earth Power, Lava Plume, Focus Energy, Take Down
+-Vaporeon lvl -2 // Water Pulse, Aurora Beam, Charm, Copycat
+  
+-----
+Interviewer Gabby and Ty
+-Magneton lvl -1 // Mirror Shot, Charge Beam, Metal Sound, Tri Attack
+-Loudred lvl -1 // Uproar, Extrasensory, Work Up,
+  
+-----
+Picnicker Irene
+-Trevenant lvl -2 (A) Harvest (I) Sitrus Berry // Horn Leech, Shadow Claw, Will-O-Wisp, Forest's Curse
+-Azumarill lvl -2 (A) Sap Sipper // Aqua Tail, Play Rough, Rollout, Defense Curl
+  
+-----
+Camper Travis
+-Golett lvl -3 (A) No Guard // Magnitude, Shadow Punch, Dynamic Punch, Rock Slide
+-Pidgeotto lvl -3 // Air Cutter, Uproar, Tailwind, Roost
+  
+
+====================
+Winstrate House
+====================
+
+Victor
+-Staraptor lvl -1 (I) Sitrus Berry // Close Combat, Wing Attack, Take Down, Double-Team
+-Gumshoos (A) Strong Jaws (I) Sitrus Berry // Psychic Fangs, Fire Fang, Ice Fang, Thunder Fang
+  
+-----
+Victoria
+-Lilligant lvl 01 (A) Own Tempo (I) Sitrus Berry // Quiver Dance, Sleep Powder, Draining Kiss, Giga Drain
+-Whimsicott lvl -1 (I) Leftovers // Leech Seed, Stun Spore, Substitute, Giga Drain
+  
+-----
+Vivi
+-Floatzel lvl -1 (A) Water Veil (I) Flame Orb // Switcheroo, Aqua Tail, Ice Fang, Crunch
+-Salazzle lvl -1 (I) Sitrus Berry // Flame Burst, Venoshock, Toxic, Dragon Pulse
+-Gogoat lvl -1 (I) Sitrus Berry // Aerial Ace, Seed Bomb, Bulldoze, Synthesis
+  
+-----
+Vicky
+-Heracross lvl -2 (A) Moxie (I) Life Orb // Megahorn, Brick Break, Night Slash, Bullet Seed
+  
+
+====================
+Route 112 (South)
+====================
+
+Camper Larry
+-Victreebel lvl -2 // Leaf Tornado, Poison Jab, Growth, Sleep Powder
+  
+-----
+Picnicker Carol
+-Noctowl lvl -3 // Hypnosis, Dream Eater, Air Slash, Reflect
+-Vileplume lvl -3 // Giga Drain, Moonblast, Toxic, Moonlight
+  
+-----
+Hiker Brice
+-Excadrill lvl -2 // Drill Run, Rock Slide, Horn Drill, Rapid Spin
+-Crustle lvl -2 (A) Sturdy // X-Scissor, Rock Blast, Withdraw, Slash
+  
+-----
+Hiker Trent
+-Graveler lvl -3 (A) Sturdy // Explosion
+-Graveler lvl -3 (A) Sturdy // Explosion
+-Graveler lvl -3 (A) Sturdy // Explosion
+-Graveler (Alolan) lvl -3 (A) Galvanize // Explosion
+  
+
+====================
+Route 112 (North)
+====================
+
+Kindler Bryant (potential double with Aroma Lady Shayla)
+-Magcargo lvl -2 (A) Weak Armor // Shell Smash, Earth Power, Ancient Power, Flame Burst
+-Typhlosion lvl -2 (A) Flash Fire // Flamethrower, Swift, Quick Attack, Smokescreen
+  
+-----
+Aroma Lady Shayla (potential double with Kindler Bryant)
+-Cherrim lvl -2 (I) Heat Rock // Sunny Day, Weather Ball, Solar Beam, Helping Hand
+-Meganium lvl -2 (A) Flower Veil // Petal Dance, Reflect, Synthesis, Poison Powder
+  
+
+====================
+Route 111 (North)
+====================
+
+Cooltrainer Wilton
+-Doublade lvl -1 (I) Eviolite // Shadow Claw, Iron Head, Psycho Cut, Shadow Sneak
+-Reuniclus lvl -2 (A) Magic Guard (I) Leftovers // Psyshock, Recover, Shock Wave, Signal Beam
+-Gabite lvl -1 (A) Rough Skin (I) Rocky Helmet // Dig, Dual Chop, Poison Jab, Flamethrower
+  
+-----
+Cooltrainer Brooke
+-Gastrodon lvl -1 (I) Rindo Berry // Muddy Water, Mud Shot, Recover, Ancient Power
+-Infernape lvl -1 // Close Combat, Fire Punch, Grass Knot, Rock Tomb
+-Roserade lvl -1 (A) Technician (I) Big Root // Mega Drain, Extrasensory, Toxic, Venoshock
+  
+-----
+
+-Mach Bike Area-
+
+-----
+Black Belt Daisuke
+-Conkeldurr lvl +2 (A) Iron Fist // Drain Punch, Rock Slide, Chip Away, Bulk Up
+  
+
+====================
+Route 113
+====================
+
+Youngster Jaylen
+-Vibrava lvl -3 // Earth Power, Bug Buzz, Rock Slide, Hyper Beam
+-Darumaka lvl -3 // Flare Blitz, Headbutt, Bite, Work Up
+  
+-----
+Camper Lawrence (forced double with Ninja Boy Lung
+-Baltoy lvl -3 // Earth Power, Extrasensory, Sandstorm, Ancient Power
+-Hippopotas lvl -3 // Earthquake, Crunch, Take Down, Yawn
+  
+-----
+Ninja Boy Lung (forced double with Camper Lawrence)
+-Weezing lvl -3 // Sludge Bomb, Toxic, Double Hit, Heat Wave
+-Ninjask lvl -3 // Swords Dance, Aerial Ace, Fury Cutter, Dig
+  
+-----
+PokeManiac Wyatt
+-Charizard lvl -2 // Wing Attack, Shadow Claw, Dragon Claw, Fire Fang
+-Nidoking lvl -2 // Poison Fang, Earth Power, Thrash, Thunder Punch
+  
+-----
+Parasol Lady Madeline
+-Numel lvl -3 // Earth Power, Lava Plume, Rock Slide, Sunny Day
+-Tropius lvl -3 // Leaf Tornado, Air Slash, Body Slam, Whirlwind
+-Sealeo lvl -3 // Brine, Aurora Beam, Hail, Swagger
+  
+-----
+Twins Tori & Tia
+-Spinda lvl -1 (A) Contrary // Teeter Dance, Dizzy Punch, Sucker Punch, Superpower
+-Spinda lvl -1 // Hypnosis, Dizzy Punch, Psych Up, Sucker Punch
+  
+-----
+Ninja Boy Lao
+-Accelgor lvl -3 // Water Shuriken, Struggle Bug, Giga Drain, U-Turn
+-Greninja lvl -3 // Water Shuriken, Night Slash, Shadow Sneak, U-Turn
+-Koffing lvl -3 // Sludge Bomb, Toxic, Self Destruct, Gyro Ball
+  
+-----
+Youngster Dillon
+-Lairon lvl -3 (A) Rock Head // Rock Slide, Iron Head, Take Down, Iron Defense
+-Stoutland lvl -3 // Retaliate, Crunch, Fire Fang, Roar
+  
+-----
+Picnicker Sophie (potential double with Bird Keeper Coby)
+-Sudowoodo lvl -3 // Rock Slide, Sucker Punch, Low Kick, Mimic
+-Slurpuff lvl -3 // Draining Kiss, Energy Ball, Cotton Guard, Attract
+-Sandslash (Alolan) lvl -3 // Icicle Spear, Iron Head, Metal Burst, Slash
+  
+-----
+Bird Keeper Coby
+-Skarmory lvl -3 // Drill Peck, Steel Wing, Slash, Metal Sound
+-Toucannon lvl -3 (A) Skill Link // Beak Blast, Rock Blast, Bullet Seed, Roost
+  
+
+====================
+Route 114
+====================
+
+Fisherman Nolan
+-Wishiwashi lvl -3 // Double Edge, Aqua Tail, Beat Up, Aqua Ring
+-Seaking lvl -3 // Waterfall, Poison Jab, Aqua Ring, Agility
+  
+-----
+Picnicker Charlotte (potential double with Fisherman Kai)
+-Tangrowth lvl -1 // Giga Drain, Ancient Power, Stun Spore, Knock Off  
+-----
+Fisherman Kai (potential double with Picnicker Charlotte)
+-Whiscash lvl -1 // Aqua Tail, Earthquake, Tickle, Zen Headbutt
+  
+-----
+Fisherman Claude
+-Gyarados lvl -3 // Aqua Tail, Crunch, Ice Fang, Leer
+-Dratini lvl -3 // Aqua Tail, Dragon Rush, Thunder Wave, Wrap
+-Qwilfish lvl -3 // Aqua Tail, Poison Jab, Revenge, Stockpile
+  
+-----
+Picnicker Nancy (AVOID THIS FIGHT! MISTY TERRAIN CAUSES THE GAME TO FREEZE!)
+-Aromatisse lvl -3 // Moonblast, Charm, Attract, Misty Terrain
+-Torterra lvl -3 // Earthquake, Seed Bomb, Curse, Leech Seed
+  
+-----
+Sr. and Jr. Tyra & Ivy
+-Eelektross lvl -1 // (A) Levitate // Discharge, Acid Spray, Crunch, Grass Knot
+-Donphan lvl -1 // (A) Sturdy // Earthquake, Assurance, Fire Fang, Scary Face
+  
+-----
+Camper Shane
+-Zangoose lvl -3 // Crush Claw, X-Scissor, Revenge, Pursuit
+-Excavalier lvl -3 // Iron Head, X-Scissor, Swords Dance, Headbutt
+-Arbok lvl -3 // Poison Jab, Crunch, Glare, Ice Fang
+  
+-----
+PokeManiac Steve
+-Rhyhorn lvl -3 // Drill Run, Rock Blast, Take Down, Scary Face
+-Druddigon lvl -3 (A) Sheer Force // Dragon Rush, Crunch, Revenge, Hone Claws
+  
+-----
+Kindler Bernie
+-Larvesta lvl -3 // Flare Blitz, Bug Bite, Double Edge, String Shot
+-Simipour lvl -3 // Scald, Crunch, Acrobatics, Work Up
+  
+-----
+Hiker Lucas (potential double with Picnicker Angelina)
+-Minior lvl -3 // Power Gem, Cosmic Power, Autotomize, Confuse Ray
+-Ferrothorn lvl -3 // Power Whip, Iron Head, Curse, Ingrain
+  
+-----
+Picnicker Angelina (potential double with Hiker Lucas)
+-Empoleon lvl -3 // Water Pulse, Flash Cannon, Swagger, Aqua Jet
+-Rimbombee lvl -3 // Pollen Puff, Dazzling Gleam, Stun Spore, Aromatherapy
+  
+-----
+Hiker Lenny
+-Steelix lvl -3 (A) Sturdy // Iron Tail, Dig, Smack Down, Crunch
+-Piloswine lvl -3 // Ice Fang, Ice Shard, Amnesia, Mud Bomb
+  
+
+====================
+Meteor Falls (Boss Fights)
+====================
+
+Team Magma Grunt
+-----
+Magma Admin Courtney
+  
+-----
+
+====================
+Route 115 (Optional)
+====================
+
+Black Belt Nob
+-Machamp lvl +2 // Dual Chop, Submission, Knock Off, Strength
+  
+-----
+Collector Hector (potential double with Psychic Marlene)
+-Zangoose lvl -3 // Crush Cla, Revenge, Swords Dance, X-Scissor
+-Seviper lvl -3 // Crunch, Poison Jab, Glare, Screech
+  
+-----
+Psychic Marlene (potential double with Collector Hector)
+-Medicham lvl -3 // Zen Headbutt, High Jump Kick, Ice Punch, Thunder Punch
+-Grumpig lvl -3 // Psyshock, Power Gem, Teeter Dance, Payback
+  
+-----
+Battle Girl Cyndy
+-Samurott lvl -3 // Razor Shell, Sacred Sword, X-Scissor, Aqua Jet
+-Hakamo-O lvl -2 // Sky Uppercut, Dragon Claw, Dragon Dance, Noble Roar
+-Bewear lvl -3 // Hammer Arm, Thrash, Payback, Bind
+  
+-----
+
+-After Surf-
+
+-----
+Ninja Boy Jaiden (potential double with Expert Timothy)
+-Ninjask lvl -3 // Leech Life, Double Team, Protect, Baton Pass
+-Swalot lvl -2 // Sludge Bomb, Water Pulse, Toxic, Stockpile
+-Skuntank lvl -3 // Crunch, Poison Jab, Flamethrower, Smokescreen
+  
+-----
+Expert Timothy (potential double with Ninja Boy Jaiden)
+-Hariyama lvl -1 (A) Guts (N) Adamant (I) Flame Orb // Close Combat, Heavy Slam, Fake Out, Knock Off
+-Dusclops lvl -1 (A) (N) Impish (I) Leftovers // Infestation, Toxic, Protect, Night Shade
+-Alakazam lvl -1 (A) Magic Guard (N) Timid (I) Life Orb // Psyshock, Focus Blast, Shadow Ball, Energy Ball
+  
+-----
+Triathlete Kyra
+-Dodrio lvl -3 // Drill Peck, Jump Kick, Swords Dance, Double Hit
+-Flareon lvl -3 // Flare Blitz, Double Edge, Quick Attack, Superpower
+-Scolipede lvl -3 // X-Scissor, Poison Jab, Iron Defense, Protect
+  
+-----
+Black Belt Koichi
+-Lucario lvl -3 // Meteor Mash, Extreme Speed, Aura Sphere, Dragon Pulse
+-Passimian lvl -3 // Close Combat, Giga Impact, Bulk Up, Seed Bomb
+-Pangoro lvl -3 // Sky Uppercut, Crunch, Body Slam, Bullet Punch
+  
+-----
+Battle Girl Helene (potential double with Psychic Alix)
+-Medicham lvl -2 // High Jump Kick, Zen Headbutt, Ice Punch, Thunder Punch
+-Tsareena lvl -2 // High Jump Kick, Power Whip, Play Rough, Punishment
+  
+-----
+Psychic Alix (potential double with Battle Girl Helene)
+-Musharna lvl -2 (A) Psychic Surge // Psychic, Moonblast, Moonlight, Yawn
+-Jynx -2 // Lovely Kiss, Dream Eater, Freeze Dry, Nasty Plot
+  
+
+====================
+Mt. Chimney
+====================
+
+Team Magma Grunt 1 (potential double with Team Magma Grunt 2)
+-Numel lvl -2 // Earth Power, Lava Plume, Rock Slide, Yawn
+-Dugtrio lvl -3 (A) Arena Trap // Earthquake, Sucker Punch, Giga Impact
+  
+-----
+Team Magma Grunt 2
+-Golbat lvl -2 // Poison Fang, Acrobatics, Crunch, Hypnosis
+-Rhydon lvl -2 // Drill Run, Rock Slide, Hammer Arm, Scary Face
+  
+-----
+Magma Admin Tabitha
+  
+-----
+Magma Leader Maxie
+  
+-----
+
+-After Maxie-
+
+-----
+Beauty Shirley
+-Persian lvl -2  // (A) Technician // Power Gem, Swift, Shock Wave, Night Slash
+-Oricorio (form?) lvl -2  // Revelation Dance, Air Slash, Teeter Dance, Roost
+  
+-----
+Beauty Sheila
+-Tsareena lvl -2  // Trop Kick, Jump Kick, Stomp, Punishment
+-Cinccino lvl -2  // (A) Technician // Tail Slap, Bullet Seed, Rock Blast, Tickle
+  
+-----
+Expert Shelby
+-Mienshao lvl 0  // (A) Reckless // Jump Kick, U-Turn, Bounce, Fake Out
+-Wobbuffet lvl 0  // Counter, Mirror Coat, Encore, Destiny Bond
+  
+-----
+Hiker Sawyer (potential double with Beauty Melissa)
+-Lycanroc (Midnight) lvl -2  // (A) No Guard // Rock Slide, Crunch, Fire Fang, Counter
+-Carbink lvl -2  // Power Gem, Dazzling Gleam, Reflect, Magnet Rise
+  
+-----
+Beauty Melissa (potential double with Hiker Sawyer)
+-Granbull lvl -3  // Play Rough, Headbutt, Fire Fang, Bite
+-Togetic lvl -3 // Air Cutter, Ancient Power, Soft Boiled, Magical Leaf
+-Furfrou lvl .3  // Headbutt, Cotton Guard, Charm, Bite
+  
+
+====================
+Jagged Pass
+====================
+
+Hiker Eric
+-Pupitar lvl -2 // Payback, Rock Slide, Earthquake, Screech
+-Metang lvl -2 // Bullet Punch, Meteor Mash, Zen Headbutt, Miracle Eye
+-Hakamo-o lvl -2 // Close Combat, Outrage, Dragon Dance, Noble Roar
+  
+-----
+Team Magma Grunt
+-Mightyena lvl -2 // Poison Fang, Sucker Punch, Swagger, Ice Fang
+-Turtonator lvl -2 // Flamethrower, Dragon Pulse, Shell Smash, Body Slam
+  
+-----
+Picnicker Diana
+-Chesnaught lvl -3 // Spiky Shield, Hammer Arm, Seed Bomb, Pin Missile
+-Pidgeot lvl -3 // Slash, Feather Dance, Roost, U-Turn
+-Ampharos lvl -3 // Thunder Wave, Dragon Breath, Discharge, Cotton Guard
+  
+-----
+Picnicker Autumn
+-Pyroar lvl -2 // Flamethrower, Hyper Voice, Crunch
+-Serperior lvl -2 // Leaf Blade, Dragon Rush, Coil, Leech Seed
+  
+-----
+Triathlete Julio
+-Magneton lvl -2 // Flash Cannon, Discharge, Tri-Attack, Thunder Wave
+-Luxray lvl -2 // Thunder Fang, Night Slash, Fire Fang, Ice Fang
+  
+-----
+Camper Ethan
+-Braviary lvl -3 // Wing Attack, Crush Claw, Superpower, Tailwind
+-Sandslash lvl -3 // Spiky Shield, Dig, Swords Dance, Gyro Ball
+-Golduck lvl -3 // Psyshock, Aqua Tail, Disable, Screech
+  
+
+====================
+Ashen Woods
+====================
+
+Hiker Roman
+-Bronzong lvl -2 (A) Levitate // Gyro Ball, Extrasensory, Hypnosis, Confuse Ray
+-Golem lvl -2 (A) Rock Head // Earthquake, Rock Blast, Steamroller, Explosion
+  
+-----
+Pokemon Ranger Martin (potential double with Pokemon Ranger Alannah)
+-Alolan-Muk lvl -1 (A) Poison Touch // Poison Jab, Crunch, Acid Spray, Disable
+-Golisopod lvl -1 // Razor Shell, First Impression, Sucker Punch, Drill Run
+-Chansey lvl -1 (I) Eviolite // Seismic Toss, Soft Boiled, Toxic, Heal Pulse
+  
+-----
+Pokemon Ranger Alannah (potential double with Pokemon Ranger Martin)
+-Primarina lvl -1 (A) Berserk // Sparkling Aria, Moonblast, Icy Wind, Sing
+-Durant lvl -1 (A) Hustle // X-Scissor, Iron Head, Crunch, Thunder Fang
+-Dusclops lvl -1 // Night Shade, Curse, Protect, Infestation
+  
+-----
+Pokemon Maniac Elmer
+-Scyther lvl -2  // (A) Technician // Aerial Ace, X-Scissor, Quick Attack, Night Slash
+-Pinsir lvl -2  // (A) Mold Breaker // Trash, X-Scissor, Submission, Swords Dance
+-Heracross lvl -2  // Megahorn, Close Combat, Bullet Seed, Night Slash
+  
+
+====================
+Lavaridge Gym
+====================
+
+Kindler Jeff
+-Magcargo lvl -1 (A) Simple, (I) White Herb // Shell Smash, Lava Plume, Rock Slide, Earth Power
+-Delphox lvl -1 (A) Magic Guard (I) Life Orb // Mystical Fire, Psyshock, Dazzling Gleam, Will-o-Wisp
+-Gourgeist lvl -1 (A) Flare Boost (I) Flame Orb // Flamethrower, Giga Drain, Shadow Ball, Trick or Treat
+  
+-----
+Kindler Jace (potential double with Hiker Eli)
+-Emboar lvl -1 (A) Blaze (I) Sitrus Berry // Yawn, Heat Crash, Sucker Punch, Hammer Arm
+-Flareon lvl -1 (A) Guts (I) Toxic Orb // Blaze Kick, Facade, Quick Attack, Dig
+  
+-----
+Hiker Eli (potential double with Kindler Jace)
+-Heatmor lvl -1 (A) Tough Claws (I) Sitrus Berry // Fire Lash, Iron Tail, Throat Chop, Stomping Tantrum
+-Lampent lvl 0 (A) Flame Body (I) White Herb // Overheat, Hex, Pain Split, Will-o-Wisp
+  
+-----
+Kindler Cole (potential double with Cooltrainer Gerald)
+-Camerupt lvl -1 (A) Solid Rock (I) Rocky Helmet // Earth Power, Rock Slide, Flash Cannon, Flame Burst
+-Alolan Marowak lvl -1 (A) Lightning Rod (I) Sitrus Berry // Fire Punch, Shadow Bone, Bonemerang, Iron Head
+-Simisear lvl -1 (A) Blaze (I) Petaya Berry // Flamethrower, Grass Knot, Acrobatics, Substitute
+  
+-----
+Cooltrainer Gerald (potential double with Kindler Cole)
+-Kecleon lvl -1 (A) Protean (I) Expert Belt // Fire Punch, Drain Punch, Aqua Tail, Recover
+-Incineroar lvl -1 (A) Intimidate (I) Sitrus Berry // Fire Punch, Darkest Lariat, Leech Life, Will-o-Wisp
+-Octillery lvl -1 (A) Moody (I) Fire Gem // Flamethrower, Water Pulse, Aurora Beam, Protect
+  
+-----
+Kindler Axle
+-Magmortar lvl -1 (A) Flame Body (I) Salac Berry // Flamethrower, Thunderbolt, Cross Chop, Psychic
+-Rapidash lvl -1 (A) Reckless, (I) Sitrus Berry // Blaze Kick, Wild Charge, Jump Kick, Poison Jab
+-Rotom Heat lvl -1 (I) White Herb // Overheat, Discharge, Pain Split, Thunder Wave
+  
+-----
+Kindler Keegan
+-Sunflora lvl -3 (A) Drought (I) Salac Berry // Weather Ball, Solar Beam, Earth Power, Growth
+  
+-----
+Battle Girl Danielle
+-Lopunny lvl -1 (A) Scrappy (I) Black Belt // Jump Kick, Return, Fire Punch, U-Turn
+-Infernape lvl -1 (A) Blaze (I) Flying Gem // Close Combat, Overheat, Thunder Punch, Grass Knot
+  
+-----
+Leader Flannery
+  
+
+====================
+Route 111 (Desert)
+====================
+
+Picnicker Heidi
+-Mudsdale lvl -3 // Earthquake, Counter, Heavy Slam, Iron Defence
+-Bellossom lvl -3 // (I) Safety Goggles // Sleep Powder, Giga Drain, Quiver Dance, Grassy Terrain
+  
+-----
+Camper Beau
+-Gastrodon lvl -3 // Earth Power, Muddy Water, Sludge, Recover
+-Aipom lvl -3 // Fake Out, Double Hit, Dual Chop, Baton Pass
+-Mandibuzz lvl -3 // Bone Rush, Nasty Plot, Air Slash, Dark Pulse
+  
+-----
+Camper Drew
+Sandslash lvl -3 (A) Sand Rush // Earthquake, Crush Claw, Spiky Shield, Swords Dance
+Cacturne lvl -3 (A) Sand Rush // Sucker Punch, Needle Arm, Pin Missile, Spiky Shield
+  
+-----
+Picnicker Becky
+-Jumpluff lvl -3 (A) Infiltrator (I) Safety Goggles // Strength Sap, Seed Bomb, U-turn, Cotton Spore
+-Golduck lvl -3 (I) Safety Goggles // Aqua Tail, Zen Headbutt, Disable, Screech
+-Abomasnow lvl -3 (A) Snow Warning // Wood Hammer, Blizzard, Ice Punch, Aurora Veil
+  
+-----
+Ruin Maniac Dusty
+-Golurk lvl -3 // High Horsepower, Shadow Punch, Heavy Slam, Hammer Arm
+-Sigilyph lvl -3 (A) Magic Guard // Air Slash, Psychic, Cosmic Power, Hypnosis
+-Bastiodon lvl -3 // Metal Burst, Shore Up, Block, Swagger
+  
+-----
+Picnicker Celia (potential double with Ruin Maniac Bryan)
+-Ludicolo lvl -3 (I) Safety Goggles // Fake Out, Giga Drain, Knock Off, Water Pulse
+-Venusaur lvl -3 (I) Safety Goggles // Sludge, Petal Dance, Stun Spore, Take Down
+  
+-----
+Ruin Maniac Bryan (potential double with Picnicker Celia or Camper Branden)
+-Cofagrigus lvl -3 // Shadow Ball, Mirror Shot, Will-o-Wisp, Haze
+Tyrantrum lvl -3  // Rock Slide, Dragon Claw, Crunch, Thunder Fang
+  
+-----
+Camper Branden (potential double with Ruin Maniac Bryan)
+-Farfetch’d lvl -3 (I) Leek // Sacred Sword, Wing Attack, Leaf Blade, Poison Jab
+-Leafeon lvl -3 (A) Chlorophyll, (I) Safety Goggles // Leaf Blade, X-Scissor, Sunny Day, Synthesis
+  
+
+====================
+Petalburg Gym
+====================
+Cooltrainer Randall (Speed)
+-Swellow (N) Jolly (I) Flame Orb // Quick Attack, Brave Bird, Double Edge, Protect
+-Lopunny (N) Jolly (I) Salac Berry // Quick Attack, Jump Attack, Return, Ice Punch
+-Sawsbuck (N) Jolly (I) Heat Rock // Sunny Day, Jump Kick, Return, Horn Leech
+  
+-----
+Cooltrainer Mary (Accuracy)
+-Braviary (N) Jolly (I) White Herb // Hone Claws, Brave Bird, Double Edge, Superpower
+-Raticate (Alolan) (A) Hustle (N) Jolly (I) Salac Berry // Quick Attack, Double Edge, Crunch, Hone Claws
+-Drampa (N) Modest (I) Damp Rock // Rain Dance, Thunder, Hurricane, Work Up
+  
+-----
+Cooltrainer Parker (Confusion)
+-Spinda (A) Contrary (N) Jolly (I) Focus Sash // Teeter Dance, Superpower, Dizzy Punch, Attract
+-Stantler (A) Sap Sipper (N) Jolly (I) Perism Berry // Swagger, Disable, Protect, Thrash
+-Girafarig (A) Contrary (N) Timid (I) Damp Rock // Psychic, Swagger, Foul Play, Thunder Wave
+  
+-----
+Cooltrainer Alexia (Defense)
+-Snorlax (A) Thick Fat (N) Impish (I) Leftovers // Body Slam, Curse, Rest, Sleep Talk
+-Furfrou (N) Impish (I) Leftovers // Thunder Wave, Headbutt, Cotton Guard, Bite
+-Miltank (A) Scrappy (N) Impish (I) Leftovers // Defenses Curl, Rollout, Body Slam, Milk Drink
+  
+-----
+Cooltrainer George (Recovery)
+-Chansey (I) Eviolite // Minimize, Soft Boiled, Seismic Toss, Aromatherapy
+-Dunsparce (N) Impish (I) Leftovers // Coil, Headbutt, Thunderwave, Roost
+-Porygon2 (A) Analytic (I) Eviolite // Tri-Attack, Recover, Ice Beam, Thunderbolt
+  
+-----
+Cooltrainer Jody (Strength)
+-Zangoose (A) Toxic Boost (N) Adamant (I) Toxic Orb // Swords Dance, Facade, Close Combat, Knock Off
+-Bouffalant (N) Adamant (I) Leichi Berry // Swords Dance, Head Charge, Megahorn, Earthquake
+-Porygon Z (A) Download (N) Modest (I) Life Orb // Tri-Attack, Nasty Plot, Ice Beam, Shadow Ball
+  
+-----
+Cooltrainer Berke (One-Hit KO)
+-Lickilicky (N) Adamant (I) Custap Berry // Belly Drum, Explosion.
+-Snorlax (A) Thick Fat (N) Adamant (I) Normal Gem // Fissure, Self Destruct.
+-Ursaring (N) Adamant (I) Flame Orb // Protect, Giga Impact.
+  
+-----
+Leader Norman
+  
+
+====================
+Route 105 (Surf/Optional)
+====================
+
+Swimmer Imani
+-Azumarill lvl -3 (A) Huge Power // Aqua Tail, Play Rough, Superpower, Aqua Ring
+-Dewgong lvl -3 // Aqua Tail, Ice Beam, Signal Beam, Encore
+  
+-----
+Swimmer Dominik
+-Gyarados lvl -3 // Aqua Tail, Crunch, Ice Fang, Leer
+-Bruxish lvl -3 // Aqua Tail, Crunch, Ice Fang, Psychic Fangs
+  
+-----
+Ruin Maniac Foster
+-Omastar lvl -2 // Surf, Rock Slide, Shell Smash, Mud Shot
+-Bronzong lvl -2 (A) Heat Proof // Hypnosis, Confuse Ray, Extrasensory, Flash Cannon
+  
+-----
+Swimmer Beverly
+-Wailord lvl -3 // Surf, Bounce, Body Slam, Noble Roar
+-Pelipper lvl -3 // Air Slash, Hydro Pump, Stockpile, Roost
+-Toxapex lvl -3 // Baneful Bunker, Liquidation, Poison Jab, Recover
+  
+-----
+Swimmer Luis
+-Sharpedo lvl -3 // Crunch, Ice Fang, Poison Fang, Aqua Jet
+-Slurpuff lvl -3 // Surf, Energy Ball, Play Rough, Fake Tears
+  
+-----
+Bird Keeper Josue (potential double with Ruin Maniac Andres)
+-Unfezant lvl -2 // Drill Peck, Return, Submission, Roost
+-Delibird lvl -2 // Fly, Extreme Speed, Seed Bomb, Gunk Shot
+  
+-----
+Ruin Maniac Andres (potential double with Bird Keeper Josue)
+-Archeops lvl -2 // Acrobatics, Rock Slide, Dragon Claw, Endeavor
+-Aurorus lvl -2 // Hyper Voice, Power Gem, Discharge, Roar
+-Probopass lvl -2 // Power Gem, Earth Power, Flash Cannon, Zap Cannon
+  
+
+====================
+Route 107 (Surf/Optional)
+====================
+
+Swimmer Denise
+-Swanna lvl -2 // Rain Dance, Surf, Hurricane, Roost
+-Seaking lvl -2 // Waterfall, Megahorn, Drill Run, Poison Jab
+  
+-----
+Swimmer Tony
+-Sharpedo lvl -2 (A) Speed Boost // Surf, Dark Pulse, Ice Beam, Protect
+-Golisopod lvl -2 // Leech Life, Aqua Jet, Liquidation, Rock Slide
+  
+-----
+Sis and Bro Lisa & Ray
+-Clawitzer lvl -3 // Water Pulse, Dark Pulse, Aura Sphere, Dragon Pulse
+-Dragalge lvl -3 // Dragon Pulse, Sludge Bomb, Hydro Pump, Smokescreen
+-Basculin lvl -3 // Aqua Tail, Crunch, Double Edge, Head Smash
+-Alomomola lvl -3 // Heal Pulse, Whirlpool, Helping Hand, Aqua Ring
+  
+-----
+Swimmer Darrin
+-Tentacool lvl -2 (A) (N) (I) Black Sludge // Water Pulse, Sludge bomb, Toxic Spikes, Supersonic
+-Wingull lvl -2 (A) Hydration (N) Modest (I) Damp Rock // Water Pulse, Hurricane, Rain Dance, Rest
+-Tentacool lvl -2 (A) Rain Dish (N) Adamant (I) Black Sludge // Waterfall, Poison Jab, Screech, Knock Off
+-Wingull lvl -2 (A) Rain Dish (N) Modest (I) Damp Rock // Water Pulse, Hurricane, Rain Dance, Supersonic
+-Tentacool lvl -2 (A) Rain Dish (N) Modest (I) Black Sludge // Water Pulse, Sludge Bomb, Toxic Spikes, Supersonic
+-Wingull lvl -2 (A) Rain Dish (N) Modest (I) Leftovers // Water Pulse, Hurricane, Rain Dance, Agility
+  
+-----
+Swimmer Beth (potential double with Triathlete Camron)
+-Politoed lvl 0 (A) Drizzle (N) (I) Sitrus Berry // Mud Shot, Hydro Pump, Hypnosis, Hyper Voice
+  
+-----
+Triathlete Camron (potential double with Swimmer Beth)
+-Starmie lvl 0 (A) Natural Cure (N) (I) Sitrus Berry // Thunder, Hydro Pump, Psychic, Power Gem
+  
+
+====================
+Route 108 (Surf/Optional)
+====================
+
+Swimmer Missy
+-Gorebyss lvl -2 (A) Hydration // Hydro Pump, Draining Kiss, Psychic, Shell Smash
+-Pyukumuku lvl -1 // Recover, Counter, Soak, Toxic
+  
+-----
+Simmer Matthew
+-Mantine lvl -2 (A) Water Absorb // Air Slash, Aqua Ring, Agility, Roost
+-Raichu lvl -2 (A) Lightningrod // Thunder, Surf, Grass Knot, Nasty Plot
+  
+-----
+Swimmer Tara
+-Seadra lvl -3 (A) Sniper (I) Scope Lens // Surf, Dragon Pulse, Focus Energy, Agility
+-Feraligatr lvl -3 (A) Sheer Force // Waterfall, Aqua Jet, Crunch, Ice Punch
+-Audino lvl -3 // Surf, Hyper Voice, Moonblast, Attract
+  
+-----
+Cooltrainer Carolina (potential double with Sailor Cory)
+-Manectric lvl -1 (A) (N) Timid (I) White Herb // Thunderbolt, Overheat, Aurora Beam, Hyper Beam
+-Hawlucha lvl -1 (A) Unburden (N) Adamant (I) Electric Seed // Acrobatics, Drain Punch, Swords Dance, Rock Slide
+-Sawsbuck lvl -1 (A) (N) Jolly (I) Electric Gem // Double Edge, Horn Leech, Wild Charge, Jump Kick
+  
+-----
+Sailor Cory (potential double with Cooltrainer Carolina)
+-Stunfisk lvl -2 (A) Electric Surge // Thunderbolt, Earth Power, Yawn, Charge
+-Poliwrath (A) Swift Swim (I) Electric Seed // Waterfall, Drain Punch, Ice Punch, Hypnosis
+  
+-----
+Swimmer Jerome
+-Barbaracle lvl -2 // Razor Shell, Strength, Night Slash, Cross Chop
+-Beartic lvl -2 // Icicle Crash, Liquidation, Thrash, Charm
+  
+
+====================
+Abandoned Ship (Optional)
+====================
+
+Beauty Thalia (potential double with Youngster Demetrius)
+-Florges lvl -2 (A) Misty Surge // Moonblast, Petal Dance, Leech Seed, Wish
+-Gardevoir lvl -2 (A) Trace // Psychic, Dazzling Gleam, Mystical Fire, Calm Mind
+  
+-----
+Youngster Demetrius (potential double with Beauty Thalia)
+-Luxray lvl -2 // Wild Charge, Crunch, Ice Fang, Scary Face
+-Stoutland lvl -2 // Retaliate, Crunch, Play Rough, Work Up
+  
+-----
+Sailor Duncan
+-Machamp lvl -3 (A) No Guard // Dynamic Punch, Strength, Dual Chop, Knock Off
+-Walrein lvl -3 (A) Ice Body // Blizzard, Slack Off, Aqua Tail, Hail
+-Dhelmise lvl -3 // Anchor Shot, Phantom Force, Power Whip, Whirlpool
+  
+-----
+Tuber Charlie
+-Lumineon lvl -2 // Hydro Pump, Air Slash, Quiver Dance, Soak
+-Octillery lvl -2 (A) Sniper // Octazooka, Ice Beam, Signal Beam, Focus Energy
+  
+-----
+Ruin Maniac Garrison (potential or forced double with Tuber Jani)
+-Carracosta lvl -3 (A) Sturdy // Aqua Tail, Rock Slide, Crunch, Shell Smash
+-Steelix lvl -3 (A) Sturdy // Earthquake, Iron Tail, Fire Fang, Screech
+-Alolan Golem lvl -3 (A) Sturdy // Earthquake, Stone Edge, Thunder Punch, Curse
+  
+-----
+Tuber Jani (potential or forced double with Ruin Maniac Garrison)
+-Dragonair lvl -3 // Aqua Tail, Dragon Rush, Thunder Wave, Safeguard
+-Simipour lvl -3 // Scald, Acrobatics, Crunch, Play Nice
+-Furret lvl -3 // Coil, Slam, Sucker Punch, Amnesia
+  
+-----
+Young Couple Kira & Dan
+-Volbeat lvl -2 (A) Prankster // Tail Glow, Bug Buzz, Thunder Wave, Protect
+-Illumise lvl -2 (A) Tinted Lens // Struggle Bug, Dazzling Gleam, Thunderbolt, Encore
+  
+
+====================
+Route 123 (Optional)
+====================
+
+Bug Catcher Davis (potential double with Cooltrainer Jazmyn)
+-Pinsir lvl -2 (A) Mold Breaker // X-Scissor, Trash, Superpower, Swords Dance
+-Scolipede lvl -2 // Poison Jab, X-Scissor, Double Edge, Pursuit
+  
+-----
+Cooltrainer Jazmyn
+-Absol lvl -1 (A) Super Luck (N) Jolly (I) Scope Lens // Night Slash, Play Rough, Sucker Punch, Megahorn
+-Goodra lvl -1 (N) Modest (I) Assault Vest // Dragon Pulse, Sludge Wave, Flamethrower, Thunderbolt
+-Scizor lvl -1 (A) Technician (N) Careful (I) Leftovers // Bullet Punch, Bug Bite, Curse, Roost
+-Jolteon lvl -1 (N) Timid (I) Expert Belt // Thunder, Shadow Ball, Aurora Beam, Signal Beam
+  
+-----
+Aroma Lady Violet
+-Roserade lvl -2 // Giga Drain, Sludge Bomb, Sleep Powder, Leech Seed
+-Tropius lvl -2 // Leaf Blade, Air Slash, Body Slam, Synthesis
+  
+-----
+Twins Miu & Yuki
+-Ninetales lvl -3 // Flamethrower, Hypnosis, Hex, Dream Eater
+-Alolan-Ninetales lvl -3 // Freeze-Dry, Hypnosis, Hex, Dream Eater
+  
+-----
+
+-Lilycove/Mt. Pyre Side-
+
+-----
+Hex Maniac Kindra (potential double with Collector Ed)
+-Cofagrigus lvl -2 // Hex, Flash Cannon, Will-o-Wisp, Toxic Spikes
+-Marowak (Alolan) lvl -2 (A) Rock Head // Shadow Bone, Flare Blitz, Bonemerang, Retaliate
+-Rotom Frost lvl -2 // Freeze Dry, Thunderbolt, Hex, Nasty Plot
+  
+-----
+Collector Ed (potential double with Hex Maniac Kindra)
+-Seviper lvl -2 // Venoshock, Flamethrower, Giga Drain, Toxic
+-Zangoose lvl -2 // Double Edge, Close Combat, X-Scissor, Quick Attack
+-Glaceon lvl -2 // Freeze Dry, Shadow Ball, Yawn, Ice Shard
+  
+-----
+Cooltrainer Wendy
+-Mawile lvl -1 (A) Intimidate (N) Adamant (I) Mawilite // Iron Head, Play Rough, Fire Fang, Sucker Punch
+-Roserade lvl -1 (A) Technician (N) Timid (I) Big Root // Mega Drain, Hidden Power (Fire), Sludge Bomb, Quiver Dance
+-Swanna lvl -1 (N) Timid (I) Wide Lens // Air Slash, Hydro Pump, Ice Beam, Roost
+-Hydreigon lvl -1 (N) Timid (I) Expert Belt // Dark Pulse, Dragon Pulse, Earth Power, Fire Blast
+-Mienshao lvl -1 (A) Reckless (N) Jolly (I) Life Orb // High Jump Kick, Knock Off, Poison Jab, Blaze Kick
+  
+-----
+Cooltrainer Braxton
+-Braviary lvl -1 (A) Defiant (N) Jolly (I) Sitrus Berry // Brave Bird, Double Edge, Close Combat, U-Turn
+-Garchomp lvl -1 (N) Jolly (I) Fire Gem // Dragon Rush, Earthquake, Iron Head, Fire Fang
+-Scolipede lvl -1 (A) Speed Boost (N) Jolly (I) Salac Berry // Protect, Iron Defense, Poison Jab, Baton Pass
+-Magnezone lvl -1 (A) Analytic (N) Timid (I) Air Balloon // Flash Cannon, Volt Switch, Hidden Power (Fire), Signal Beam
+-Blastoise lvl -1 (N) Modest (I) Blastoisinite // Water Pulse, Dark Pulse, Aura Sphere, Ice Beam
+  
+-----
+Guitarist Fernando (potential double with Bird Keeper Alberto)
+-Zebstrika lvl -2 // Wild Charge, Pursuit, Overheat, Quick Attack
+-Chatot lvl -2 // Hyper Voice, Chatter, Nasty Plot, Sing
+-Kricketune lvl -2 // Hyper Voice, Bug Buzz, Giga Drain, Sing
+  
+-----
+Bird Keeper Alberto (potential double with Guitarist Fernando)
+-Pelipper lvl -2 (A) Rain Dish // Rain Dance, Hurricane, Brine, Roost
+-Altaria lvl -2 // Brave Bird, Dragon Claw, Ice Beam, Sing
+-Xatu lvl -2 // Air Slash, Psychic, Giga Drain, Dazzling Gleam
+  
+-----
+
+Psychic Jacki (potential double with Expert Fredrick)
+-Musharna lvl -2 (A) Psychic Surge // Dream Eater, Yawn, Moon Blast, Moonlight
+-Girafarig lvl -2 // Psychic Fangs, Crunch, Ice Fang, Thunder Fang
+-Espeon lvl -2 // Psyshock, Shadow Ball, Grass Knot, Dazzling Gleam
+  
+-----
+Expert Fredrick (potential double with Psychic Jacki)
+-Aegislash lvl -1 (A) Air Balloon (N) Brave // Iron Head, Shadowball, Head Smash, King's Shield
+-Comfey lvl -1 (A) Triage (N) Modest (I) Leftovers // Draining Kiss, Giga Drain, Calm Mind, Charm
+-Tyranitar lvl -1 (N) Modest (I) Water Gem // Hydro Pump, Dark Pulse, Fire Blast, Ice Beam
+  
+-----
+
+-After Cut-
+
+-----
+Psychic Cameron
+-Solrock lvl -2 // Stone Edge, Sunny Day, Zen Heabutt, Explosion
+-Exeggutor (Alolan) lvl -2 // Solar Beam, Dragon Hammer, Flamethrower, Psychic
+-Delphox lvl -2 // Psyshock, Shadow Ball, Mystical Fire, Will-o-Wisp
+  
+-----
+
+Ninja Boy Jonas (forced double with Parasol Lady Kayley)
+-Weezing lvl -1 // Heat Wave, Toxic, Venom Drench, Thunderbolt
+-Salazzle lvl -1 // Sludge Bomb, Flamethrower, Dragon Pulse, Thunder Wave
+  
+-----
+Parasol Lady Kayley (forced double with Ninja Boy Jonas)
+-Castform lvl -1 // Sunny Day, Weather Ball, Ice Beam, Solar Beam
+-Sawsbuck lvl -1 // Double Edge, Horn Leech, Jump Kick, Megahorn
+  
+
+====================
+Route 119
+====================
+
+Bug Catcher Kent
+-Ninjask lvl -2 // Leech Life, Substitute, Double Team, Baton Pass
+-Shedinja lvl -2 // Shadow Claw, Swords Dance, X-Scissor, Dig
+  
+-----
+Bug Maniac Donald
+-Leavanny lvl -3 // Leaf Blade, X-Scissor, Sticky Web, Swords Dance
+-Butterfree lvl -3 // Bug Buzz, Hurricane, Sleep Powder, Quiver Dance
+-Galvantula lvl -3 // Thunder, Bug Buzz, Sucker Punch, Thunder Wave
+  
+-----
+Bug Catcher Greg
+-Ledian lvl -3 // Double Edge, Leech Life, Close Combat, Reflect
+Beedrill lvl -3 // X-Scissor, Poison Jab, Drill Peck, Endeavor
+Escavalier lvl -3 // Iron Head, X-Scissor, Razor Shell, Reversal
+  
+-----
+Bug Maniac Taylor
+-Ribombee lvl -3 // Pollen Puff, Dazzling Gleam, Quiver Dance, Aromatherapy
+-Araquanid lvl -3 // Liquidation, Lunge, Ice Fang, Mirror Coat
+-Vivillon lvl -3 // Hurricane, Bug Buzz, Sleep Powder, ???
+  
+-----
+Bug Catcher Doug
+-Masquerain lvl -3 // Bug Buzz, Air Slash, Quiver Dance, Hydro Pump
+-Ariados lvl -3 // Poison Jab, Leech Life, Sucker Punch, Psychic Fangs
+-Kricketune lvl -3 // Boomburst, Bug Buzz, Air Slash, Perish Song
+  
+-----
+Bug Maniac Brent
+Volcarona lvl 0 // Flamethrower, Bug Buzz, Hurricane, Quiver Dance
+  
+-----
+Fisherman Chris
+-Sharpedo lvl -4 // Waterfall, Crunch, Psychic Fangs, Screech
+-Basculin lvl -4 // Head Smash, Thrash, Aqua Tail, Crunch
+-Gyarados lvl -4 // Aqua Tail, Hurricane, Crunch, Whirlpool
+-Whiscash lvl -4 // Earthquake, Aqua Tail, Spark(???), Zen Headbutt
+  
+-----
+Pokemon Ranger Catherine
+-Bellossom lvl -2 (I) Miracle Seed // Quiver Dance, Moonblast, Giga Drain, Sleep Powder
+-Noivern lvl -2 (I) Petaya Berry // Hurricane, Water Pulse, Dragon Pulse Boomburst
+-Beartic lvl -2 (A) Swift Swim, (I) Water Gem // Icicle Crash, Liquidation, Throat Chop, Aqua Jet
+-Seismitoad lvl -2 (I) Sitrus Berry // Earth Power, Hydro Pump, Sludge Wave, Power Whip
+  
+-----
+Pokemon Ranger Jackson
+-Mantine lvl -2 (I) Mystic Water // Hydro Pump, Hurricane, Signal Beam, Roost
+-Rotom-Fan lvl -2 (I) Salac Berry // Hurricane, Thunder, Shadow Ball, Nasty Plot
+-Parasect lvl -2 (A) Dry Skin (I) Leftovers // Spore, Substitute, Leech Seed, Leech Life
+-Lapras lvl -2 (A) Hydration (I) Sitrus Berry // Liquidation, Drill Run, Curse, Rest
+  
+-----
+Parasol Lady Rachel (potential double with Bird Keeper Phil)
+-Ludicolo lvl -2 (A) Rain Dish // Giga Drain, Hydro Pump, Zen Headbutt, Fake Out
+-Heliolisk lvl -2 // Thunderbolt, Hyper Voice, Thunder Wave, Quick Attack
+  
+-----
+Bird Keeper Phil (potential double with Parasol Lady Rachel)
+-Staraptor lvl -2 // Brave Bird, Close Combat, Quick Attack, Agility
+-Farfetch’d lvl -2 (I) Leek // Brave Bird, Close Combat, Leaf Blade, Poison Jab
+  
+-----
+Ninja Boy Takashi (potential double with Kindler Dayton)
+-Accelgor lvl -2 // Bug Buzz, Energy Ball, Water Shuriken, Sludge Bomb
+-Weezing lvl -2 // Sludge Bomb, Smokescreen, Toxic, Explosion
+  
+-----
+Kindler Dayton (potential double with Ninja Boy Takashi)
+-Magcargo lvl -2 // Flamethrower, Stone Edge, Earth Power, Shell Smash
+-Darmanitan lvl -2 // Flare Blitz, Superpower, Thrash, Rock Slide
+  
+-----
+Bird Keeper Hugh
+-Noctowl lvl -3 // Boomburst, Air Slash, Hypnosis, Roost
+-Fearow lvl -3 (A) Sniper // Drill Peck, Drill Run, Focus Energy
+-Tropius lvl -3 (A) Aerilate // Body Slam, Dragon Hammer, Leaf Blade, Dragon Dance
+  
+-----
+
+-After Weather Institute-
+
+-----
+PKMN Trainer Brendan/May
+  
+-----
+Guitarist Fabian (potential double with Ninja Boy Yasu)
+-Manectric lvl -2 // Thunder, Crunch, Ice Fang, Flamethrower
+-Chatot lvl -3 // Boomburst, Chatter, Nasty Plot, Feather Dance
+  
+-----
+Ninja Boy Yasu (potential double with Guitarist Fabian)
+-Greninja lvl -3 // Water Shuriken, Dark Pulse, Extrasensory, Smokescreen
+-Crobat lvl -3 // Wing Attack, Cross Poison, Crunch, Screech
+-Drapion lvl -3 (A) Sniper // Night Slash, Cross Poison, Scary Face, Pursuit
+  
+-----
+Ninja Boy Hideo
+-Bisharp lvl -2 // Night Slash, Iron Head, Laser Focus, Torment
+-Muk lvl -2 // Gunk Shot, Screech, Shadow Sneak, Acid Armor
+  
+
+====================
+Weather Institute
+====================
+
+Team Aqua Grunt 1
+-Walrein lvl -2 // Ice Beam, Aqua Tail, Crunch, Aqua Ring
+-Floatzel lvl -2 // Hydro Pump, Crunch, Ice Punch, Focus Blast
+-Malamar lvl -2 // Throat Chop, Psycho Cut, Superpower, Topsy Turvy
+  
+-----
+Team Aqua Grunt 2
+-Golbat lvl -2 // Acrobatics, Leech Life, Confuse Ray, Hypnosis
+-Dragalge lvl -2 (A) Adaptability // Sludge Bomb, Dragon Pulse, Hydro Pump, Toxic
+-Liepard lvl -2 // Sucker Punch, Play Rough, Swagger, Iron Tail
+  
+-----
+Team Aqua Grunt 3 (Right) (potential double with Team Aqua Grunt 4)
+-Toxicroak lvl -1 (A) Dry Skin (I) Black Sludge // Poison Jab, Drain Punch, Sucker Punch, Protect
+-Eelektross lvl -1 // Thunder, Aqua Tail, Giga Drain, Iron Tail
+  
+-----
+Team Aqua Grunt 4 (Left) (potential double with Team Aqua Grunt 3)
+-Pelipper lvl -1 (A) Drizzle // Hurricane, Hydro Pump, Ice Beam, Roost
+-Ferrothorn lvl -1 // Power Whip, Iron Head, Payback, Thunder Wave
+  
+-----
+Team Aqua Grunt 5
+-Mightyena lvl -2 // Crunch, Play Rough, Fire Fang, Ice Fang
+-Golisopod lvl -2 // First Impression, Liquidation, Sucker Punch, Close Combat
+-Muk (Alolan) lvl -2 // Crunch, Poison Jab, Fire Blast, Screech
+  
+-----
+Aqua Admin Shelly
+  
+
+====================
+Route 120
+====================
+
+Parasol Lady Clarissa
+-Tangrowth lvl -3 // Power Whip, Ancient Power, Sleep Powder, Leech Seed
+-Wailord lvl -2 // Water Spout, Heavy Slam, Bounce, Aqua Ring
+-Pyroar lvl -3 // Fire Blast, Hyper Voice, Noble Roar, Work Up
+  
+-----
+Interviewer Gabby & Ty
+-Magnezone lvl 0 // Flash Cannon, Thunderbolt, Thunder Wave, Signal Beam
+-Exploud lvl 0 // Hyper Voice, Extrasensory, Focus Blast, Ice Beam
+-Porygon 2 lvl 0 // Tri Attack, Thunderbolt, Ice Beam, Recover
+-Sylveon lvl 0 // Hyper Voice, Psyshock, Shadow Ball, Yawn
+  
+-----
+Bird Keeper Robert
+-Fearow lvl -2 (A) Sniper // Drill Peck, Drill Run, Focus Energy, Pursuit
+-Staraptor lvl -2 // Return, Brave Bird, Close Combat, Work Up
+  
+-----
+
+-After Fortree Gym-
+
+-----
+Bird Keeper Colin
+-Dodrio lvl -3 // Brave Bird, Return, Jump Kick, Swords Dance
+-Xatu lvl -3 (A) Magic Bounce // Psychic, Air Slash, Roost, NightShade
+-Oricorio (Baile) lvl -3 // Hurricane, Revelation Dance, Roost, Agility
+  
+-----
+Cooltrainer Leonel (potential double with Parasol Lady Angelica)
+-Vikavolt lvl -1 (A) (N) Timid (I) Electric Gem // Thunder, Bug Buzz, Energy Ball, Mud Shot
+-Venusaur lvl -1 (A) (N) Modest (I) Wide Lens // Giga Drain, Sludge Bomb, Weather Ball, Sleep Powder
+-Golduck lvl -1 (A) Swift Swim (N) Modest (I) Mystic Water // Hydro Pump, Psychic, Ice Beam, Focus Blast
+  
+-----
+Parasol Lady Angelica (potential double with Cooltrainer Leonel)
+-Meowstic lvl -2 (A) Prankster (N) Timid (I) Damp Rock // Rain Dance, Thunder Wave, Psychic, Shadow Ball
+-Castform lvl -2 // Thunder, Hurricane, Weather Ball, Ice Beam
+-Emolga lvl -2 (A) Lightningrod (I) Petaya Berry // Thunder, Hurricane, Agility, Nuzzle
+  
+-----
+Ninja Boy Riley (potential double with Battle Girl Callie)
+-Skuntank lvl -2 // Sucker Punch, Poison Jab, Play Rough, Explosion
+-Mothim lvl -2 (A) Tinted Lens // Bug Buzz, Air Slash, Quiver Dance, Hidden Power
+  
+-----
+Battle Girl Callie (potential double with Ninja Boy Riley)
+-Medicham lvl -2 // Zen Headbutt, High Jump Kick, Recover, Bulk Up
+-Lopunny lvl -2 (A) Scrappy // High Jump Kick, Return, U-Turn, Bounce
+-Mienshao lvl -2 (A) Regenerator // High Jump Kick, Stone Edge, U-Turn, Knock Off
+  
+-----
+Cooltrainer Jennifer
+-Sableye lvl -2 (A) Prankster (N) Bold (I) Leftovers // Will-O-Wisp, Calm Mind, Dark Pulse, Recover
+-Kommo-O lvl -2 (A) (N) Jolly (I) Lum Berry // Close Combat, Outrage, Poison Jab, Dragon Dance
+-Whimsicott lvl -1 (A) (N) Modest (I) Life Orb // Moonblast, Energy Ball, Spore, Psychic
+-Bouffalant lvl -1 (A) (N) Adamant (I) Sitrus Berry // Head Charge, Megahorn, Revenge, Head Smash
+  
+-----
+Pokemon Ranger Jenna
+-Shiftry lvl -2 (A) (N) Jolly (I) Lum Berry // Leaf Blade, Sucker Punch, Low Kick, Swords Dance
+-Seviper lvl -2 (A) (N) Jolly (I) Salac Berry // Poison Jab, Crunch, Earthquake, Coil
+-Nidoking lvl -2 (A) (N) Adamant (I) Shuca Berry // Earthquake, Poison Jab, Ice Punch, Megahorn
+-Cloyster lvl -2 (A) Skill Link (N) Jolly (I) White Herb // Icicle Crash, Rock Blast, Razor Shell, Shell Smash
+  
+-----
+Pokemon Ranger Lorenzo
+-Ludicolo lvl -2 (A) (N) Modest (I) Damp Rock // Rain Dance, Surf, Giga Drain, Focus Blast
+-Zangoose lvl -2 (A) Toxic Boost (N) Jolly (I) Toxic Orb // Quick Attack, Night Slash, Close Combat, Swords Dance
+-Nidoqueen lvl -2 (A) (N) Adamant (I) Shuca Berry // Earthquake, Poison Jab, Ice Punch, Superpower
+-Starmie lvl -2 (A) Analytic (N) Timid (I) Sitrus Berry // Surf, Psyshock, Power Gem, Grass Knot
+  
+-----
+Bug Maniac Jeffrey
+-Durant lvl -3 // X-Scissor, Iron Head, Crunch, Hone Claws
+-Vespiquen lvl -3 // Attack Order, Defend Order, Heal Order, Acrobatics
+-Masquerain lvl -3 // Bug Buzz, Air Slash, Quiver Dance, Stun Spore
+  
+-----
+Ninja Boy Keigo
+-Greninja lvl -3 // Gunk Shot, Waterfall, Night Slash, Ice Punch
+-Weezing lvl -3 // Sludge Bomb, Heat Wave, Explosion, Toxic
+-Bisharp lvl -3 // Iron Head, Night Slash, Thunder Wave, Low Kick
+  
+-----
+Ruin Maniac Chip
+-Crustle lvl -3 // X-Scissor, Rock Wrecker, Night Slash, Shell Smash
+-Claydol lvl -3 // Extrasensory, Earth Power, Hyper Beam, Cosmic Power
+-Aerodactyl lvl -3 // Rock Slide, Crunch, Ice Fang, Thunder Fang
+  
+
+====================
+Fortree Gym
+====================
+
+Bird Keeper Humberto
+-Gliscor lvl 0 (A) (N) Jolly (I) Flying Gem // Acrobatics, Earthquake, Poison Jab, Swords Dance
+-Mandibuzz lvl 0 (A) Overcoat (N) Impish (I) Leftovers // Foul Play, Swagger, Roost, Substitute
+-Hawlucha lvl 0 (A) Unburden (N) Jolly (I) Sitrus Berry // Brave Bird, Close Combat, Stone Edge, Swords Dance
+-Minior lvl 0 (A) (N) Jolly (I) White Herb // Acrobatics, Rock Slide, Zen Headbutt, Shell Smash
+  
+-----
+Bird Keeper Jared (potential double with Picnicker Ashley)
+-Swoobat lvl 0 (A) Simple (N) Timid (I) Salac Berry // Air Slash, Psyshock, Energy Ball, Nasty Plot
+-Noctowl lvl 0 (A) Tinted Lens (N) Modest (I) Leftovers // Hurricane, Heat Wave, Roost, Nasty Plot
+-Noivern lvl 0 (A) Infiltrator (N) Timid (I) White Herb // Draco Meteor, Hurricane, Flamethrower, Water Pulse
+  
+-----
+Picnicker Ashley (potential double with Bird Keeper Jared)
+-Braviary lvl 0 (A) Defiant (N) Jolly (I) Sitrus Berry // Brave Bird, Double Edge, Close Combat, Assurance
+-Pidgeot lvl 0 (A) No Guard (N) Timid (I) Normal Gem // Hyper Beam, Hurricane, Focus Blast, Heat Wave
+-Swanna lvl 0 (A) Hydration (N) Jolly (I) Life Orb // Brave Bird, Liquidation, Steel Wing, Aqua Jet
+  
+-----
+Camper Flint (forced double with Bird Keeper Edwardo)
+-Swellow lvl 0 (A) Guts (N) Adamant (I) Flame Orb // Brave Bird, Double Edge, Protect, U-Turn
+-Yanmega lvl 0 (A) Speed Boost (N) Modest (I) Life Orb // Bug Buzz, Hurricane, Psychic, Detect
+-Mantine lvl 0 (A) Water Absorb (N) Timid (I) Sitrus Berry // Scald, Air Slash, Ice Beam, Roost
+  
+-----
+Bird Keeper Edwardo (forced double with Camper Flint)
+-Staraptor lvl 0 (A) Intimidate (N) Adamant (I) Sitrus Berry // Brave Bird, Double Edge, Close Combat, U-Turn
+-Honchkrow lvl 0 (A) Moxie (N) Naive (I) Dark Gem // Brave Bird, Sucker Punch, Icy Wind, Heat Wave
+-Drifblim lvl 0 (A) Flare Boost (N) Timid (I) Flame Orb // Shadow Ball, Thunderbolt, Protect, Hypnosis
+  
+-----
+Bird Keeper Darius
+-Tropius lvl 0 (A) Harvest (N) Bold (I) Sitrus Berry // Sunny Day, Air Slash, Leech Seed, Substitute
+-Dodrio lvl 0 (A) Moxie (N) Jolly (I) Normal Gem // Brave Bird, Double Edge, Jump Kick, Quick Attack
+-Emolga lvl 0 (A) Static (N) Jolly (I) Flying Gem // Acrobatics, Wild Charge, U-Turn, Thunder Wave
+-Archeops lvl 0 (A) Defeatist (N) Jolly (I) Flying Gem // Acrobatics, Stone Edge, Dragon Claw, Crunch
+  
+-----
+Leader Winona (double battle)
+  
+-----
+
+====================
+Route 121
+====================
+
+Bug Maniac Cale (potential double with Hex Maniac Tammy)
+-Wormadam (Trash) lvl -3 (A) Overcoat // Quiver Dance, Bug Buzz, Flash Cannon, Psychic
+-Wormadam (Sandy) lvl -3 (A) Overcoat // Quiver Dance, Bug Buzz, Earth Power, Psychic
+-Wormadam lvl -3 (A) Overcoat // Quiver Dance, Bug Buzz, Leaf Storm, Psychic
+  
+-----
+Hex Maniac Tammy (potential double with Bug Maniac Cale)
+-Banette lvl -2 (A) Prankster // Shadow Claw, Crush Claw, Will-O-Wisp, Curse
+-Mismagius lvl -2 // Shadow Ball, Power Gem, Mystical Fire, Pain Split
+  
+-----
+Beauty Jessica
+-Krookodile lvl -3 // Earthquake, Crunch, Outrage, Scary Face
+-Arbok lvl -3 (A) Shed Skin // Coil, Gunk Shot, Rest, Crunch
+-Kecleon lvl -3 (A) Protean // Substitute, Recover, Sucker Punch, Drain Punch
+  
+-----
+Sr. and Jr. Kate & Joy
+-Swoobat lvl 0 (A) Simple // Skill Swap, Light Screen, Reflect, Air Slash
+-Slaking lvl 0 // Bulk Up, Return, Play Rough, Slack Off
+  
+-----
+Pokemon Breeder Pat
+-Swampert lvl -4 // Avalanche, Earthquake, Counter, Yawn
+-Bouffalant lvl -4 (A) Sap Sipper // Cotton Guard, Amnesia, Iron Head, Body Slam
+-Electivire lvl -4 (A) Vital Spirit // Substitute, Focus Punch, Thunder Punch, Fire Punch
+(Below are additional Pokemon if you don’t do the double battle)
+-Tropius lvl -4 // Dragon Hammer, Leaf Blade, Synthesis, Leech Seed
+-Simisear lvl -4 // Heat Wave, Focus Blast, Grass Knot, Nasty Plot
+-Lycanroc (Dusk) lvl -4 // Thrash, Sucker Punch, Stone Edge, Fire Fang
+  
+-----
+Pokemon Breeder Myles
+-Lucario lvl -4 // High Jump Kick, Crunch, Bullet Punch, Swords Dance
+-Togekiss lvl -4 (A) Serene Grace // Nasty Plot, Extrasensory, Air Slash, Aura Sphere
+-Magmortar lvl -4 (A) Vital Spirit // Cross Chop, Flare Blitz, Iron Tail, Screech
+(Below are additional Pokemon if you don’t do the double battle)
+-Serperior lvl -4 (A) Contrary // Leaf Storm, Dragon Pulse, Glare, Grassy Terrain
+-Whiscash lvl -5 // Aqua Tail, Earthquake, Dragon Dance, Spark
+-Miltank lvl -4 // Curse, Hammer Arm, Double Edge, Milk Drink
+  
+-----
+Gentleman Walter
+-Luxray lvl -2 // Crunch, Wild Charge, Play Rough, Roar
+-Linoone lvl -2 // Extreme Speed, Play Rough, Shadow Claw, Seed Bomb
+-Slowking lvl -2 // Rain Dance, Surf, Psychic, Slack Off
+  
+-----
+Pokefan Vanessa
+-Raichu lvl -2 (I) Sitrus Berry // Extreme Speed, Play Rough, Thunderbolt, Thunder Wave
+-Togedemaru lvl -2 (I) Sitrus Berry // Zing Zap, Iron Tail, Fell Stinger, Electric Terrain
+-Granbull lvl -2 (I) Sitrus Berry // Play Rough, Crunch, Fire Fang, Roar
+  
+-----
+Cooltrainer Marcel (potential double battle with Cooltrainer Cristin)
+-Shiftry lvl 0 (A) (N) Timid (I) Assault Vest // Energy Ball, Dark Pulse, Air Slash, Heat Wave
+-Zebstrika lvl 0 (A) Sap Sipper (N) Jolly (I) Fire Gem // Wild Charge, Flare Blitz, Quick Attack, Jump Kick
+-Stoutland lvl 0 (A) (N) Jolly (I) Weakness Policy // Return, Crunch, Play Rough, Work Up
+  
+-----
+Cooltrainer Cristin (potential double battle with Cooltrainer Marcel)
+-Ninetales lvl 0 (A) Drought (N) Timid (I) Grass Gem // Heat Wave, Solar Beam, Sunny Day, Will-O-Wisp
+-Flygon lvl 0 (A) (N) Timid (I) White Herb // Draco Meteor, Earth Power, Solar Beam, Flamethrower
+-Pidgeot lvl 0 (A) (N) Timid (I) Yache Berry // Hyper Voice, Air Slash, Heat Wave, Roost
+  
+-----
+
+====================
+Mt. Pyre (Inside)
+====================
+
+PokeManiac Mark (potential double with Hex Maniac Leah)
+-Rhyperior lvl -3 // Rock Wrecker, Earthquake, Megahorn, Ice Punch
+-Haxorus lvl -3 // Outrage, Close Combat, First Impression, Crunch
+-Lickilicky lvl -3 // Body Slam, Power Whip, Fire Blast, Thunder
+  
+-----
+Hex Maniac Leah (potential double with PokeManiac Mark or Black Belt Zander)
+-Gengar lvl -3 // Hex, Sludge Bomb, Hypnosis, Icy Wind
+-Grumpig lvl -3 // Psychic, Shadow Ball, Power Gem, Magic Coat
+-Jynx lvl -3 // Freeze Dry, Psychic, Lovely Kiss, Nasty Plot
+  
+-----
+Black Belt Zander (potential double with Hex Maniac Leah)
+-Hariyama lvl -3 // Close Combat, Knock Off, Heavy Slam, Fake Out
+-Hitmonlee lvl -3 // High Jump Kick, Knock Off, Blaze Kick, Fake Out
+-Emboar lvl -3 (A) Reckless // Hammer Arm, Heat Crash, Wild Charge, Head Smash
+  
+-----
+Young Couple Dez & Luke
+-Cloyster lvl -1 (A) Skill Link // Icicle Spear, Rock Blast, Liquidation, Protect
+-Steelix lvl -1 // Heavy Slam, Dig, Rock Slide, Screech
+  
+-----
+Psychic Kayla (potential double with Pokemon Breeder Gabrielle)
+-Wobbuffet lvl -3 // Counter, Mirror Coat, Encore, Destiny Bond
+-Alakazam lvl -3 // Psychic, Shadow Ball, Calm Mind, Recover
+-Hypno lvl -3 // Dream Eater, Hypnosis, Shadow Ball, Nasty Plot
+  
+-----
+Pokemon Breeder Gabrielle (potential double with Psychic Kayla or Psychic William)
+-Avalugg lvl -4 // Avalanche, High Horsepower, Recover, Mirror Coat
+-Meganium lvl -4 (A) Triage // Giga Drain, Draining Kiss, Grassy Terrain, Ancient Power
+-Raichu (Alolan) lvl -4 // Psychic, Thunderbolt, Electric Terrain, Fake Out
+-Donphan lvl -4 // Earthquake, Ice Shard, Play Rough, Head Smash
+-Gorebyss lvl -4 // Muddy Water, Draining Kiss, Ice Beam, Shell Smash
+-Kommo-O lvl -4 // Clanging Scales, Aura Sphere, Flash Cannon, Flamethrower
+  
+-----
+Psychic William
+-Beheeyem lvl -3 (A) Psychic Surge // Psychic, Shadow Ball, Trick Room, Nasty Plot
+-Gardevoir lvl -3 // Psychic, Moonblast, Mystical Fire, Calm Mind
+-Gallade lvl -3 // Close Combat, Psycho Cut, Leaf Blade, Swords Dance
+  
+-----
+Hex Maniac Tasha
+-Chandelure lvl -3 // Flamethrower, Hex, Will-O-Wisp, Psychic
+-Banette lvl -3 // Phantom Force, Crush Claw, Will-O-Wisp, Thunderbolt
+-Trevenant lvl -3 // Horn Leech, Shadow Claw, Will-O-Wisp, Leech Seed
+  
+-----
+Black Belt Atsushi
+-Samurott lvl -3 // Sacred Sword, X-Scissor, Aqua Tail, Aqua Jet
+-Machamp lvl -3 (A) No Guard // Dynamic Punch, Dual Chop, Knock Off, Stone Edge
+-Aggron lvl -3 (A) Rock Head // Head Smash, Ice Punch, Iron Head, Metal Burst
+  
+-----
+Hex Maniac Valerie (potential double with Psychic Cedric)
+-Sableye lvl -3 (A) Prankster // Fake Out, Recover, Will-O-Wisp, Foul Play
+-Dusknoir lvl -3 // Phantom Force, Ice Punch, Fire Punch, Thunder Punch
+-Spiritomb lvl -3 // Hypnosis, Dream Eater, Dark Pulse, Calm Mind
+  
+-----
+Psychic Cedric (potential double with Hex Maniac Valerie)
+-Bronzong lvl -3 (A) Heatproof // Flash Cannon, Psychic, Confuse Ray, Calm Mind
+-Reuniclus lvl -3 // Psyshock, Thunder, Recover, Acid Armor
+-Meowstic (F) lvl -3 // Psychic, Dark Pulse, Energy Ball, Signal Beam
+  
+
+====================
+Mt. Pyre (Outside)
+====================
+
+Team Aqua Grunt 1
+-Bruxish lvl -2 (A) Strong Jaw // Waterfall, Crunch, Psychic Fangs, Ice Fang
+-Weavile lvl -2 // Night Slash, Icicle Crash, Psycho Cut, Ice Shard
+-Wailord lvl -2 // Scald, Ice Beam, Body Slam, Noble Roar
+  
+-----
+
+Team Aqua Grunt 2
+-Muk lvl -2 // Fire Blast, Acid Spray, Giga Drain, Toxic
+-Raticate (Alolan) lvl -2 (A) Hustle // Crunch, Iron Tail, Quick Attack, Zen Headbutt
+-Tentacruel lvl -2 // Scald, Sludge Bomb, Mirror Coat, Hex
+  
+-----
+Team Aqua Grunt 3 (forced double battle with Team Aqua Grunt 4)
+-Jellicent lvl -2 // Rain Dance, Scald, Shadow Ball, Psychic
+-Amoonguss lvl -2 // Spore, Giga Drain, Sludge Bomb, Synthesis
+-Lanturn lvl -2 // Scald, Thunder, Confuse Ray, Spotlight
+  
+-----
+Team Aqua Grunt 4 (forced double battle with Team Aqua Grunt 3)
+-Carracosta lvl -2 (A) Swift Swim // Liquidation, Rock Slide, Shell Smash, Zen Headbutt
+-Liepard lvl -2 // Knock Off, Play Rough, U-Turn, Encore
+-Qwilfish lvl -2 (A) Intimidate // Waterfall, Poison Jab, Payback, Thunder Wave
+  
+-----
+Aqua Admin Matt
+  
+
+====================
+Magma Hideout
+====================
+
+Team Magma Grunt 1
+-Hippowdon lvl -1 // Earthquake, Ice Fang, Slack Off, Rock Slide
+-Sandslash lvl -1 (A) Sand Rush // Earthquake, Stone Edge, X-Scissor, Swords Dance
+-Gastrodon lvl -1 (A) Sand Force // Earth Power, Scald, Sludge Wave, Recover
+  
+-----
+Team Magma Grunt 2
+-Claydol lvl -1 // Earthquake, Ice Beam, Psychic, Explosion
+-Garbador lvl -1 (A) Weak Armor // Gunk Shot, Meteor Mash, Seed Bomb, Explosion
+-Umbreon lvl -1 (A) Magic Guard // Payback, Curse, Moonlight, Toxic
+  
+-----
+Team Magma Grunt 3
+-Liepard lvl -1 (A) Prankster // Knock Off, Thunder Wave, U-Turn, Charm
+-Salazzle lvl -1 // Flamethrower, Sludge Bomb, Dragon Pulse, Nasty Plot
+-Nidoqueen lvl -1 (A) Sheer Force // Earth Power, Shadow Ball, Sludge Wave, Flamethrower
+  
+-----
+Team Magma Grunt 4 (outside)
+-Talonflame lvl -1 // Brave Bird, Flare Blitz, Roost, Steel Wing
+-Bisharp lvl -1 // Iron Head, Knock Off, Sucker Punch, Psycho Cut
+-Venomoth lvl -1 // Bug Buzz, Psychic, Sleep Powder, Quiver Dance
+  
+-----
+Team Magma Grunt 5 (inside)
+-Scrafty lvl -1 // High Jump Kick, Crunch, Poison Jab, Head Smash
+-Nidoking lvl -1 (A) Sheer Force // Sludge Bomb, Earth Power, Megahorn, Shadow Ball
+-Magcargo lvl -1 // Fire Blast, Stone Edge, Earth Power, Shell Smash
+  
+-----
+Team Magma Grunt 6
+-Camerupt lvl -1 // Earthquake, Eruption, Double Edge, Growth
+-Crobat lvl -1 // Fly, Toxic, Roost, Protect
+-Shiftry lvl -1 // Sunny Day, Solar Blade, Heat Wave, Dark Pulse
+  
+-----
+Team Magma Grunt 7
+-Gliscor lvl -1 // Knock Off, Earthquake, Acrobatics, Cross Poison
+-Dustox lvl -1 // Toxic, Venoshock, Infestation, Roost
+-Magmortar lvl -1 (A) Mega Launcher // Fire Blast, Aura Sphere, Dark Pulse, Psychic
+  
+-----
+Team Magma Grunt 8
+-Mamoswine lvl -1 // Icicle Crash, Earthquake, Ice Shard, Stone Edge
+-Mandibuzz lvl -1 // Foul Play, Swagger, Roost, Protect
+-Scolipede lvl -1 (A) Speed Boost // Megahorn, Poison Jab, Earthquake, Rock Climb
+  
+-----
+Team Magma Grunt 9 (Right) (potential double with Team Magma Grunt 10)
+-Sableye lvl -1 (A) Prankster // Will-o-Wisp, Knock Off, Taunt, Metal Burst
+-Torkoal lvl -1 // Earth Power, Lava Plume, Shell Smash, Clear Smog
+-Excadrill lvl -1 (A) Mold Breaker // Earthquake, Iron Head, X-Scissor, Rock Climb
+  
+-----
+Team Magma Grunt 10 (Left) (potential double with Team Magma Grunt 9)
+-Rhyperior lvl -1 // Earthquake, Rock Wrecker, Megahorn, Metal Burst
+-Amoonguss lvl -1 // Spore, Sludge Bomb, Giga Drain, Foul Play
+-Pangoro lvl -1 // Close Combat, Crunch, Gunk Shot, Zen Headbutt
+  
+-----
+
+-Optional Magma Hideout Areas-
+
+-----
+Team Magma Grunt 11 (forced double with Team Magma Grunt 12)
+-Ariados lvl -1 // Sticky Web, Megahorn, Poison Jab, Toxic Thread
+-Turtonator lvl -1 // Flamethrower, Dragon Pulse, Flash Cannon, Focus Blast
+-Golurk lvl -1 // Earthquake, Shadow Punch, Heavy Slam, Close Combat
+  
+-----
+
+Team Magma Grunt 12 (forced double with Team Magma Grunt 11)
+-Krookodile lvl -1 (A) Moxie // Knock Off, Earthquake, Close Combat, Outrage
+-Victreebel lvl -1 // Leaf Blade, Sludge Bomb, Sleep Powder, Crunch
+-Incineroar lvl -1 (A) Intimidate // Darkest Lariat, Flare Blitz, Close Combat, Thunder Punch
+  
+-----
+Team Magma Grunt 13
+-Golem lvl -1 // Earthquake, Heavy Slam, Stone Edge, Explosion
+-Skuntank lvl -1 // Flamethrower, Crunch, Poison Jab, Play Rough
+-Weezing lvl -1 // Sludge Bomb, Flamethrower, Toxic, Protect
+  
+-----
+Team Magma Grunt 14
+-Mightyena lvl -1 // Crunch, Play Rough, Iron Tail, Howl
+-Flygon lvl -1 // Flamethrower, Crunch, Earthquake, Dragon Claw
+-Drapion lvl -1 (A) Sniper // Cross Poison, Night Slash, Earthquake, Focus Energy
+  
+-----
+Team Magma Grunt 15
+-Swalot lvl -1 // Sludge Bomb, Giga Drain, Ice Beam, Toxic
+-Camerupt lvl -1 // Earthquake, Lava Plume, Rock Slide, Iron Head
+-Persian (Alolan) lvl -1 // Dark Pulse, Thunderbolt, Power Gem, Nasty Plot
+  
+-----
+Team Magma Grunt 16
+-Cacturne lvl -1 // Needle Arm, Sucker Punch, Thunder Punch, Focus Punch
+-Pyroar lvl -1 // Hyper Beam, Fire Blast, Dark Pulse, Wild Charge
+-Palossand lvl -1 // Earth Power, Shadow Ball, Giga Drain, Shore Up
+  
+-----
+Magma Admin Tabitha (forced double with Magma Admin Courtney)
+  
+-----
+Magma Admin Courtney (forced double with Magma Admin Tabitha)
+  
+-----
+Magma Leader Maxie
+  
+-----
+
+====================
+Lilycove City
+====================
+
+PKMN Trainer Brendan/May
+  
+-----
+
+====================
+Aqua Hideout
+====================
+Team Aqua Grunt 1
+-Tentacruel lvl -1 // Knock Off, Scald, Sludge Bomb, Mirror Coat
+-Dhelmise lvl -1 // Anchor Shot, Shadow Claw, Power Whip, Synthesis
+-Mightyena lvl -1 // Sucker Punch, Play Rough, Swagger, Fire Fang
+  
+-----
+Team Aqua Grunt 2
+-Walrein lvl -1 // Freeze Dry, Surf, Crunch, Aqua Ring
+-Floatzel lvl -1 // Waterfall, Crunch, Ice Punch, Aqua Jet
+-Malamar lvl -1 // Throat Chop, Psycho Cut, Superpower, Topsy Turvy
+  
+-----
+Team Aqua Grunt 3 (Top) (potential double with Team Aqua Grunt 4)
+-Sharpedo lvl -1 (A) Speed Boost // Crunch, Screech, Aqua Jet, Protect
+-Dragalge lvl -1 (A) Adaptability // Hydro Pump, Sludge Bomb, Dragon Pulse, Smokescreen
+-Muk lvl -1 (A) Poison Touch // Shadow Sneak, Gunk Shot, Fire Punch, Ice Punch
+  
+-----
+Team Aqua Grunt 4 (Bottom) (potential double with Team Aqua Grunt 3)
+-Cloyster lvl -1 // Icicle Spear, Rock Blast, Pin Missile, Shell Smash
+-Kingler lvl -1 // Crabhammer, Hammer Arm, X-Scissor, High Horsepower
+-Skuntank lvl -1 (N) Modest // Fire Blast, Dark Pulse, Sludge Bomb, Sucker Punch
+  
+-----
+Team Aqua Grunt 5
+-Golbat lvl -2 // Brave Bird, Toxic, Confuse Ray, Roost
+-Clawitzer lvl -2 (A) Mega Launcher // Water Pulse, Aura Sphere, Dragon Pulse, Dark Pulse
+-Muk (Alolan) lvl -2 (A) Poison Touch // Poison Jab, Crunch, Disable, Minimize
+-Eelektross lvl -2 // Wild Charge, Crunch, Aqua Tail, Dragon Claw
+  
+-----
+Team Aqua Grunt 6
+-Seismitoad lvl -1 (A) Water Absorb // Hydro Pump, Sludge Wave, Earth Power, Toxic
+-Basculin lvl -1 (A) Adaptability // Aqua Jet, Crunch, Head Smash, Aqua Tail
+-Scrafty lvl -1 (A) Shed Skin // Crunch, Drain Punch, Bulk Up, Rest
+  
+-----
+Team Aqua Grunt 7 (Left) (potential double with Team Aqua Grunt 8)
+-Toxicroak lvl -1 // Sludge Bomb, Focus Blast, Dark Pulse, Nasty Plot
+-Toxapex lvl -1 // Baneful Bunker, Scald, Recover, Sludge Bomb
+-Gyarados lvl -1 (N) Modest // Hydro Pump, Hurricane, Thunder, Rain Dance
+  
+-----
+Team Aqua Grunt 8 (Right) (potential double with Team Aqua Grunt 7)
+-Relicanth lvl -1 (A) Rock Head // Dive, Head Smash, Earthquake, Toxic
+-Pangoro lvl -1 // Close Combat, Throat Chop, Poison Jab, Outrage
+-Vileplume lvl -1 // Giga Drain, Sleep Powder, Sludge Bomb, Synthesis
+  
+-----
+Aqua Admin Matt
+  
+-----
+
+====================
+Route 124
+====================
+
+Swimmer Grace (potential double with Swimmer Declan)
+-Lanturn lvl -2 // Hydro Pump, Thunderbolt, Signal Beam, Thunder Wave
+-Gorebyss lvl -2 // Hydro Pump, Draining Kiss, Psychic, Shell Smash
+  
+-----
+Swimmer Declan (potential double with Swimmer Grace)
+-Gyarados lvl -2 // Waterfall, Crunch, Bounce, Outrage
+-Dewgong lvl -2 // Ice Beam, Aqua Tail, Fake Out, Encore
+  
+-----
+Sis and Bro Lila & Roy
+-Gastrodon lvl 0 // Muddy Water, Earth Power, Ancient Power, Recover
+-Lanturn lvl 0 // Surf, Discharge, Confuse Ray, Thunder Wave
+  
+-----
+Swimmer Spencer
+-Tentacruel lvl -2 // Hydro Pump, Poison Jab, Mirror Coat, Knock Off
+-Pelipper lvl -2 // Air Slash, Hydro Pump, Shock Wave, Tailwind
+  
+-----
+Swimmer Jenny
+-Wailord lvl -3 // Water Spout, Bounce, Heavy Slam, Yawn
+-Starmie lvl -3 // Psychic, Hydro Pump, Power Gem, Recover
+-Primarina lvl -2 // Sparkling Aria, Moonblast, Hyper Voice, Icy Wind
+  
+-----
+Swimmer Chad
+-Stoutland lvl -3 // Surf, Double Edge, Crunch, Play Rough
+-Jellicent lvl -3 // Water Spout, Shadow Ball, Giga Drain, Recover
+-Lumineon lvl -3 // Surf, Air Slash, Signal Beam, Quiver Dance
+  
+-----
+Triathlete Isabella
+-Mantine lvl -2 // Air Slash, Scald, Signal Beam, Roost
+-Azumarill lvl -2 (A) Huge Power // Aqua Tail, Play Rough, Superpower, Aqua Jet
+  
+-----
+Swimmer Roland
+-Octillery lvl -2 (A) Moody // Octazooka, Flamethrower, Ice Beam, Recover
+-Clawitzer lvl -2 // Water Pulse, Dark Pulse, Aura Sphere, Aqua Jet
+  
+-----
+
+====================
+Mossdeep Gym
+====================
+
+Psychic Preston (potential double with Psychic Maura)
+-Slowking lvl -2 (A) (N) Modest (I) Assault Vest // Surf, Psychic, Ice Beam, Fire Blast
+-Alakazam lvl -2 (A) Magic Guard (N) Timid (I) Life Orb // Psychic, Aura SPhere, Dazzling Gleam, Shadow Ball
+  
+-----
+Psychic Maura (potential double with Psychic Preston)
+-Beheeyem lvl -1 (A) Psychic Surge (N) Modest (I) Psychic Seed // Psychic, Thunderbolt, Dark Pulse, Nasty Plot
+-Espeon lvl -1 (A) Magic Bounce (N) Timid (I) Fairy Gem // Dazzling Gleam, Psychic, Shadow Ball, Calm Mind
+  
+-----
+Psychic Samantha (potential double with Psychic Blake)
+-Xatu lvl -2 (A) Magic Bounce (N) Timid (I) Fire Gem // Psychic, Air Slash, Heat Wave, Shadow Ball
+-Gardevoir lvl -2 (A) Trace (N) Timid (I) Expert Belt // Dazzling Gleam, Mystical Fire, Focus Blast, Shadow Ball
+  
+-----
+Psychic Blake (potential double with Psychic Samantha)
+-Girafarig lvl -2 (N) Jolly (I) Salac Berry // Psychic Fangs, Crunch, Hyper Fang, Ice Fang
+-Meowstic (F) lvl -2 (A) Sheer Force (N) Timid (I) Life Orb // Psychic, Thunderbolt, Energy Ball, Signal Beam
+  
+-----
+Psychic Nicholas
+-Musharna lvl -2 (A) Psychic Surge (N) Modest (I) Psychic Seed // Future Sight, Hypnosis, Reflect, Light Screen
+-Wobbuffet lvl -2 (A) Shadow Tag (N) Bold (I) Rocky Helmet // Counter, Mirror Coat, Encore, Destiny Bond
+  
+-----
+Hex Maniac Kathleen (potential double with Psychic Nicholas or Gentleman Clifford)
+-Hypno lvl -2 (N) Timid (I) Electric Seed // Future Sight, Shadow Ball, Hypnosis, Focus Blast
+-Swoobat lvl -2 (A) Simple (N) Timid (I) Weakness Policy // Air Slash, Giga Drain, Heat Wave, Endure
+  
+-----
+Gentleman Clifford (potential double with Hex Maniac Kathleen or Psychic Macey)
+-Raichu (Alolan) lvl -2 (N) Timid (I) Electric Seed // Psychic, Thunderbolt, Grass Knot, Electric Terrain
+-Mr. Mime lvl -2 (N) Timid (I) Light Clay // Psychic, Dazzling Gleam, Reflect, Light Screen
+  
+-----
+Psychic Macey (potential double with Gentleman Clifford)
+-Jynx lvl -2 (A) Dry Skin (N) Timid (I) Ice Gem // Psychic, Freeze-dry, Lovely Kiss, Nasty Plot
+-Delphox lvl -2 (A) Pyromancy (N) Timid (I) Power Herb // Psychic, Heat Wave, Solar Beam, Aura Sphere
+  
+-----
+Gentleman Nate (potential double with Psychic Virgil)
+-Grumpig lvl -2 (N) Modest (I) Assault Vest // Extrasensory, Energy Ball, Focus Blast, Charge Beam
+-Starmie lvl -2 (N) Bold (I) Rocky Helmet // Psychic, Scald, Recover, Cosmic Power
+  
+-----
+Psychic Virgil (potential double with Gentleman Nate)
+-Medicham lvl -2 (N) Jolly (I) Rock Gem // Drain Punch, Poison Jab, Fake Out, Rock Slide
+-Bronzong lvl -2 (A) Heavy Metal (N) Adamant (I) Air Ballon // Heavy Slam, Payback, Hypnosis, Rock Slide
+  
+-----
+Hex Maniac Sylvia (potential double with Psychic Hannah)
+-Oranguru lvl -2 (N) Quiet (I) Dark Gem // Trick Room, Psychic, Foul Play, Hyper Beam
+-Gothitelle lvl -2 (A) Shadow Tag (N) Quiet (I) Leftovers // Psychic, Thunderbolt, Charm, Calm Mind
+  
+-----
+Psychic Hannah (potential double with Hex Maniac Sylvia)
+-Bruxish lvl -2 (A) Strong Jaw (N) Jolly (I) Poison Gem // Liquidation, Psychic Fangs, Poison Fang, Ice Fang
+-Malamar lvl -2 (A) Contrary (N) Brave (I) Leftovers // Superpower, Throat Chop, Psycho Cut, Rock Slide
+  
+-----
+Leaders Tate & Liza
+  
+-----
+
+====================
+Mossdeep Space Center
+====================
+
+Team Magma Grunt 1
+-Salazzle lvl -1 // Sludge Bomb, Fire Blast, Fake Out, Dragon Pulse
+-Palossand lvl -1 // Earth Power, Shadow Ball, Psychic, Shore Up
+-Amoonguss lvl -1 // Spore, Ingrain, Sludge Bomb, Foul Play
+  
+-----
+Team Magma Grunt 2
+-Mightyena lvl -1 // Crunch, Play Rough, Iron Tail, Howl
+-Camerupt lvl -1 // Earthquake, Lava Plume, Double Edge, Growth
+-Shiftry lvl -1 // Sunny Day, Solar Blade, Heat Wave, Knock Off
+  
+-----
+Team Magma Grunt 3
+-Torkoal lvl -1 // Earth Power, Lava Plume, Shell Smash, Clear Smog
+-Claydol lvl -1 // Earth Power, Shadow Ball, Psychic, Ancient Power
+-Rhyperior lvl -1 // Earthquake, Rock Blast, Crunch, Ice Punch
+  
+-----
+
+Team Magma Grunt 4
+-Flygon lvl -1 // U-Turn, Crunch, Earthquake, Dragon Claw
+-Crobat lvl -1 // Fly, Toxic, Roost, Super Fang
+-Drapion lvl -1 (A) Sniper // Cross Poison, Night Slash, Ice Fang, Focus Energy
+  
+-----
+
+-Gauntlet Grunts (no heals)-
+
+-----
+Team Magma Grunt 5
+-Pyroar lvl -1 // Hyper Beam, Fire Blast, Dark Pulse, Wild Charge
+-Pangoro lvl -1 // Close Combat, Crunch, Gunk Shot, Zen Headbutt
+-Nidoking lvl -1 (A) Sheer Force // Earth Power, Ice Punch, Sludge Wave, Fire Blast
+  
+-----
+Team Magma Grunt 6
+-Hippowdon lvl -1 (A) Sandstream // Earthquake, Crunch, Yawn, Fire Fang
+-Sandslash lvl -1 (A) Sand Rush // Earthquake, Rock Slide, X-Scissor, Swords Dance
+  
+-----
+Team Magma Grunt 7
+-Liepard lvl -1 (A) Prankster // Assist, Thunder Wave, U-Turn, Charm
+-Incineroar lvl -1 (A) Intimidate // Darkest Lariat, Flare Blitz, Drain Punch, Thunder Punch
+-Mamoswine lvl -1 // Icicle Crash, Earthquake, Ice Shard, Superpower
+  
+-----
+Magma Admin Tabitha
+  
+-----
+Magma Admin Courtney (forced double with Magma Leader Archie)
+Magma Leader Archie (forced double with Magma Admin Courtney)
+  
+-----
+
+====================
+Route 125 (Optional)
+====================
+
+Sailor Ernest
+-Conkeldurr lvl -3 // Hammer Arm, Payback, Stone Edge, Mach Punch
+-Golisopod lvl -3 // Liquidation, First Impression, Close Combat, Aqua Jet
+-Kangaskhan lvl -3 // Crush Claw, Sucker Punch, Hammer Arm, Fire Punch
+  
+-----
+Swimmer Nolen
+-Poliwrath lvl -3 // Drain Punch, Hydro Pump, Hypnosis, Ice Punch
+-Wishiwashi lvl -3 // Liquidation, Double Edge, Aqua Ring, Endeavor
+-Raichu lvl -3 // Thunderbolt, Surf, Extreme Speed, Nuzzle
+  
+-----
+Swimmer Sharon
+-Seaking lvl -2 // Waterfall, Drill Run, Megahorn, Poison Jab
+-Slowbro lvl -2 // Surf, Psychic, Slack Off, Yawn
+  
+-----
+Swimmer Tanya
+-Luvdisc lvl -3 // Hydro Pump, Draining Kiss, Rain Dance, Lovely Kiss
+-Alomomola lvl -3 // Waterfall, Wish, Protect, Toxic
+-Vaporeon lvl -3 // Surf, Ice Beam, Yawn, Wish
+  
+-----
+Bird Keeper Presley (potential double with Expert Auron)
+-Staraptor lvl -2 // Double Edge, Brave Bird, Close Combat, U-Turn
+-Gliscor lvl -2 // Rock Slide, Wing Attack, Toxic, Roost
+  
+-----
+Expert Auron (potential double with Bird Keeper Presley)
+-Manectric lvl -1 (A) Lightningrod (N) Timid (I) Assault Vest // Thunderbolt, Flamethrower, Aurora Beam, Signal Beam
+-Lucario lvl -1 (A) (N) Timid (I) Dark Gem // Aura Sphere, Flash Cannon, Dark Pulse, Vacuum Wave
+  
+-----
+Swimmer Stan
+-Kingdra lvl -2 // Waterfall, Outrage, Iron Head, Rain Dance
+-Bibarel lvl -2 // Surf, Strength, Rock Climb, Cut
+  
+-----
+Sr. and Jr. Kim & Iris
+-Altaria lvl -2 // Brave Bird, Dragon Rush, Sing, Ice Beam
+-Rhyperior lvl -2 // Stone Edge, Earthquake, Crunch, Fire Punch
+-Cryogonal lvl -2 // Ice Beam, Power Gem, Water Pulse, Confuse Ray
+-Rotom (Wash) lvl -2 // Hydro Pump, Thunderbolt, Will-O-Wisp, Shadow Ball
+  
+
+====================
+Route 127
+====================
+
+Bird Keeper Aidan (potential double with Cooltrainer Athena)
+-Pidgeot lvl -2 // Hyper Voice, Hurricane, Heat Wave, Work Up
+-Talonflame lvl -2 (A) Gale Wings // Brave Bird, Flare Blitz, Sunny Day, Solar Beam
+  
+-----
+Cooltrainer Athena (potential double with Bird Keeper Aidan)
+-Infernape lvl -2 (A) Iron Fist (N) Naive (I) Expert Belt // Close Combat, Fire Blast, Thunder Punch, Stone Edge
+-Accelgor lvl -2 (A) (N) Timid (I) Poison Gem // Bug Buzz, Focus Blast, Energy Ball, Sludge Bomb
+  
+-----
+Fisherman Jonah
+-Corsola lvl -2 // Recover, Mirror Coat, Power Gem, Scald
+-Toxapex lvl -2 // Toxic, Venoshock, Recover, Venom Drench
+  
+-----
+Fisherman Roger
+-Crawdaunt lvl -2 // Crabhammer, Knock Off, Aqua Jet, Double Edge
+-Pyukumuku lvl -2 // Toxic, Counter, Recover, Taunt
+  
+-----
+Fisherman Henry
+-Tentacruel lvl -2 // Whirlpool, Toxic, Protect, Dive
+-Jellicent lvl -2 // Acid Armor, Strength Sap, Scald, Giga Drain
+  
+-----
+Triathlete Camden
+-Klinklang lvl -3 // Gear Grind, Wild Charge, Double Edge, Shift Gear
+-Greninja lvl -3 // Water Shuriken, Scald, Ice Beam, Grass Knot
+-Emolga lvl -3 // Acrobatics, Discharge, Energy Ball, Eerie Impulse
+  
+-----
+Black Belt Koji
+-Hariyama lvl -2 // Fake Out, Close Combat, Stone Edge, Knock Off
+-Aggron lvl -2 // Stone Edge, Iron Tail, Earthquake, Dragon Claw
+  
+-----
+Triathlete Donny
+-Yanmega lvl -2 // Bug Buzz, Air Slash, Psychic, Detect
+-Blastoise lvl -2 // Hydro Pump, Ice Beam, Aura Sphere, Rapid Spin
+  
+-----
+
+====================
+Route 128
+====================
+
+Cooltrainer Alexa
+-Feraligatr lvl -1 (A) Sheer Force (N) Jolly (I) Life Orb // Liquidation, Crunch, Ice Punch, Dragon Dance
+-Marowak (Alolan) lvl -1 (A) Lightningrod (N) Jolly (I) Thick Club // Flare Blitz, Shadow Bone, Bonemerang, Shadow Sneak
+-Scizor lvl -1 (A) Technician (N) Adamant (I) Metal Coat // Bullet Punch, U-Turn, Superpower, Roost 
+-Exeggutor lvl -1 (A) Chloroplast (N) Quiet (I) Grass Gem // Solar Beam, Psychic, Synthesis, Trick Room
+-Ampharos lvl 0 (A) (N) Modest (I) Ampharosite // Volt Switch, Dragon Pulse, Focus Blast, Power Gem
+  
+-----
+Cooltrainer Ruben
+-Heatmor lvl -1 (A) Tough Claws (N) Adamant (I) Choice Band // Flare Blitz, Iron Head, Power Whip, Drain Punch
+-Meganium lvl -1 (A) Triage (N) Modest (I) Leftovers // Giga Drain, Draining Kiss, Calm Mind, Synthesis
+-Dragonite lvl -1 (A) Multiscale (N) Adamant (I) Yache Berry // Outrage, Earthquake, Iron Tail, Extreme Speed
+-Milotic lvl -1 (A) (N) Bold (I) Leftovers // Scald, Ice Beam, Recover, Hypnosis
+-Lopunny lvl 0 (A) (N) Jolly (I) Lopunnite // High Jump Kick, Double Edge, Knock Off, U-Turn
+  
+-----
+Fisherman Wayne
+-Wailord lvl -2 // Hydro Pump, Earthquake, Amnesia, Rest
+-Dhelmise lvl -2 // Hydro Pump, Energy Ball, Shadow Ball, Rapid Spin
+  
+-----
+Triathlete Isaiah
+-Dodrio lvl -2 // Brave Bird, Double Edge, Jump Kick, Knock Off
+-Jolteon lvl -2 // Electro Ball, Aurora Beam, Shadow Ball, Agility
+  
+-----
+Triathlete Katelyn
+-Fearow lvl -2 // Drill Peck, Double Edge, Drill Run, Focus Energy
+-Zebstrika lvl -2 // Volt Tackle, Blaze Kick, Jump Kick, Agility
+  
+-----
+Swimmer Carlee (potential double with Swimmer Harrison)
+-Seaking lvl -2 (A) Lightningrod // Hydro Pump, Ice Beam, Drill Run, Megahorn
+-Drampa lvl -2 // Surf, Hyper Voice, Dragon Pulse, Energy Ball
+  
+-----
+Swimmer Harrison (potential double with Swimmer Carlee)
+-Lickilicky lvl -2 // Surf, Ice Beam, Flamethrower, Power Whip
+-Omastar lvl -2 // Surf, Ice Beam, Earth Power, Rain Dance
+  
+-----
+
+====================
+Seafloor Cavern
+====================
+
+Team Aqua Grunt 1
+-Mightyena lvl -1 (A) Moxie // Crunch, Fire Fang, Ice Fang, Double Edge
+-Crobat lvl -1 (A) Inner Focus  // Acrobatics, Sludge Bomb, Crunch, Giga Drain
+-Sharpedo lvl -1 (A) Speed Boost // Waterfall, Crunch, Ice Fang, Earthquake
+  
+-----
+Team Aqua Grunt 2
+-Huntail lvl -1 // Crunch, Aqua Tail, Ice Fang, Shell Smash
+-Muk lvl -1 // Gunk Shot, Fire Blast, Toxic, Minimize
+-Scrafty lvl -1 (A) Intimidate // Drain Punch, Crunch, Head Smash, Earthquake
+  
+-----
+Team Aqua Grunt 3 (potential double with Team Aqua Grunt 4)
+-Wailord lvl -1 // Dive, Bounce, Double Edge, Aqua Ring
+-Skuntank lvl -1 // Poison Jab, Crunch, Toxic, Protect
+-Seaking lvl -1 (A) Lightning Rod // Waterfall, Megahorn, Throat Chop, Swords Dance
+  
+-----
+Team Aqua Grunt 4 (potential double with Team Aqua Grunt 3)
+-Gorebyss lvl -1 // Hydro Pump, Psychic, Ice Beam, Shell Smash
+-Purugly lvl -1 // Fake Out, Body Slam, Play Rough, U-Turn
+-Toxapex lvl -1 // Liquidation, Toxic, Baneful Bunker, Recover
+  
+-----
+Team Aqua Grunt
+-Mandibuzz lvl -1 // Knock Off, Brave Bird, Bone Rush, Roost
+-Gyarados lvl -1 // Bounce, Crunch, Earthquake, Fire Blast
+-Arbok lvl -1 // Poison Jab, Crunch, Coil, Seed Bomb
+  
+-----
+Aqua Admin Shelly (can be skipped by using boulders to block)  
+-----
+Aqua Leader Archie
+  
+-----
+
+====================
+Route 126
+====================
+
+Swimmer Leonardo (potential double with Triathlete Isobel)
+-Floatzel lvl -2 // Aqua Tail, Ice Punch, Crunch, Iron Tail
+-Barbaracle lvl -2 // Liquidation, Stone Edge, Night Slash, Cross Chop
+  
+-----
+Triathlete Isobel (potential double with Swimmer Leonardo)
+-Beartic lvl -2 // Icicle Crash, Close Combat, Play Rough, Surf
+-Swanna lvl -2 // Brave Bird, Hydro Pump, Steel Wing, Roost
+  
+-----
+Swimmer Dean
+-Haxorus lvl -2 // Outrage, Crunch, Iron Tail, Surf
+-Ludicolo lvl -2 // Giga Drain, Surf, Leech Seed, Rain Dance
+-Quagsire lvl -2 // Liquidation, Earthquake, Recover, Toxic
+  
+-----
+Swimmer Nikki
+-Lapras lvl -2 // Surf, Freeze Dry, Psychic, Sing
+-Audino lvl -2 // Hyper Voice, Surf, Wish, Thunderbolt
+  
+-----
+Swimmer Barry
+-Swampert lvl -2 // Aqua Tail, Earthquake, Avalanche, Rock Slide
+-Gogoat lvl -2 // Surf, Horn Leech, Earthquake, Milk Drink
+  
+-----
+Swimmer Sienna (potential double with Triathlete Pablo)
+-Huntail lvl -2 // Aqua Tail, Crunch, Ice Fang, Shell Smash
+-Whiscash lvl -2 // Aqua Tail, Zen Headbutt, Earthquake, Dragon Dance
+-Politoed lvl -2 // Surf, Hyper Voice, Sing, Mud Shot
+  
+-----
+Triathlete Pablo (potential double with Swimmer Sienna)
+-Kabutops lvl -3 // Liquidation, Stone Edge, Leech Life, Rain Dance
+-Golduck lvl -3 (A) Swift Swim // Hydro Pump, Zen Headbutt, Cross Chop, Hone Claws
+-Qwilfish lvl -3 (A) Swift Swim // Waterfall, Poison Jab, Swords Dance, Explosion
+-----
+
+-After Dive-
+
+-----
+Swimmer Brenda
+-Goldeen lvl 100 // Struggle
+  
+-----
+
+====================
+Route 129
+====================
+
+Swimmer Reed
+-Walrein lvl -2 // Surf, Ice Beam, Crunch, Yawn
+-Sharpedo lvl -2 // Surf, Ice Beam, Dark Pulse, Psychic Fangs
+  
+-----
+Triathlete Chase
+-Starmie lvl -2 // Surf, Ice Beam, Thunderbolt, Cosmic Power
+-Braviary lvl -2 // Brave Bird, Double Edge, Close Combat, Rock Slide
+  
+-----
+Triathlete Allison
+-Unfezant lvl -2 // Drill Peck, Night Slash, Roost, Focus Energy
+-Galvantula lvl -2 // Thunder, Bug Buzz, Sucker Punch, Poison Jab
+  
+-----
+Swimmer Clarence (potential double with Swimmer Tisha)
+-Diggersby lvl -2 (A) Huge Power // Earthquake, Double Edge, U-Turn, Surf
+-Empoleon lvl -2 // Surf, Flash Cannon, Drill Peck, Aqua Jet
+  
+-----
+Swimmer Tisha (potential double with Swimmer Clarence)
+-Lanturn lvl -2 (A) Water Absorb // Discharge, Confuse Ray, Ice Beam, Aqua Ring
+-Slurpuff lvl -2 // Surf, Play Rough, Energy Ball, Flamethrower
+  
+
+====================
+Route 130
+====================
+
+Swimmer Rodney
+-Gyarados lvl -2 (A) Moxie // Outrage, Giga Impact, Ice Fang, Bounce
+-Wishiwashi lvl -2 (A) Schooling // Surf, Ice Beam, Earthquake, Aqua Ring
+  
+-----
+Swimmer Katie (potential double with Swimmer Santiago)
+-Seaking lvl -2 (A) Lightningrod // Dive, Acupressure, Toxic, Bounce
+-Beartic lvl -2 // Icicle Crash, Liquidation, Throat Chop, Swords Dance
+  
+-----
+Swimmer Santiago (potential double with Swimmer Katie)
+-Gastrodon lvl -2 (A) Storm Drain // Dive, Dig, Toxic, Recover
+-Poliwrath lvl -2 // Close Combat, Dive, Throat Chop, Earth Power
+  
+
+====================
+Route 131
+====================
+
+Swimmer Kevin (potential double with Triathlete Taila)
+-Snorlax lvl -2 // Body Slam, Crunch, Rest, Sleep Talk
+-Quagsire lvl -2 // Earthquake, Stockpile, Recover, Scald
+  
+-----
+Triathlete Taila (potential double with Swimmer Kevin)
+-Scyther lvl -2 // Aerial Ace, Bug Bite, Thief, Swords Dance
+-Dedenne lvl -2 // Play Rough, Wild Charge, Grass Knot, Super Fang
+  
+-----
+Swimmer Richard
+-Tauros lvl -2 // Giga Impact, Close Combat, Megahorn, Surf
+-Slowking lvl -2 // Power Gem, Flamethrower, Psychic, Slack Off
+  
+-----
+Swimmer Kara
+-Miltank lvl -2 // Body Slam, Surf, Milk Drink, Play Rough
+-Azumarill lvl -2 (A) Huge Power // Play Rough, Ice Punch, Aqua Jet, Bulldoze
+  
+-----
+Cooltrainer Herman (potential double with Cooltrainer Susie)
+-Heracross lvl 0 (A) (N) Adamant (I) Heracronite // Pin Missile, Bullet Seed, Rock Blast, Close Combat
+-Florges lvl -1 (A) Misty Surge (N) Modest (I) Leftovers // Draining Kiss, Giga Drain, Leech Seed, Calm Mind
+-Lycanroc lvl -1 (A) (N) Jolly (I) Rock Gem // Stone Edge, Earthquake, Close Combat, Accelerock
+-Bronzong lvl -1 (A) (N) Brave (I) Occa Berry // Gyro Ball, Payback, Curse, Zen Headbutt
+-Gourgeist lvl -1 (A) (N) Modest (I) Flame Orb // Shadow Ball, Giga Drain, Flamethrower, Psychic
+  
+-----
+Cooltrainer Susie (potential double with Cooltrainer Herman)
+-Pidgeot lvl 0 (A) (N) Timid (I) Pidgeotite // Hurricane, Heat Wave, Focus Blast, U-Turn
+-Probopass lvl -1 (A) (N) Modest (I) Life Orb // Power Gem, Flash Cannon, Thunder, Earth Power
+-Sceptile lvl -1 (A) Chloroplast (N) Timid (I) White Herb // Solar Beam, Draco Meteor, Focus Blast, Synthesis
+-Volcarona lvl -1 (A) (N) Bold (I) Leftovers // Fiery Dance, Giga Drain, Quiver Dance, Roost
+-Froslass lvl -1 (A) (N) Timid (I) Expert Belt // Shadow Ball, Ice Beam, Thunder, Will-O-Wisp
+  
+-----
+Sis and Bro Reli & Ian
+-Pelipper lvl -2 (A) Drizzle // Soak, Tailwind, Weather Ball, Wide Guard
+-Relicanth lvl -2 // Aqua Tail, Rock Slide, Earthquake, Double Edge
+  
+-----
+
+====================
+Route 132 (Optional)
+====================
+
+Swimmer Gilbert
+-Nidoking lvl -2 // Surf, Sludge Bomb, Earthquake, Megahorn
+-Sharpedo lvl -2 // Waterfall, Psychic Fangs, Crunch, Double Edge
+  
+-----
+Swimmer Dana
+-Nidoqueen lvl -2 // Surf, Sludge Bomb, Earthquake, Superpower
+-Primarina lvl -2 // Sparkling Aria, Moonblast, Psychic, Sing
+  
+-----
+Fisherman Ronald
+-Magikarp lvl -4 // Hydro Pump, Reversal, Bounce, Splash
+-Gyarados lvl -4 // Hydro Pump, Hurricane, Rain Dance, Thunder
+-Gyarados lvl -4 // Hydro Pump, Bounce, Crunch, Leer
+-Gyarados lvl -4 // Aqua Tail, Bounce, Dragon Dance, Ice Fang
+-Gyarados lvl -4 // Waterfall, Crunch, Earthquake, Ice Fang
+-Gyarados lvl -4 // Splash, Thrash, Outrage
+  
+-----
+Black Belt Kiyo
+-Hawlucha lvl -3 // High Jump Kick, Acrobatics, Swords Dance, Flying Press
+-Primeape lvl -3 // Close Combat, Thrash, Outrage, Night Slash
+-Throh lvl -3 // Storm Throw, Payback, Bulk Up, Body Slam
+  
+-----
+Expert Paxton (potential double with Cooltrainer Darcy)
+-Breloom lvl -1 (A) Poison Heal (N) Jolly (I) Toxic Orb // Spore, Focus Punch, Substitute, Stone Edge
+-Ursaring lvl -1 (A) Guts (N) Jolly (I) Flame Orb // Facade, Close Combat, Crunch, Swords Dance 
+-Luxray lvl -1 (A) (N) Jolly (I) Expert Belt // Crunch, Thunder Fang, Fire Fang, Ice Fang
+  
+-----
+Cooltrainer Darcy (potential double with Expert Paxton)
+-Charizard lvl 0 (A) (N) Jolly (I) Charizardite X // Dragon Claw, Flare Blitz, Thunder Punch, Brick Break
+-Lilligant lvl -1 (A) Own Tempo (N) Timid (I) Grass Gem // Petal Dance, Moonblast, Sleep Powder, Quiver Dance
+-Porygon Z lvl -1 (A) (N) Timid (I) Silk Scarf // Techno Blast, Thunderbolt, Ice Beam, Dark Pulse
+  
+-----
+Expert Makayla (potential double with Cooltrainer Jonathan)
+-Amoonguss lvl -1 (A) (N) Bold (I) Black Sludge // Spore, Rage Powder, Foul Play, Giga Drain
+-Medicham lvl -1 (A) Pure Power (N) Jolly (I) Life Orb // High Jump Kick, Zen Headbutt, Ice Punch, Bullet Punch
+-Flareon lvl -1 (A) Guts (N) Jolly (I) Toxic Orb // Flare Blitz, Facade, Superpower, Protect
+  
+-----
+Cooltrainer Jonathan (potential double with Expert Makayla)
+-Rampardos lvl -1 (A) Sheer Force (N) Naive (I) Life Orb // Rock Slide, Fire Blast, Blizzard, Crunch
+-Sawsbuck lvl -1 (A) (N) Jolly (I) Sitrus Berry // Horn Leech, Double Edge, Wild Charge, Jump Kick
+-Charizard lvl 0 (A) (N) Timid (I) Charizardite Y // Heat Wave, Air Slash, Solar Beam, Dragon Pulse
+  
+-----
+
+====================
+Route 133 (Optional)
+====================
+
+Swimmer Linda
+-Kingdra lvl -3 // Hydro Pump, Dragon Pulse, Agility, Body Slam
+-Lumineon lvl -3 // Surf, Ice Beam, Quiver Dance, Rain Dance
+  
+-----
+Bird Keeper Beck
+-Honchkrow lvl -3 (A) Super Luck // Drill Peck, Night Slash, Heat Wave, Thunder Wave
+-Altaria lvl -3 // Outrage, Cotton Guard, Dragon Dance, Roost
+  
+-----
+Expert Conor (potential double with Expert Mollie)
+-Hariyama lvl -1 (A) Guts (N) Adamant (I) Flame Orb // Fake Out, Close Combat, Facade, Rock Slide
+-Ferrothorn lvl -1 (A) (N) Impish (I) Rocky Helmet // Power Whip, Iron Head, Thunder Wave, Leech Seed
+-Gothitelle lvl -1 (A) Shadow Tag (N) Modest (I) Sitrus Berry // Psychic, Dark Pulse, Thunderbolt, Fake Out
+  
+-----
+Expert Mollie (potential double with Expert Conor)
+-Gengar lvl -1 (A) Shadow Tag (N) Timid (I) Spell Tag // Shadow Ball, Sludge Bomb, Icy Wind, Hypnosis
+-Carracosta lvl -1 (A) (N) Adamant (I) Assault Vest // Rock Slide, Liquidation, Zen Headbutt, Knock Off
+-Aromatisse lvl -1 (A) (N) Modest (I) Fairy Gem // Moonblast, Disable, Heal Pulse, Charm
+  
+-----
+Cooltrainer Warren
+-Golem (Alolan) lvl -1 (A) Galvanize (N) Adamant (I) Electric Gem // Explosion, Stealth Rock, Stone Edge, Fire Punch
+-Musharna lvl -1 (A) Psychic Surge (N) Quiet (I) Leftovers // Psychic, Moonblast, Yawn, Trick Room 
+-Torterra lvl -1 (A) (N) Brave (I) Assault Vest // Wood Hammer, Earthquake, Stone Edge, Crunch
+-Cofagrigus lvl -1 (A) Mummy (N) Quiet (I) Air Balloon // Shadow Ball, Aura Sphere, Nasty Plot, Trick Room
+-Aggron lvl 0 (A) (N) Brave (I) Aggronite // Heavy Slam, Earthquake, Dragon Claw, Aqua Tail
+  
+-----
+Swimmer Debra (potential double with Swimmer Franklin)
+-Qwilfish lvl -3 (A) Intimidate // Aqua Tail, Poison Jab, Revenge, Explosion
+-Seismitoad lvl -3 // Surf, Sludge Bomb, Drain Punch, Earth Power
+  
+-----
+Swimmer Franklin (potential double with Swimmer Debra)
+-Walrein lvl -3 // Aqua Tail, Avalanche, Crunch, Slack Off
+-Vaporeon lvl -3 // Muddy Water, Wish, Ice Beam, Yawn
+  
+-----
+
+====================
+Route 134 (Optional)
+====================
+
+Swimmer Laurel
+-Luvdisc lvl -3 // Lovely Kiss, Surf, Draining Kiss, Ice Beam
+-Alolmomola lvl -3 // Waterfall, Wish, Wake-Up Slap, Aqua Ring
+  
+-----
+Swimmer Jack
+-Linoone lvl -3 // Extreme Speed, Surf, Seed Bomb, Shadow Claw
+-Simipour lvl -3 // Surf, Grass Knot, Acrobatics, Focus Blast
+  
+-----
+Black Belt Hitoshi (potential double with Battle Girl Reyna)
+-Hitmonchan lvl -3 (A) Iron Fist // Bullet Punch, Close Combat, Ice Punch, Thunder Punch
+-Machamp lvl -3 (A) No Guard // Dynamic Punch, Grass knot, Acrobatics, Focus Blast
+-Crabominable lvl -3 // Ice Hammer, Close Combat, Crabhammer, Ice Shard
+  
+-----
+Battle Girl Reyna (potential double with Black Belt Hitoshi)
+-Bewar lvl -3 (A) Defiant // Darkest Lariat, Close Combat, Ice Punch, Iron Head
+-Passimian lvl -3 (A) No Guard // Close Combat, U-Turn, Acrobatics, Gunk Shot
+  
+-----
+Sailor Hudson
+-Poliwrath lvl -3 // Darkest Lariat, Close Combat, Ice Punch, Liquidation
+-Raticate lvl -3 (A) Hustle // Double Edge, Quick Attack, Crunch, Close Combat
+  
+-----
+Dragon Tamer Aaron (forced double with Cooltrainer Marley)
+-Druddigon lvl -1 (A) Sheer Force (N) Adamant // Dragon Rush, Crunch, Fire Punch, Gunk Shot
+-Tyrantrum lvl -1 (A) Rock Head (N) Jolly // Head Smash, High Horsepower, Outrage, Drang Dance
+-Noivern lvl -1 (A) (N) Timid // Air Slash, Dragon Pulse, Flamethrower, Water Pulse
+  
+-----
+Cooltrainer Marley (forced double with Dragon Tamer Aaron)
+-Venusaur lvl 0 (A) (N) Bold (I) Venusaurite // Giga Drain, Earth Power, Sludge Bomb, Synthesis
+-Escavalier lvl -1 (A) (N) Adamant (I) Occa Berry // Megahorn, Iron Head, Close Combat, Razor Shell
+-Arcanine lvl -1 (A) (N) Adamant (I) Normal Gem // Flare Blitz, Wild Charge, Extreme Speed, Play Rough
+  
+-----
+Bird Keeper Alex (potential double with Sailor Kelvin)
+-Swellow lvl -3 // Brave Bird, Double Edge, U-Turn, Roost
+-Togekiss lvl -3 (A) Serene Grace // Air Slash, Aura Sphere, Ancient Power, Body Slam
+  
+-----
+Sailor Kelvin (potential double with Bird Keeper Alex)
+-Machamp lvl -3 // Close Combat, Dual Chop, Bullet Punch Strength
+-Dhelmise lvl -3 // Anchor Shot, Shadow Claw, Liquidation, Brick Break
+  
+-----
+
+====================
+Sootopolis Gym
+====================
+
+Beauty Connie
+-Seaking lvl -1 (A) Lightningrod (N) Jolly (I) Salac Berry // Waterfall, Megahorn, Drill Run, Swords Dance
+-Starmie lvl -1 (A) Analytic (N) Timid (I) Expert Belt // Hydro Pump, Psychic, Thunderbolt, Ice Beam
+-Lumineon lvl -1 (A) (N) Timid (I) Water Gem // Surf, Ice Beam, Dazzling Gleam, Quiver Dance
+  
+-----
+Lass Andrea
+-Cloyster lvl -1 (A) Skill Link (N) Jolly (I) White Herb  // Liquidation, Icicle Spear, Rock Blast, Shell Smash
+-Floatzel lvl -1 (A) Vater Veil (N) Jolly (I) Flame Orb // Aqua Tail, Crunch, Drain Punch, Bulk Up
+-Jellicent lvl -1 (A) (N) Bold (I) Leftovers // Scald, Hex, Strength, Will-O-Wisp
+  
+-----
+Lady Daphne (potential double with Pokefan Annika)
+-Luvdisc lvl -1 (A) Soul Heart (N) Timid (I) Life Orb // Hydro Pump, Ice Beam, Lovely Kiss, Attract
+-Lapras lvl -1 (A) (N) Jolly (I) Ground Gem // Waterfall, Icicle Crash, Drill Run, Dragon Dance
+-Samurott lvl -1 (A) Keen Edge (N) Jolly (I) Assault Vest // Razor Shell, Sacred Sword, Night Slash, X-Scissor
+  
+-----
+Pokefan Annika (potential double with Lady Daphne)
+-Milotic lvl -1 (A) Marvel Scale (N) Bold (I) Flame Orb // Scald, Ice Beam, Recover, Aqua Ring
+-Primarina lvl -1 (A) (N) Modest (I) Fairy Gem // Hydro Pump, Moonblast, Energy Ball, Psychic
+-Golduck lvl -1 (A) (N) Jolly (I) Scope Lens // Aqua Tail, Zen Headbutt, Cross Chop, Aqua Jet
+  
+-----
+Beauty Tiffany (potential double with Lass Crissy)
+-Vaporeon lvl -1 (A) (N) Bold (I) Leftovers // Scald, Toxic, Wish, Protect
+-Feraligatr lvl -1 (A) Sheer Force (N) Jolly (I) Life Orb // Liquidation, Crunch, Ice Punch, Dragon Dance
+-Gastrodon lvl -1 (A) Storm Drain (N) Modest (I) Rindo Berry // Earth Power, Sludge Bomb, Ice Beam, Recover
+  
+-----
+Lass Crissy (potential double with Beauty Tiffany)
+-Lanturn lvl -1 (A) (N) Bold (I) Damp Rock // Scald, Thunder, Rain Dance, Soak
+-Golisopod lvl -1 (A) Shell Armor (N) Careful (I) Leftovers // Liquidation, Leech Life, Drill Run, Bulk Up
+-Swanna lvl -1 (A) (N) Modest (I) Flying Gem // Scald, Hurricane, Ice Beam, Tailwind
+  
+-----
+Pokefan Bethany (potential double with Beauty Olivia)
+-Slowking lvl -1 (A) (N) Quiet (I) Weakness Policy // Trick Room, Psychic, Flamethrower, Ice Beam
+-Azumarill lvl -1 (A) (N) Brave (I) Sitrus Berry // Waterfall, Aqua Jet, Play Rough, Belly Drum
+-Relicanth lvl -1 (A) Rock Head (N) Brave (I) Rock Gem // Liquidation, Head Smash, Zen Headbutt, Yawn
+  
+-----
+Beauty Olivia (potential double with Pokefan Bethany)
+-Carracosta lvl -1 (A) Sturdy (N) Brave (I) Weakness Policy // Strength, Liquidation, Crunch, Aqua Jet
+-Araquanid lvl -1 (A) (N) Brave (I) Mystic Water // Liquidation, Leech Life, Mirror Coat, Wide Guard
+-Wishiwashi lvl -1 (A) Schooling (N) Brave (I) Ice Gem // Aqua Tail, Ice Beam, U-Turn, Return
+  
+-----
+Lady Brianna (potential double with Beauty Bridget)
+-Greninja lvl -1 (A) Protean (N) Naive (I) Life Orb // Water Shuriken, Ice Beam, Extrasensory, Low Kick
+-Dewgong lvl -1 (A) (N) Modest (I) Mystic Water // Freeze Dry, Water Pulse, Encore, Fake Out
+-Quagsire lvl -1 (A) (N) Bold (I) Leftovers // Scald, Recover, Haze, Icy Wind
+  
+-----
+Beauty Bridget (potential double with Lady Brianna)
+-Gorebyss lvl -1 (A) (N) Modest (I) White Herb // Muddy Water, Ice Beam, Psychic, Shell Smash
+-Omastar lvl -1 (A) (N) Modest (I) Water Gem // Muddy Water, Earth Power, Ice Beam, Shell Smash
+-Toxapex lvl -1 (A) (N) Impish (I) Sitrus Berry // Liquidation, Toxic, Poison Jab, Payback
+  
+-----
+Leader Juan
+  
+-----
+
+====================
+Meteor Falls 
+====================
+
+-After Waterfall-
+
+Old Couple John and Jay
+-Hariyama lvl -2 (A) Guts (I) Flame Orb // Close Combat, Fake Out, Knock Off, Rock Slide
+-Medicham lvl -2 (N) Adamant (I) Psychic Gem // High Jump Kick, Zen Headbutt, Ice Punch, Thunder Punch
+-Conkeldurr lvl -2 (I) Assault Vest // Drain Punch, Fire Punch, Rock Slide, Mach Punch
+-Crabominable lvl -2 (A) Iron Fist (N) Adamant (I) Sitrus Berry // Ice Hammer, Hammer Arm, Protect, Crabhammer
+-----
+Dragon Tamer Nicolas
+-Noivern lvl -2 (N) Timid (I) Expert Belt // Hurricane, Dragon Pulse, Flamethrower, Boomburst
+-Turtonator lvl -2 (A) Iron Barbs (N) Bold (I) Rocky Helmet // Toxic, Fire Spin, Iron Defense, Attract
+-Altaria lvl -2 (N) Modest (I) Leftovers // Hurricane Fire Blast, Cotton Guard, Roost
+-Hydreigon lvl -2 (N) Timid (I) Assault Vest // Dark Pulse, Fire Blast, Focus Blast, Hydro Pump
+
+====================
+Victory Road
+====================
+  
+-----
+Cooltrainer Albert
+-Rhyperior lvl -1 (A) Solid Rock (N) Adamant (I) Rindo Berry // Stone Edge, Earthquake, Metal Burst, Stealth Rock
+-Sigilyph lvl -1 (A) Magic Guard (N) Calm (I) Flame Orb // Stored Power, Cosmic Power, Roost, Psycho Shift
+-Weavile lvl -1 (A) (N) Jolly (I) Life Orb // Knock Off, Icicle Crash, Low Kick, Poison Jab
+-Conkeldurr lvl -1 (A) Guts (N) Adamant (I) Flame Orb // Knock Off, Drain Punch, Facade, Mach Punch
+-Banette lvl 0 (A) Prankster (N) Adamant (I) Banettite // Double Edge, Shadow Claw, Play Rough, Will-O-Wisp
+  
+-----
+Cooltrainer Hope
+-Forretress lvl -1 (A) (N) Impish (I) Custap Berry // Stealth Rock, Spikes, Toxic Spikes, Explosion
+-Lilligant lvl -1 (A) (N) Timid (I) Big Root // Giga Drain, Draining Kiss, Earth Power, Quiver Dance
+-Salazzle lvl -1 (A) (N) Timid (I) Life Orb // Sludge Bomb, Fire Blast, Hidden Power (Grass), Nasty Plot
+-Vaporeon lvl -1 (A) Water Absorb (N) Bold (I) Leftovers // Scald, Wish, Baton Pass, Toxic
+-Aerodactyl lvl 0 (A) // (N) Jolly (I) Aerodactylite // Brave Bird, Strength, Earthquake, Aqua Tail
+  
+-----
+Cooltrainer Shannon
+-Blaziken lvl 0 (A) (N) Adamant (I) Blazikenite // Flare Blitz, Close Combat, Protect, Baton Pass
+-Escavalier lvl -1 (A) // (N) Adamant (I) Assault Vest // Leech Life, Iron Head, Close Combat, Drill Run
+-Dragonite lvl -1 (A) Multiscale (N) Adamant (I) Lum Berry // Outrage, Wing Attack, Earthquake, Extreme Speed
+-Sawsbuck lvl -1 (A) (N) Jolly (I) Life Orb // Double Edge, Horn Leech, Wild Charge, Swords Dance
+-Ribombee lvl -1 (A) Shield Dust // (N) Timid (I) Psychic Gem // Bug Buzz, Moonblast, Psychic, Quiver Dance
+  
+-----
+Cooltrainer Samuel
+-Galvantula lvl -1 (A) (N) Timid (I) Focus Sash // Thunder, Bug Buzz, Energy Ball, Sticky Web
+-Nidoking lvl -1 (A) Sheer Force (N) Timid (I) Life Orb // Earth Power, Blizzard, Fire Blast, Thunder
+-Porygon Z lvl -1 (A) Adaptability (N) Modest (I) Silk Scarf // Techno Blast, Psychic, Shadow Ball, Nasty Plot
+-Druddigon lvl -1 (A) Sheer Force (N) Jolly (I) Life Orb // Dragon Rush, Gunk Shot, Fire Punch, Crunch
+-Gengar lvl 0 (A) (N) Timid (I) Gengarite // Shadow Ball, Sludge Wave, Aura Sphere, Energy Ball
+  
+-----
+Cooltrainer Julie
+-Torkoal lvl -1 (A) Drought (N) Modest (I) Leftovers // Lava Plume, Earth Power, Stealth Rock, Rapid Spin
+-Venusaur lvl -1 (A) Chlorophyll (N) Modest (I) Assault Vest // Earth Power, Solar Beam, Weather Ball, Sludge Bomb
+-Heliolisk lvl -1 (A) Solar Power (N) Timid (I) Expert Belt // Hyper Voice, Thunderbolt, Weather Ball, Dark Pulse
+-Lycanroc lvl -1 (A) (N) Jolly (I) Life Orb // Strength, Earthquake, Close Combat, Accelerock
+-Tyrantrum lvl -1 (A) Strong Jaw (N) Jolly (I) Choice Scarf // Strength, Outrage, Fire Fang, Poison Fang
+-Alakazam lvl 0 (A) Magic Guard (N) Timid (I) Alakazite // Psychic, Shadow Ball, Aura Sphere, Nasty Plot
+  
+-----
+Cooltrainer Owen
+-Torterra lvl -1 (A) Solid Rock (N) Impish (I) Rocky Helmet // Earthquake, Stealth Rock, Wood Hammer, Roar
+-Staraptor lvl -1 (A) Reckless (N) Modest (I) Sitrus Berry // Brave Bird, Double Edge, Close Combat, U-Turn
+-Sylveon lvl -1 (A) (N) Modest (I) Leftovers  // Psychic, Draining Kiss, Mystical Fire, Calm Mind
+-Tentacruel lvl -1 (A) Clear Body (N) Timid (I) Life Orb // Hydro Pump, Sludge Wave, Ice Beam, Giga Drain
+-Lucario lvl 0 (A) (N) Jolly (I) Lucarionite // Meteor Mash, Close Combat, Ice Punch, Bullet Punch
+  
+-----
+Cooltrainer Dianne (potential double with Cooltrainer Felix)
+-Abomasnow lvl 0 (A) (N) Quiet (I) Abomasite // Blizzard, Giga Drain, Earth Power, Ice Shard
+-Magmortar lvl -1 (A) Mega Launcher (N) Timid (I) Ice Gem // Heat Wave, Thunderbolt, Weather Ball, Aura Sphere
+-Rampardos lvl -1 (A) Sheer Force (N) Naive (I) Life Orb // Rock Slide, Blizzard, Fire Blast, Zen Headbutt
+  
+-----
+Cooltrainer Felix (potential double with Cooltrainer Dianne)
+-Jynx lvl -1 (A) Dry Skin (N) Timid (I) Light Clay // Psychic, Blizzard, Lovely Kiss, Aurora Veil
+-Avalugg lvl -1 (A) Ice Body (N) Brave (I) Leftovers // Avalanche, Toxic, Protect, Iron Defense
+-Sceptile lvl 0 (A) (N) Timid (I) Sceptilite // Solar Beam, Dragon Pulse, Focus Blast, Synthesis
+  
+-----
+Cooltrainer Caroline
+-Tyranitar lvl 0 (A) (N) Jolly (I) Tyranitarite // Stone Edge, Crunch, Earthquake, Dragon Dance
+-Leavanny lvl -1 (A) Overcoat (N) Timid (I) Focus Sash // Leaf Blade, X-Scissor, Poison Jab, Sticky Web
+-Stoutland lvl -1 (A) Sand Rush (N) Adamant (I) Assault Vest // Play Rough, Double Edge, Crunch, Psychic Fangs
+-Sandslash lvl -1 (A) Sand Rush (N) Jolly (I) Life Orb // Earthquake, Stone Edge, Leech Life, Swords Dance
+-Dugtrio (Alolan) lvl -1 (A) Sand Force (N) Jolly (I) Steel Gem // Earthquake, Stone Edge, Iron Head, Sucker Punch
+  
+-----
+Cooltrainer Vito
+-Bisharp lvl -1 (A) Defiant (N) Brave (I) Focus Sash // Metal Burst, Sucker Punch, Stealth Rock, Thunder Wave
+-Delphox lvl -1 (A) Pyromancy (N) Timid (I) Power Herb // Fire Blast, Psychic, Solar Beam, Nasty Plot
+-Dodrio lvl -1 (A) Moxie (N) Jolly (I) Fighting Gem // Double Edge, Brave Bird, Jump Kick, Swords Dance
+-Electivire lvl -1 (A) Motor Drive (N) Adamant (I) Life Orb // Close Combat, Volt Tackle, Fire Punch, Ice Punch
+-Lurantis lvl -1 (A) Contrary (N) Brave (I) Assault Vest // Leaf Storm, Superpower, Leech Life, Knock Off
+-Flygon lvl 0 (A) (N) Timid (I) Flygonite // Boomburst, Draco Meteor, Fire Blast, Quiver Dance
+  
+-----
+Cooltrainer Mitchell (potential double with Cooltrainer Halle)
+-Machamp lvl 0 (A) (N) Jolly (I) Machampite // Close Combat, Fire Punch, Ice Punch, Bullet Punch
+-Shiinotic lvl -1 (A) Effect Sporte (N) Bold (I) Rocky Helmet // Strength Sap, Spore, Dazzling Gleam, Moonlight
+-Gothitelle lvl -1 (A) Shadow Tag (N) Bold (I) Sitrus Berry // Psychic, Flatter, Nasty Plot, Thunderbolt
+  
+-----
+Cooltrainer Halle (potential double with Cooltrainer Mitchell)
+-Pinsir lvl 0 (A) (N) Jolly (I) Pinsirite // Double Edge, Feint, Close Combat, Rock Slide
+-Pachirisu lvl -1 (A) Fur Coat (N) Impish (I) Sitrus Berry // Follow Me, Super Fang, Nuzzle, Charm
+-Lickilicky lvl -1 (A) Own Temp (N) Modest (I) Assault Vest // Muddy Water, Fire Blast, Thunder, Ice Beam
+  
+-----
+Cooltrainer Michelle
+-Chansey lvl -1 (A) Natural Cure (N) (I) Eviolite // Seismic Toss, Toxic, Soft Boiled, Stealth Rock
+-Meganium lvl -1 (A) Triage (N) Bold (I) Leftovers // Draining Kiss, Giga Drain, Earth Power, Calm Mind
+-Machamp lvl -1 (A) Guts (N) Adamant (I) Flame Orb // Close Combat, Strength, Facade, Knock Off
+-Hydreigon lvl -1 (A) (N) Timid (I) Life Orb // Dark Pulse, Fire Blast, Flash Cannon, Nasty Plot
+-Probopass lvl -1 (A) Magnet Pull (N) Modest (I) Fire Gem // Sunny Day, Hidden Power (Fire), Earth Power, Power Gem
+-Gardevoir lvl 0 (A) (N) Timid (I) Gardevoirite // Hyper Voice, Psyshock, Mystical Fire, Thunderbolt
+  
+-----
+Cooltrainer Edgar (Bottom) (Required)
+-Trevenant lvl -1 (A) Grassy Surge (N) Impish (I) Terrain Extender // Horn Leech, Will-O-Wisp, Shadow Claw, Leech Seed
+-Sudowoodo lvl -1 (A) Rock Head (N) Adamant (I) Choice Band // Head Smash, Wood Hammer, Low Kick, Explosion
+-Venomoth lvl -1 (A) Tinted Lens (N) Timid (I) Life Orb // Bug Buzz, Sludge Bomb, Sleep Powder, Quiver Dance
+-Klinklang lvl -1 (A) (N) Adamant (I) Grassy Seed // Gear Grind, Wild Charge, Shift Gear, Toxic
+-Chesnaught lvl -1 (A) Bulletproof (N) Adamant (I) White Herb // Wood Hammer, Drain Punch, Thunder Punch, Shell Smash
+-Manectric lvl 0 (A) (N) Timid (I) Manectite // Volt Switch, Flamethrower, Hidden Power (Grass), Aurora Beam
+  
+-----
+Cooltrainer Katelynn (potential double with Cooltrainer Quincy)
+-Audino lvl 0 (A) (N) Bold (I) Audinite // Skill Swap, Moonblast, Heal Pulse, Helping Hand
+-Slaking lvl 0 (A) Truant (N) Careful (I) Leftovers // Double Edge, Slack Off, Bulk Up, Night Slash
+-Infernape lvl 0 (A) Blaze (N) Timid (I) Fire Gem // Fake Out, Heat Wave, Focus Blast, Grass Knot
+  
+-----
+Cooltrainer Quincy (potential double with Cooltrainer Katelynn)
+-Slaking lvl 0 (A) Truant (N) Hasty (I) Chople Berry // Double Edge, Play Rough, Sucker Punch, Fire Blast
+-Durant lvl 0 (A) Hustle (N) Jolly (I) Occa Berry // Entrainment, X-Scissor, Iron Head, Rock Slide
+-Butterfree lvl 0 (A) Compound Eyes (N) Timid (I) Butterfreenite // Hurricane, Energy Ball, Sleep Powder, Tailwind
+  

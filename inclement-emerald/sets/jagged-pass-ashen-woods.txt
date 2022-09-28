@@ -4,21 +4,21 @@ Hiker Eric
 ===
 
 Pupitar @ 
-Level: 48
+Level: 38
 - Payback
 - Rock Slide
 - Earthquake
 - Screech
 
 Metang @ 
-Level: 48
+Level: 38
 - Bullet Punch
 - Meteor Mash
 - Zen Headbutt
 - Miracle Eye
 
-Hakamo-0 @ 
-Level: 48
+Hakamo @ 
+Level: 38
 - Close Combat
 - Outrage
 - Dragon Dance
@@ -29,21 +29,21 @@ Camper Ethan
 ===
 
 Braviary @ 
-Level: 47
+Level: 37
 - Wing Attack
 - Crush Claw
 - Superpower
 - Tailwind
 
 Sandslash @ 
-Level: 47
+Level: 37
 - Spiky Shield
 - Dig
 - Swords Dance
 - Gyro Ball
 
 Golduck @ 
-Level: 47
+Level: 37
 - Psyshock
 - Aqua Tail
 - Disable
@@ -54,7 +54,7 @@ Hiker Roman
 ===
 
 Bronzong @ 
-Level: 48
+Level: 38
 Ability: Levitate
 - Gyro Ball
 - Extrasensory
@@ -62,7 +62,7 @@ Ability: Levitate
 - Confuse Ray
 
 Golem @ 
-Level: 48
+Level: 38
 Ability: Rock Head
 - Earthquake
 - Rock Blast
@@ -74,7 +74,7 @@ Pokemon Ranger Martin (potential double with Pokemon Ranger Alannah)
 ===
 
 Muk-Alola @ 
-Level: 49
+Level: 39
 Ability: Poison Touch
 - Poison Jab
 - Crunch
@@ -82,16 +82,16 @@ Ability: Poison Touch
 - Disable
 
 Golisopod @ 
-Level: 49
+Level: 39
 - Razor Shell
 - First Impression
 - Sucker Punch
 - Drill Run
 
 Chansey @ Eviolite
-Level: 49
+Level: 39
 - Seismic Toss
-- Soft Boiled
+- Soft-Boiled
 - Toxic
 - Heal Pulse
 
@@ -100,7 +100,7 @@ Pokemon Ranger Alannah (potential double with Pokemon Ranger Martin)
 ===
 
 Primarina @ 
-Level: 49
+Level: 39
 Ability: Berserk
 - Sparkling Aria
 - Moonblast
@@ -108,7 +108,7 @@ Ability: Berserk
 - Sing
 
 Durant @ 
-Level: 49
+Level: 39
 Ability: Hustle
 - X-Scissor
 - Iron Head
@@ -116,7 +116,7 @@ Ability: Hustle
 - Thunder Fang
 
 Dusclops @ 
-Level: 49
+Level: 39
 - Night Shade
 - Curse
 - Protect
@@ -127,7 +127,7 @@ Pokemon Maniac Elmer
 ===
 
 Scyther @ 
-Level: 48
+Level: 38
 Ability: Technician
 - Aerial Ace
 - X-Scissor
@@ -135,7 +135,7 @@ Ability: Technician
 - Night Slash
 
 Pinsir @ 
-Level: 48
+Level: 38
 Ability: Mold Breaker
 - Trash
 - X-Scissor
@@ -143,7 +143,7 @@ Ability: Mold Breaker
 - Swords Dance
 
 Heracross @ 
-Level: 48
+Level: 38
 - Megahorn
 - Close Combat
 - Bullet Seed

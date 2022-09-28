@@ -4,14 +4,14 @@ Beauty Jessica
 ===
 
 Krookodile @ 
-Level: 67
+Level: 52
 - Earthquake
 - Crunch
 - Outrage
 - Scary Face
 
 Arbok @ 
-Level: 67
+Level: 52
 Ability: Shed Skin
 - Coil
 - Gunk Shot
@@ -19,7 +19,7 @@ Ability: Shed Skin
 - Crunch
 
 Kecleon @ 
-Level: 67
+Level: 52
 Ability: Protean
 - Substitute
 - Recover
@@ -31,7 +31,7 @@ Sr. and Jr. Kate & Joy
 ===
 
 Swoobat @ 
-Level: 70
+Level: 55
 Ability: Simple
 - Skill Swap
 - Light Screen
@@ -39,7 +39,7 @@ Ability: Simple
 - Air Slash
 
 Slaking @ 
-Level: 70
+Level: 55
 - Bulk Up
 - Return
 - Play Rough
@@ -50,7 +50,7 @@ Cooltrainer Marcel (potential double battle with Cooltrainer Cristin)
 ===
 
 Shiftry @ Assault Vest
-Level: 70
+Level: 55
 Nature: Timid
 - Energy Ball
 - Dark Pulse
@@ -58,7 +58,7 @@ Nature: Timid
 - Heat Wave
 
 Zebstrika @ Fire Gem
-Level: 70
+Level: 55
 Ability: Sap Sipper
 Nature: Jolly
 - Wild Charge
@@ -67,7 +67,7 @@ Nature: Jolly
 - Jump Kick
 
 Stoutland @ Weakness Policy
-Level: 70
+Level: 55
 Nature: Jolly
 - Return
 - Crunch
@@ -79,7 +79,7 @@ Cooltrainer Cristin (potential double battle with Cooltrainer Marcel)
 ===
 
 Ninetales @ Grass Gem
-Level: 70
+Level: 55
 Ability: Drought
 Nature: Timid
 - Heat Wave
@@ -88,7 +88,7 @@ Nature: Timid
 - Will-O-Wisp
 
 Flygon @ White Herb
-Level: 70
+Level: 55
 Nature: Timid
 - Draco Meteor
 - Earth Power
@@ -96,7 +96,7 @@ Nature: Timid
 - Flamethrower
 
 Pidgeot @ Yache Berry
-Level: 70
+Level: 55
 Nature: Timid
 - Hyper Voice
 - Air Slash

@@ -2,13 +2,18 @@
 Trainers:
 ===
 
+Kindler Jeff
+-Magcargo lvl -1 (A) Simple, (I) White Herb // Shell Smash, Lava Plume, Rock Slide, Earth Power
+-Delphox lvl -1 (A) Magic Guard (I) Life Orb // Mystical Fire, Psyshock, Dazzling Gleam, Will-o-Wisp
+-Gourgeist lvl -1 (A) Flare Boost (I) Flame Orb // Flamethrower, Giga Drain, Shadow Ball, Trick or Treat
+
 Kindler Jace (potential double with Hiker Eli)
 -Emboar lvl -1 (A) Blaze (I) Sitrus Berry // Yawn, Heat Crash, Sucker Punch, Hammer Arm
 -Flareon lvl -1 (A) Guts (I) Toxic Orb // Blaze Kick, Facade, Quick Attack, Dig
 
 Hiker Eli (potential double with Kindler Jace)
 -Heatmor lvl -1 (A) Tough Claws (I) Sitrus Berry // Fire Lash, Iron Tail, Throat Chop, Stomping Tantrum
--Lampent lvl 0 (A) Flame Body (I) White Herb // Overheat, Hex, Pain Split, Will-o-Wisp
+-Lampent lvl 0 (A) Flame Body (I) White Herb // Overheat, Hex, Pain Split, Will-O-Wisp
 
 ===
 Bosses:

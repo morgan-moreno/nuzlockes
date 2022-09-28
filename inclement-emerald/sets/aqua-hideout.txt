@@ -1,0 +1,282 @@
+
+===
+Team Aqua Grunt 1
+===
+
+Tentacruel @ 
+Level: 84
+- Knock Off
+- Scald
+- Sludge Bomb
+- Mirror Coat
+
+Dhelmise @ 
+Level: 84
+- Anchor Shot
+- Shadow Claw
+- Power Whip
+- Synthesis
+
+Mightyena @ 
+Level: 84
+- Sucker Punch
+- Play Rough
+- Swagger
+- Fire Fang
+
+===
+Team Aqua Grunt 2
+===
+
+Walrein @ 
+Level: 84
+- Freeze Dry
+- Surf
+- Crunch
+- Aqua Ring
+
+Floatzel @ 
+Level: 84
+- Waterfall
+- Crunch
+- Ice Punch
+- Aqua Jet
+
+Malamar @ 
+Level: 84
+- Throat Chop
+- Psycho Cut
+- Superpower
+- Topsy Turvy
+
+===
+Team Aqua Grunt 3 (Top) (potential double with Team Aqua Grunt 4)
+===
+
+Sharpedo @ 
+Level: 84
+Ability: Speed Boost
+- Crunch
+- Screech
+- Aqua Jet
+- Protect
+
+Dragalge @ 
+Level: 84
+Ability: Adaptability
+- Hydro Pump
+- Sludge Bomb
+- Dragon Pulse
+- Smokescreen
+
+Muk @ 
+Level: 84
+Ability: Poison Touch
+- Shadow Sneak
+- Gunk Shot
+- Fire Punch
+- Ice Punch
+
+===
+Team Aqua Grunt 4 (Bottom) (potential double with Team Aqua Grunt 3)
+===
+
+Cloyster @ 
+Level: 84
+- Icicle Spear
+- Rock Blast
+- Pin Missile
+- Shell Smash
+
+Kingler @ 
+Level: 84
+- Crabhammer
+- Hammer Arm
+- X-Scissor
+- High Horsepower
+
+Skuntank @ 
+Level: 84
+Nature: Modest
+- Fire Blast
+- Dark Pulse
+- Sludge Bomb
+- Sucker Punch
+
+===
+Team Aqua Grunt 5
+===
+
+Golbat @ 
+Level: 83
+- Brave Bird
+- Toxic
+- Confuse Ray
+- Roost
+
+Clawitzer @ 
+Level: 83
+Ability: Mega Launcher
+- Water Pulse
+- Aura Sphere
+- Dragon Pulse
+- Dark Pulse
+
+Muk-Alola @ 
+Level: 83
+Ability: Poison Touch
+- Poison Jab
+- Crunch
+- Disable
+- Minimize
+
+Eelektross @ 
+Level: 83
+- Wild Charge
+- Crunch
+- Aqua Tail
+- Dragon Claw
+
+===
+Team Aqua Grunt 6
+===
+
+Seismitoad @ 
+Level: 84
+Ability: Water Absorb
+- Hydro Pump
+- Sludge Wave
+- Earth Power
+- Toxic
+
+Basculin @ 
+Level: 84
+Ability: Adaptability
+- Aqua Jet
+- Crunch
+- Head Smash
+- Aqua Tail
+
+Scrafty @ 
+Level: 84
+Ability: Shed Skin
+- Crunch
+- Drain Punch
+- Bulk Up
+- Rest
+
+===
+Team Aqua Grunt 7 (Left) (potential double with Team Aqua Grunt 8)
+===
+
+Toxicroak @ 
+Level: 84
+- Sludge Bomb
+- Focus Blast
+- Dark Pulse
+- Nasty Plot
+
+Toxapex @ 
+Level: 84
+- Baneful Bunker
+- Scald
+- Recover
+- Sludge Bomb
+
+Gyarados @ 
+Level: 84
+Nature: Modest
+- Hydro Pump
+- Hurricane
+- Thunder
+- Rain Dance
+
+===
+Team Aqua Grunt 8 (Right) (potential double with Team Aqua Grunt 7)
+===
+
+Relicanth @ 
+Level: 84
+Ability: Rock Head
+- Dive
+- Head Smash
+- Earthquake
+- Toxic
+
+Pangoro @ 
+Level: 84
+- Close Combat
+- Throat Chop
+- Poison Jab
+- Outrage
+
+Vileplume @ 
+Level: 84
+- Giga Drain
+- Sleep Powder
+- Sludge Bomb
+- Synthesis
+
+===
+Matt (Aqua Hideout)
+===
+
+Pelipper @ Leftovers
+Level: 85
+EVs: 252 Hp / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
+Bold Nature
+Ability: Drizzle
+- Hurricane
+- Scald
+- Roost
+- U-turn
+
+Dhelmise @ Steel Gem
+Level: 85
+EVs: 252 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
+Adamant Nature
+Ability: Steelworker
+- Anchor Shot
+- Shadow Claw
+- Liquidation
+- Rock Slide
+
+Heliolisk @ Life Orb
+Level: 85
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+Ability: Dry Skin
+- Thunder
+- Weather Ball
+- Focus Blast
+- Grass Knot
+
+Toxicroak @ Black Sludge
+Level: 85
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Dry Skin
+- Drain Punch
+- Gunk Shot
+- Swords Dance
+- Sucker Punch
+
+Seismitoad @ Assault Vest
+Level: 85
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+Ability: Swift Swim
+- Liquidation
+- Earthquake
+- Power Whip
+- Ice Punch
+
+Gyarados @ Gyaradosite
+Level: 87
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Mold Breaker
+- Waterfall
+- Crunch
+- Power Whip
+- Dragon Dance

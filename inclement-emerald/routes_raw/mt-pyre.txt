@@ -1,0 +1,97 @@
+===
+Trainers:
+===
+
+PokeManiac Mark (potential double with Hex Maniac Leah)
+-Rhyperior lvl -3 // Rock Wrecker, Earthquake, Megahorn, Ice Punch
+-Haxorus lvl -3 // Outrage, Close Combat, First Impression, Crunch
+-Lickilicky lvl -3 // Body Slam, Power Whip, Fire Blast, Thunder
+
+Hex Maniac Leah (potential double with PokeManiac Mark or Black Belt Zander)
+-Gengar lvl -3 // Hex, Sludge Bomb, Hypnosis, Icy Wind
+-Grumpig lvl -3 // Psychic, Shadow Ball, Power Gem, Magic Coat
+-Jynx lvl -3 // Freeze Dry, Psychic, Lovely Kiss, Nasty Plot
+
+Black Belt Zander (potential double with Hex Maniac Leah)
+-Hariyama lvl -3 // Close Combat, Knock Off, Heavy Slam, Fake Out
+-Hitmonlee lvl -3 // High Jump Kick, Knock Off, Blaze Kick, Fake Out
+-Emboar lvl -3 (A) Reckless // Hammer Arm, Heat Crash, Wild Charge, Head Smash
+
+Young Couple Dez & Luke
+-Cloyster lvl -1 (A) Skill Link // Icicle Spear, Rock Blast, Liquidation, Protect
+-Steelix lvl -1 // Heavy Slam, Dig, Rock Slide, Screech
+
+Psychic Kayla (potential double with Pokemon Breeder Gabrielle)
+-Wobbuffet lvl -3 // Counter, Mirror Coat, Encore, Destiny Bond
+-Alakazam lvl -3 // Psychic, Shadow Ball, Calm Mind, Recover
+-Hypno lvl -3 // Dream Eater, Hypnosis, Shadow Ball, Nasty Plot
+
+Pokemon Breeder Gabrielle (potential double with Psychic Kayla or Psychic William)
+-Avalugg lvl -4 // Avalanche, High Horsepower, Recover, Mirror Coat
+-Meganium lvl -4 (A) Triage // Giga Drain, Draining Kiss, Grassy Terrain, Ancient Power
+-Raichu (Alolan) lvl -4 // Psychic, Thunderbolt, Electric Terrain, Fake Out
+-Donphan lvl -4 // Earthquake, Ice Shard, Play Rough, Head Smash
+-Gorebyss lvl -4 // Muddy Water, Draining Kiss, Ice Beam, Shell Smash
+-Kommo-O lvl -4 // Clanging Scales, Aura Sphere, Flash Cannon, Flamethrower
+
+Psychic William
+-Beheeyem lvl -3 (A) Psychic Surge // Psychic, Shadow Ball, Trick Room, Nasty Plot
+-Gardevoir lvl -3 // Psychic, Moonblast, Mystical Fire, Calm Mind
+-Gallade lvl -3 // Close Combat, Psycho Cut, Leaf Blade, Swords Dance
+
+Hex Maniac Tasha
+-Chandelure lvl -3 // Flamethrower, Hex, Will-O-Wisp, Psychic
+-Banette lvl -3 // Phantom Force, Crush Claw, Will-O-Wisp, Thunderbolt
+-Trevenant lvl -3 // Horn Leech, Shadow Claw, Will-O-Wisp, Leech Seed
+
+Black Belt Atsushi
+-Samurott lvl -3 // Sacred Sword, X-Scissor, Aqua Tail, Aqua Jet
+-Machamp lvl -3 (A) No Guard // Dynamic Punch, Dual Chop, Knock Off, Stone Edge
+-Aggron lvl -3 (A) Rock Head // Head Smash, Ice Punch, Iron Head, Metal Burst
+
+Hex Maniac Valerie (potential double with Psychic Cedric)
+-Sableye lvl -3 (A) Prankster // Fake Out, Recover, Will-O-Wisp, Foul Play
+-Dusknoir lvl -3 // Phantom Force, Ice Punch, Fire Punch, Thunder Punch
+-Spiritomb lvl -3 // Hypnosis, Dream Eater, Dark Pulse, Calm Mind
+
+Psychic Cedric (potential double with Hex Maniac Valerie)
+-Bronzong lvl -3 (A) Heatproof // Flash Cannon, Psychic, Confuse Ray, Calm Mind
+-Reuniclus lvl -3 // Psyshock, Thunder, Recover, Acid Armor
+-Meowstic (F) lvl -3 // Psychic, Dark Pulse, Energy Ball, Signal Beam
+
+Team Aqua Grunt 1
+-Bruxish lvl -2 (A) Strong Jaw // Waterfall, Crunch, Psychic Fangs, Ice Fang
+-Weavile lvl -2 // Night Slash, Icicle Crash, Psycho Cut, Ice Shard
+-Wailord lvl -2 // Scald, Ice Beam, Body Slam, Noble Roar
+
+Team Aqua Grunt 2
+-Muk lvl -2 // Fire Blast, Acid Spray, Giga Drain, Toxic
+-Raticate (Alolan) lvl -2 (A) Hustle // Crunch, Iron Tail, Quick Attack, Zen Headbutt
+-Tentacruel lvl -2 // Scald, Sludge Bomb, Mirror Coat, Hex
+
+Team Aqua Grunt 3 (forced double battle with Team Aqua Grunt 4)
+-Jellicent lvl -2 // Rain Dance, Scald, Shadow Ball, Psychic
+-Amoonguss lvl -2 // Spore, Giga Drain, Sludge Bomb, Synthesis
+-Lanturn lvl -2 // Scald, Thunder, Confuse Ray, Spotlight
+
+Team Aqua Grunt 4 (forced double battle with Team Aqua Grunt 3)
+-Carracosta lvl -2 (A) Swift Swim // Liquidation, Rock Slide, Shell Smash, Zen Headbutt
+-Liepard lvl -2 // Knock Off, Play Rough, U-Turn, Encore
+-Qwilfish lvl -2 (A) Intimidate // Waterfall, Poison Jab, Payback, Thunder Wave
+
+===
+Bosses:
+===
+
+Matt (Mt. Pyre)	
+Pelipper	Dhelmise	Heliolisk	Toxicroak	Seismitoad	Gyarados
+Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale +2
+31/0/31/31/31/31	31/31/31/31/31/31	31/0/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31
+252/0/252/0/4/0	252/252/0/0/0/4	0/0/0/252/0/252	252/0/4/0/252/0	4/252/0/0/0/252	4/252/0/0/0/252
+Bold	Adamant	Timid	Careful	Adamant	Jolly
+Rocky Helmet	Assault Vest	Life Orb	Black Sludge	Rindo Berry	Gyaradosite
+Drizzle	Steelworker	Dry Skin	Dry Skin	Swift Swim	Mold Breaker
+Hurricane	Power Whip	Thunder	Drain Punch	Liquidation	Waterfall
+Scald	Phantom Force	Weather Ball	Poison Jab	Earthquake	Crunch
+Roost	Liquidation	Focus Blast	Bulk Up	Power Whip	Earthquake
+U-Turn	Anchor Shot	Grass Knot	Sucker Punch	Ice Punch	Dragon Dance

@@ -1,17 +1,148 @@
 
 ===
+Camper Tyron (potential double with Aroma Lady Celina)
+===
+
+Sandslash @ 
+Level: 38
+- Crush Claw
+- Dig
+- X-Scissor
+- Sand Tomb
+
+Scyther @ 
+Level: 38
+Ability: Technician
+- Fury Cutter
+- Aerial Ace
+- Quick Attack
+- Pursuit
+
+===
+Aroma Lady Celina (potential double with Camper Tyron)
+===
+
+Weepinbell @ 
+Level: 38
+- Poison Jab
+- Razor Leaf
+- Knock Off
+- Gastro Acid
+
+Jumpluff @ 
+Level: 38
+Ability: Infiltrator
+- Strength
+- Acrobatics
+- Seed Bomb
+- Leech Seed
+
+===
+Picnicker Bianca (potential double with Kindler Hayden)
+===
+
+Pumpkaboo @ 
+Level: 38
+- Shadow Ball
+- Giga Drain
+- Mystical Fire
+- Trick-Or-Treat
+
+Raticate @ 
+Level: 38
+Ability: Hustle
+- Sucker Punch
+- Hyper Fang
+- Quick Attack
+- Endeavor
+
+===
+Kindler Hayden (potential double with Picnicker Bianca)
+===
+
+Numel @ 
+Level: 38
+- Earth Power
+- Lava Plume
+- Focus Energy
+- Take Down
+
+Vaporeon @ 
+Level: 38
+- Water Pulse
+- Aurora Beam
+- Charm
+- Copycat
+
+===
+Interviewer Gabby and Ty
+===
+
+Magneton @ 
+Level: 39
+- Mirror Shot
+- Charge Beam
+- Metal Sound
+- Tri Attack
+
+Loudred @ 
+Level: 39
+- Uproar
+- Extrasensory
+- Work Up,
+
+===
+Picnicker Irene
+===
+
+Trevenant @ Sitrus Berry
+Level: 38
+Ability: Harvest
+- Horn Leech
+- Shadow Claw
+- Will-O-Wisp
+- Forest's Curse
+
+Azumarill @ 
+Level: 38
+Ability: Sap Sipper
+- Aqua Tail
+- Play Rough
+- Rollout
+- Defense Curl
+
+===
+Camper Travis
+===
+
+Golett @ 
+Level: 37
+Ability: No Guard
+- Magnitude
+- Shadow Punch
+- Dynamic Punch
+- Rock Slide
+
+Pidgeotto @ 
+Level: 37
+- Air Cutter
+- Uproar
+- Tailwind
+- Roost
+
+===
 Cooltrainer Wilton
 ===
 
 Doublade @ Eviolite
-Level: 49
+Level: 39
 - Shadow Claw
 - Iron Head
 - Psycho Cut
 - Shadow Sneak
 
 Reuniclus @ Leftovers
-Level: 48
+Level: 38
 Ability: Magic Guard
 - Psyshock
 - Recover
@@ -19,7 +150,7 @@ Ability: Magic Guard
 - Signal Beam
 
 Gabite @ Rocky Helmet
-Level: 49
+Level: 39
 Ability: Rough Skin
 - Dig
 - Dual Chop
@@ -31,28 +162,23 @@ Cooltrainer Brooke
 ===
 
 Gastrodon @ Rindo Berry
-Level: 49
+Level: 39
 - Muddy Water
 - Mud Shot
 - Recover
 - Ancient Power
 
 Infernape @ 
-Level: 49
+Level: 39
 - Close Combat
 - Fire Punch
 - Grass Knot
 - Rock Tomb
 
 Roserade @ Big Root
-Level: 49
+Level: 39
 Ability: Technician
 - Mega Drain
 - Extrasensory
 - Toxic
 - Venoshock
-
-===
-
-===
-

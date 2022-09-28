@@ -2,6 +2,34 @@
 Trainers:
 ===
 
+Camper Tyron (potential double with Aroma Lady Celina)
+-Sandslash lvl -2 // Crush Claw, Dig, X-Scissor, Sand Tomb
+-Scyther lvl -2 (A) Technician // Fury Cutter, Aerial Ace, Quick Attack, Pursuit
+
+Aroma Lady Celina (potential double with Camper Tyron)
+-Weepinbell lvl -2 // Poison Jab, Razor Leaf, Knock Off, Gastro Acid
+-Jumpluff lvl -2 (A) Infiltrator // Strength, Acrobatics, Seed Bomb, Leech Seed
+
+Picnicker Bianca (potential double with Kindler Hayden)
+-Pumpkaboo lvl -2 // Shadow Ball, Giga Drain, Mystical Fire, Trick-Or-Treat
+-Raticate lvl -2 (A) Hustle // Sucker Punch, Hyper Fang, Quick Attack, Endeavor
+
+Kindler Hayden (potential double with Picnicker Bianca)
+-Numel lvl -2 // Earth Power, Lava Plume, Focus Energy, Take Down
+-Vaporeon lvl -2 // Water Pulse, Aurora Beam, Charm, Copycat
+
+Interviewer Gabby and Ty
+-Magneton lvl -1 // Mirror Shot, Charge Beam, Metal Sound, Tri Attack
+-Loudred lvl -1 // Uproar, Extrasensory, Work Up,
+
+Picnicker Irene
+-Trevenant lvl -2 (A) Harvest (I) Sitrus Berry // Horn Leech, Shadow Claw, Will-O-Wisp, Forest's Curse
+-Azumarill lvl -2 (A) Sap Sipper // Aqua Tail, Play Rough, Rollout, Defense Curl
+
+Camper Travis
+-Golett lvl -3 (A) No Guard // Magnitude, Shadow Punch, Dynamic Punch, Rock Slide
+-Pidgeotto lvl -3 // Air Cutter, Uproar, Tailwind, Roost
+
 Cooltrainer Wilton
 -Doublade lvl -1 (I) Eviolite // Shadow Claw, Iron Head, Psycho Cut, Shadow Sneak
 -Reuniclus lvl -2 (A) Magic Guard (I) Leftovers // Psyshock, Recover, Shock Wave, Signal Beam

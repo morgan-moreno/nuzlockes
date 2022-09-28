@@ -4,15 +4,15 @@ Team Aqua Grunt 1
 ===
 
 Palpitoad @ 
-Level: 36
+Level: 28
 Ability: Water Absorb
-- Bubblebeam
+- Bubble Beam
 - Acid
 - Mud Shot
 - Round
 
 Basculin @ 
-Level: 36
+Level: 28
 Ability: Adaptability
 - Aqua Jet
 - Crunch
@@ -24,7 +24,7 @@ Team Aqua Grunt 2
 ===
 
 Golbat @ 
-Level: 35
+Level: 27
 Ability: Inner Focus
 - Aerial Ace
 - Poison Fang
@@ -32,7 +32,7 @@ Ability: Inner Focus
 - Screech
 
 Clauncher @ 
-Level: 35
+Level: 27
 Ability: Mega Launcher
 - Bubblebeam
 - Aqua Jet
@@ -40,7 +40,7 @@ Ability: Mega Launcher
 - Venoshock
 
 Grimer-Alola @ 
-Level: 35
+Level: 27
 Ability: Poison Touch
 - Poison Fang
 - Bite
@@ -52,8 +52,8 @@ Archie (Slateport City)
 ===
 
 Mightyena @ None
-Level: 38
-20 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 20 Spe
+Level: 30
+EVs: 20 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 20 Spe
 Hardy Nature
 Ability: Intimidate
 - Bite
@@ -62,8 +62,8 @@ Ability: Intimidate
 - Scary Face
 
 Crobat @ None
-Level: 38
-20 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 20 Spe
+Level: 30
+EVs: 20 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 20 Spe
 Hardy Nature
 Ability: Inner Focus
 - Air Cutter
@@ -72,8 +72,8 @@ Ability: Inner Focus
 - Super Fang
 
 Sharpedo @ None
-Level: 39
-20 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 20 Spe
+Level: 31
+EVs: 20 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 20 Spe
 Hardy Nature
 Ability: Speed Boost
 - Poison Fang

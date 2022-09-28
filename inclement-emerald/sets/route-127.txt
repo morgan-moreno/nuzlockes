@@ -1,0 +1,155 @@
+
+===
+Bird Keeper Aidan (potential double with Cooltrainer Athena)
+===
+
+Pidgeot @ 
+Level: 90
+- Hyper Voice
+- Hurricane
+- Heat Wave
+- Work Up
+
+Talonflame @ 
+Level: 90
+Ability: Gale Wings
+- Brave Bird
+- Flare Blitz
+- Sunny Day
+- Solar Bea
+
+===
+Cooltrainer Athena (potential double with Bird Keeper Aidan)
+===
+
+Infernape @ Expert Belt
+Level: 90
+Ability: Iron Fist
+Nature: Naive
+- Close Combat
+- Fire Blast
+- Thunder Punch
+- Stone Edge
+
+Accelgor @ Poison Gem
+Level: 90
+Nature: Timid
+- Bug Buzz
+- Focus Blast
+- Energy Ball
+- Sludge Bomb
+
+===
+Fisherman Jonah
+===
+
+Corsola @ 
+Level: 90
+- Recover
+- Mirror Coat
+- Power Gem
+- Scald
+
+Toxapex @ 
+Level: 90
+- Toxic
+- Venoshock
+- Recover
+- Venom Drench
+
+===
+Fisherman Roger
+===
+
+Crawdaunt @ 
+Level: 90
+- Crabhammer
+- Knock Off
+- Aqua Jet
+- Double Edge
+
+Pyukumuku @ 
+Level: 90
+- Toxic
+- Counter
+- Recover
+- Taunt
+
+===
+Fisherman Henry
+===
+
+Tentacruel @ 
+Level: 90
+- Whirlpool
+- Toxic
+- Protect
+- Dive
+
+Jellicent @ 
+Level: 90
+- Acid Armor
+- Strength Sap
+- Scald
+- Giga Drain
+
+===
+Triathlete Camden
+===
+
+Klinklang @ 
+Level: 89
+- Gear Grind
+- Wild Charge
+- Double-Edge
+- Shift Gear
+
+Greninja @ 
+Level: 89
+- Water Shuriken
+- Scald
+- Ice Beam
+- Grass Knot
+
+Emolga @ 
+Level: 89
+- Acrobatics
+- Discharge
+- Energy Ball
+- Eerie Impulse
+
+===
+Black Belt Koji
+===
+
+Hariyama @ 
+Level: 90
+- Fake Out
+- Close Combat
+- Stone Edge
+- Knock Off
+
+Aggron @ 
+Level: 90
+- Stone Edge
+- Iron Tail
+- Earthquake
+- Dragon Claw
+
+===
+Triathlete Donny
+===
+
+Yanmega @ 
+Level: 90
+- Bug Buzz
+- Air Slash
+- Psychic
+- Detect
+
+Blastoise @ 
+Level: 90
+- Hydro Pump
+- Ice Beam
+- Aura Sphere
+- Rapid Spin

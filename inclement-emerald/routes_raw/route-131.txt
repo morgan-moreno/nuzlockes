@@ -1,0 +1,22 @@
+===
+Trainers:
+===
+
+Cooltrainer Herman (potential double with Cooltrainer Susie)
+-Heracross lvl 0 (A) (N) Adamant (I) Heracronite // Pin Missile, Bullet Seed, Rock Blast, Close Combat
+-Florges lvl -1 (A) Misty Surge (N) Modest (I) Leftovers // Draining Kiss, Giga Drain, Leech Seed, Calm Mind
+-Lycanroc lvl -1 (A) (N) Jolly (I) Rock Gem // Stone Edge, Earthquake, Close Combat, Accelerock
+-Bronzong lvl -1 (A) (N) Brave (I) Occa Berry // Gyro Ball, Payback, Curse, Zen Headbutt
+-Gourgeist lvl -1 (A) (N) Modest (I) Flame Orb // Shadow Ball, Giga Drain, Flamethrower, Psychic
+
+Cooltrainer Susie (potential double with Cooltrainer Herman)
+-Pidgeot lvl 0 (A) (N) Timid (I) Pidgeotite // Hurricane, Heat Wave, Focus Blast, U-Turn
+-Probopass lvl -1 (A) (N) Modest (I) Life Orb // Power Gem, Flash Cannon, Thunder, Earth Power
+-Sceptile lvl -1 (A) Chloroplast (N) Timid (I) White Herb // Solar Beam, Draco Meteor, Focus Blast, Synthesis
+-Volcarona lvl -1 (A) (N) Bold (I) Leftovers // Fiery Dance, Giga Drain, Quiver Dance, Roost
+-Froslass lvl -1 (A) (N) Timid (I) Expert Belt // Shadow Ball, Ice Beam, Thunder, Will-O-Wisp
+
+
+===
+Bosses:
+===

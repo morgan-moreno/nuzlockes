@@ -1,0 +1,61 @@
+===
+Trainers:
+===
+
+Team Aqua Grunt 1
+-Tentacruel lvl -1 // Knock Off, Scald, Sludge Bomb, Mirror Coat
+-Dhelmise lvl -1 // Anchor Shot, Shadow Claw, Power Whip, Synthesis
+-Mightyena lvl -1 // Sucker Punch, Play Rough, Swagger, Fire Fang
+
+Team Aqua Grunt 2
+-Walrein lvl -1 // Freeze Dry, Surf, Crunch, Aqua Ring
+-Floatzel lvl -1 // Waterfall, Crunch, Ice Punch, Aqua Jet
+-Malamar lvl -1 // Throat Chop, Psycho Cut, Superpower, Topsy Turvy
+
+Team Aqua Grunt 3 (Top) (potential double with Team Aqua Grunt 4)
+-Sharpedo lvl -1 (A) Speed Boost // Crunch, Screech, Aqua Jet, Protect
+-Dragalge lvl -1 (A) Adaptability // Hydro Pump, Sludge Bomb, Dragon Pulse, Smokescreen
+-Muk lvl -1 (A) Poison Touch // Shadow Sneak, Gunk Shot, Fire Punch, Ice Punch
+
+Team Aqua Grunt 4 (Bottom) (potential double with Team Aqua Grunt 3)
+-Cloyster lvl -1 // Icicle Spear, Rock Blast, Pin Missile, Shell Smash
+-Kingler lvl -1 // Crabhammer, Hammer Arm, X-Scissor, High Horsepower
+-Skuntank lvl -1 (N) Modest // Fire Blast, Dark Pulse, Sludge Bomb, Sucker Punch
+
+Team Aqua Grunt 5
+-Golbat lvl -2 // Brave Bird, Toxic, Confuse Ray, Roost
+-Clawitzer lvl -2 (A) Mega Launcher // Water Pulse, Aura Sphere, Dragon Pulse, Dark Pulse
+-Muk (Alolan) lvl -2 (A) Poison Touch // Poison Jab, Crunch, Disable, Minimize
+-Eelektross lvl -2 // Wild Charge, Crunch, Aqua Tail, Dragon Claw
+
+Team Aqua Grunt 6
+-Seismitoad lvl -1 (A) Water Absorb // Hydro Pump, Sludge Wave, Earth Power, Toxic
+-Basculin lvl -1 (A) Adaptability // Aqua Jet, Crunch, Head Smash, Aqua Tail
+-Scrafty lvl -1 (A) Shed Skin // Crunch, Drain Punch, Bulk Up, Rest
+
+Team Aqua Grunt 7 (Left) (potential double with Team Aqua Grunt 8)
+-Toxicroak lvl -1 // Sludge Bomb, Focus Blast, Dark Pulse, Nasty Plot
+-Toxapex lvl -1 // Baneful Bunker, Scald, Recover, Sludge Bomb
+-Gyarados lvl -1 (N) Modest // Hydro Pump, Hurricane, Thunder, Rain Dance
+
+Team Aqua Grunt 8 (Right) (potential double with Team Aqua Grunt 7)
+-Relicanth lvl -1 (A) Rock Head // Dive, Head Smash, Earthquake, Toxic
+-Pangoro lvl -1 // Close Combat, Throat Chop, Poison Jab, Outrage
+-Vileplume lvl -1 // Giga Drain, Sleep Powder, Sludge Bomb, Synthesis
+
+===
+Bosses:
+===
+
+Matt (Aqua Hideout)		
+Pelipper	Dhelmise	Heliolisk	Toxicroak	Seismitoad	Gyarados
+Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale	Lvl Scale +2
+31/0/31/31/31/31	31/31/31/31/31/31	31/0/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31
+252/0/252/0/4/0	252/252/0/0/0/4	0/0/0/252/0/252	4/252/0/0/0/252	4/252/0/0/0/252	4/252/0/0/0/252
+Bold	Adamant	Timid	Jolly	Adamant	Jolly
+Leftovers	Steel Gem	Life Orb	Black Sludge	Assault Vest	Gyaradosite
+Drizzle	Steelworker	Dry Skin	Dry Skin	Swift Swim	Mold Breaker
+Hurricane	Anchor Shot	Thunder	Drain Punch	Liquidation	Waterfall
+Scald	Shadow Claw	Weather Ball	Gunk Shot	Earthquake	Crunch
+Roost	Liquidation	Focus Blast	Swords Dance	Power Whip	Power Whip
+U-Turn	Rock Slide	Grass Knot	Sucker Punch	Ice Punch	Dragon Dance

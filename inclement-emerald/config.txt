@@ -1,0 +1,4 @@
+DB_HOST=localhost
+DB_NAME=nuzlockes
+DB_USER=postgres
+DB_PASSWORD=yankees12

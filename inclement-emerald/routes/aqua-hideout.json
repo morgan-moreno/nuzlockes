@@ -1,0 +1,657 @@
+{
+	"trainers": [
+		{
+			"name": "Team Aqua Grunt 1",
+			"pokemon": [
+				{
+					"name": "Tentacruel",
+					"level": 84,
+					"ability": "",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": [
+						"Knock Off",
+						"Scald",
+						"Sludge Bomb",
+						"Mirror Coat"
+					]
+				},
+				{
+					"name": "Dhelmise",
+					"level": 84,
+					"ability": "",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": [
+						"Anchor Shot",
+						"Shadow Claw",
+						"Power Whip",
+						"Synthesis"
+					]
+				},
+				{
+					"name": "Mightyena",
+					"level": 84,
+					"ability": "",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": [
+						"Sucker Punch",
+						"Play Rough",
+						"Swagger",
+						"Fire Fang"
+					]
+				}
+			]
+		},
+		{
+			"name": "Team Aqua Grunt 2",
+			"pokemon": [
+				{
+					"name": "Walrein",
+					"level": 84,
+					"ability": "",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": ["Freeze-Dry", "Surf", "Crunch", "Aqua Ring"]
+				},
+				{
+					"name": "Floatzel",
+					"level": 84,
+					"ability": "",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": ["Waterfall", "Crunch", "Ice Punch", "Aqua Jet"]
+				},
+				{
+					"name": "Malamar",
+					"level": 84,
+					"ability": "",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": [
+						"Throat Chop",
+						"Psycho Cut",
+						"Superpower",
+						"Topsy Turvy"
+					]
+				}
+			]
+		},
+		{
+			"name": "Team Aqua Grunt 3 (Top) (potential double with Team Aqua Grunt 4)",
+			"pokemon": [
+				{
+					"name": "Sharpedo",
+					"level": 84,
+					"ability": "Speed Boost",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": ["Crunch", "Screech", "Aqua Jet", "Protect"]
+				},
+				{
+					"name": "Dragalge",
+					"level": 84,
+					"ability": "Adaptability",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": [
+						"Hydro Pump",
+						"Sludge Bomb",
+						"Dragon Pulse",
+						"Smokescreen"
+					]
+				},
+				{
+					"name": "Muk",
+					"level": 84,
+					"ability": "Poison Touch",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": [
+						"Shadow Sneak",
+						"Gunk Shot",
+						"Fire Punch",
+						"Ice Punch"
+					]
+				}
+			]
+		},
+		{
+			"name": "Team Aqua Grunt 4 (Bottom) (potential double with Team Aqua Grunt 3)",
+			"pokemon": [
+				{
+					"name": "Cloyster",
+					"level": 84,
+					"ability": "",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": [
+						"Icicle Spear",
+						"Rock Blast",
+						"Pin Missile",
+						"Shell Smash"
+					]
+				},
+				{
+					"name": "Kingler",
+					"level": 84,
+					"ability": "",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": [
+						"Crabhammer",
+						"Hammer Arm",
+						"X-Scissor",
+						"High Horsepower"
+					]
+				},
+				{
+					"name": "Skuntank",
+					"level": 84,
+					"ability": "",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "Modest",
+					"item": "",
+					"moves": [
+						"Fire Blast",
+						"Dark Pulse",
+						"Sludge Bomb",
+						"Sucker Punch"
+					]
+				}
+			]
+		},
+		{
+			"name": "Team Aqua Grunt 5",
+			"pokemon": [
+				{
+					"name": "Golbat",
+					"level": 83,
+					"ability": "",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": ["Brave Bird", "Toxic", "Confuse Ray", "Roost"]
+				},
+				{
+					"name": "Clawitzer",
+					"level": 83,
+					"ability": "Mega Launcher",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": [
+						"Water Pulse",
+						"Aura Sphere",
+						"Dragon Pulse",
+						"Dark Pulse"
+					]
+				},
+				{
+					"name": "Muk-Alola",
+					"level": 83,
+					"ability": "Poison Touch",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": ["Poison Jab", "Crunch", "Disable", "Minimize"]
+				},
+				{
+					"name": "Eelektross",
+					"level": 83,
+					"ability": "",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": [
+						"Wild Charge",
+						"Crunch",
+						"Aqua Tail",
+						"Dragon Claw"
+					]
+				}
+			]
+		},
+		{
+			"name": "Team Aqua Grunt 6",
+			"pokemon": [
+				{
+					"name": "Seismitoad",
+					"level": 84,
+					"ability": "Water Absorb",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": [
+						"Hydro Pump",
+						"Sludge Wave",
+						"Earth Power",
+						"Toxic"
+					]
+				},
+				{
+					"name": "Basculin",
+					"level": 84,
+					"ability": "Adaptability",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": ["Aqua Jet", "Crunch", "Head Smash", "Aqua Tail"]
+				},
+				{
+					"name": "Scrafty",
+					"level": 84,
+					"ability": "Shed Skin",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": ["Crunch", "Drain Punch", "Bulk Up", "Rest"]
+				}
+			]
+		},
+		{
+			"name": "Team Aqua Grunt 7 (Left) (potential double with Team Aqua Grunt 8)",
+			"pokemon": [
+				{
+					"name": "Toxicroak",
+					"level": 84,
+					"ability": "",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": [
+						"Sludge Bomb",
+						"Focus Blast",
+						"Dark Pulse",
+						"Nasty Plot"
+					]
+				},
+				{
+					"name": "Toxapex",
+					"level": 84,
+					"ability": "",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": [
+						"Baneful Bunker",
+						"Scald",
+						"Recover",
+						"Sludge Bomb"
+					]
+				},
+				{
+					"name": "Gyarados",
+					"level": 84,
+					"ability": "",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "Modest",
+					"item": "",
+					"moves": [
+						"Hydro Pump",
+						"Hurricane",
+						"Thunder",
+						"Rain Dance"
+					]
+				}
+			]
+		},
+		{
+			"name": "Team Aqua Grunt 8 (Right) (potential double with Team Aqua Grunt 7)",
+			"pokemon": [
+				{
+					"name": "Relicanth",
+					"level": 84,
+					"ability": "Rock Head",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": ["Dive", "Head Smash", "Earthquake", "Toxic"]
+				},
+				{
+					"name": "Pangoro",
+					"level": 84,
+					"ability": "",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": [
+						"Close Combat",
+						"Throat Chop",
+						"Poison Jab",
+						"Outrage"
+					]
+				},
+				{
+					"name": "Vileplume",
+					"level": 84,
+					"ability": "",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 0
+					},
+					"nature": "",
+					"item": "",
+					"moves": [
+						"Giga Drain",
+						"Sleep Powder",
+						"Sludge Bomb",
+						"Synthesis"
+					]
+				}
+			]
+		}
+	],
+	"bosses": [
+		{
+			"name": "Matt (Aqua Hideout)",
+			"pokemon": [
+				{
+					"name": "Pelipper",
+					"level": 85,
+					"ability": "Drizzle",
+					"evs": {
+						"hp": 252,
+						"atk": 0,
+						"def": 252,
+						"spa": 0,
+						"spd": 4,
+						"spe": 0
+					},
+					"nature": "Bold",
+					"item": "Leftovers",
+					"moves": ["Hurricane", "Scald", "Roost", "U-Turn"]
+				},
+				{
+					"name": "Dhelmise",
+					"level": 85,
+					"ability": "Steelworker",
+					"evs": {
+						"hp": 252,
+						"atk": 252,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 4
+					},
+					"nature": "Adamant",
+					"item": "Steel Gem",
+					"moves": [
+						"Anchor Shot",
+						"Shadow Claw",
+						"Liquidation",
+						"Rock Slide"
+					]
+				},
+				{
+					"name": "Heliolisk",
+					"level": 85,
+					"ability": "Dry Skin",
+					"evs": {
+						"hp": 0,
+						"atk": 0,
+						"def": 0,
+						"spa": 252,
+						"spd": 0,
+						"spe": 252
+					},
+					"nature": "Timid",
+					"item": "Life Orb",
+					"moves": [
+						"Thunder",
+						"Weather Ball",
+						"Focus Blast",
+						"Grass Knot"
+					]
+				},
+				{
+					"name": "Toxicroak",
+					"level": 85,
+					"ability": "Dry Skin",
+					"evs": {
+						"hp": 4,
+						"atk": 252,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 252
+					},
+					"nature": "Jolly",
+					"item": "Black Sludge",
+					"moves": [
+						"Drain Punch",
+						"Gunk Shot",
+						"Swords Dance",
+						"Sucker Punch"
+					]
+				},
+				{
+					"name": "Seismitoad",
+					"level": 85,
+					"ability": "Swift Swim",
+					"evs": {
+						"hp": 4,
+						"atk": 252,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 252
+					},
+					"nature": "Adamant",
+					"item": "Assault Vest",
+					"moves": [
+						"Liquidation",
+						"Earthquake",
+						"Power Whip",
+						"Ice Punch"
+					]
+				},
+				{
+					"name": "Gyarados",
+					"level": 87,
+					"ability": "Mold Breaker",
+					"evs": {
+						"hp": 4,
+						"atk": 252,
+						"def": 0,
+						"spa": 0,
+						"spd": 0,
+						"spe": 252
+					},
+					"nature": "Jolly",
+					"item": "Gyaradosite",
+					"moves": [
+						"Waterfall",
+						"Crunch",
+						"Power Whip",
+						"Dragon Dance"
+					]
+				}
+			]
+		}
+	]
+}

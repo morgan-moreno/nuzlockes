@@ -105,6 +105,24 @@ Commander Mars
 - Sableye @ Sitrus Berry: 
     switch in shadow claw 
 
+====================================================================================
+Mira
+====================================================================================
+
+- Togetic @ Sitrus Berry: Gengar @ Poison Barb
+
+    1. sludge bomb (KO)
+
+- Kadabra @ Life Orb:
+
+    1. Switch in psybeam (0)
+    2. Dazzling gleam (40.8 - 49.4), 
+
+- Porygon2 @ Expert Belt:
+
+    1. Switch in signal beam ()
+    
+- Haunter @ Spell Tag:
 
 
 ====================================================================================

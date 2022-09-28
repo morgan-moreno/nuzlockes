@@ -1,0 +1,21 @@
+===
+Trainers:
+===
+
+
+===
+Bosses:
+===
+
+Brawly					
+Meditite	Breloom	Lucario	Hitmonchan	Dewott	Hariyama
+Lvl Scale -2	Lvl Scale -2	Lvl Scale -2	Lvl Scale -2	Lvl Scale -2	Lvl Scale
+31/31/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31
+0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0	0/0/0/0/0/0
+Adamant	Adamant	Adamant	Adamant	Adamant	Adamant
+Light Clay	Toxic Orb	Lum Berry	Coba Berry	Eviolite	Sitrus Berry
+Pure Power	Poison Heal	Steadfast	Keen Eye	Torrent	Guts
+Drain Punch	Drain Punch	Bullet Punch	Drain Punch	Razor Shell	Arm Thrust
+Light Screen	Bulk Up	Bulk Up	Bulk Up	Karate Chop	Knock Off
+Reflect	Bullet Seed	Payback	Thunder Punch	X-Scissor	Bulldoze
+Zen Headbutt	Spore	Reversal	Ice Punch	Air Slash	Bulk Up

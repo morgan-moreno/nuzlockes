@@ -1,0 +1,186 @@
+
+===
+Cooltrainer Alexa
+===
+
+Feraligatr @ Life Orb
+Level: 91
+Ability: Sheer Force
+Nature: Jolly
+- Liquidation
+- Crunch
+- Ice Punch
+- Dragon Dance
+
+Marowak-Alola @ Thick Club
+Level: 91
+Ability: Lightningrod
+Nature: Jolly
+- Flare Blitz
+- Shadow Bone
+- Bonemerang
+- Shadow Sneak
+
+Scizor @ Metal Coat
+Level: 91
+Ability: Technician
+Nature: Adamant
+- Bullet Punch
+- U-Turn
+- Superpower
+- Roost
+
+Exeggutor @ Grass Gem
+Level: 91
+Ability: Chloroplast
+Nature: Quiet
+- Solar Beam
+- Psychic
+- Synthesis
+- Trick Room
+
+Ampharos @ Ampharosite
+Level: 92
+Nature: Modest
+- Volt Switch
+- Dragon Pulse
+- Focus Blast
+- Power Gem
+
+===
+Cooltrainer Ruben
+===
+
+Heatmor @ Choice Band
+Level: 91
+Ability: Tough Claws
+Nature: Adamant
+- Flare Blitz
+- Iron Head
+- Power Whip
+- Drain Punch
+
+Meganium @ Leftovers
+Level: 91
+Ability: Triage
+Nature: Modest
+- Giga Drain
+- Draining Kiss
+- Calm Mind
+- Synthesis
+
+Dragonite @ Yache Berry
+Level: 91
+Ability: Multiscale
+Nature: Adamant
+- Outrage
+- Earthquake
+- Iron Tail
+- Extreme Speed
+
+Milotic @ Leftovers
+Level: 91
+Nature: Bold
+- Scald
+- Ice Beam
+- Recover
+- Hypnosis
+
+Lopunny @ Lopunnite
+Level: 92
+Nature: Jolly
+- High Jump Kick
+- Double Edge
+- Knock Off
+- U-Turn
+
+===
+Fisherman Wayne
+===
+
+Wailord @ 
+Level: 90
+- Hydro Pump
+- Earthquake
+- Amnesia
+- Rest
+
+Dhelmise @ 
+Level: 90
+- Hydro Pump
+- Energy Ball
+- Shadow Ball
+- Rapid Spin
+
+===
+Triathlete Isaiah
+===
+
+Dodrio @ 
+Level: 90
+- Brave Bird
+- Double Edge
+- Jump Kick
+- Knock Off
+
+Jolteon @ 
+Level: 90
+- Electro Ball
+- Aurora Beam
+- Shadow Ball
+- Agility
+
+===
+Triathlete Katelyn
+===
+
+Fearow @ 
+Level: 90
+- Drill Peck
+- Double Edge
+- Drill Run
+- Focus Energy
+
+Zebstrika @ 
+Level: 90
+- Volt Tackle
+- Blaze Kick
+- Jump Kick
+- Agility
+
+===
+Swimmer Carlee (potential double with Swimmer Harrison)
+===
+
+Seaking @ 
+Level: 90
+Ability: Lightningrod
+- Hydro Pump
+- Ice Beam
+- Drill Run
+- Megahorn
+
+Drampa @ 
+Level: 90
+- Surf
+- Hyper Voice
+- Dragon Pulse
+- Energy Ball
+
+===
+Swimmer Harrison (potential double with Swimmer Carlee)
+===
+
+Lickilicky @ 
+Level: 90
+- Surf
+- Ice Beam
+- Flamethrower
+- Power Whip
+
+Omastar @ 
+Level: 90
+- Surf
+- Ice Beam
+- Earth Power
+- Rain Dance

@@ -1,0 +1,16 @@
+===
+Trainers:
+===
+
+Black Belt Nob
+-Machamp lvl +2 // Dual Chop, Submission, Knock Off, Strength
+
+Black Belt Koichi
+-Lucario lvl -3 // Meteor Mash, Extreme Speed, Aura Sphere, Dragon Pulse
+-Passimian lvl -3 // Close Combat, Giga Impact, Bulk Up, Seed Bomb
+-Pangoro lvl -3 // Sky Uppercut, Crunch, Body Slam, Bullet Punch
+
+
+===
+Bosses:
+===

@@ -4,14 +4,14 @@ Team Magma Grunt 1 (potential double with Team Magma Grunt 2)
 ===
 
 Numel @ 
-Level: 48
+Level: 38
 - Earth Power
 - Lava Plume
 - Rock Slide
 - Yawn
 
 Dugtrio @ 
-Level: 47
+Level: 37
 Ability: Arena Trap
 - Earthquake
 - Sucker Punch
@@ -22,14 +22,14 @@ Team Magma Grunt 2
 ===
 
 Golbat @ 
-Level: 48
+Level: 38
 - Poison Fang
 - Acrobatics
 - Crunch
 - Hypnosis
 
 Rhydon @ 
-Level: 48
+Level: 38
 - Drill Run
 - Rock Slide
 - Hammer Arm
@@ -40,7 +40,7 @@ Tabitha (Mt. Chimney)
 ===
 
 Gigalith @ Passho Berry
-Level: 50
+Level: 40
 EVs: 252 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 4 Spe
 Modest Nature
 Ability: Sand Stream
@@ -50,7 +50,7 @@ Ability: Sand Stream
 - Discharge
 
 Darmanitan @ Life Orb
-Level: 50
+Level: 40
 EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Jolly Nature
 Ability: Sheer Force
@@ -60,7 +60,7 @@ Ability: Sheer Force
 - Bite
 
 Steelix @ Leftovers
-Level: 51
+Level: 41
 EVs: 252 Hp / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
 Careful Nature
 Ability: Sheer Force
@@ -70,7 +70,7 @@ Ability: Sheer Force
 - Coil
 
 Gliscor @ Toxic Orb
-Level: 50
+Level: 40
 EVs: 252 Hp / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
 Impish Nature
 Ability: Poison Heal
@@ -84,7 +84,7 @@ Maxie (Mt. Chimney)
 ===
 
 Crobat @ Assault Vest
-Level: 51
+Level: 41
 EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Adamant Nature
 Ability: Infiltrator
@@ -94,7 +94,7 @@ Ability: Infiltrator
 - U-turn
 
 Zweilous @ Choice Scarf
-Level: 51
+Level: 41
 EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Jolly Nature
 Ability: Hustle
@@ -104,7 +104,7 @@ Ability: Hustle
 - Superpower
 
 Weezing @ Black Sludge
-Level: 51
+Level: 41
 EVs: 252 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 4 Spe
 Modest Nature
 Ability: Levitate
@@ -114,7 +114,7 @@ Ability: Levitate
 - Heat Wave
 
 Victreebel @ Scope Lens
-Level: 51
+Level: 41
 EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Jolly Nature
 Ability: Chlorophyll
@@ -124,7 +124,7 @@ Ability: Chlorophyll
 - Sleep Powder
 
 Camerupt @ Power Herb
-Level: 53
+Level: 43
 EVs: 252 Hp / 4 Atk / 0 Def / 252 SpA / 0 SpD / 0 Spe
 Quiet Nature
 Ability: Sheer Force

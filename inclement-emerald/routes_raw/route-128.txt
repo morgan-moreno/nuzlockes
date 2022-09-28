@@ -1,0 +1,42 @@
+===
+Trainers:
+===
+
+Cooltrainer Alexa
+-Feraligatr lvl -1 (A) Sheer Force (N) Jolly (I) Life Orb // Liquidation, Crunch, Ice Punch, Dragon Dance
+-Marowak (Alolan) lvl -1 (A) Lightningrod (N) Jolly (I) Thick Club // Flare Blitz, Shadow Bone, Bonemerang, Shadow Sneak
+-Scizor lvl -1 (A) Technician (N) Adamant (I) Metal Coat // Bullet Punch, U-Turn, Superpower, Roost
+-Exeggutor lvl -1 (A) Chloroplast (N) Quiet (I) Grass Gem // Solar Beam, Psychic, Synthesis, Trick Room
+-Ampharos lvl 0 (A) (N) Modest (I) Ampharosite // Volt Switch, Dragon Pulse, Focus Blast, Power Gem
+
+Cooltrainer Ruben
+-Heatmor lvl -1 (A) Tough Claws (N) Adamant (I) Choice Band // Flare Blitz, Iron Head, Power Whip, Drain Punch
+-Meganium lvl -1 (A) Triage (N) Modest (I) Leftovers // Giga Drain, Draining Kiss, Calm Mind, Synthesis
+-Dragonite lvl -1 (A) Multiscale (N) Adamant (I) Yache Berry // Outrage, Earthquake, Iron Tail, Extreme Speed
+-Milotic lvl -1 (A) (N) Bold (I) Leftovers // Scald, Ice Beam, Recover, Hypnosis
+-Lopunny lvl 0 (A) (N) Jolly (I) Lopunnite // High Jump Kick, Double Edge, Knock Off, U-Turn
+
+Fisherman Wayne
+-Wailord lvl -2 // Hydro Pump, Earthquake, Amnesia, Rest
+-Dhelmise lvl -2 // Hydro Pump, Energy Ball, Shadow Ball, Rapid Spin
+
+Triathlete Isaiah
+-Dodrio lvl -2 // Brave Bird, Double Edge, Jump Kick, Knock Off
+-Jolteon lvl -2 // Electro Ball, Aurora Beam, Shadow Ball, Agility
+
+Triathlete Katelyn
+-Fearow lvl -2 // Drill Peck, Double Edge, Drill Run, Focus Energy
+-Zebstrika lvl -2 // Volt Tackle, Blaze Kick, Jump Kick, Agility
+
+Swimmer Carlee (potential double with Swimmer Harrison)
+-Seaking lvl -2 (A) Lightningrod // Hydro Pump, Ice Beam, Drill Run, Megahorn
+-Drampa lvl -2 // Surf, Hyper Voice, Dragon Pulse, Energy Ball
+
+Swimmer Harrison (potential double with Swimmer Carlee)
+-Lickilicky lvl -2 // Surf, Ice Beam, Flamethrower, Power Whip
+-Omastar lvl -2 // Surf, Ice Beam, Earth Power, Rain Dance
+
+
+===
+Bosses:
+===

@@ -4,21 +4,21 @@ Youngster Ben
 ===
 
 Rotom @ Colbur Berry
-Level: 37
+Level: 29
 - Electro Ball
 - Hex
 - Thunder Wave
 - Pain Split
 
 Stunfisk @ Shuca Berry
-Level: 37
+Level: 29
 - Muddy Water
 - Sucker Punch
 - Mud Shot
 - Shock Wave
 
 Togedemaru @ Salac Berry
-Level: 37
+Level: 29
 Ability: Sturdy
 - Zing Zap
 - Magnet Rise
@@ -30,8 +30,8 @@ Wally (Mauville City)
 ===
 
 Roselia @ Black Sludge
-Level: 38
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 30
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Natural Cure
 - Giga Drain
@@ -40,8 +40,8 @@ Ability: Natural Cure
 - Leech Seed
 
 Fletchinder @ Flying Gem
-Level: 38
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 30
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Gale Wings
 - Flame Charge
@@ -50,8 +50,8 @@ Ability: Gale Wings
 - Roost
 
 Azumarill @ Rocky Helmet
-Level: 38
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 30
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Huge Power
 - Aqua Tail
@@ -60,8 +60,8 @@ Ability: Huge Power
 - Bulldoze
 
 Kirlia @ Focus Sash
-Level: 39
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 31
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Trace
 - Psychic
@@ -74,8 +74,8 @@ Wattson
 ===
 
 Galvantula @ Grass Gem
-Level: 38
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Level: 30
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Modest Nature
 Ability: Swarm
 - Sticky Web
@@ -84,8 +84,8 @@ Ability: Swarm
 - Giga Drain
 
 Lanturn @ Air Balloon
-Level: 38
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Level: 30
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Modest Nature
 Ability: Water Absorb
 - Volt Switch
@@ -94,8 +94,8 @@ Ability: Water Absorb
 - Dazzling Gleam
 
 Magneton @ Eviolite
-Level: 38
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Level: 30
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Modest Nature
 Ability: Sturdy
 - Volt Switch
@@ -104,8 +104,8 @@ Ability: Sturdy
 - Electric Terrain
 
 Rotom-Mow @ White Herb
-Level: 38
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Level: 30
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Modest Nature
 Ability: Levitate
 - Volt Switch
@@ -114,8 +114,8 @@ Ability: Levitate
 - Hex
 
 Raichu-Alola @ Shuca Berry
-Level: 38
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Level: 30
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Modest Nature
 Ability: Surge Surfer
 - Volt Switch
@@ -124,8 +124,8 @@ Ability: Surge Surfer
 - Surf
 
 Manectric @ Sitrus Berry
-Level: 40
-0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Level: 32
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Modest Nature
 Ability: Lightning Rod
 - Volt Switch

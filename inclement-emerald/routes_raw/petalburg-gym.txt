@@ -3,13 +3,13 @@ Trainers:
 ===
 
 Cooltrainer Randall (Speed)
--Swellow (N) Jolly (I) Flame Orb // Quick Attack, Brave Bird, Double Edge, Protect
+-Swellow (N) Jolly (I) Flame Orb // Quick Attack, Brave Bird, Double-Edge, Protect
 -Lopunny (N) Jolly (I) Salac Berry // Quick Attack, Jump Attack, Return, Ice Punch
 -Sawsbuck (N) Jolly (I) Heat Rock // Sunny Day, Jump Kick, Return, Horn Leech
 
 Cooltrainer Mary (Accuracy)
--Braviary (N) Jolly (I) White Herb // Hone Claws, Brave Bird, Double Edge, Superpower
--Raticate (Alolan) (A) Hustle (N) Jolly (I) Salac Berry // Quick Attack, Double Edge, Crunch, Hone Claws
+-Braviary (N) Jolly (I) White Herb // Hone Claws, Brave Bird, Double-Edge, Superpower
+-Raticate (Alolan) (A) Hustle (N) Jolly (I) Salac Berry // Quick Attack, Double-Edge, Crunch, Hone Claws
 -Drampa (N) Modest (I) Damp Rock // Rain Dance, Thunder, Hurricane, Work Up
 
 Cooltrainer Parker (Confusion)
@@ -23,14 +23,14 @@ Cooltrainer Alexia (Defense)
 -Miltank (A) Scrappy (N) Impish (I) Leftovers // Defenses Curl, Rollout, Body Slam, Milk Drink
 
 Cooltrainer George (Recovery)
--Chansey (I) Eviolite // Minimize, Soft Boiled, Seismic Toss, Aromatherapy
--Dunsparce (N) Impish (I) Leftovers // Coil, Headbutt, Thunderwave, Roost
--Porygon2 (A) Analytic (I) Eviolite // Tri-Attack, Recover, Ice Beam, Thunderbolt
+-Chansey (I) Eviolite // Minimize, Soft-Boiled, Seismic Toss, Aromatherapy
+-Dunsparce (N) Impish (I) Leftovers // Coil, Headbutt, Thunder Wave, Roost
+-Porygon2 (A) Analytic (I) Eviolite // Tri Attack, Recover, Ice Beam, Thunderbolt
 
 Cooltrainer Jody (Strength)
 -Zangoose (A) Toxic Boost (N) Adamant (I) Toxic Orb // Swords Dance, Facade, Close Combat, Knock Off
 -Bouffalant (N) Adamant (I) Leichi Berry // Swords Dance, Head Charge, Megahorn, Earthquake
--Porygon Z (A) Download (N) Modest (I) Life Orb // Tri-Attack, Nasty Plot, Ice Beam, Shadow Ball
+-Porygon Z (A) Download (N) Modest (I) Life Orb // Tri Attack, Nasty Plot, Ice Beam, Shadow Ball
 
 Cooltrainer Berke (One-Hit KO)
 -Lickilicky (N) Adamant (I) Custap Berry // Belly Drum, Explosion

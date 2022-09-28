@@ -1,0 +1,319 @@
+
+===
+Psychic Preston (potential double with Psychic Maura)
+===
+
+Slowking @ Assault Vest
+Level: 83
+Nature: Modest
+- Surf
+- Psychic
+- Ice Beam
+- Fire Blast
+
+Alakazam @ Life Orb
+Level: 83
+Ability: Magic Guard
+Nature: Timid
+- Psychic
+- Aura Sphere
+- Dazzling Gleam
+- Shadow Ball
+
+===
+Psychic Maura (potential double with Psychic Preston)
+===
+
+Beheeyem @ Psychic Seed
+Level: 84
+Ability: Psychic Surge
+Nature: Modest
+- Psychic
+- Thunderbolt
+- Dark Pulse
+- Nasty Plot
+
+Espeon @ Fairy Gem
+Level: 84
+Ability: Magic Bounce
+Nature: Timid
+- Dazzling Gleam
+- Psychic
+- Shadow Ball
+- Calm Mind
+
+===
+Psychic Samantha (potential double with Psychic Blake)
+===
+
+Xatu @ Fire Gem
+Level: 83
+Ability: Magic Bounce
+Nature: Timid
+- Psychic
+- Air Slash
+- Heat Wave
+- Shadow Ball
+
+Gardevoir @ Expert Belt
+Level: 83
+Ability: Trace
+Nature: Timid
+- Dazzling Gleam
+- Mystical Fire
+- Focus Blast
+- Shadow Ball
+
+===
+Psychic Blake (potential double with Psychic Samantha)
+===
+
+Girafarig @ Salac Berry
+Level: 83
+Nature: Jolly
+- Psychic Fangs
+- Crunch
+- Hyper Fang
+- Ice Fang
+
+Meowstic @ Life Orb
+Level: 83
+Ability: Sheer Force
+Nature: Timid
+- Psychic
+- Thunderbolt
+- Energy Ball
+- Signal Beam
+
+===
+Psychic Nicholas
+===
+
+Musharna @ Psychic Seed
+Level: 83
+Ability: Psychic Surge
+Nature: Modest
+- Future Sight
+- Hypnosis
+- Reflect
+- Light Screen
+
+Wobbuffet @ Rocky Helmet
+Level: 83
+Ability: Shadow Tag
+Nature: Bold
+- Counter
+- Mirror Coat
+- Encore
+- Destiny Bond
+
+===
+Hex Maniac Kathleen (potential double with Psychic Nicholas or Gentleman Clifford)
+===
+
+Hypno @ Electric Seed
+Level: 83
+Nature: Timid
+- Future Sight
+- Shadow Ball
+- Hypnosis
+- Focus Blast
+
+Swoobat @ Weakness Policy
+Level: 83
+Ability: Simple
+Nature: Timid
+- Air Slash
+- Giga Drain
+- Heat Wave
+- Endure
+
+===
+Gentleman Clifford (potential double with Hex Maniac Kathleen or Psychic Macey)
+===
+
+Raichu-Alola @ Electric Seed
+Level: 83
+Nature: Timid
+- Psychic
+- Thunderbolt
+- Grass Knot
+- Electric Terrain
+
+Mr @ Light Clay
+Level: 83
+Nature: Timid
+- Psychic
+- Dazzling Gleam
+- Reflect
+- Light Screen
+
+===
+Psychic Macey (potential double with Gentleman Clifford)
+===
+
+Jynx @ Ice Gem
+Level: 83
+Ability: Dry Skin
+Nature: Timid
+- Psychic
+- Freeze-dry
+- Lovely Kiss
+- Nasty Plot
+
+Delphox @ Power Herb
+Level: 83
+Ability: Pyromancy
+Nature: Timid
+- Psychic
+- Heat Wave
+- Solar Beam
+- Aura Sphere
+
+===
+Gentleman Nate (potential double with Psychic Virgil)
+===
+
+Grumpig @ Assault Vest
+Level: 83
+Nature: Modest
+- Extrasensory
+- Energy Ball
+- Focus Blast
+- Charge Beam
+
+Starmie @ Rocky Helmet
+Level: 83
+Nature: Bold
+- Psychic
+- Scald
+- Recover
+- Cosmic Power
+
+===
+Psychic Virgil (potential double with Gentleman Nate)
+===
+
+Medicham @ Rock Gem
+Level: 83
+Nature: Jolly
+- Drain Punch
+- Poison Jab
+- Fake Out
+- Rock Slide
+
+Bronzong @ Air Ballon
+Level: 83
+Ability: Heavy Metal
+Nature: Adamant
+- Heavy Slam
+- Payback
+- Hypnosis
+- Rock Slide
+
+===
+Hex Maniac Sylvia (potential double with Psychic Hannah)
+===
+
+Oranguru @ Dark Gem
+Level: 83
+Nature: Quiet
+- Trick Room
+- Psychic
+- Foul Play
+- Hyper Beam
+
+Gothitelle @ Leftovers
+Level: 83
+Ability: Shadow Tag
+Nature: Quiet
+- Psychic
+- Thunderbolt
+- Charm
+- Calm Mind
+
+===
+Psychic Hannah (potential double with Hex Maniac Sylvia)
+===
+
+Bruxish @ Poison Gem
+Level: 83
+Ability: Strong Jaw
+Nature: Jolly
+- Liquidation
+- Psychic Fangs
+- Poison Fang
+- Ice Fang
+
+Malamar @ Leftovers
+Level: 83
+Ability: Contrary
+Nature: Brave
+- Superpower
+- Throat Chop
+- Psycho Cut
+- Rock Slide
+
+===
+Tate and Liza (Double Battle) (Inverse Battle)
+===
+
+Slowbro @ Slowbronite
+Level: 87
+EVs: 252 Hp / 0 Atk / 4 Def / 252 SpA / 0 SpD / 0 Spe
+Quiet Nature
+Ability: Shell Armor
+- Surf
+- Psychic
+- Ice Beam
+- Calm Mind
+
+Claydol @ Absorb Bulb
+Level: 87
+EVs: 252 Hp / 0 Atk / 104 Def / 0 SpA / 152 SpD / 0 Spe
+Sassy Nature
+Ability: Levitate
+- Earth Power
+- Signal Beam
+- Psychic
+- Trick Room
+
+Exeggutor @ Expert Belt
+Level: 87
+EVs: 252 Hp / 0 Atk / 4 Def / 252 SpA / 0 SpD / 0 Spe
+Quiet Nature
+Ability: Chloroplast
+- Psychic
+- Sludge Bomb
+- Solar Beam
+- Trick Room
+
+Reuniclus @ Life Orb
+Level: 87
+EVs: 252 Hp / 0 Atk / 4 Def / 252 SpA / 0 SpD / 0 Spe
+Quiet Nature
+Ability: Magic Guard
+- Psychic
+- Aura Sphere
+- Thunder
+- Calm Mind
+
+Lunatone @ Ghost Gem
+Level: 88
+EVs: 252 Hp / 0 Atk / 4 Def / 252 SpA / 0 SpD / 0 Spe
+Quiet Nature
+Ability: Levitate
+- Power Gem
+- Shadow Ball
+- Grass Knot
+- Calm Mind
+
+Solrock @ Weakness Policy
+Level: 88
+EVs: 252 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
+Brave Nature
+Ability: Levitate
+- Flare Blitz
+- Rock Slide
+- Zen Headbutt
+- Rock Polish

@@ -1,0 +1,43 @@
+===
+Trainers:
+===
+
+Aroma Lady Rose
+-Floette lvl -2 // Magical Leaf, Draining Kiss, Wish, Leech Seed
+-Ivysaur lvl -2 // Seed Bomb, Sludge, Sleep Powder, Leech Seed
+-Combee lvl 0 // Bug Buzz, Gust, Sweet Scent, Bug Bite
+
+Youngster Deandre
+-Diggersby lvl -2 (A) Huge Power // Double Kick, Bulldoze, Swords Dance, Quick Attack
+-Lairon lvl -1 // Iron Head, Rock Slide, Take Down, Protect
+-Simisear lvl -2 (A) Blaze // Crunch, Acrobatics, Flame Burst, Yawn
+
+Fisherman Wade
+-Gyarados lvl -1 (A) Moxie // Aqua Tail, Ice Fang, Thrash, Whirlpool
+-Chinchou lvl -1 // Discharge, Signal Beam, Water Pulse, Thunder Wave
+
+Guitarist Dalton
+-Noivern lvl 0 // Dragon Pulse, Air Cutter, Moonlight, Supersonic
+
+Interviewer Gabby & Ty
+-Magnezone lvl -2 (N) Modest // Flash Cannon, Thunderbolt, Thunder Wave, Signal Beam
+-Exploud lvl -2 (N) Modest // Hyper Voice, Extrasensory, Focus Blast, Ice Beam
+
+Fisherman Barny
+-Tentacruel lvl -3 (A) Liquid Ooze // Hydro Pump, Sludge Wave, Wring Out, Barrier
+-Sharpedo lvl -3 // Hydro Pump, Crunch, Ice Fang, Aqua Jet
+-Barbaracle lvl -3 // Razor Shell, Stone Edge, Cross Chop, Night Slash
+
+Bird Keeper Chester
+-Talonflame lvl -2 // Brave Bird, Flare Blitz, Steel Wing, Roost
+-Mandibuzz lvl -2 // Foul Play, Roost, Iron Defense, Whirlwind
+
+Bird Keeper Perry
+-Toucannon lvl -3 (A) Skill Link // Brave Bird, Bullet Seed, Rock Blast, Roost
+-Unfezant lvl -3 (A) Super Luck // Drill Peck, Submission, Taunt, Detect
+-Decidueye lvl -3 // Spirit Shackle, Leaf Blade, Jump Kick, Sucker Punch
+
+===
+Bosses:
+===
+

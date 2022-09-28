@@ -1,11 +1,307 @@
-MT-PYRE
+
+===
+PokeManiac Mark (potential double with Hex Maniac Leah)
+===
+
+Rhyperior @ 
+Level: 52
+- Rock Wrecker
+- Earthquake
+- Megahorn
+- Ice Punch
+
+Haxorus @ 
+Level: 52
+- Outrage
+- Close Combat
+- First Impression
+- Crunch
+
+Lickilicky @ 
+Level: 52
+- Body Slam
+- Power Whip
+- Fire Blast
+- Thunder
+
+===
+Hex Maniac Leah (potential double with PokeManiac Mark or Black Belt Zander)
+===
+
+Gengar @ 
+Level: 52
+- Hex
+- Sludge Bomb
+- Hypnosis
+- Icy Wind
+
+Grumpig @ 
+Level: 52
+- Psychic
+- Shadow Ball
+- Power Gem
+- Magic Coat
+
+Jynx @ 
+Level: 52
+- Freeze Dry
+- Psychic
+- Lovely Kiss
+- Nasty Plot
+
+===
+Black Belt Zander (potential double with Hex Maniac Leah)
+===
+
+Hariyama @ 
+Level: 52
+- Close Combat
+- Knock Off
+- Heavy Slam
+- Fake Out
+
+Hitmonlee @ 
+Level: 52
+- High Jump Kick
+- Knock Off
+- Blaze Kick
+- Fake Out
+
+Emboar @ 
+Level: 52
+Ability: Reckless
+- Hammer Arm
+- Heat Crash
+- Wild Charge
+- Head Smash
+
+===
+Young Couple Dez & Luke
+===
+
+Cloyster @ 
+Level: 54
+Ability: Skill Link
+- Icicle Spear
+- Rock Blast
+- Liquidation
+- Protect
+
+Steelix @ 
+Level: 54
+- Heavy Slam
+- Dig
+- Rock Slide
+- Screech
+
+===
+Psychic Kayla (potential double with Pokemon Breeder Gabrielle)
+===
+
+Wobbuffet @ 
+Level: 52
+- Counter
+- Mirror Coat
+- Encore
+- Destiny Bond
+
+Alakazam @ 
+Level: 52
+- Psychic
+- Shadow Ball
+- Calm Mind
+- Recover
+
+Hypno @ 
+Level: 52
+- Dream Eater
+- Hypnosis
+- Shadow Ball
+- Nasty Plot
+
+===
+Pokemon Breeder Gabrielle (potential double with Psychic Kayla or Psychic William)
+===
+
+Avalugg @ 
+Level: 51
+- Avalanche
+- High Horsepower
+- Recover
+- Mirror Coat
+
+Meganium @ 
+Level: 51
+Ability: Triage
+- Giga Drain
+- Draining Kiss
+- Grassy Terrain
+- Ancient Power
+
+Raichu-Alola @ 
+Level: 51
+- Psychic
+- Thunderbolt
+- Electric Terrain
+- Fake Out
+
+Donphan @ 
+Level: 51
+- Earthquake
+- Ice Shard
+- Play Rough
+- Head Smash
+
+Gorebyss @ 
+Level: 51
+- Muddy Water
+- Draining Kiss
+- Ice Beam
+- Shell Smash
+
+Kommo @ 
+Level: 51
+- Clanging Scales
+- Aura Sphere
+- Flash Cannon
+- Flamethrower
+
+===
+Psychic William
+===
+
+Beheeyem @ 
+Level: 52
+Ability: Psychic Surge
+- Psychic
+- Shadow Ball
+- Trick Room
+- Nasty Plot
+
+Gardevoir @ 
+Level: 52
+- Psychic
+- Moonblast
+- Mystical Fire
+- Calm Mind
+
+Gallade @ 
+Level: 52
+- Close Combat
+- Psycho Cut
+- Leaf Blade
+- Swords Dance
+
+===
+Hex Maniac Tasha
+===
+
+Chandelure @ 
+Level: 52
+- Flamethrower
+- Hex
+- Will-O-Wisp
+- Psychic
+
+Banette @ 
+Level: 52
+- Phantom Force
+- Crush Claw
+- Will-O-Wisp
+- Thunderbolt
+
+Trevenant @ 
+Level: 52
+- Horn Leech
+- Shadow Claw
+- Will-O-Wisp
+- Leech Seed
+
+===
+Black Belt Atsushi
+===
+
+Samurott @ 
+Level: 52
+- Sacred Sword
+- X-Scissor
+- Aqua Tail
+- Aqua Jet
+
+Machamp @ 
+Level: 52
+Ability: No Guard
+- Dynamic Punch
+- Dual Chop
+- Knock Off
+- Stone Edge
+
+Aggron @ 
+Level: 52
+Ability: Rock Head
+- Head Smash
+- Ice Punch
+- Iron Head
+- Metal Burst
+
+===
+Hex Maniac Valerie (potential double with Psychic Cedric)
+===
+
+Sableye @ 
+Level: 52
+Ability: Prankster
+- Fake Out
+- Recover
+- Will-O-Wisp
+- Foul Play
+
+Dusknoir @ 
+Level: 52
+- Phantom Force
+- Ice Punch
+- Fire Punch
+- Thunder Punch
+
+Spiritomb @ 
+Level: 52
+- Hypnosis
+- Dream Eater
+- Dark Pulse
+- Calm Mind
+
+===
+Psychic Cedric (potential double with Hex Maniac Valerie)
+===
+
+Bronzong @ 
+Level: 52
+Ability: Heatproof
+- Flash Cannon
+- Psychic
+- Confuse Ray
+- Calm Mind
+
+Reuniclus @ 
+Level: 52
+- Psyshock
+- Thunder
+- Recover
+- Acid Armor
+
+Meowstic @ 
+Level: 52
+- Psychic
+- Dark Pulse
+- Energy Ball
+- Signal Beam
 
 ===
 Team Aqua Grunt 1
 ===
 
 Bruxish @ 
-Level: 68
+Level: 53
 Ability: Strong Jaw
 - Waterfall
 - Crunch
@@ -13,33 +309,32 @@ Ability: Strong Jaw
 - Ice Fang
 
 Weavile @ 
-Level: 68
+Level: 53
 - Night Slash
 - Icicle Crash
 - Psycho Cut
 - Ice Shard
 
 Wailord @ 
-Level: 68
+Level: 53
 - Scald
 - Ice Beam
 - Body Slam
 - Noble Roar
-
 
 ===
 Team Aqua Grunt 2
 ===
 
 Muk @ 
-Level: 68
+Level: 53
 - Fire Blast
 - Acid Spray
 - Giga Drain
 - Toxic
 
 Raticate-Alola @ 
-Level: 68
+Level: 53
 Ability: Hustle
 - Crunch
 - Iron Tail
@@ -47,45 +342,43 @@ Ability: Hustle
 - Zen Headbutt
 
 Tentacruel @ 
-Level: 68
+Level: 53
 - Scald
 - Sludge Bomb
 - Mirror Coat
 - Hex
 
-
 ===
-Team Aqua Grunt 3 (forced double w/ grunt 4)
+Team Aqua Grunt 3 (forced double battle with Team Aqua Grunt 4)
 ===
 
 Jellicent @ 
-Level: 68
+Level: 53
 - Rain Dance
 - Scald
 - Shadow Ball
 - Psychic
 
 Amoonguss @ 
-Level: 68
+Level: 53
 - Spore
 - Giga Drain
 - Sludge Bomb
 - Synthesis
 
 Lanturn @ 
-Level: 68
+Level: 53
 - Scald
 - Thunder
 - Confuse Ray
 - Spotlight
 
-
 ===
-Team Aqua Grunt 4 (forced double w/ grunt 3)
+Team Aqua Grunt 4 (forced double battle with Team Aqua Grunt 3)
 ===
 
 Carracosta @ 
-Level: 68
+Level: 53
 Ability: Swift Swim
 - Liquidation
 - Rock Slide
@@ -93,81 +386,80 @@ Ability: Swift Swim
 - Zen Headbutt
 
 Liepard @ 
-Level: 68
+Level: 53
 - Knock Off
 - Play Rough
 - U-turn
 - Encore
 
 Qwilfish @ 
-Level: 68
+Level: 53
 Ability: Intimidate
 - Waterfall
 - Poison Jab
 - Payback
 - Thunder Wave
 
-
 ===
-Aqua Admin Matt
+Matt (Mt. Pyre)
+===
+
 Pelipper @ Rocky Helmet
-Level: 70
-EVs: 252 HP / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
-Ability: Drizzle
+Level: 55
+EVs: 252 Hp / 0 Atk / 252 Def / 0 SpA / 4 SpD / 0 Spe
 Bold Nature
+Ability: Drizzle
 - Hurricane
 - Scald
 - Roost
 - U-turn
 
 Dhelmise @ Assault Vest
-Level: 70
-EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
-Ability: Steelworker
+Level: 55
+EVs: 252 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
 Adamant Nature
+Ability: Steelworker
 - Power Whip
 - Phantom Force
 - Liquidation
 - Anchor Shot
 
 Heliolisk @ Life Orb
-Level: 70
-EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
-Ability: Dry Skin
+Level: 55
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Timid Nature
+Ability: Dry Skin
 - Thunder
 - Weather Ball
 - Focus Blast
 - Grass Knot
 
 Toxicroak @ Black Sludge
-Level: 70
-EVs: 252 HP / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
-Ability: Dry Skin
+Level: 55
+EVs: 252 Hp / 0 Atk / 4 Def / 0 SpA / 252 SpD / 0 Spe
 Careful Nature
+Ability: Dry Skin
 - Drain Punch
 - Poison Jab
 - Bulk Up
 - Sucker Punch
 
 Seismitoad @ Rindo Berry
-Level: 70
-EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
-Ability: Swift Swim
+Level: 55
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Adamant Nature
+Ability: Swift Swim
 - Liquidation
 - Earthquake
 - Power Whip
 - Ice Punch
 
-Gyarados-Mega @ Gyardosite
-Level: 72
-EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
-Ability: Mold Breaker
+Gyarados @ Gyaradosite
+Level: 57
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Jolly Nature
+Ability: Mold Breaker
 - Waterfall
 - Crunch
 - Earthquake
 - Dragon Dance
-
-

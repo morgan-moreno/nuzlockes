@@ -1,65 +1,196 @@
-LILYCOVE-CITY
 
 ===
-Pokemon Trainer May
+
+===
+
+===
+May (Lilycove City) - Grass
+===
+
 Vikavolt @ Life Orb
-Level: 71
-EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
-Ability: Levitate
+Level: 56
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Timid Nature
+Ability: Levitate
 - Thunderbolt
 - Bug Buzz
 - Energy Ball
 - Sticky Web
 
 Swellow @ Flame Orb
-Level: 71
-EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
-Ability: Guts
+Level: 56
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Jolly Nature
+Ability: Guts
+- Brave Bird
+- Facade
+- Reversal
+- Protect
+
+Starmie @ Water Gem
+Level: 56
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+Ability: Analytic
+- Hydro Pump
+- Psyshock
+- Thunder
+- Ice Beam
+
+Tsareena @ Assault Vest
+Level: 56
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Queenly Majesty
+- Power Whip
+- High Jump Kick
+- Knock Off
+- Strength
+
+Mimikyu @ Lum Berry
+Level: 56
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Disguise
+- Shadow Claw
+- Play Rough
+- Swords Dance
+- Shadow Sneak
+
+Blaziken @ Blazikenite
+Level: 58
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Adamant Nature
+Ability: Speed Boost
+- Flare Blitz
+- High Jump Kick
+- Thunder Punch
+- Swords Dance
+
+===
+May (Lilycove City) - Fire
+===
+
+Vikavolt @ Life Orb
+Level: 56
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+Ability: Levitate
+- Thunderbolt
+- Bug Buzz
+- Energy Ball
+- Sticky Web
+
+Swellow @ Flame Orb
+Level: 56
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Guts
+- Brave Bird
+- Facade
+- Reversal
+- Protect
+
+Rapidash @ Fire Gem
+Level: 56
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Reckless
+- Flare Blitz
+- Jump Kick
+- Wild Charge
+- Poison Jab
+
+Tsareena @ Assault Vest
+Level: 56
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Queenly Majesty
+- Power Whip
+- High Jump Kick
+- Knock Off
+- Strength
+
+Mimikyu @ Lum Berry
+Level: 56
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Disguise
+- Shadow Claw
+- Play Rough
+- Swords Dance
+- Shadow Sneak
+
+Swampert @ Swampertite
+Level: 58
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Swift Swim
+- Liquidation
+- Earthquake
+- Ice Punch
+- Rain Dance
+
+===
+May (Lilycove City) - Water
+===
+
+Vikavolt @ Life Orb
+Level: 56
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+Ability: Levitate
+- Thunderbolt
+- Bug Buzz
+- Energy Ball
+- Sticky Web
+
+Swellow @ Flame Orb
+Level: 56
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Guts
 - Brave Bird
 - Facade
 - Reversal
 - Protect
 
 Starmie @ Assault Vest
-Level: 71
-EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
-Ability: Analytic
+Level: 56
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Timid Nature
+Ability: Analytic
 - Hydro Pump
 - Psyshock
 - Thunder
 - Ice Beam
 
 Rapidash @ Fire Gem
-Level: 71
-EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
-Ability: Reckless
+Level: 56
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Jolly Nature
+Ability: Reckless
 - Flare Blitz
 - Jump Kick
 - Wild Charge
 - Poison Jab
 
 Mimikyu @ Lum Berry
-Level: 71
-EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
-Ability: Disguise
+Level: 56
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Jolly Nature
+Ability: Disguise
 - Shadow Claw
 - Play Rough
 - Swords Dance
 - Shadow Sneak
 
-Sceptile-Mega @ Sceptilite
-Level: 73
-EVs: 0 HP / 4 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
-Ability: Chloroplast
+Sceptile @ Sceptilite
+Level: 58
+EVs: 0 Hp / 4 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Hasty Nature
+Ability: Chloroplast
 - Solar Beam
 - Dragon Pulse
 - Earthquake
 - Growth
-
-

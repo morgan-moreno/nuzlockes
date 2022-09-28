@@ -638,6 +638,8 @@ Static      Porygon (100%)
 
 2 / Porygon
 3 / Porygon
+4 / Porygon
+5 / Porygon
 
 # Trainers
 
@@ -675,6 +677,7 @@ Skuntank (Lv. 27) @ Sitrus Berry    /   Adamant     /   Aftermath       /   Pois
 2 / W
 3 / W
 4 / W
+5 / W
 
 ====================================================================================
 Route 206
@@ -691,6 +694,7 @@ Honey Tree  Combee (30%), Burmy (20%), Pineco (20%), Silcoon (10%), Cascoon (10%
 2 / Gligar
 3 / Gligar
 4 / Mankey
+5 / Gligar
 
 ====================================================================================
 Wayward Cave
@@ -705,6 +709,7 @@ Walking       Zubat (20%), Geodude (20%), Gible (20%), Baltoy (10%), Sandshrew (
 2 / Mawile
 3 / Zubat
 4 / Mawile
+5 / Zubat
 
 # Boss
 
@@ -732,6 +737,7 @@ Fossil      Aerodactyl, Lileep, Anorith, Cranidos, Shieldon, Kabuto, Omanyte
 2 / Aerodactyl, Kabuto
 3 / Anorith, Omanyte
 4 / Kabuto, Cranidos
+5 / Aerodactyl, Shieldon
 
 ====================================================================================
 Route 207

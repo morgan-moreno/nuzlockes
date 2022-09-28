@@ -1,0 +1,96 @@
+===
+Trainers:
+===
+
+Team Magma Grunt 1
+-Hippowdon lvl -1 // Earthquake, Ice Fang, Slack Off, Rock Slide
+-Sandslash lvl -1 (A) Sand Rush // Earthquake, Stone Edge, X-Scissor, Swords Dance
+-Gastrodon lvl -1 (A) Sand Force // Earth Power, Scald, Sludge Wave, Recover
+
+Team Magma Grunt 2
+-Claydol lvl -1 // Earthquake, Ice Beam, Psychic, Explosion
+-Garbador lvl -1 (A) Weak Armor // Gunk Shot, Meteor Mash, Seed Bomb, Explosion
+-Umbreon lvl -1 (A) Magic Guard // Payback, Curse, Moonlight, Toxic
+
+Team Magma Grunt 3
+-Liepard lvl -1 (A) Prankster // Knock Off, Thunder Wave, U-Turn, Charm
+-Salazzle lvl -1 // Flamethrower, Sludge Bomb, Dragon Pulse, Nasty Plot
+-Nidoqueen lvl -1 (A) Sheer Force // Earth Power, Shadow Ball, Sludge Wave, Flamethrower
+
+Team Magma Grunt 4 (outside)
+-Talonflame lvl -1 // Brave Bird, Flare Blitz, Roost, Steel Wing
+-Bisharp lvl -1 // Iron Head, Knock Off, Sucker Punch, Psycho Cut
+-Venomoth lvl -1 // Bug Buzz, Psychic, Sleep Powder, Quiver Dance
+
+Team Magma Grunt 5 (inside)
+-Scrafty lvl -1 // High Jump Kick, Crunch, Poison Jab, Head Smash
+-Nidoking lvl -1 (A) Sheer Force // Sludge Bomb, Earth Power, Megahorn, Shadow Ball
+-Magcargo lvl -1 // Fire Blast, Stone Edge, Earth Power, Shell Smash
+
+Team Magma Grunt 6
+-Camerupt lvl -1 // Earthquake, Eruption, Double Edge, Growth
+-Crobat lvl -1 // Fly, Toxic, Roost, Protect
+-Shiftry lvl -1 // Sunny Day, Solar Blade, Heat Wave, Dark Pulse
+
+Team Magma Grunt 7
+-Gliscor lvl -1 // Knock Off, Earthquake, Acrobatics, Cross Poison
+-Dustox lvl -1 // Toxic, Venoshock, Infestation, Roost
+-Magmortar lvl -1 (A) Mega Launcher // Fire Blast, Aura Sphere, Dark Pulse, Psychic
+
+Team Magma Grunt 8
+-Mamoswine lvl -1 // Icicle Crash, Earthquake, Ice Shard, Stone Edge
+-Mandibuzz lvl -1 // Foul Play, Swagger, Roost, Protect
+-Scolipede lvl -1 (A) Speed Boost // Megahorn, Poison Jab, Earthquake, Rock Climb
+
+Team Magma Grunt 9 (Right) (potential double with Team Magma Grunt 10)
+-Sableye lvl -1 (A) Prankster // Will-o-Wisp, Knock Off, Taunt, Metal Burst
+-Torkoal lvl -1 // Earth Power, Lava Plume, Shell Smash, Clear Smog
+-Excadrill lvl -1 (A) Mold Breaker // Earthquake, Iron Head, X-Scissor, Rock Climb
+
+Team Magma Grunt 10 (Left) (potential double with Team Magma Grunt 9)
+-Rhyperior lvl -1 // Earthquake, Rock Wrecker, Megahorn, Metal Burst
+-Amoonguss lvl -1 // Spore, Sludge Bomb, Giga Drain, Foul Play
+-Pangoro lvl -1 // Close Combat, Crunch, Gunk Shot, Zen Headbutt
+
+===
+Bosses:
+===
+
+Tabitha (Magma Hideout) (Double Battle)		
+Gigalith	Darmanitan	Steelix
+Lvl Scale +1	Lvl Scale +1	Lvl Scale +2
+31/0/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/0
+252/0/0/252/0/4	4/252/0/0/0/252	252/252/0/0/0/4
+Modest	Jolly	Brave
+Rocky Helmet	Life Orb	Steelixite
+Solar Power	Sheer Force	Sand Force
+Power Gem	Flare Blitz	Gyro Ball
+Earth Power	Zen Headbutt	Drill Run
+Weather Ball	Rock Slide	Rock Slide
+Thunderbolt	Iron Head	Fire Fang
+
+Courtney (Magma Hideout) (Double Battle)		
+Ninetales	Krookodile	Houndoom
+Lvl Scale +1	Lvl Scale +1	Lvl Scale +2
+31/0/31/31/31/31	31/31/31/31/31/31	31/0/31/31/31/31
+0/0/0/252/0/252	252/252/0/0/0/4	0/0/0/252/0/252
+Timid	Adamant	Timid
+Fire Gem	Assault Vest	Houndoomite
+Drought	Intimidate	Solar Power
+Heat Wave	Crunch	Dark Pulse
+Moonblast	High Horsepower	Heat Wave
+Solar Beam	Stone Edge	Solar Beam
+Hypnosis	Thuder Fang	Sludge Bomb
+
+Maxie (Magma Hideout)						
+Groudon	Lycanroc-Dusk	Hydreigon	Crobat	Victreebel	Camerupt
+Lv Scale	Lvl Scale +1	Lvl Scale +1	Lvl Scale +1	Lvl Scale +1	Lvl Scale +2
+31/31/31/31/31/31	31/31/31/31/31/31	31/0/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/0/31/31/31/31
+100/252/0/0/0/156	4/252/0/0/0/252	0/0/0/252/0/252	4/252/0/0/0/252	0/252/0/4/0/252	252/0/0/252/0/4
+Adamant	Jolly	Timid	Jolly	Naive	Modest
+Lum Berry	Rock Gem	White Herb	Shell Bell	Life Orb	Cameruptite
+Drought	Tough Claws	Levitate	Infiltrator	Chlorophyll	Sheer Force
+Precipice Blades	Strength	Dark Pulse	Brave Bird	Solar Blade	Earth Power
+Heat Crash	Close Combat	Draco Meteor	Cross Poison	Poison Jab	Fire Blast
+Stone Edge	Psychic Fangs	Fire Blast	Super Fang	Weather Ball	Solar Beam
+Rock Polish	Accelerock	Focus Blast	Hypnosis	Sleep Powder	Flash Cannon

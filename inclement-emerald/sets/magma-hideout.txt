@@ -1,0 +1,393 @@
+
+===
+Team Magma Grunt 1
+===
+
+Hippowdon @ 
+Level: 84
+- Earthquake
+- Ice Fang
+- Slack Off
+- Rock Slide
+
+Sandslash @ 
+Level: 84
+Ability: Sand Rush
+- Earthquake
+- Stone Edge
+- X-Scissor
+- Swords Dance
+
+Gastrodon @ 
+Level: 84
+Ability: Sand Force
+- Earth Power
+- Scald
+- Sludge Wave
+- Recover
+
+===
+Team Magma Grunt 2
+===
+
+Claydol @ 
+Level: 84
+- Earthquake
+- Ice Beam
+- Psychic
+- Explosion
+
+Garbodor @ 
+Level: 84
+Ability: Weak Armor
+- Gunk Shot
+- Meteor Mash
+- Seed Bomb
+- Explosion
+
+Umbreon @ 
+Level: 84
+Ability: Magic Guard
+- Payback
+- Curse
+- Moonlight
+- Toxic
+
+===
+Team Magma Grunt 3
+===
+
+Liepard @ 
+Level: 84
+Ability: Prankster
+- Knock Off
+- Thunder Wave
+- U-Turn
+- Charm
+
+Salazzle @ 
+Level: 84
+- Flamethrower
+- Sludge Bomb
+- Dragon Pulse
+- Nasty Plot
+
+Nidoqueen @ 
+Level: 84
+Ability: Sheer Force
+- Earth Power
+- Shadow Ball
+- Sludge Wave
+- Flamethrower
+
+===
+Team Magma Grunt 4 (outside)
+===
+
+Talonflame @ 
+Level: 84
+- Brave Bird
+- Flare Blitz
+- Roost
+- Steel Wing
+
+Bisharp @ 
+Level: 84
+- Iron Head
+- Knock Off
+- Sucker Punch
+- Psycho Cut
+
+Venomoth @ 
+Level: 84
+- Bug Buzz
+- Psychic
+- Sleep Powder
+- Quiver Dance
+
+===
+Team Magma Grunt 5 (inside)
+===
+
+Scrafty @ 
+Level: 84
+- High Jump Kick
+- Crunch
+- Poison Jab
+- Head Smash
+
+Nidoking @ 
+Level: 84
+Ability: Sheer Force
+- Sludge Bomb
+- Earth Power
+- Megahorn
+- Shadow Ball
+
+Magcargo @ 
+Level: 84
+- Fire Blast
+- Stone Edge
+- Earth Power
+- Shell Smash
+
+===
+Team Magma Grunt 6
+===
+
+Camerupt @ 
+Level: 84
+- Earthquake
+- Eruption
+- Double Edge
+- Growth
+
+Crobat @ 
+Level: 84
+- Fly
+- Toxic
+- Roost
+- Protect
+
+Shiftry @ 
+Level: 84
+- Sunny Day
+- Solar Blade
+- Heat Wave
+- Dark Pulse
+
+===
+Team Magma Grunt 7
+===
+
+Gliscor @ 
+Level: 84
+- Knock Off
+- Earthquake
+- Acrobatics
+- Cross Poison
+
+Dustox @ 
+Level: 84
+- Toxic
+- Venoshock
+- Infestation
+- Roost
+
+Magmortar @ 
+Level: 84
+Ability: Mega Launcher
+- Fire Blast
+- Aura Sphere
+- Dark Pulse
+- Psychic
+
+===
+Team Magma Grunt 8
+===
+
+Mamoswine @ 
+Level: 84
+- Icicle Crash
+- Earthquake
+- Ice Shard
+- Stone Edge
+
+Mandibuzz @ 
+Level: 84
+- Foul Play
+- Swagger
+- Roost
+- Protect
+
+Scolipede @ 
+Level: 84
+Ability: Speed Boost
+- Megahorn
+- Poison Jab
+- Earthquake
+- Rock Climb
+
+===
+Team Magma Grunt 9 (Right) (potential double with Team Magma Grunt 10)
+===
+
+Sableye @ 
+Level: 84
+Ability: Prankster
+- Will-o-Wisp
+- Knock Off
+- Taunt
+- Metal Burst
+
+Torkoal @ 
+Level: 84
+- Earth Power
+- Lava Plume
+- Shell Smash
+- Clear Smog
+
+Excadrill @ 
+Level: 84
+Ability: Mold Breaker
+- Earthquake
+- Iron Head
+- X-Scissor
+- Rock Climb
+
+===
+Team Magma Grunt 10 (Left) (potential double with Team Magma Grunt 9)
+===
+
+Rhyperior @ 
+Level: 84
+- Earthquake
+- Rock Wrecker
+- Megahorn
+- Metal Burst
+
+Amoonguss @ 
+Level: 84
+- Spore
+- Sludge Bomb
+- Giga Drain
+- Foul Play
+
+Pangoro @ 
+Level: 84
+- Close Combat
+- Crunch
+- Gunk Shot
+- Zen Headbutt
+
+===
+Tabitha (Magma Hideout) (Double Battle)
+===
+
+Gigalith @ Rocky Helmet
+Level: 86
+EVs: 252 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 4 Spe
+Modest Nature
+Ability: Solar Power
+- Power Gem
+- Earth Power
+- Weather Ball
+- Thunderbolt
+
+Darmanitan @ Life Orb
+Level: 86
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Sheer Force
+- Flare Blitz
+- Zen Headbutt
+- Rock Slide
+- Iron Head
+
+Steelix @ Steelixite
+Level: 87
+EVs: 252 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
+Brave Nature
+Ability: Sand Force
+- Gyro Ball
+- Drill Run
+- Rock Slide
+- Fire Fang
+
+===
+Courtney (Magma Hideout) (Double Battle)
+===
+
+Ninetales @ Fire Gem
+Level: 86
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+Ability: Drought
+- Heat Wave
+- Moonblast
+- Solar Beam
+- Hypnosis
+
+Krookodile @ Assault Vest
+Level: 86
+EVs: 252 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
+Adamant Nature
+Ability: Intimidate
+- Crunch
+- High Horsepower
+- Stone Edge
+- Thunder Fang
+
+Houndoom @ Houndoomite
+Level: 87
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+Ability: Solar Power
+- Dark Pulse
+- Heat Wave
+- Solar Beam
+- Sludge Bomb
+
+===
+Maxie (Magma Hideout)
+===
+
+Groudon @ Lum Berry
+Level: 85
+EVs: 100 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 156 Spe
+Adamant Nature
+Ability: Drought
+- Precipice Blades
+- Heat Crash
+- Stone Edge
+- Rock Polish
+
+Lycanroc-Dusk @ Rock Gem
+Level: 86
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Tough Claws
+- Strength
+- Close Combat
+- Psychic Fangs
+- Accelerock
+
+Hydreigon @ White Herb
+Level: 86
+EVs: 0 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
+Timid Nature
+Ability: Levitate
+- Dark Pulse
+- Draco Meteor
+- Fire Blast
+- Focus Blast
+
+Crobat @ Shell Bell
+Level: 86
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
+Jolly Nature
+Ability: Infiltrator
+- Brave Bird
+- Cross Poison
+- Super Fang
+- Hypnosis
+
+Victreebel @ Life Orb
+Level: 86
+EVs: 0 Hp / 252 Atk / 0 Def / 4 SpA / 0 SpD / 252 Spe
+Naive Nature
+Ability: Chlorophyll
+- Solar Blade
+- Poison Jab
+- Weather Ball
+- Sleep Powder
+
+Camerupt @ Cameruptite
+Level: 87
+EVs: 252 Hp / 0 Atk / 0 Def / 252 SpA / 0 SpD / 4 Spe
+Modest Nature
+Ability: Sheer Force
+- Earth Power
+- Fire Blast
+- Solar Beam
+- Flash Cannon

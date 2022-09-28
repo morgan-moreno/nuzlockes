@@ -8,8 +8,8 @@ Roxanne
 ===
 
 Aron @ Chesto Berry
-Level: 22
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 11
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Relaxed Nature
 Ability: Sturdy
 - Rock Tomb
@@ -18,8 +18,8 @@ Ability: Sturdy
 - Rest
 
 Tyrunt @ Red Card
-Level: 22
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 11
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Relaxed Nature
 Ability: Sturdy
 - Rock Tomb
@@ -28,8 +28,8 @@ Ability: Sturdy
 - Poison Fang
 
 Amaura @ Chople Berry
-Level: 22
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 11
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Relaxed Nature
 Ability: Refrigerate
 - Rock Tomb
@@ -38,8 +38,8 @@ Ability: Refrigerate
 - Echoed Voice
 
 Anorith @ Water Gem
-Level: 22
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 11
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Relaxed Nature
 Ability: Battle Armor
 - Rock Tomb
@@ -48,8 +48,8 @@ Ability: Battle Armor
 - Aqua Jet
 
 Lileep @ Oran Berry
-Level: 22
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 11
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Relaxed Nature
 Ability: Storm Drain
 - Rock Tomb
@@ -58,8 +58,8 @@ Ability: Storm Drain
 - Pain Split
 
 Nosepass @ Berry Juice
-Level: 25
-244 Hp / 0 Atk / 92 Def / 0 SpA / 168 SpD / 0 Spe
+Level: 14
+EVs: 244 Hp / 0 Atk / 92 Def / 0 SpA / 168 SpD / 0 Spe
 Careful Nature
 Ability: Sand Force
 - Sandstorm
@@ -72,8 +72,8 @@ May (Rustboro City) - Fire
 ===
 
 Swellow @ None
-Level: 24
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 13
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Guts
 - Aerial Ace
@@ -82,8 +82,8 @@ Ability: Guts
 - Refresh
 
 Steenee @ None
-Level: 24
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 13
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Sweet Veil
 - Razor Leaf
@@ -92,8 +92,8 @@ Ability: Sweet Veil
 - Synthesis
 
 Ponyta @ None
-Level: 24
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 13
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Flame Body
 - Flame Wheel
@@ -102,8 +102,8 @@ Ability: Flame Body
 - Double Kick
 
 Marshtomp @ Oran Berry
-Level: 25
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 14
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Torrent
 - Mud Shot
@@ -116,8 +116,8 @@ May (Rustboro City) - Grass
 ===
 
 Swellow @ None
-Level: 24
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 13
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Guts
 - Aerial Ace
@@ -126,8 +126,8 @@ Ability: Guts
 - Refresh
 
 Staryu @ None
-Level: 24
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 13
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Natural Cure
 - Bubble Beam
@@ -136,8 +136,8 @@ Ability: Natural Cure
 - Swift
 
 Steenee @ None
-Level: 24
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 13
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Sweet Veil
 - Razor Leaf
@@ -146,8 +146,8 @@ Ability: Sweet Veil
 - Synthesis
 
 Combusken @ Oran Berry
-Level: 25
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 14
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Blaze
 - Double Kick
@@ -160,8 +160,8 @@ May (Rustboro City) - Water
 ===
 
 Swellow @ None
-Level: 24
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 13
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Guts
 - Aerial Ace
@@ -170,8 +170,8 @@ Ability: Guts
 - Refresh
 
 Staryu @ None
-Level: 24
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 13
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Natural Cure
 - Bubble Beam
@@ -180,8 +180,8 @@ Ability: Natural Cure
 - Swift
 
 Ponyta @ None
-Level: 24
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 13
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Flame Body
 - Flame Wheel
@@ -190,8 +190,8 @@ Ability: Flame Body
 - Double Kick
 
 Grovyle @ Oran Berry
-Level: 25
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 14
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Overgrow
 - Mega Drain

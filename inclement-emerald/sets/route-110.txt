@@ -4,14 +4,14 @@ Pokefan Isabel (potential double with Pokefan Kaleb)
 ===
 
 Plusle @ Oran Berry
-Level: 35
+Level: 27
 - Electro Ball
 - Nuzzle
 - Helping Hand
 - Charm
 
 Pachirisu @ Oran Berry
-Level: 35
+Level: 27
 - Electro Ball
 - Nuzzle
 - Swift
@@ -22,14 +22,14 @@ Pokefan Kaleb
 ===
 
 Minun @ Oran Berry
-Level: 35
+Level: 27
 - Electro Ball
 - Nuzzle
 - Helping Hand
 - Fake Tears
 
 Emolga @ Oran Berry
-Level: 35
+Level: 27
 - Shock Wave
 - Nuzzle
 - Acrobatics
@@ -40,36 +40,133 @@ Youngster Timmy
 ===
 
 Ferroseed @ 
-Level: 36
+Level: 28
 - Ingrain
 - Iron Head
 - Pin Missile
 - Bullet Seed
 
 Electrike @ 
-Level: 36
+Level: 28
 - Discharge
 - Bite
 - Quick Attack
 - Odor Sleuth
 
 ===
+Collector Edwin
+===
+
+Lombre @ 
+Level: 28
+- Fake Out
+- Knock Off
+- Mega Drain
+- Bubblebeam
+
+Nuzleaf @ 
+Level: 28
+- Feint Attack
+- Leaf Blade
+- Air Cutter
+- Growth
+
+===
+Guitarist Joseph
+===
+
+Luxio @ 
+Level: 28
+- Bite
+- Spark
+- Howl
+- Roar
+
+Voltorb @ 
+Level: 28
+- Swift
+- Self Destruct
+- Light Screen
+- Electro Ball
+
+===
+Triathlete Alyssa
+===
+
+Magnemite @ 
+Level: 29
+- Shock Wave
+- Thunder Wave
+- Metal Sound
+- Mirror Shot
+
+Klink @ 
+Level: 28
+- Discharge
+- Thunder Wave
+- Metal Sound
+- Autotomize
+
+===
+Psychic Edward
+===
+
+Abra @ 
+Level: 30
+Nature: Timid
+- Hidden Power (Fighting)
+- Shock Wave
+- Signal Beam
+
+===
+Fisherman Dale
+===
+
+Tentacool @ 
+Level: 27
+- Wrap
+- Acid Spray
+- Water Pulse
+- Barrier
+
+Wailmer @ 
+Level: 28
+- Brine
+- Rollout
+- Defense Curl
+- Whirlpool
+
+Binacle @ 
+Level: 28
+- Ancient Power
+- Clamp
+- Rock Polish
+- Slash
+
+Alomomola @ 
+Level: 28
+- Bubblebeam
+- Wake Up Slap
+- Protect
+- Aqua Ring
+
+===
 May (Route 110) - Grass
 ===
 
 Swellow @ None
-Level: 37
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 29
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Guts
 - Wing Attack
 - Quick Attack
 - Roost
-- U-Turn
+- U-turn
 
 Starmie @ None
-Level: 37
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 29
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Natural Cure
 - Water Pulse
@@ -78,18 +175,18 @@ Ability: Natural Cure
 - Icy Wind
 
 Tsareena @ None
-Level: 37
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 29
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Queenly Majesty
 - Trop Kick
 - Low Sweep
-- U-Turn
+- U-turn
 - Synthesis
 
 Mimikyu @ None
-Level: 37
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 29
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Disguise
 - Shadow Claw
@@ -98,8 +195,8 @@ Ability: Disguise
 - Drain Punch
 
 Combusken @ Sitrus Berry
-Level: 39
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 31
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Blaze
 - Brick Break
@@ -112,8 +209,8 @@ May (Route 110) - Fire
 ===
 
 Swellow @ None
-Level: 37
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 29
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Guts
 - Wing Attack
@@ -122,8 +219,8 @@ Ability: Guts
 - U-turn
 
 Tsareena @ None
-Level: 37
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 29
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Queenly Majesty
 - Trop Kick
@@ -132,8 +229,8 @@ Ability: Queenly Majesty
 - Synthesis
 
 Ponyta @ None
-Level: 37
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 29
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Reckless
 - Blaze Kick
@@ -142,8 +239,8 @@ Ability: Reckless
 - Double Kick
 
 Mimikyu @ None
-Level: 37
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 29
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Disguise
 - Shadow Claw
@@ -152,8 +249,8 @@ Ability: Disguise
 - Drain Punch
 
 Marshtomp @ Sitrus Berry
-Level: 39
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 31
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Torrent
 - Bulldoze
@@ -166,18 +263,18 @@ May (Route 110) - Water
 ===
 
 Swellow @ None
-Level: 37
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 29
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Guts
 - Wing Attack
 - Quick Attack
 - Roost
-- U-Turn
+- U-turn
 
 Starmie @ None
-Level: 37
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 29
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Natural Cure
 - Water Pulse
@@ -186,8 +283,8 @@ Ability: Natural Cure
 - Icy Wind
 
 Ponyta @ None
-Level: 37
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 29
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Reckless
 - Blaze Kick
@@ -196,8 +293,8 @@ Ability: Reckless
 - Double Kick
 
 Mimikyu @ None
-Level: 37
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 29
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Disguise
 - Shadow Claw
@@ -206,8 +303,8 @@ Ability: Disguise
 - Drain Punch
 
 Grovyle @ Sitrus Berry
-Level: 39
-0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 31
+EVs: 0 Hp / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hardy Nature
 Ability: Overgrow
 - Grass Pledge

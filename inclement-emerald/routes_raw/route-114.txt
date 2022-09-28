@@ -1,0 +1,55 @@
+===
+Trainers:
+===
+
+Fisherman Nolan
+-Wishiwashi lvl -3 // Double Edge, Aqua Tail, Beat Up, Aqua Ring
+-Seaking lvl -3 // Waterfall, Poison Jab, Aqua Ring, Agility
+
+Picnicker Charlotte (potential double with Fisherman Kai)
+-Tangrowth lvl -1 // Giga Drain, Ancient Power, Stun Spore, Knock Off
+
+Fisherman Kai (potential double with Picnicker Charlotte)
+-Whiscash lvl -1 // Aqua Tail, Earthquake, Tickle, Zen Headbutt
+
+Fisherman Claude
+-Gyarados lvl -3 // Aqua Tail, Crunch, Ice Fang, Leer
+-Dratini lvl -3 // Aqua Tail, Dragon Rush, Thunder Wave, Wrap
+-Qwilfish lvl -3 // Aqua Tail, Poison Jab, Revenge, Stockpile
+
+Picnicker Nancy (AVOID THIS FIGHT! MISTY TERRAIN CAUSES THE GAME TO FREEZE!)
+-Aromatisse lvl -3 // Moonblast, Charm, Attract, Misty Terrain
+-Torterra lvl -3 // Earthquake, Seed Bomb, Curse, Leech Seed
+
+Sr. and Jr. Tyra & Ivy
+-Eelektross lvl -1 // (A) Levitate // Discharge, Acid Spray, Crunch, Grass Knot
+-Donphan lvl -1 // (A) Sturdy // Earthquake, Assurance, Fire Fang, Scary Face
+
+Camper Shane
+-Zangoose lvl -3 // Crush Claw, X-Scissor, Revenge, Pursuit
+-Excavalier lvl -3 // Iron Head, X-Scissor, Swords Dance, Headbutt
+-Arbok lvl -3 // Poison Jab, Crunch, Glare, Ice Fang
+
+PokeManiac Steve
+-Rhyhorn lvl -3 // Drill Run, Rock Blast, Take Down, Scary Face
+-Druddigon lvl -3 (A) Sheer Force // Dragon Rush, Crunch, Revenge, Hone Claws
+
+Kindler Bernie
+-Larvesta lvl -3 // Flare Blitz, Bug Bite, Double-Edge, String Shot
+-Simipour lvl -3 // Scald, Crunch, Acrobatics, Work Up
+
+Hiker Lucas (potential double with Picnicker Angelina)
+-Minior lvl -3 // Power Gem, Cosmic Power, Autotomize, Confuse Ray
+-Ferrothorn lvl -3 // Power Whip, Iron Head, Curse, Ingrain
+
+Picnicker Angelina (potential double with Hiker Lucas)
+-Empoleon lvl -3 // Water Pulse, Flash Cannon, Swagger, Aqua Jet
+-Ribombee lvl -3 // Pollen Puff, Dazzling Gleam, Stun Spore, Aromatherapy
+
+Hiker Lenny
+-Steelix lvl -3 (A) Sturdy // Iron Tail, Dig, Smack Down, Crunch
+-Piloswine lvl -3 // Ice Fang, Ice Shard, Amnesia, Mud Bomb
+
+===
+Bosses:
+===

@@ -1,0 +1,59 @@
+===
+Trainers:
+===
+
+Team Aqua Grunt 1
+-Mightyena lvl -1 (A) Moxie // Crunch, Fire Fang, Ice Fang, Double Edge
+-Crobat lvl -1 (A) Inner Focus  // Acrobatics, Sludge Bomb, Crunch, Giga Drain
+-Sharpedo lvl -1 (A) Speed Boost // Waterfall, Crunch, Ice Fang, Earthquake
+
+Team Aqua Grunt 2
+-Huntail lvl -1 // Crunch, Aqua Tail, Ice Fang, Shell Smash
+-Muk lvl -1 // Gunk Shot, Fire Blast, Toxic, Minimize
+-Scrafty lvl -1 (A) Intimidate // Drain Punch, Crunch, Head Smash, Earthquake
+
+Team Aqua Grunt 3 (potential double with Team Aqua Grunt 4)
+-Wailord lvl -1 // Dive, Bounce, Double Edge, Aqua Ring
+-Skuntank lvl -1 // Poison Jab, Crunch, Toxic, Protect
+-Seaking lvl -1 (A) Lightning Rod // Waterfall, Megahorn, Throat Chop, Swords Dance
+
+Team Aqua Grunt 4 (potential double with Team Aqua Grunt 3)
+-Gorebyss lvl -1 // Hydro Pump, Psychic, Ice Beam, Shell Smash
+-Purugly lvl -1 // Fake Out, Body Slam, Play Rough, U-Turn
+-Toxapex lvl -1 // Liquidation, Toxic, Baneful Bunker, Recover
+
+Team Aqua Grunt
+-Mandibuzz lvl -1 // Knock Off, Brave Bird, Bone Rush, Roost
+-Gyarados lvl -1 // Bounce, Crunch, Earthquake, Fire Blast
+-Arbok lvl -1 // Poison Jab, Crunch, Coil, Seed Bomb
+
+
+===
+Bosses:
+===
+
+Shelly (Seafloor Cavern)
+Ninetales-Alola	Empoleon	Crawdaunt	Clefable	Ludicolo	Beedrill
+Lvl Scale	Lvl Scale	Lvl Scale +1	Lvl Scale	Lvl Scale	Lvl Scale +2
+31/0/31/31/31/31	31/0/31/31/31/31	31/31/31/31/31/31	31/0/31/31/31/31	31/0/31/31/31/31	31/31/31/31/31/31
+0/0/0/252/0/252	0/0/0/252/0/252	4/252/0/0/0/252	252/0/252/0/4/0	252/0/0/252/0/4	4/252/0/0/0/252
+Timid	Modest	Jolly	Bold	Modest	Jolly
+Light Clay	Petaya Berry	Life Orb	Leftovers	Safety Goggles	Beedrillite
+Snow Warning	Slush Rush	Adaptability	Magic Guard	Rain Dish	Adaptability
+Blizzard	Hydro Pump	Crabhammer	Mystical Fire	Scald	Megahorn
+Moonblast	Blizzard	Knock Off	Draining Kiss	Giga Drain	Poison Jab
+Energy Ball	Flash Cannon	Close Combat	Stored Power	Leech Seed	Drill Run
+Aurora Veil	Grass Knot	Dragon Dance	Calm Mind	Blizzard	Knock Off
+
+Archie (Seafloor Cavern)
+Kyogre	Goodra	Tentacruel	Poliwrath	Eelektross	Sharpedo
+Lvl Scale +1	Lvl Scale +1	Lvl Scale +1	Lvl Scale +1	Lvl Scale +1	Lvl Scale +2
+31/0/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/31	31/0/31/31/31/31	31/31/31/31/31/31
+252/0/0/252/0/4	252/0/4/0/252/0	4/252/0/0/0/252	4/252/0/0/0/252	0/0/0/252/0/252	4/252/0/0/0/252
+Modest	Careful	Jolly	Adamant	Modest	Jolly
+None	Leftovers	Black Sludge	Life Orb	Assault Vest	Sharpedonite
+Drizzle	Hydration	Rain Dish	Swift Swim	Swift Swim	Speed Boost
+Origin Pulse	Dragon Rush	Waterfall	Waterfall	Thunder	Liquidation
+Thunder	Aqua Tail	Poison Jab	Close Combat	Grass Knot	Crunch
+Ice Beam	Rest	Swords Dance	Ice Punch	Flash Cannon	Psychic Fangs
+Calm Mind	Curse	Protect	Hypnosis	Acid Spray	Close Combat

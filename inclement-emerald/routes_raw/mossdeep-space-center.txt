@@ -1,0 +1,80 @@
+===
+Trainers:
+===
+
+Team Magma Grunt 1
+-Salazzle lvl -1 // Sludge Bomb, Fire Blast, Fake Out, Dragon Pulse
+-Palossand lvl -1 // Earth Power, Shadow Ball, Psychic, Shore Up
+-Amoonguss lvl -1 // Spore, Ingrain, Sludge Bomb, Foul Play
+
+Team Magma Grunt 2
+-Mightyena lvl -1 // Crunch, Play Rough, Iron Tail, Howl
+-Camerupt lvl -1 // Earthquake, Lava Plume, Double Edge, Growth
+-Shiftry lvl -1 // Sunny Day, Solar Blade, Heat Wave, Knock Off
+
+Team Magma Grunt 3
+-Torkoal lvl -1 // Earth Power, Lava Plume, Shell Smash, Clear Smog
+-Claydol lvl -1 // Earth Power, Shadow Ball, Psychic, Ancient Power
+-Rhyperior lvl -1 // Earthquake, Rock Blast, Crunch, Ice Punch
+
+Team Magma Grunt 4
+-Flygon lvl -1 // U-Turn, Crunch, Earthquake, Dragon Claw
+-Crobat lvl -1 // Fly, Toxic, Roost, Super Fang
+-Drapion lvl -1 (A) Sniper // Cross Poison, Night Slash, Ice Fang, Focus Energy
+
+Team Magma Grunt 5
+-Pyroar lvl -1 // Hyper Beam, Fire Blast, Dark Pulse, Wild Charge
+-Pangoro lvl -1 // Close Combat, Crunch, Gunk Shot, Zen Headbutt
+-Nidoking lvl -1 (A) Sheer Force // Earth Power, Ice Punch, Sludge Wave, Fire Blast
+
+Team Magma Grunt 6
+-Hippowdon lvl -1 (A) Sandstream // Earthquake, Crunch, Yawn, Fire Fang
+-Sandslash lvl -1 (A) Sand Rush // Earthquake, Rock Slide, X-Scissor, Swords Dance
+
+Team Magma Grunt 7
+-Liepard lvl -1 (A) Prankster // Assist, Thunder Wave, U-Turn, Charm
+-Incineroar lvl -1 (A) Intimidate // Darkest Lariat, Flare Blitz, Drain Punch, Thunder Punch
+-Mamoswine lvl -1 // Icicle Crash, Earthquake, Ice Shard, Superpower
+
+===
+Bosses:
+===
+
+Tabitha (Mossdeep Space Center)
+Gigalith	Darmanitan	Steelix	Gliscor	Excadrill	Gastrodon
+Lvl Scale	Lvl Scale	Lvl Scale +2	Lvl Scale	Lvl Scale	Lvl Scale
+31/0/31/31/31/31	31/31/31/31/31/31	31/31/31/31/31/0	31/31/31/31/31/31	31/31/31/31/31/31	31/0/31/31/31/31
+252/0/0/252/0/4	4/252/0/0/0/252	252/252/0/0/0/4	252/0/252/0/4/0	4/252/0/0/0/252	252/0/252/0/4/0
+Modest	Jolly	Brave	Impish	Jolly	Bold
+Passho Berry	Choice Scarf	Steelixite	Toxic Orb	Focus Sash	Leftovers
+Sand Stream	Sheer Force	Sand Force	Poison Heal	Sand Rush	Storm Drain
+Weather Ball	Flare Blitz	Gyro Ball	Earthquake	Earthquake	Earth Power
+Earth Power	Zen Headbutt	Earthquake	Substitute	Iron Head	Scald
+Stealth Rock	Rock Slide	Stone Edge	Toxic	Rock Slide	Toxic
+Thunderbolt	Earthquake	Shore Up	Protect	Swords Dance	Recover
+
+Maxie (Mossdeep Space Center)		
+Victreebel	Crobat	Camerupt
+Lvl Scale +1	Lvl Scale +1	Lvl Scale +2
+31/31/31/31/31/31	31/31/31/31/31/31	31/0/31/31/31/31
+0/252/0/4/0/252	4/252/0/0/0/252	252/0/0/252/0/4
+Naive	Jolly	Modest
+Life Orb	Flying Gem	Cameruptite
+Chlorophyll	Infiltrator	Sheer Force
+Solar Blade	Brave Bird	Earth Power
+Poison Jab	Cross Poison	Heat Wave
+Weather Ball	Hypnosis	Solar Beam
+Sleep Powder	Super Fang	Flash Cannon
+
+Courtney (Mossdeep Space Center)		
+Ninetales	Krookodile	Houndoom
+Lvl Scale	Lvl Scale	Lvl Scale +1
+31/0/31/31/31/31	31/31/31/31/31/31	31/0/31/31/31/31
+0/0/0/252/0/252	252/252/0/0/0/4	0/0/0/252/0/252
+Timid	Adamant	Timid
+Fire Gem	Assault Vest	Houndoomite
+Drought	Intimidate	Solar Power
+Heat Wave	Knock Off	Dark Pulse
+Moonblast	High Horsepower	Heat Wave
+Solar Beam	Stone Edge	Solar Beam
+Will-O-Wisp	Iron Tail	Sludge Bomb

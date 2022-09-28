@@ -1,4 +1,3 @@
-FORTREE-GYM
 
 ===
 Bird Keeper Humberto
@@ -6,7 +5,8 @@ Bird Keeper Humberto
 
 Gliscor @ Flying Gem
 Level: 70
-Jolly Nature- Acrobatics
+Nature: Jolly
+- Acrobatics
 - Earthquake
 - Poison Jab
 - Swords Dance
@@ -14,7 +14,8 @@ Jolly Nature- Acrobatics
 Mandibuzz @ Leftovers
 Level: 70
 Ability: Overcoat
-Impish Nature- Foul Play
+Nature: Impish
+- Foul Play
 - Swagger
 - Roost
 - Substitute
@@ -22,27 +23,29 @@ Impish Nature- Foul Play
 Hawlucha @ Sitrus Berry
 Level: 70
 Ability: Unburden
-Jolly Nature- Brave Bird
+Nature: Jolly
+- Brave Bird
 - Close Combat
 - Stone Edge
 - Swords Dance
 
 Minior @ White Herb
 Level: 70
-Jolly Nature- Acrobatics
+Nature: Jolly
+- Acrobatics
 - Rock Slide
 - Zen Headbutt
 - Shell Smash
 
-
 ===
-Bird Keeper Jared (double w/ Ashley)
+Bird Keeper Jared (potential double with Picnicker Ashley)
 ===
 
 Swoobat @ Salac Berry
 Level: 70
 Ability: Simple
-Timid Nature- Air Slash
+Nature: Timid
+- Air Slash
 - Psyshock
 - Energy Ball
 - Nasty Plot
@@ -50,7 +53,8 @@ Timid Nature- Air Slash
 Noctowl @ Leftovers
 Level: 70
 Ability: Tinted Lens
-Modest Nature- Hurricane
+Nature: Modest
+- Hurricane
 - Heat Wave
 - Roost
 - Nasty Plot
@@ -58,28 +62,30 @@ Modest Nature- Hurricane
 Noivern @ White Herb
 Level: 70
 Ability: Infiltrator
-Timid Nature- Draco Meteor
+Nature: Timid
+- Draco Meteor
 - Hurricane
 - Flamethrower
 - Water Pulse
 
-
 ===
-Picknicker Ashley (double w/ Jared)
+Picnicker Ashley (potential double with Bird Keeper Jared)
 ===
 
 Braviary @ Sitrus Berry
 Level: 70
 Ability: Defiant
-Jolly Nature- Brave Bird
-- Double-Edge
+Nature: Jolly
+- Brave Bird
+- Double Edge
 - Close Combat
 - Assurance
 
 Pidgeot @ Normal Gem
 Level: 70
 Ability: No Guard
-Timid Nature- Hyper Beam
+Nature: Timid
+- Hyper Beam
 - Hurricane
 - Focus Blast
 - Heat Wave
@@ -87,20 +93,21 @@ Timid Nature- Hyper Beam
 Swanna @ Life Orb
 Level: 70
 Ability: Hydration
-Jolly Nature- Brave Bird
+Nature: Jolly
+- Brave Bird
 - Liquidation
 - Steel Wing
 - Aqua Jet
 
-
 ===
-Camper Flint (forced double w/ Edwardo)
+Camper Flint (forced double with Bird Keeper Edwardo)
 ===
 
 Swellow @ Flame Orb
 Level: 70
 Ability: Guts
-Adamant Nature- Brave Bird
+Nature: Adamant
+- Brave Bird
 - Double-Edge
 - Protect
 - U-turn
@@ -108,7 +115,8 @@ Adamant Nature- Brave Bird
 Yanmega @ Life Orb
 Level: 70
 Ability: Speed Boost
-Modest Nature- Bug Buzz
+Nature: Modest
+- Bug Buzz
 - Hurricane
 - Psychic
 - Detect
@@ -116,28 +124,30 @@ Modest Nature- Bug Buzz
 Mantine @ Sitrus Berry
 Level: 70
 Ability: Water Absorb
-Timid Nature- Scald
+Nature: Timid
+- Scald
 - Air Slash
 - Ice Beam
 - Roost
 
-
 ===
-Bird Keeper Edwardo (forced double w/ Flint)
+Bird Keeper Edwardo (forced double with Camper Flint)
 ===
 
 Staraptor @ Sitrus Berry
 Level: 70
 Ability: Intimidate
-Adamant Nature- Brave Bird
-- Double-Edge
+Nature: Adamant
+- Brave Bird
+- Double Edge
 - Close Combat
-- U-turn
+- U-Turn
 
 Honchkrow @ Dark Gem
 Level: 70
 Ability: Moxie
-Naive Nature- Brave Bird
+Nature: Naive
+- Brave Bird
 - Sucker Punch
 - Icy Wind
 - Heat Wave
@@ -145,11 +155,11 @@ Naive Nature- Brave Bird
 Drifblim @ Flame Orb
 Level: 70
 Ability: Flare Boost
-Timid Nature- Shadow Ball
+Nature: Timid
+- Shadow Ball
 - Thunderbolt
 - Protect
-- Hypnosis
-
+- Hypnosis 
 
 ===
 Bird Keeper Darius
@@ -158,7 +168,8 @@ Bird Keeper Darius
 Tropius @ Sitrus Berry
 Level: 70
 Ability: Harvest
-Bold Nature- Sunny Day
+Nature: Bold
+- Sunny Day
 - Air Slash
 - Leech Seed
 - Substitute
@@ -166,35 +177,39 @@ Bold Nature- Sunny Day
 Dodrio @ Normal Gem
 Level: 70
 Ability: Moxie
-Jolly Nature- Brave Bird
-- Double-Edge
+Nature: Jolly
+- Brave Bird
+- Double Edge
 - Jump Kick
 - Quick Attack
 
 Emolga @ Flying Gem
 Level: 70
 Ability: Static
-Jolly Nature- Acrobatics
+Nature: Jolly
+- Acrobatics
 - Wild Charge
-- U-turn
+- U-Turn
 - Thunder Wave
 
 Archeops @ Flying Gem
 Level: 70
 Ability: Defeatist
-Jolly Nature- Acrobatics
+Nature: Jolly
+- Acrobatics
 - Stone Edge
 - Dragon Claw
 - Crunch
 
-
 ===
-Leader Winona (Double)
+Winona (Double)
+===
+
 Gyarados @ Wacan Berry
 Level: 71
-EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
-Ability: Intimidate
+EVs: 252 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
 Adamant Nature
+Ability: Intimidate
 - Waterfall
 - Earthquake
 - Stone Edge
@@ -202,9 +217,9 @@ Adamant Nature
 
 Hawlucha @ Flying Gem
 Level: 71
-EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
-Ability: Unburden
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Jolly Nature
+Ability: Unburden
 - Close Combat
 - Brave Bird
 - Rock Slide
@@ -212,9 +227,9 @@ Jolly Nature
 
 Dragonite @ Yache Berry
 Level: 71
-EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
-Ability: Multiscale
+EVs: 252 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 4 Spe
 Adamant Nature
+Ability: Multiscale
 - Wing Attack
 - Earthquake
 - Fire Punch
@@ -222,9 +237,9 @@ Adamant Nature
 
 Aerodactyl @ Life Orb
 Level: 71
-EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
-Ability: Rock Head
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Jolly Nature
+Ability: Rock Head
 - Rock Slide
 - Brave Bird
 - Earthquake
@@ -232,22 +247,20 @@ Jolly Nature
 
 Emolga @ Focus Sash
 Level: 71
-EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
-Ability: Lightning Rod
+EVs: 252 Hp / 0 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
 Timid Nature
+Ability: Lightning Rod
 - Hurricane
 - Electroweb
 - Tickle
 - Helping Hand
 
-Altaria-Mega @ Altarianite
+Altaria @ Altarianite
 Level: 73
-EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
-Ability: Pixilate
+EVs: 4 Hp / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Jolly Nature
+Ability: Pixilate
 - Return
 - Earthquake
 - Roost
 - Dragon Dance
-
-

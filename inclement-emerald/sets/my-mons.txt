@@ -5,7 +5,7 @@ EVs: 0 HP / 252 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
 Ability: Snow Cloak
 Impish Nature
 - Spiky Shield
-- Strength
+- Icicle Spear
 - Iron Head
 - Ice Shard
 
@@ -63,17 +63,6 @@ Sassy Nature
 - Coil
 - Surf
 - Moonblast
-
-Illumise @ 
-Level: 70
-IVs: 28 HP / 23 Atk / 1 Def / 31 SpA / 31 SpD / 31 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Tinted Lens
-Calm Nature
-- Encore
-- Thunderbolt
-- Moonblast
-- Bug Buzz
 
 Lumineon @ 
 Level: 70
@@ -133,7 +122,7 @@ Relaxed Nature
 Greninja @ 
 Level: 70
 IVs: 18 HP / 0 Atk / 25 Def / 31 SpA / 31 SpD / 31 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+EVs: 0 HP / 0 Atk / 0 Def / 252 SpA / 0 SpD / 252 Spe
 Ability: Infiltrator
 Modest Nature
 - Water Shuriken
@@ -180,7 +169,7 @@ IVs: 6 HP / 31 Atk / 31 Def / 7 SpA / 31 SpD / 28 Spe
 EVs: 0 HP / 0 Atk / 252 Def / 0 SpA / 252 SpD / 0 Spe
 Ability: Sand Storm
 Jolly Nature
-- Stone Edge
+- Strength
 - Crunch
 - Earthquake
 - Iron Defense
@@ -199,12 +188,12 @@ Naive Nature
 Stoutland @ 
 Level: 70
 IVs: 31 HP / 17 Atk / 23 Def / 31 SpA / 28 SpD / 31 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 Ability: Intimidate
-Quirky Nature
+Adamant Nature
 - Play Rough
 - Giga Impact
-- Baby-Doll eyes
+- Baby-Doll Eyes
 - Crunch
 
 Lopunny @ 
@@ -220,7 +209,7 @@ Gentle Nature
 
 Haxorus @ 
 Level: 70
-IVs: 31 HP / 31 Atk / 15` Def / 1 SpA / 19 SpD / 31 Spe
+IVs: 31 HP / 31 Atk / 15 Def / 1 SpA / 19 SpD / 31 Spe
 EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Ability: Rivalry
 Jolly Nature
@@ -375,18 +364,18 @@ Bold Nature
 Heracross @ 
 Level: 70
 IVs: 31 HP / 20 Atk / 31 Def / 31 SpA / 18 SpD / 3 Spe
-EVs: 0 HP / 0 Atk / 252 Def / 0 SpA / 252 SpD / 0 Spe
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
 Ability: Swarm
 Careful Nature
 - Wing Attack
 - Megahorn
 - Close Combat
-- Reversal
+- Bullet Seed
 
 Grumpig @ 
 Level: 70
 IVs: 31 HP / 31 Atk / 31 Def / 15 SpA / 16 SpD / 13 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
 Ability: Thick Fat
 Mild Nature
 - Rest
@@ -474,9 +463,9 @@ Docile Nature
 Salamence @ 
 Level: 70
 IVs: 31 HP / 31 Atk / 13 Def / 25 SpA / 31 SpD / 14 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
 Ability: Intimidate
-Calm Nature
+Careful Nature
 - Fly
 - Crunch
 - Protect
@@ -496,9 +485,9 @@ Careful Nature
 Ferrothorn @ 
 Level: 70
 IVs: 2 HP / 10 Atk / 31 Def / 5 SpA / 31 SpD / 31 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
 Ability: Iron Barbs
-Serious Nature
+Careful Nature
 - Power Whip
 - Curse
 - Leech Seed
@@ -507,9 +496,9 @@ Serious Nature
 Seismitoad @ 
 Level: 70
 IVs: 31 HP / 31 Atk / 12 Def / 3 SpA / 6 SpD / 31 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-Ability: Poison TOuch
-Gentle Nature
+EVs: 0 HP / 252 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
+Ability: Poison Touch
+Adamant Nature
 - Hyper Voice
 - Drain Punch
 - Rain Dance
@@ -518,9 +507,9 @@ Gentle Nature
 Muk-Alola @ 
 Level: 70
 IVs: 31 HP / 25 Atk / 31 Def / 31 SpA / 25 SpD / 3 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+EVs: 252 HP / 0 Atk / 0 Def / 0 SpA / 252 SpD / 0 Spe
 Ability: Poison Touch
-Naive Nature
+Adamant Nature
 - Gunk Shot
 - Acid Armor
 - Knock Off
@@ -529,9 +518,9 @@ Naive Nature
 Golem-Alola @ 
 Level: 70
 IVs: 31 HP / 31 Atk / 1 Def / 11 SpA / 10 SpD / 31 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+EVs: 0 HP / 252 Atk / 252 Def / 0 SpA / 0 SpD / 0 Spe
 Ability: Sturdy
-Hasty Nature
+Adamant Nature
 - Thunder Punch
 - Rock Blast
 - Stealth Rock
@@ -573,7 +562,7 @@ Docile Nature
 Pelipper @ 
 Level: 70
 IVs: 31 HP / 31 Atk / 19 Def / 29 SpA / 31 SpD / 17 Spe
-EVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+EVs: 0 HP / 0 Atk / 252 Def / 252 SpA / 0 SpD / 0 Spe
 Ability: Drizzle
 Jolly Nature
 - Roost

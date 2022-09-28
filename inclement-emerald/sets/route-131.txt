@@ -1,0 +1,90 @@
+
+===
+Cooltrainer Herman (potential double with Cooltrainer Susie)
+===
+
+Heracross @ Heracronite
+Level: 92
+Nature: Adamant
+- Pin Missile
+- Bullet Seed
+- Rock Blast
+- Close Combat
+
+Florges @ Leftovers
+Level: 91
+Ability: Misty Surge
+Nature: Modest
+- Draining Kiss
+- Giga Drain
+- Leech Seed
+- Calm Mind
+
+Lycanroc @ Rock Gem
+Level: 91
+Nature: Jolly
+- Stone Edge
+- Earthquake
+- Close Combat
+- Accelerock
+
+Bronzong @ Occa Berry
+Level: 91
+Nature: Brave
+- Gyro Ball
+- Payback
+- Curse
+- Zen Headbutt
+
+Gourgeist @ Flame Orb
+Level: 91
+Nature: Modest
+- Shadow Ball
+- Giga Drain
+- Flamethrower
+- Psychic
+
+===
+Cooltrainer Susie (potential double with Cooltrainer Herman)
+===
+
+Pidgeot @ Pidgeotite
+Level: 92
+Nature: Timid
+- Hurricane
+- Heat Wave
+- Focus Blast
+- U-turn
+
+Probopass @ Life Orb
+Level: 91
+Nature: Modest
+- Power Gem
+- Flash Cannon
+- Thunder
+- Earth Power
+
+Sceptile @ White Herb
+Level: 91
+Ability: Chloroplast
+Nature: Timid
+- Solar Beam
+- Draco Meteor
+- Focus Blast
+- Synthesis
+
+Volcarona @ Leftovers
+Level: 91
+Nature: Bold
+- Fiery Dance
+- Giga Drain
+- Quiver Dance
+- Roost
+
+Froslass @ Expert Belt
+Level: 91
+Nature: Timid
+- Shadow Ball
+- Ice Beam
+- Thunder
+- Will-O-Wisp
